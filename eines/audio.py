@@ -238,18 +238,31 @@ def main():
             pistes.append({"language": idioma, "voice": veu["id"], "name": veu["name"], "gender": veu["gender"],
                            "file": fitxer, "durationSeconds": durada, "chapters": capitols})
     # El podcast (en anglès, amb Gemini): si falla o no hi ha clau, l'àudio llegit surt igual.
+    # El motiu queda a latest.json («podcastError»), sense la clau, per poder-lo llegir des de GitHub.
+    avis_podcast = None
     try:
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
         import podcast
-        pistes += podcast.grava_tots(sortida, data)
+        noves = podcast.grava_tots(sortida, data)
+        pistes += noves
+        if not noves:
+            avis_podcast = "No s'ha gravat cap podcast (falta el guió del dia o no hi ha parelles actives)."
     except SystemExit as error:
-        print("Podcast: no s'ha fet.", error, flush=True)
+        avis_podcast = str(error)
     except Exception as error:  # noqa: BLE001 — qualsevol error del podcast no ha d'aturar l'àudio
-        print("Podcast: no s'ha fet.", repr(error)[:300], flush=True)
+        avis_podcast = repr(error)
+    if avis_podcast:
+        secret = os.environ.get("GEMINI_API_KEY", "").strip()
+        if secret:
+            avis_podcast = avis_podcast.replace(secret, "•••")
+        avis_podcast = avis_podcast[:400]
+        print("Podcast: no s'ha fet.", avis_podcast, flush=True)
     if not pistes:
         raise SystemExit("No s'ha pogut gravar cap pista: la branca «audio» es queda com estava.")
     manifest = {"schemaVersion": 1, "date": data,
                 "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "tracks": pistes}
+    if avis_podcast:
+        manifest["podcastError"] = avis_podcast
     json.dump(manifest, open(os.path.join(sortida, "latest.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     open(os.path.join(sortida, "README.md"), "w", encoding="utf-8").write(
         "# Àudio del Radar\n\nNomés l'última edició (la branca es reescriu cada dia). La genera `eines/audio.py` de la branca `main`.\n")
