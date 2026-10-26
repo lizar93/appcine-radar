@@ -1,603 +1,605 @@
 {
- "schemaVersion": 1,
- "date": "2026-10-26",
- "territory": "ES",
- "generatedAt": "2026-10-26T15:05:00Z",
- "reports": [
-  {
-   "id": "2026-10-26-klara-sol-taquilla",
-   "section": "news",
-   "subject": "film",
-   "headline": "«Klara i el sol», de Taika Waititi, s'estavella a la taquilla nord-americana quatre dies abans d'arribar als cinemes espanyols",
-   "deck": "L'adaptació de Kazuo Ishiguro amb Jenna Ortega i Amy Adams va recaptar uns 725.000 dòlars en 880 sales dels EUA i el Canadà. Divendres 30 d'octubre s'estrena a Espanya amb Sony.",
-   "paragraphs": [
-    "El cap de setmana del 23 al 25 d'octubre ha deixat una de les estrenes més febles de la tardor als Estats Units: «Klara and the Sun» («Klara y el sol»), dirigida per Taika Waititi a partir de la novel·la de Kazuo Ishiguro, es va quedar en uns 725.000 dòlars en 880 cinemes, segons les estimacions dels estudis recollides per One Mann's Movies. Va acabar al fons de la taula, al costat de «A Talent for Murder», amb Helen Mirren.",
-    "La crítica tampoc no l'ha acompanyada. Olly Richards, a Time Out, considera que el to ampli de Waititi aplana les subtileses del llibre i que la barreja d'acudits infantils i drama prim no s'acaba de sostenir. Hi ha veus a favor —el mateix redactor de One Mann's Movies diu que li va encantar—, però el consens que es dibuixa és tebi.",
-    "A dalt de tot hi ha «Clayface», de DC Studios, amb 24 milions a l'Amèrica del Nord i 19 a la resta del món: un resultat que Variety, citat per Numlock, qualifica de fluix respecte de les expectatives. El documental «You Can See Everything», de Nathan Fielder i Lance Oppenheim sobre Elizabeth Holmes, va créixer en el segon cap de setmana fins als 19,5 milions, i «Wildwood», el nou stop-motion de Laika, va obrir amb uns 11 milions.",
-    "Per al lector: «Klara i el sol» arriba a les sales espanyoles divendres 30 d'octubre (distribució de Sony Pictures, segons Cinemagavia), amb Jenna Ortega, Amy Adams i Steve Buscemi. La premissa —una amiga artificial que observa una família marcada per una pèrdua— té el gruix emocional que fa interessant Ishiguro, però les ressenyes fan pensar en una adaptació desigual. Afinitat editorial 2/5, confiança mitjana (no és la nota de la crítica ni del públic: és l'encaix amb el perfil del Radar)."
-   ],
-   "publishedAt": "2026-10-26T09:00:00Z",
-   "eventDate": "2026-10-30",
-   "territory": "US",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "territory": "ES",
+  "generatedAt": "2026-10-26T15:05:00Z",
+  "reports": [
     {
-     "name": "One Mann's Movies – Movie News, 26/10/2026",
-     "url": "https://onemannsmovies.com/movie-news/movie-news-26th-october-2026/",
-     "kind": "other"
+      "id": "2026-10-26-klara-sol-taquilla",
+      "section": "news",
+      "subject": "film",
+      "headline": "«Klara i el sol», de Taika Waititi, s'estavella a la taquilla nord-americana quatre dies abans d'arribar als cinemes espanyols",
+      "deck": "L'adaptació de Kazuo Ishiguro amb Jenna Ortega i Amy Adams va recaptar uns 725.000 dòlars en 880 sales dels EUA i el Canadà. Divendres 30 d'octubre s'estrena a Espanya amb Sony.",
+      "paragraphs": [
+        "El cap de setmana del 23 al 25 d'octubre ha deixat una de les estrenes més febles de la tardor als Estats Units: «Klara and the Sun» («Klara y el sol»), dirigida per Taika Waititi a partir de la novel·la de Kazuo Ishiguro, es va quedar en uns 725.000 dòlars en 880 cinemes, segons les estimacions dels estudis recollides per One Mann's Movies. Va acabar al fons de la taula, al costat de «A Talent for Murder», amb Helen Mirren.",
+        "La crítica tampoc no l'ha acompanyada. Olly Richards, a Time Out, considera que el to ampli de Waititi aplana les subtileses del llibre i que la barreja d'acudits infantils i drama prim no s'acaba de sostenir. Hi ha veus a favor —el mateix redactor de One Mann's Movies diu que li va encantar—, però el consens que es dibuixa és tebi.",
+        "A dalt de tot hi ha «Clayface», de DC Studios, amb 24 milions a l'Amèrica del Nord i 19 a la resta del món: un resultat que Variety, citat per Numlock, qualifica de fluix respecte de les expectatives. El documental «You Can See Everything», de Nathan Fielder i Lance Oppenheim sobre Elizabeth Holmes, va créixer en el segon cap de setmana fins als 19,5 milions, i «Wildwood», el nou stop-motion de Laika, va obrir amb uns 11 milions.",
+        "Per al lector: «Klara i el sol» arriba a les sales espanyoles divendres 30 d'octubre (distribució de Sony Pictures, segons Cinemagavia), amb Jenna Ortega, Amy Adams i Steve Buscemi. La premissa —una amiga artificial que observa una família marcada per una pèrdua— té el gruix emocional que fa interessant Ishiguro, però les ressenyes fan pensar en una adaptació desigual. Afinitat editorial 2/5, confiança mitjana (no és la nota de la crítica ni del públic: és l'encaix amb el perfil del Radar)."
+      ],
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "eventDate": "2026-10-30",
+      "territory": "US",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "One Mann's Movies – Movie News, 26/10/2026",
+          "url": "https://onemannsmovies.com/movie-news/movie-news-26th-october-2026/",
+          "kind": "other"
+        },
+        {
+          "name": "Numlock News (resum de Variety), 26/10/2026",
+          "url": "https://www.numlock.com/p/numlock-news-october-26-2026-hemoglobin",
+          "kind": "other"
+        },
+        {
+          "name": "Time Out – Klara and the Sun review",
+          "url": "https://www.timeout.com/movies/klara-and-the-sun-review-2026",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        }
+      ]
     },
     {
-     "name": "Numlock News (resum de Variety), 26/10/2026",
-     "url": "https://www.numlock.com/p/numlock-news-october-26-2026-hemoglobin",
-     "kind": "other"
-    },
-    {
-     "name": "Time Out – Klara and the Sun review",
-     "url": "https://www.timeout.com/movies/klara-and-the-sun-review-2026",
-     "kind": "tradePress"
-    },
-    {
-     "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
-     "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
-     "kind": "other"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-estrenes-30-octubre",
-   "section": "cinema",
-   "subject": "film",
-   "headline": "Divendres de Tots Sants amb terror: Na Hong-jin, «Leviticus» i «Wicker» encapçalen les estrenes del 30 d'octubre a Espanya",
-   "deck": "Dotze títols arriben a les sales espanyoles el 30 d'octubre. Destaquen el retorn de Na Hong-jin amb «Hope», el terror australià premiat a Sitges i una faula britànica amb Olivia Colman.",
-   "paragraphs": [
-    "«Hope» (Corea del Sud), de Na Hong-jin. Un grup de policies busca una criatura misteriosa en un poble remot i els caçadors acaben convertits en presa. Amb Hwang Jung-min, Zo In-sung i Hoyeon, i aparicions d'Alicia Vikander i Michael Fassbender; dura 160 minuts i va passar per la Selecció Oficial de Cannes 2026, on va causar sensació segons AVPasión. Cinemagavia n'atribueix la distribució espanyola a MUBI. Gènere i autoria encaixen de ple amb el perfil: afinitat 4/5, confiança mitjana (no l'hem vista; ho basem en la trajectòria del director i la recepció de Cannes).",
-    "«Leviticus» (Austràlia), d'Adrian Chiarella. Dos adolescents d'una comunitat religiosa aïllada viuen un amor prohibit mentre una presència sobrenatural, lligada a una pràctica de «teràpia de conversió», els encalça. L'AP li va donar 3,5 sobre 4 i el va qualificar de debut prometedor; dura 88 minuts. Fa poc va guanyar el premi Citizen Kane a la millor direcció novella a Sitges. Distribueix YouPlanet Pictures. Afinitat 4/5, confiança mitjana.",
-    "«Wicker» (Regne Unit), d'Alex Huston Fischer i Eleanor Wilson. Una pescadora marginada encarrega a un artesà un marit de vímet. Comèdia fantàstica amb Olivia Colman, Alexander Skarsgård, Peter Dinklage i Richard E. Grant, adaptada lliurement d'un relat d'Ursula Wills-Jones i estrenada a Sundance. TheWrap la va trobar ben intencionada però encarcarada; altres crítiques de Sundance van ser més càlides. Distribueix Vértice Cine. Afinitat 3/5, confiança baixa.",
-    "«Tiempos de ilusión» («Juste une illusion», França), d'Olivier Nakache i Eric Toledano. Un noi de gairebé 13 anys als afores de París, el 1985, entre el primer amor i una família en tensió; amb Louis Garrel i Camille Cottin. Diego Batlle (Otros Cines) hi veu cinema popular, càlid i eficaç, amb algun excés sentimental. Dura 116 minuts. A Contracorriente Films. Comèdia de relacions d'època: afinitat 3/5, confiança mitjana.",
-    "Cinema espanyol: «Karateka», d'Aritz Moreno, sobre la karateka Sandra Sánchez i el seu entrenador (Warner); «Esta soledad», de Javier Giner, drama de parella amb Omar Ayuso (Filmax), i el documental de ficció «El mundo es ansí», de Miguel Ángel Calvo Buttini, sobre un estudiant fascinat per Pío Baroja (Barton Films). També s'estrenen «Klara y el sol» i «Aniquilación», d'Adam Wingard (Diamond Films).",
-    "Totes aquestes dates corresponen a l'estrena comercial a Espanya segons la cartellera de Cinemagavia (publicada el 25 d'octubre). El nombre de sales i les versions en català o en VOSE no consten a la font: convé comprovar-ho a cada cinema."
-   ],
-   "publishedAt": "2026-10-25T10:00:00Z",
-   "eventDate": "2026-10-30",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
-     "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
-     "kind": "other"
-    },
-    {
-     "name": "AVPasión – Hope",
-     "url": "https://www.avpasion.com/hope-salvaje-filme-ciencia-ficcion-estreno/",
-     "kind": "other"
-    },
-    {
-     "name": "AP / WTOP – Leviticus review",
-     "url": "https://wtop.com/entertainment/2026/06/movie-review-leviticus-makes-a-demon-out-of-desire-in-an-auspicious-debut-for-adrian-chiarella/",
-     "kind": "tradePress"
-    },
-    {
-     "name": "TheWrap – Wicker review",
-     "url": "https://www.thewrap.com/creative-content/movies/wicker-review-olivia-colman-alexander-skarsgard/",
-     "kind": "tradePress"
-    },
-    {
-     "name": "Otros Cines – Tiempos de ilusión",
-     "url": "https://www.otroscines.com/post/critica-de-tiempos-de-ilusion-juste-une-illusion-pelicula-de-olivier-nakache-y-eric-toledano",
-     "kind": "tradePress"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-possible-love-filmin",
-   "section": "services",
-   "subject": "film",
-   "headline": "Lee Chang-dong torna vuit anys després de «Burning»: «Possible Love» arriba a Netflix el 6 de novembre",
-   "deck": "El drama de dues parelles, estrenat a la competició de Venècia, es podrà veure a tot el món a Netflix. Filmin, per la seva banda, obre novembre amb Pietro Marcello i Hlynur Pálmason.",
-   "paragraphs": [
-    "Netflix confirma que «Possible Love», la primera pel·lícula de Lee Chang-dong en vuit anys, s'estrena a la plataforma a tot el món el 6 de novembre, després d'un pas per sales a Corea, Austràlia, els EUA, el Regne Unit i el Japó. No consta cap estrena a cinemes a Espanya. El repartiment l'encapçalen Jeon Do-yeon, Sul Kyung-gu, Zo In-sung i Cho Yeo-jeong.",
-    "Sense espòilers: una treballadora d'una fàbrica de paper i el seu marit, marcat per una vaga fallida, entren en l'òrbita d'una documentalista i el seu marit benestant quan ella decideix filmar-los. Rory O'Connor, a The Film Stage, la descriu des de Venècia com el triomf que esperaven els seguidors del director, amb un guió novel·lístic; li retreu que l'abast polític a vegades pesa sobre el drama.",
-    "Per què encaixa: cinema d'autor asiàtic, drama de relacions humanes amb tensió de thriller i una mirada social. Afinitat editorial 5/5, confiança mitjana (basada en crítiques i en la filmografia de Lee, no en un visionat propi).",
-    "Filmin (dates a Espanya segons EscribiendoCine): «Eleonora Duse, la divina», de Pietro Marcello, amb Valeria Bruni Tedeschi (6 de novembre); «Barrio triste», debut de Stillz produït per Harmony Korine (6 de novembre); el documental «Broken English», d'Iain Forsyth i Jane Pollard, sobre Marianne Faithfull (6 de novembre); «Mala bèstia», primer llargmetratge de Bàrbara Farré (20 de novembre); «Love Letters», d'Alice Douard, de la Setmana de la Crítica de Cannes (26 de novembre), i el nou film de Hlynur Pálmason ambientat a Islàndia (27 de novembre). El biopic de Marcello sobre la gran actriu de teatre italiana és el que més s'acosta al perfil: afinitat 4/5, confiança baixa."
-   ],
-   "publishedAt": "2026-10-22T12:00:00Z",
-   "eventDate": "2026-11-06",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "primarySource",
-   "sources": [
-    {
-     "name": "Netflix – Possible Love premieres November 6",
-     "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-     "kind": "official"
-    },
-    {
-     "name": "The Film Stage – Possible Love (Venice review)",
-     "url": "https://thefilmstage.com/venice-review-possible-love-marks-a-triumphant-return-for-lee-chang-dong/",
-     "kind": "tradePress"
-    },
-    {
-     "name": "Artículo 14 – Estrenos de Netflix en noviembre 2026",
-     "url": "https://www.articulo14.es/cultura/estrenos-de-netflix-en-noviembre-2026-las-10-series-y-peliculas-imprescindibles-del-mes-20261026.html",
-     "kind": "other"
-    },
-    {
-     "name": "EscribiendoCine – Estrenos de Filmin en noviembre de 2026",
-     "url": "https://www.escribiendocine.com/noticias/2026/10/20/26111-estrenos-de-filmin-en-noviembre-de-2026-las-series-que-llegan-y-sus-fechas",
-     "kind": "other"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-series-novembre",
-   "section": "services",
-   "subject": "series",
-   "headline": "Sèries de novembre: «Infamia» a HBO Max, el crim de Pazos a Netflix i el final de «La emperatriz»",
-   "deck": "Un novembre carregat de thriller i d'època a les plataformes espanyoles, amb una producció gallega-basca, una minisèrie de crim real i dues sèries europees d'època a Filmin.",
-   "paragraphs": [
-    "«Infamia» (HBO Max, 13 de novembre). Basada en la novel·la de Ledicia Costas i coproduïda amb EITB, té sis episodis i un repartiment encapçalat per Susana Abaitua, Jorge Bosch i Eva Llorach, segons Público. És l'aposta espanyola de thriller del mes.",
-    "«El crimen de Pazos» (Netflix, 13 de novembre). Minisèrie de tres episodis creada per Ramón Campos (Bambú) i dirigida per Carlos Sedes, a partir d'un crim real a Galícia, amb Tristán Ulloa i Carlos Blanco. Netflix hi suma el documental «Desprotexida: El crimen de Pazos» el 6 de novembre.",
-    "Època: la tercera i última temporada de «La emperatriz» (Netflix, 12 de novembre), amb Devrim Lingnau com a Elisabet d'Àustria; a Filmin, «Los nuevos casos de Bookish» (3 de novembre), un detectiu llibreter al Londres de 1946, i la tercera temporada de la danesa «Carmen Curlers» (24 de novembre), ambientada als anys seixanta. Filmin també recupera la política francesa de «Baron Noir» (17 de novembre).",
-    "Altres dates confirmades per Público i Artículo 14: segona temporada de «Palomas negras» («Black Doves», Netflix, 5 de novembre), amb Keira Knightley i Ben Whishaw; «El cuerpo», terror psicològic de Quinn Shephard (Netflix, 11 de novembre); la tercera temporada de «Los anillos de poder» (Prime Video, 11 de novembre); «Los altruistas», sobre el col·lapse de FTX (Netflix, 19 de novembre), i «Blade Runner 2099», amb Michelle Yeoh (Prime Video, 25 de novembre).",
-    "Afinitat editorial: «Los nuevos casos de Bookish» 4/5 (època i enigma britànic; confiança baixa), «Infamia» 3/5 (confiança baixa), «El cuerpo» 3/5 per al lector de terror (confiança baixa). Cap d'aquestes sèries no s'ha pogut veure encara."
-   ],
-   "publishedAt": "2026-10-22T19:30:00Z",
-   "eventDate": "2026-11-13",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "Público – Estrenos de noviembre 2026 en plataformas",
-     "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-     "kind": "other"
-    },
-    {
-     "name": "Artículo 14 – Estrenos de Netflix en noviembre 2026",
-     "url": "https://www.articulo14.es/cultura/estrenos-de-netflix-en-noviembre-2026-las-10-series-y-peliculas-imprescindibles-del-mes-20261026.html",
-     "kind": "other"
-    },
-    {
-     "name": "EscribiendoCine – Estrenos de Filmin en noviembre de 2026",
-     "url": "https://www.escribiendocine.com/noticias/2026/10/20/26111-estrenos-de-filmin-en-noviembre-de-2026-las-series-que-llegan-y-sus-fechas",
-     "kind": "other"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-fisic-novembre",
-   "section": "physical",
-   "subject": "film",
-   "headline": "Novembre en format físic: «Lo que el viento se llevó» en 4K de col·leccionista i «Los paraguas de Cherburgo» en Blu-ray",
-   "deck": "El calendari de Mubis per al mercat espanyol concentra els clàssics entre el 17 i el 23 de novembre, amb diverses edicions de col·leccionista en UHD.",
-   "paragraphs": [
-    "17 de novembre (Blu-ray): «Los paraguas de Cherburgo»; «Éxito a cualquier precio» («Glengarry Glen Ross»), i el drama d'època «Magallanes».",
-    "18 de novembre: edició de col·leccionista en UHD 4K de «Lo que el viento se llevó»; «Memorias de una geisha» en UHD; «Alta sociedad» en UHD amb caixa metàl·lica; «Lo que queda del día» en Blu-ray, i «La Odisea» en Blu-ray, UHD i diverses edicions especials.",
-    "23 de novembre: el western clàssic «La búsqueda» en UHD 4K i en edició metàl·lica; «A sangre fría» en Blu-ray, i «Robin Hood, príncipe de los ladrones» en Blu-ray i UHD.",
-    "Totes són edicions per al mercat espanyol segons el calendari de Mubis. La font no detalla distribuïdora, restauració, pistes d'àudio ni subtítols de cada títol, i les dates de calendari poden canviar: abans de comprar, confirmeu-ho a la fitxa de cada edició. Per al perfil del Radar, els més interessants són «Los paraguas de Cherburgo», «Lo que queda del día» i el western «La búsqueda» en 4K."
-   ],
-   "publishedAt": "2026-10-26T08:00:00Z",
-   "eventDate": "2026-11-18",
-   "territory": "ES",
-   "status": "announced",
-   "evidence": "singleSource",
-   "sources": [
-    {
-     "name": "Mubis – Lanzamientos en Blu-ray y UHD 4K, noviembre 2026",
-     "url": "https://www.mubis.es/novedades-en-blu-ray/todas?periodo=11-2026",
-     "kind": "catalogue"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-liceu-aida-digital",
-   "section": "stage",
-   "subject": "film",
-   "headline": "L'«Aida» de Shirin Neshat que va obrir la temporada del Liceu ja es pot veure sencera a LiceuOPERA+",
-   "deck": "La producció que va inaugurar el curs 2026-27 del Liceu va tenir ahir, 25 d'octubre, l'estrena digital a la plataforma del teatre, amb Anna Pirozzi i Piotr Beczała.",
-   "paragraphs": [
-    "L'enregistrament complet de l'«Aida» de Verdi que el Gran Teatre del Liceu va programar entre el 23 de setembre i el 15 d'octubre de 2026 es va estrenar diumenge 25 d'octubre a les 18.00 a LiceuOPERA+. La pàgina de la plataforma destaca Anna Pirozzi (Aida) i Piotr Beczała (Radamès). És la primera de les sis estrenes digitals de la temporada.",
-    "La posada en escena és de l'artista visual Shirin Neshat, que també signa el vídeo: una coproducció de l'Opéra national de Paris i el Liceu basada en el muntatge original del Festival de Salzburg. La direcció musical va anar a càrrec d'Antonello Manacorda o de Josep Gil segons la funció; el Liceu no indica quina nit es va filmar ni, per tant, quin director i quin repartiment complet hi apareixen. Al teatre, la funció durava unes tres hores i vint minuts amb entreacte.",
-    "Accés des d'Espanya: la plataforma ofereix la compra del títol i una subscripció a la temporada digital (el Liceu anuncia 90 euros per al públic general i 45 per als abonats fixos). La durada de la disponibilitat, els subtítols concrets i les restriccions territorials no consten a les fonts consultades.",
-    "Per què val la pena: és l'òpera de gran espectacle per excel·lència en la lectura d'una artista contemporània, i a més és producció de casa. Afinitat editorial 4/5, confiança mitjana. Pròxima estrena digital del Liceu: «I Capuleti e i Montecchi», de Bellini, el 22 de novembre."
-   ],
-   "publishedAt": "2026-10-25T16:00:00Z",
-   "eventDate": "2026-10-25",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "primarySource",
-   "sources": [
-    {
-     "name": "LiceuOPERA+",
-     "url": "https://liceuoperaplus.com/en/",
-     "kind": "catalogue"
-    },
-    {
-     "name": "Gran Teatre del Liceu – Aida",
-     "url": "https://www.liceubarcelona.cat/en/aida",
-     "kind": "official"
-    },
-    {
-     "name": "Liceu – Temporada digital LiceuOPERA+ 2026/27",
-     "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-     "kind": "official"
-    }
-   ],
-   "filmedPerformance": {
-    "kind": "opera",
-    "workTitle": "Aida",
-    "creators": [
-     "Giuseppe Verdi"
-    ],
-    "workYear": null,
-    "recordingYear": 2026,
-    "completeRecordingSource": "https://liceuoperaplus.com/en/",
-    "venue": "Gran Teatre del Liceu (Barcelona)",
-    "director": "Shirin Neshat",
-    "principalCast": [
-     "Anna Pirozzi",
-     "Piotr Beczała"
-    ],
-    "recordingDate": null,
-    "audiovisualReleaseDate": "2026-10-25",
-    "access": [
-     {
-      "provider": "LiceuOPERA+",
+      "id": "2026-10-26-estrenes-30-octubre",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Divendres de Tots Sants amb terror: Na Hong-jin, «Leviticus» i «Wicker» encapçalen les estrenes del 30 d'octubre a Espanya",
+      "deck": "Dotze títols arriben a les sales espanyoles el 30 d'octubre. Destaquen el retorn de Na Hong-jin amb «Hope», el terror australià premiat a Sitges i una faula britànica amb Olivia Colman.",
+      "paragraphs": [
+        "«Hope» (Corea del Sud), de Na Hong-jin. Un grup de policies busca una criatura misteriosa en un poble remot i els caçadors acaben convertits en presa. Amb Hwang Jung-min, Zo In-sung i Hoyeon, i aparicions d'Alicia Vikander i Michael Fassbender; dura 160 minuts i va passar per la Selecció Oficial de Cannes 2026, on va causar sensació segons AVPasión. Cinemagavia n'atribueix la distribució espanyola a MUBI. Gènere i autoria encaixen de ple amb el perfil: afinitat 4/5, confiança mitjana (no l'hem vista; ho basem en la trajectòria del director i la recepció de Cannes).",
+        "«Leviticus» (Austràlia), d'Adrian Chiarella. Dos adolescents d'una comunitat religiosa aïllada viuen un amor prohibit mentre una presència sobrenatural, lligada a una pràctica de «teràpia de conversió», els encalça. L'AP li va donar 3,5 sobre 4 i el va qualificar de debut prometedor; dura 88 minuts. Fa poc va guanyar el premi Citizen Kane a la millor direcció novella a Sitges. Distribueix YouPlanet Pictures. Afinitat 4/5, confiança mitjana.",
+        "«Wicker» (Regne Unit), d'Alex Huston Fischer i Eleanor Wilson. Una pescadora marginada encarrega a un artesà un marit de vímet. Comèdia fantàstica amb Olivia Colman, Alexander Skarsgård, Peter Dinklage i Richard E. Grant, adaptada lliurement d'un relat d'Ursula Wills-Jones i estrenada a Sundance. TheWrap la va trobar ben intencionada però encarcarada; altres crítiques de Sundance van ser més càlides. Distribueix Vértice Cine. Afinitat 3/5, confiança baixa.",
+        "«Tiempos de ilusión» («Juste une illusion», França), d'Olivier Nakache i Eric Toledano. Un noi de gairebé 13 anys als afores de París, el 1985, entre el primer amor i una família en tensió; amb Louis Garrel i Camille Cottin. Diego Batlle (Otros Cines) hi veu cinema popular, càlid i eficaç, amb algun excés sentimental. Dura 116 minuts. A Contracorriente Films. Comèdia de relacions d'època: afinitat 3/5, confiança mitjana.",
+        "Cinema espanyol: «Karateka», d'Aritz Moreno, sobre la karateka Sandra Sánchez i el seu entrenador (Warner); «Esta soledad», de Javier Giner, drama de parella amb Omar Ayuso (Filmax), i el documental de ficció «El mundo es ansí», de Miguel Ángel Calvo Buttini, sobre un estudiant fascinat per Pío Baroja (Barton Films). També s'estrenen «Klara y el sol» i «Aniquilación», d'Adam Wingard (Diamond Films).",
+        "Totes aquestes dates corresponen a l'estrena comercial a Espanya segons la cartellera de Cinemagavia (publicada el 25 d'octubre). El nombre de sales i les versions en català o en VOSE no consten a la font: convé comprovar-ho a cada cinema."
+      ],
+      "publishedAt": "2026-10-25T10:00:00Z",
+      "eventDate": "2026-10-30",
       "territory": "ES",
-      "mode": "purchase",
-      "sourceURL": "https://liceuoperaplus.com/en/",
-      "checkedAt": "2026-10-26T14:40:00Z",
-      "startsOn": "2026-10-25",
-      "expiresOn": null
-     },
-     {
-      "provider": "LiceuOPERA+",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Hope",
+          "url": "https://www.avpasion.com/hope-salvaje-filme-ciencia-ficcion-estreno/",
+          "kind": "other"
+        },
+        {
+          "name": "AP / WTOP – Leviticus review",
+          "url": "https://wtop.com/entertainment/2026/06/movie-review-leviticus-makes-a-demon-out-of-desire-in-an-auspicious-debut-for-adrian-chiarella/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "TheWrap – Wicker review",
+          "url": "https://www.thewrap.com/creative-content/movies/wicker-review-olivia-colman-alexander-skarsgard/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Otros Cines – Tiempos de ilusión",
+          "url": "https://www.otroscines.com/post/critica-de-tiempos-de-ilusion-juste-une-illusion-pelicula-de-olivier-nakache-y-eric-toledano",
+          "kind": "tradePress"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-possible-love-filmin",
+      "section": "services",
+      "subject": "film",
+      "headline": "Lee Chang-dong torna vuit anys després de «Burning»: «Possible Love» arriba a Netflix el 6 de novembre",
+      "deck": "El drama de dues parelles, estrenat a la competició de Venècia, es podrà veure a tot el món a Netflix. Filmin, per la seva banda, obre novembre amb Pietro Marcello i Hlynur Pálmason.",
+      "paragraphs": [
+        "Netflix confirma que «Possible Love», la primera pel·lícula de Lee Chang-dong en vuit anys, s'estrena a la plataforma a tot el món el 6 de novembre, després d'un pas per sales a Corea, Austràlia, els EUA, el Regne Unit i el Japó. No consta cap estrena a cinemes a Espanya. El repartiment l'encapçalen Jeon Do-yeon, Sul Kyung-gu, Zo In-sung i Cho Yeo-jeong.",
+        "Sense espòilers: una treballadora d'una fàbrica de paper i el seu marit, marcat per una vaga fallida, entren en l'òrbita d'una documentalista i el seu marit benestant quan ella decideix filmar-los. Rory O'Connor, a The Film Stage, la descriu des de Venècia com el triomf que esperaven els seguidors del director, amb un guió novel·lístic; li retreu que l'abast polític a vegades pesa sobre el drama.",
+        "Per què encaixa: cinema d'autor asiàtic, drama de relacions humanes amb tensió de thriller i una mirada social. Afinitat editorial 5/5, confiança mitjana (basada en crítiques i en la filmografia de Lee, no en un visionat propi).",
+        "Filmin (dates a Espanya segons EscribiendoCine): «Eleonora Duse, la divina», de Pietro Marcello, amb Valeria Bruni Tedeschi (6 de novembre); «Barrio triste», debut de Stillz produït per Harmony Korine (6 de novembre); el documental «Broken English», d'Iain Forsyth i Jane Pollard, sobre Marianne Faithfull (6 de novembre); «Mala bèstia», primer llargmetratge de Bàrbara Farré (20 de novembre); «Love Letters», d'Alice Douard, de la Setmana de la Crítica de Cannes (26 de novembre), i el nou film de Hlynur Pálmason ambientat a Islàndia (27 de novembre). El biopic de Marcello sobre la gran actriu de teatre italiana és el que més s'acosta al perfil: afinitat 4/5, confiança baixa."
+      ],
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "eventDate": "2026-11-06",
       "territory": "ES",
-      "mode": "subscription",
-      "sourceURL": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-      "checkedAt": "2026-10-26T14:40:00Z",
-      "startsOn": "2026-10-25",
-      "expiresOn": null
-     }
-    ]
-   }
-  },
-  {
-   "id": "2026-10-26-nt-liaisons-dangereuses",
-   "section": "stage",
-   "subject": "film",
-   "headline": "Lesley Manville i Aidan Turner a «Les Liaisons Dangereuses»: el National Theatre l'estrena en streaming el 3 de novembre",
-   "deck": "La versió de Christopher Hampton dirigida per Marianne Elliott, filmada en directe al Lyttelton, encapçala els cinc títols de tardor i hivern de National Theatre at Home, que ofereix una prova gratuïta de set dies.",
-   "paragraphs": [
-    "National Theatre at Home publicarà el 3 de novembre la captació de «Les Liaisons Dangereuses», l'adaptació de Christopher Hampton de la novel·la epistolar de Choderlos de Laclos, dirigida per Marianne Elliott i protagonitzada per Lesley Manville i Aidan Turner. Segons el comunicat del National Theatre, es va filmar en directe al Lyttelton durant la temporada del 2026.",
-    "La recepció a Londres va ser correcta sense entusiasme: Sam Marlowe, a The Stage, li va donar tres estrelles; elogia com els dos protagonistes fan divertits els jocs cruels de seducció, però troba que al muntatge li falta un propòsit clar.",
-    "La resta de la tardor a la plataforma: «Arcadia», de Tom Stoppard, dirigida per Carrie Cracknell i captada a l'Old Vic (26 de novembre); «The Playboy of the Western World», de J. M. Synge, amb Nicola Coughlan (1 de desembre); el musical «Kinky Boots» (1 de desembre), i «A Child's Christmas in Wales», d'Emma Rice (8 de desembre).",
-    "Accés: el servei funciona per subscripció (9,99 lliures al mes o 99,99 a l'any) i ofereix una prova gratuïta de set dies per a nous abonats a tot el món; el comunicat parla de més de 184 països, però no esmenta Espanya explícitament ni detalla subtítols. Afinitat editorial 4/5, confiança mitjana: drama d'època, teatre britànic i un duel d'intèrprets de primera."
-   ],
-   "publishedAt": "2026-10-07T10:00:00Z",
-   "eventDate": "2026-11-03",
-   "territory": "GB",
-   "status": "confirmed",
-   "evidence": "primarySource",
-   "sources": [
-    {
-     "name": "National Theatre – NT at Home: prova gratuïta i cinc títols nous (7/10/2026)",
-     "url": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
-     "kind": "official"
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "Netflix – Possible Love premieres November 6",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "The Film Stage – Possible Love (Venice review)",
+          "url": "https://thefilmstage.com/venice-review-possible-love-marks-a-triumphant-return-for-lee-chang-dong/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Artículo 14 – Estrenos de Netflix en noviembre 2026",
+          "url": "https://www.articulo14.es/cultura/estrenos-de-netflix-en-noviembre-2026-las-10-series-y-peliculas-imprescindibles-del-mes-20261026.html",
+          "kind": "other"
+        },
+        {
+          "name": "EscribiendoCine – Estrenos de Filmin en noviembre de 2026",
+          "url": "https://www.escribiendocine.com/noticias/2026/10/20/26111-estrenos-de-filmin-en-noviembre-de-2026-las-series-que-llegan-y-sus-fechas",
+          "kind": "other"
+        }
+      ]
     },
     {
-     "name": "EuropaWire – NT at Home free trial and autumn/winter titles",
-     "url": "https://news.europawire.eu/national-theatre-at-home-introduces-worldwide-seven-day-free-trial-and-unveils-five-autumn-and-winter-productions/eu-press-release/2026/10/09/16/57/05/182545/",
-     "kind": "other"
+      "id": "2026-10-26-series-novembre",
+      "section": "services",
+      "subject": "series",
+      "headline": "Sèries de novembre: «Infamia» a HBO Max, el crim de Pazos a Netflix i el final de «La emperatriz»",
+      "deck": "Un novembre carregat de thriller i d'època a les plataformes espanyoles, amb una producció gallega-basca, una minisèrie de crim real i dues sèries europees d'època a Filmin.",
+      "paragraphs": [
+        "«Infamia» (HBO Max, 13 de novembre). Basada en la novel·la de Ledicia Costas i coproduïda amb EITB, té sis episodis i un repartiment encapçalat per Susana Abaitua, Jorge Bosch i Eva Llorach, segons Público. És l'aposta espanyola de thriller del mes.",
+        "«El crimen de Pazos» (Netflix, 13 de novembre). Minisèrie de tres episodis creada per Ramón Campos (Bambú) i dirigida per Carlos Sedes, a partir d'un crim real a Galícia, amb Tristán Ulloa i Carlos Blanco. Netflix hi suma el documental «Desprotexida: El crimen de Pazos» el 6 de novembre.",
+        "Època: la tercera i última temporada de «La emperatriz» (Netflix, 12 de novembre), amb Devrim Lingnau com a Elisabet d'Àustria; a Filmin, «Los nuevos casos de Bookish» (3 de novembre), un detectiu llibreter al Londres de 1946, i la tercera temporada de la danesa «Carmen Curlers» (24 de novembre), ambientada als anys seixanta. Filmin també recupera la política francesa de «Baron Noir» (17 de novembre).",
+        "Altres dates confirmades per Público i Artículo 14: segona temporada de «Palomas negras» («Black Doves», Netflix, 5 de novembre), amb Keira Knightley i Ben Whishaw; «El cuerpo», terror psicològic de Quinn Shephard (Netflix, 11 de novembre); la tercera temporada de «Los anillos de poder» (Prime Video, 11 de novembre); «Los altruistas», sobre el col·lapse de FTX (Netflix, 19 de novembre), i «Blade Runner 2099», amb Michelle Yeoh (Prime Video, 25 de novembre).",
+        "Afinitat editorial: «Los nuevos casos de Bookish» 4/5 (època i enigma britànic; confiança baixa), «Infamia» 3/5 (confiança baixa), «El cuerpo» 3/5 per al lector de terror (confiança baixa). Cap d'aquestes sèries no s'ha pogut veure encara."
+      ],
+      "publishedAt": "2026-10-22T19:30:00Z",
+      "eventDate": "2026-11-13",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        },
+        {
+          "name": "Artículo 14 – Estrenos de Netflix en noviembre 2026",
+          "url": "https://www.articulo14.es/cultura/estrenos-de-netflix-en-noviembre-2026-las-10-series-y-peliculas-imprescindibles-del-mes-20261026.html",
+          "kind": "other"
+        },
+        {
+          "name": "EscribiendoCine – Estrenos de Filmin en noviembre de 2026",
+          "url": "https://www.escribiendocine.com/noticias/2026/10/20/26111-estrenos-de-filmin-en-noviembre-de-2026-las-series-que-llegan-y-sus-fechas",
+          "kind": "other"
+        }
+      ]
     },
     {
-     "name": "The Stage – Les Liaisons Dangereuses review",
-     "url": "https://www.thestage.co.uk/reviews/les-liaisons-dangereuses-review-lyttelton-theatre-national-theatre-london",
-     "kind": "tradePress"
+      "id": "2026-10-26-fisic-novembre",
+      "section": "physical",
+      "subject": "film",
+      "headline": "Novembre en format físic: «Lo que el viento se llevó» en 4K de col·leccionista i «Los paraguas de Cherburgo» en Blu-ray",
+      "deck": "El calendari de Mubis per al mercat espanyol concentra els clàssics entre el 17 i el 23 de novembre, amb diverses edicions de col·leccionista en UHD.",
+      "paragraphs": [
+        "17 de novembre (Blu-ray): «Los paraguas de Cherburgo»; «Éxito a cualquier precio» («Glengarry Glen Ross»), i el drama d'època «Magallanes».",
+        "18 de novembre: edició de col·leccionista en UHD 4K de «Lo que el viento se llevó»; «Memorias de una geisha» en UHD; «Alta sociedad» en UHD amb caixa metàl·lica; «Lo que queda del día» en Blu-ray, i «La Odisea» en Blu-ray, UHD i diverses edicions especials.",
+        "23 de novembre: el western clàssic «La búsqueda» en UHD 4K i en edició metàl·lica; «A sangre fría» en Blu-ray, i «Robin Hood, príncipe de los ladrones» en Blu-ray i UHD.",
+        "Totes són edicions per al mercat espanyol segons el calendari de Mubis. La font no detalla distribuïdora, restauració, pistes d'àudio ni subtítols de cada títol, i les dates de calendari poden canviar: abans de comprar, confirmeu-ho a la fitxa de cada edició. Per al perfil del Radar, els més interessants són «Los paraguas de Cherburgo», «Lo que queda del día» i el western «La búsqueda» en 4K."
+      ],
+      "publishedAt": "2026-10-26T08:00:00Z",
+      "eventDate": "2026-11-18",
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Mubis – Lanzamientos en Blu-ray y UHD 4K, noviembre 2026",
+          "url": "https://www.mubis.es/novedades-en-blu-ray/todas?periodo=11-2026",
+          "kind": "catalogue"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-liceu-aida-digital",
+      "section": "stage",
+      "subject": "film",
+      "headline": "L'«Aida» de Shirin Neshat que va obrir la temporada del Liceu ja es pot veure sencera a LiceuOPERA+",
+      "deck": "La producció que va inaugurar el curs 2026-27 del Liceu va tenir ahir, 25 d'octubre, l'estrena digital a la plataforma del teatre, amb Anna Pirozzi i Piotr Beczała.",
+      "paragraphs": [
+        "L'enregistrament complet de l'«Aida» de Verdi que el Gran Teatre del Liceu va programar entre el 23 de setembre i el 15 d'octubre de 2026 es va estrenar diumenge 25 d'octubre a les 18.00 a LiceuOPERA+. La pàgina de la plataforma destaca Anna Pirozzi (Aida) i Piotr Beczała (Radamès). És la primera de les sis estrenes digitals de la temporada.",
+        "La posada en escena és de l'artista visual Shirin Neshat, que també signa el vídeo: una coproducció de l'Opéra national de Paris i el Liceu basada en el muntatge original del Festival de Salzburg. La direcció musical va anar a càrrec d'Antonello Manacorda o de Josep Gil segons la funció; el Liceu no indica quina nit es va filmar ni, per tant, quin director i quin repartiment complet hi apareixen. Al teatre, la funció durava unes tres hores i vint minuts amb entreacte.",
+        "Accés des d'Espanya: la plataforma ofereix la compra del títol i una subscripció a la temporada digital (el Liceu anuncia 90 euros per al públic general i 45 per als abonats fixos). La durada de la disponibilitat, els subtítols concrets i les restriccions territorials no consten a les fonts consultades.",
+        "Per què val la pena: és l'òpera de gran espectacle per excel·lència en la lectura d'una artista contemporània, i a més és producció de casa. Afinitat editorial 4/5, confiança mitjana. Pròxima estrena digital del Liceu: «I Capuleti e i Montecchi», de Bellini, el 22 de novembre."
+      ],
+      "publishedAt": "2026-10-25T16:00:00Z",
+      "eventDate": "2026-10-25",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "LiceuOPERA+",
+          "url": "https://liceuoperaplus.com/en/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "Gran Teatre del Liceu – Aida",
+          "url": "https://www.liceubarcelona.cat/en/aida",
+          "kind": "official"
+        },
+        {
+          "name": "Liceu – Temporada digital LiceuOPERA+ 2026/27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ],
+      "filmedPerformance": {
+        "kind": "opera",
+        "workTitle": "Aida",
+        "creators": [
+          "Giuseppe Verdi"
+        ],
+        "workYear": null,
+        "recordingYear": 2026,
+        "completeRecordingSource": "https://liceuoperaplus.com/en/",
+        "venue": "Gran Teatre del Liceu (Barcelona)",
+        "director": "Shirin Neshat",
+        "principalCast": [
+          "Anna Pirozzi",
+          "Piotr Beczała"
+        ],
+        "recordingDate": null,
+        "audiovisualReleaseDate": "2026-10-25",
+        "access": [
+          {
+            "provider": "LiceuOPERA+",
+            "territory": "ES",
+            "mode": "purchase",
+            "sourceURL": "https://liceuoperaplus.com/en/",
+            "checkedAt": "2026-10-26T14:40:00Z",
+            "startsOn": "2026-10-25",
+            "expiresOn": null
+          },
+          {
+            "provider": "LiceuOPERA+",
+            "territory": "ES",
+            "mode": "subscription",
+            "sourceURL": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+            "checkedAt": "2026-10-26T14:40:00Z",
+            "startsOn": "2026-10-25",
+            "expiresOn": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-nt-liaisons-dangereuses",
+      "section": "stage",
+      "subject": "film",
+      "headline": "Lesley Manville i Aidan Turner a «Les Liaisons Dangereuses»: el National Theatre l'estrena en streaming el 3 de novembre",
+      "deck": "La versió de Christopher Hampton dirigida per Marianne Elliott, filmada en directe al Lyttelton, encapçala els cinc títols de tardor i hivern de National Theatre at Home, que ofereix una prova gratuïta de set dies.",
+      "paragraphs": [
+        "National Theatre at Home publicarà el 3 de novembre la captació de «Les Liaisons Dangereuses», l'adaptació de Christopher Hampton de la novel·la epistolar de Choderlos de Laclos, dirigida per Marianne Elliott i protagonitzada per Lesley Manville i Aidan Turner. Segons el comunicat del National Theatre, es va filmar en directe al Lyttelton durant la temporada del 2026.",
+        "La recepció a Londres va ser correcta sense entusiasme: Sam Marlowe, a The Stage, li va donar tres estrelles; elogia com els dos protagonistes fan divertits els jocs cruels de seducció, però troba que al muntatge li falta un propòsit clar.",
+        "La resta de la tardor a la plataforma: «Arcadia», de Tom Stoppard, dirigida per Carrie Cracknell i captada a l'Old Vic (26 de novembre); «The Playboy of the Western World», de J. M. Synge, amb Nicola Coughlan (1 de desembre); el musical «Kinky Boots» (1 de desembre), i «A Child's Christmas in Wales», d'Emma Rice (8 de desembre).",
+        "Accés: el servei funciona per subscripció (9,99 lliures al mes o 99,99 a l'any) i ofereix una prova gratuïta de set dies per a nous abonats a tot el món; el comunicat parla de més de 184 països, però no esmenta Espanya explícitament ni detalla subtítols. Afinitat editorial 4/5, confiança mitjana: drama d'època, teatre britànic i un duel d'intèrprets de primera."
+      ],
+      "publishedAt": "2026-10-07T10:00:00Z",
+      "eventDate": "2026-11-03",
+      "territory": "GB",
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "National Theatre – NT at Home: prova gratuïta i cinc títols nous (7/10/2026)",
+          "url": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
+          "kind": "official"
+        },
+        {
+          "name": "EuropaWire – NT at Home free trial and autumn/winter titles",
+          "url": "https://news.europawire.eu/national-theatre-at-home-introduces-worldwide-seven-day-free-trial-and-unveils-five-autumn-and-winter-productions/eu-press-release/2026/10/09/16/57/05/182545/",
+          "kind": "other"
+        },
+        {
+          "name": "The Stage – Les Liaisons Dangereuses review",
+          "url": "https://www.thestage.co.uk/reviews/les-liaisons-dangereuses-review-lyttelton-theatre-national-theatre-london",
+          "kind": "tradePress"
+        }
+      ],
+      "filmedPerformance": {
+        "kind": "theatre",
+        "workTitle": "Les Liaisons Dangereuses",
+        "creators": [
+          "Christopher Hampton",
+          "Pierre Choderlos de Laclos"
+        ],
+        "workYear": null,
+        "recordingYear": 2026,
+        "completeRecordingSource": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
+        "venue": "Lyttelton, National Theatre (Londres)",
+        "director": "Marianne Elliott",
+        "principalCast": [
+          "Lesley Manville",
+          "Aidan Turner"
+        ],
+        "audiovisualReleaseDate": "2026-11-03"
+      }
+    },
+    {
+      "id": "2026-10-26-buen-camino-rodatge",
+      "section": "projects",
+      "subject": "film",
+      "headline": "Comença el rodatge de «Buen Camino», la versió espanyola del fenomen de la comèdia italiana",
+      "deck": "Susan Béjar dirigeix Jordi Sánchez, Venecia Franco i Joaquín Reyes en un remake que ha arrencat a O Cebreiro i seguirà per Galícia, Gran Canària i Madrid.",
+      "paragraphs": [
+        "Segons Cinerama (26 d'octubre), ha començat a O Cebreiro (Lugo) el rodatge de «Buen Camino», adaptació espanyola de la comèdia italiana homònima que la mateixa font presenta com la més taquillera de la història del cinema italià. El rodatge continuarà aquesta tardor a Gran Canària, Galícia i Madrid.",
+        "La dirigeix Susan Béjar, que firma el guió amb Mapi Romero, Marcos Mas i Alberto Serra. El repartiment l'encapçalen Jordi Sánchez, Venecia Franco, Marta Aledo, Joaquín Reyes i Cristina Castaño, amb Antonio Resines, Carlos Areces, Pablo Carbonell, Gracia Olayo i Tito Valverde, entre d'altres.",
+        "No hi ha data d'estrena ni distribuïdora anunciades a la font. És una comèdia popular de relacions familiars més que no pas cinema d'autor: afinitat editorial 2/5, confiança baixa. La seguirem si apareixen imatges o data."
+      ],
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Cinerama – Comienza el rodaje de Buen Camino",
+          "url": "https://cinerama.es/comienza-el-rodaje-de-buen-camino-adaptacion-espanola-del-mayor-exito-de-la-historia-del-cine-italiano/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-seminci-recta-final",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "La Seminci entra en la recta final: palmarès dissabte 31 amb tres pel·lícules espanyoles a concurs",
+      "deck": "La 71a edició del festival de Valladolid, del 23 al 31 d'octubre, tanca amb «Hombre al agua», presentada per Gael García Bernal. Espiga d'Honor per a la cineasta xilena Valeria Sarmiento.",
+      "paragraphs": [
+        "La 71a Semana Internacional de Cine de Valladolid es fa del 23 al 31 d'octubre i dissabte vinent, a la cerimònia de clausura, donarà a conèixer l'Espiga d'Or. La va obrir «My Notes on Mars», de Lili Horvát, i la tancarà «Hombre al agua», que presentarà Gael García Bernal.",
+        "A la Secció Oficial competeixen, entre d'altres, «Yellow Letters» d'İlker Çatak, «We Are All Strangers» d'Anthony Chen, «A Bit of Light» d'Ali Asgari, «Rose» de Markus Schleinzer i «Aquí» de Tiago Guedes, a més de tres títols espanyols: «Hermanas», d'Ione Hernández; «Las islas afortunadas», d'Helena Girón i Samuel Delgado, i «La violinista», d'Ervin Han i Raúl García.",
+        "L'Espiga d'Honor, no competitiva, és per a la cineasta xilena Valeria Sarmiento. La llista d'aquesta fitxa és una selecció: el programa complet és al web oficial del festival. Que una pel·lícula passi per Valladolid no vol dir que tingui estrena comercial a Espanya garantida."
+      ],
+      "publishedAt": "2026-10-07T10:00:00Z",
+      "eventDate": "2026-10-31",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Seminci – web oficial",
+          "url": "https://www.seminci.es/en/",
+          "kind": "official"
+        },
+        {
+          "name": "DOD Magazine – Seminci 2026",
+          "url": "https://www.dodmagazine.es/festival-seminci-2026/",
+          "kind": "other"
+        }
+      ],
+      "festivalProgramme": {
+        "festivalName": "Seminci – Semana Internacional de Cine de Valladolid",
+        "editionYear": 2026,
+        "scope": "selectedHighlights",
+        "officialProgrammeURL": "https://www.seminci.es/en/",
+        "entries": [
+          {
+            "id": "e1",
+            "section": "Secció Oficial",
+            "title": "My Notes on Mars",
+            "director": "Lili Horvát",
+            "recommended": false,
+            "synopsis": "Pel·lícula inaugural."
+          },
+          {
+            "id": "e2",
+            "section": "Secció Oficial",
+            "title": "Yellow Letters (Cartas de Estado)",
+            "director": "İlker Çatak",
+            "recommended": true
+          },
+          {
+            "id": "e3",
+            "section": "Secció Oficial",
+            "title": "We Are All Strangers",
+            "director": "Anthony Chen",
+            "recommended": true
+          },
+          {
+            "id": "e4",
+            "section": "Secció Oficial",
+            "title": "A Bit of Light",
+            "director": "Ali Asgari",
+            "recommended": false
+          },
+          {
+            "id": "e5",
+            "section": "Secció Oficial",
+            "title": "Rose",
+            "director": "Markus Schleinzer",
+            "recommended": false
+          },
+          {
+            "id": "e6",
+            "section": "Secció Oficial",
+            "title": "Hermanas",
+            "director": "Ione Hernández Sáenz",
+            "recommended": true,
+            "synopsis": "Aposta espanyola a concurs."
+          },
+          {
+            "id": "e7",
+            "section": "Secció Oficial",
+            "title": "Las islas afortunadas",
+            "director": "Helena Girón, Samuel Delgado",
+            "recommended": false,
+            "synopsis": "Aposta espanyola a concurs."
+          },
+          {
+            "id": "e8",
+            "section": "Secció Oficial",
+            "title": "La violinista",
+            "director": "Ervin Han, Raúl García",
+            "recommended": false,
+            "synopsis": "Aposta espanyola a concurs."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-tokyo-molins",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "Tòquio en marxa amb Lisandro Alonso i Bahman Ghobadi a concurs, i Mizoguchi en retrospectiva; Molins de Rei, a tocar",
+      "deck": "El 39è Festival Internacional de Cinema de Tòquio dura fins al 4 de novembre. A Catalunya, el festival de terror de Molins de Rei arrenca la setmana vinent, després d'un Sitges que va premiar «Sanguine».",
+      "paragraphs": [
+        "Tòquio ha obert amb «Sukiyaki», de Zeze Takahisa, i s'allarga fins al 4 de novembre. La competició, de quinze títols, inclou «Double Freedom» de l'argentí Lisandro Alonso, «Trees Are Watching» de Bahman Ghobadi, «Red Before Dawn» de Garin Nugroho, «Sister Brother Manhole Cover» de Milcho Manchevski, «Fuxi: Four Tales of Feasting» de Qiu Jiongjiong i «Heysel 85», de Teodora Ana Mihai.",
+        "El més llaminer per al perfil del Radar és la retrospectiva de Kenji Mizoguchi, amb títols com «Ugetsu» i «L'intendent Sansho», i una selecció de vuit pel·lícules de Youssef Chahine, entre elles «Estació central». Entre les sessions especials hi ha «Colony», el nou film de Yeon Sang-ho. Cap d'aquestes sessions no implica estrena a Espanya.",
+        "Molins de Rei: el 45è Festival de Cinema de Terror es fa al novembre amb una retrospectiva dedicada al found footage (de «Cannibal Holocaust» a «[•REC]»). El web oficial dona dates contradictòries (del 6 al 15 o del 7 al 16 de novembre), així que caldrà confirmar-les quan surti el programa.",
+        "Recordatori de Sitges (palmarès del 17 d'octubre): millor pel·lícula per a la francesa «Sanguine», de Marion Le Corroller; direcció per a Joko Anwar («Ghost in the Cell»); premi del públic per a «Wildwood», i millor actriu per a Jasmine Trinca («The Spiral»). «Leviticus», premiada a la millor òpera prima, s'estrena divendres."
+      ],
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "eventDate": "2026-11-04",
+      "territory": "JP",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "The Film Stage – 39th Tokyo International Film Festival lineup",
+          "url": "https://thefilmstage.com/39th-tokyo-international-film-festival-lineup-features-lisandro-alonso-and-qiu-jiongjiong-kenji-mizoguchi-and-youssef-chahine-retrospectives-more/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "One Mann's Movies – Movie News, 26/10/2026",
+          "url": "https://onemannsmovies.com/movie-news/movie-news-26th-october-2026/",
+          "kind": "other"
+        },
+        {
+          "name": "Molins Horror Film Festival",
+          "url": "https://www.molinsfilmfestival.com/eng/?p=27778",
+          "kind": "official"
+        },
+        {
+          "name": "Qué! – Palmarés Sitges 2026",
+          "url": "https://www.que.es/2026/10/17/palmares-sitges-2026-sanguine/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendari: de les estrenes de Tots Sants a l'estrena digital de Bellini al Liceu",
+      "deck": "Les dates clau de les pròximes quatre setmanes a sales, plataformes i escenaris filmats, amb el territori indicat.",
+      "paragraphs": [
+        "30 d'octubre (Espanya, cinemes): «Hope», «Leviticus», «Wicker», «Tiempos de ilusión», «Klara y el sol», «Karateka», «Esta soledad». 31 d'octubre: palmarès de la Seminci a Valladolid.",
+        "3 de novembre: «Les Liaisons Dangereuses» a National Theatre at Home i «Los nuevos casos de Bookish» a Filmin. 4 de novembre: clausura del festival de Tòquio. 5 de novembre: segona temporada de «Palomas negras» (Netflix).",
+        "6 de novembre: «Possible Love», de Lee Chang-dong (Netflix, mundial) i, a Filmin, «Eleonora Duse, la divina» i «Broken English». Del 6 o 7 de novembre: festival de terror de Molins de Rei (dates per confirmar).",
+        "11 de novembre: «El cuerpo» (Netflix) i «Los anillos de poder» T3 (Prime Video). 13 de novembre: «Infamia» (HBO Max), «El crimen de Pazos» (Netflix) i, a cinemes espanyols, «El niño», de Mariano Barroso, segons Artículo 14.",
+        "14 de novembre (EUA i altres territoris): reposició de «Carmen» de Bizet del cicle Met: Live in HD; la disponibilitat a cinemes espanyols no està confirmada. 17–23 de novembre: clàssics en Blu-ray i 4K (vegeu el reportatge d'edicions físiques). 22 de novembre: «I Capuleti e i Montecchi», de Bellini, a LiceuOPERA+."
+      ],
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "eventDate": "2026-10-30",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "Netflix – Possible Love premieres November 6",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "Liceu – Temporada digital LiceuOPERA+ 2026/27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        },
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        },
+        {
+          "name": "The Met: Live in HD",
+          "url": "https://www.metopera.org/hd",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: Lee Chang-dong, Na Hong-jin i una «Aida» per veure a casa",
+      "deck": "Cinc propostes per als pròxims dies i el balanç d'una jornada marcada pel terror de Tots Sants i el teatre filmat.",
+      "paragraphs": [
+        "1. «Possible Love», de Lee Chang-dong (Netflix, 6 de novembre). Drama de dues parelles amb rerefons social, celebrat a Venècia. Afinitat 5/5, confiança mitjana.",
+        "2. «Hope», de Na Hong-jin (cinemes, 30 d'octubre). Terror i ciència-ficció d'autor coreà a gran escala; 160 minuts per veure en pantalla gran. Afinitat 4/5, confiança mitjana.",
+        "3. «Aida», de Verdi, en la producció de Shirin Neshat (LiceuOPERA+, ja disponible). Gran òpera de casa, amb Pirozzi i Beczała. Afinitat 4/5, confiança mitjana.",
+        "4. «Leviticus», d'Adrian Chiarella (cinemes, 30 d'octubre). Terror sobrenatural i drama juvenil en 88 minuts, premiat a Sitges. Afinitat 4/5, confiança mitjana.",
+        "5. «Les Liaisons Dangereuses» (National Theatre at Home, 3 de novembre). Lesley Manville i Aidan Turner en el clàssic de Hampton; crítica dividida, però el duel interpretatiu justifica la prova gratuïta. Afinitat 4/5, confiança mitjana.",
+        "Balanç del dia: una setmana de Tots Sants rica en terror d'autor —Corea, Austràlia i el festival de Molins a l'horitzó— contrasta amb la patacada de «Klara i el sol» als EUA, recordatori que un gran llibre i un director popular no garanteixen res. El teatre i l'òpera filmats tenen bona collita: el Liceu ja ofereix la seva «Aida» i el National Theatre prepara una tardor amb Laclos i Stoppard. Les afinitats són orientatives i no equivalen a cap nota de crítica ni de públic."
+      ],
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Netflix – Possible Love premieres November 6",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "LiceuOPERA+",
+          "url": "https://liceuoperaplus.com/en/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "AVPasión – Hope",
+          "url": "https://www.avpasion.com/hope-salvaje-filme-ciencia-ficcion-estreno/",
+          "kind": "other"
+        },
+        {
+          "name": "AP / WTOP – Leviticus review",
+          "url": "https://wtop.com/entertainment/2026/06/movie-review-leviticus-makes-a-demon-out-of-desire-in-an-auspicious-debut-for-adrian-chiarella/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "National Theatre – NT at Home: prova gratuïta i cinc títols nous (7/10/2026)",
+          "url": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
+          "kind": "official"
+        }
+      ]
     }
-   ],
-   "filmedPerformance": {
-    "kind": "theatre",
-    "workTitle": "Les Liaisons Dangereuses",
-    "creators": [
-     "Christopher Hampton",
-     "Pierre Choderlos de Laclos"
-    ],
-    "workYear": null,
-    "recordingYear": 2026,
-    "completeRecordingSource": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
-    "venue": "Lyttelton, National Theatre (Londres)",
-    "director": "Marianne Elliott",
-    "principalCast": [
-     "Lesley Manville",
-     "Aidan Turner"
-    ],
-    "audiovisualReleaseDate": "2026-11-03"
-   }
-  },
-  {
-   "id": "2026-10-26-buen-camino-rodatge",
-   "section": "projects",
-   "subject": "film",
-   "headline": "Comença el rodatge de «Buen Camino», la versió espanyola del fenomen de la comèdia italiana",
-   "deck": "Susan Béjar dirigeix Jordi Sánchez, Venecia Franco i Joaquín Reyes en un remake que ha arrencat a O Cebreiro i seguirà per Galícia, Gran Canària i Madrid.",
-   "paragraphs": [
-    "Segons Cinerama (26 d'octubre), ha començat a O Cebreiro (Lugo) el rodatge de «Buen Camino», adaptació espanyola de la comèdia italiana homònima que la mateixa font presenta com la més taquillera de la història del cinema italià. El rodatge continuarà aquesta tardor a Gran Canària, Galícia i Madrid.",
-    "La dirigeix Susan Béjar, que firma el guió amb Mapi Romero, Marcos Mas i Alberto Serra. El repartiment l'encapçalen Jordi Sánchez, Venecia Franco, Marta Aledo, Joaquín Reyes i Cristina Castaño, amb Antonio Resines, Carlos Areces, Pablo Carbonell, Gracia Olayo i Tito Valverde, entre d'altres.",
-    "No hi ha data d'estrena ni distribuïdora anunciades a la font. És una comèdia popular de relacions familiars més que no pas cinema d'autor: afinitat editorial 2/5, confiança baixa. La seguirem si apareixen imatges o data."
-   ],
-   "publishedAt": "2026-10-26T09:00:00Z",
-   "eventDate": null,
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "singleSource",
-   "sources": [
+  ],
+  "recommendedTitles": [
     {
-     "name": "Cinerama – Comienza el rodaje de Buen Camino",
-     "url": "https://cinerama.es/comienza-el-rodaje-de-buen-camino-adaptacion-espanola-del-mayor-exito-de-la-historia-del-cine-italiano/",
-     "kind": "other"
+      "title": "가능한 사랑",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Possible Love"
+    },
+    {
+      "title": "호프",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Hope"
+    },
+    {
+      "title": "Leviticus",
+      "year": 2026,
+      "kind": "film"
+    },
+    {
+      "title": "Aida",
+      "year": 2026,
+      "kind": "stage"
+    },
+    {
+      "title": "Les Liaisons Dangereuses",
+      "year": 2026,
+      "kind": "stage"
     }
-   ]
-  },
-  {
-   "id": "2026-10-26-seminci-recta-final",
-   "section": "festivals",
-   "subject": "film",
-   "headline": "La Seminci entra en la recta final: palmarès dissabte 31 amb tres pel·lícules espanyoles a concurs",
-   "deck": "La 71a edició del festival de Valladolid, del 23 al 31 d'octubre, tanca amb «Hombre al agua», presentada per Gael García Bernal. Espiga d'Honor per a la cineasta xilena Valeria Sarmiento.",
-   "paragraphs": [
-    "La 71a Semana Internacional de Cine de Valladolid es fa del 23 al 31 d'octubre i dissabte vinent, a la cerimònia de clausura, donarà a conèixer l'Espiga d'Or. La va obrir «My Notes on Mars», de Lili Horvát, i la tancarà «Hombre al agua», que presentarà Gael García Bernal.",
-    "A la Secció Oficial competeixen, entre d'altres, «Yellow Letters» d'İlker Çatak, «We Are All Strangers» d'Anthony Chen, «A Bit of Light» d'Ali Asgari, «Rose» de Markus Schleinzer i «Aquí» de Tiago Guedes, a més de tres títols espanyols: «Hermanas», d'Ione Hernández; «Las islas afortunadas», d'Helena Girón i Samuel Delgado, i «La violinista», d'Ervin Han i Raúl García.",
-    "L'Espiga d'Honor, no competitiva, és per a la cineasta xilena Valeria Sarmiento. La llista d'aquesta fitxa és una selecció: el programa complet és al web oficial del festival. Que una pel·lícula passi per Valladolid no vol dir que tingui estrena comercial a Espanya garantida."
-   ],
-   "publishedAt": "2026-10-07T10:00:00Z",
-   "eventDate": "2026-10-31",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "Seminci – web oficial",
-     "url": "https://www.seminci.es/en/",
-     "kind": "official"
-    },
-    {
-     "name": "DOD Magazine – Seminci 2026",
-     "url": "https://www.dodmagazine.es/festival-seminci-2026/",
-     "kind": "other"
-    }
-   ],
-   "festivalProgramme": {
-    "festivalName": "Seminci – Semana Internacional de Cine de Valladolid",
-    "editionYear": 2026,
-    "scope": "selectedHighlights",
-    "officialProgrammeURL": "https://www.seminci.es/en/",
-    "entries": [
-     {
-      "id": "e1",
-      "section": "Secció Oficial",
-      "title": "My Notes on Mars",
-      "director": "Lili Horvát",
-      "recommended": false,
-      "synopsis": "Pel·lícula inaugural."
-     },
-     {
-      "id": "e2",
-      "section": "Secció Oficial",
-      "title": "Yellow Letters (Cartas de Estado)",
-      "director": "İlker Çatak",
-      "recommended": true
-     },
-     {
-      "id": "e3",
-      "section": "Secció Oficial",
-      "title": "We Are All Strangers",
-      "director": "Anthony Chen",
-      "recommended": true
-     },
-     {
-      "id": "e4",
-      "section": "Secció Oficial",
-      "title": "A Bit of Light",
-      "director": "Ali Asgari",
-      "recommended": false
-     },
-     {
-      "id": "e5",
-      "section": "Secció Oficial",
-      "title": "Rose",
-      "director": "Markus Schleinzer",
-      "recommended": false
-     },
-     {
-      "id": "e6",
-      "section": "Secció Oficial",
-      "title": "Hermanas",
-      "director": "Ione Hernández Sáenz",
-      "recommended": true,
-      "synopsis": "Aposta espanyola a concurs."
-     },
-     {
-      "id": "e7",
-      "section": "Secció Oficial",
-      "title": "Las islas afortunadas",
-      "director": "Helena Girón, Samuel Delgado",
-      "recommended": false,
-      "synopsis": "Aposta espanyola a concurs."
-     },
-     {
-      "id": "e8",
-      "section": "Secció Oficial",
-      "title": "La violinista",
-      "director": "Ervin Han, Raúl García",
-      "recommended": false,
-      "synopsis": "Aposta espanyola a concurs."
-     }
-    ]
-   }
-  },
-  {
-   "id": "2026-10-26-tokyo-molins",
-   "section": "festivals",
-   "subject": "film",
-   "headline": "Tòquio en marxa amb Lisandro Alonso i Bahman Ghobadi a concurs, i Mizoguchi en retrospectiva; Molins de Rei, a tocar",
-   "deck": "El 39è Festival Internacional de Cinema de Tòquio dura fins al 4 de novembre. A Catalunya, el festival de terror de Molins de Rei arrenca la setmana vinent, després d'un Sitges que va premiar «Sanguine».",
-   "paragraphs": [
-    "Tòquio ha obert amb «Sukiyaki», de Zeze Takahisa, i s'allarga fins al 4 de novembre. La competició, de quinze títols, inclou «Double Freedom» de l'argentí Lisandro Alonso, «Trees Are Watching» de Bahman Ghobadi, «Red Before Dawn» de Garin Nugroho, «Sister Brother Manhole Cover» de Milcho Manchevski, «Fuxi: Four Tales of Feasting» de Qiu Jiongjiong i «Heysel 85», de Teodora Ana Mihai.",
-    "El més llaminer per al perfil del Radar és la retrospectiva de Kenji Mizoguchi, amb títols com «Ugetsu» i «L'intendent Sansho», i una selecció de vuit pel·lícules de Youssef Chahine, entre elles «Estació central». Entre les sessions especials hi ha «Colony», el nou film de Yeon Sang-ho. Cap d'aquestes sessions no implica estrena a Espanya.",
-    "Molins de Rei: el 45è Festival de Cinema de Terror es fa al novembre amb una retrospectiva dedicada al found footage (de «Cannibal Holocaust» a «[•REC]»). El web oficial dona dates contradictòries (del 6 al 15 o del 7 al 16 de novembre), així que caldrà confirmar-les quan surti el programa.",
-    "Recordatori de Sitges (palmarès del 17 d'octubre): millor pel·lícula per a la francesa «Sanguine», de Marion Le Corroller; direcció per a Joko Anwar («Ghost in the Cell»); premi del públic per a «Wildwood», i millor actriu per a Jasmine Trinca («The Spiral»). «Leviticus», premiada a la millor òpera prima, s'estrena divendres."
-   ],
-   "publishedAt": "2026-10-26T09:00:00Z",
-   "eventDate": "2026-11-04",
-   "territory": "JP",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "The Film Stage – 39th Tokyo International Film Festival lineup",
-     "url": "https://thefilmstage.com/39th-tokyo-international-film-festival-lineup-features-lisandro-alonso-and-qiu-jiongjiong-kenji-mizoguchi-and-youssef-chahine-retrospectives-more/",
-     "kind": "tradePress"
-    },
-    {
-     "name": "One Mann's Movies – Movie News, 26/10/2026",
-     "url": "https://onemannsmovies.com/movie-news/movie-news-26th-october-2026/",
-     "kind": "other"
-    },
-    {
-     "name": "Molins Horror Film Festival",
-     "url": "https://www.molinsfilmfestival.com/eng/?p=27778",
-     "kind": "official"
-    },
-    {
-     "name": "Qué! – Palmarés Sitges 2026",
-     "url": "https://www.que.es/2026/10/17/palmares-sitges-2026-sanguine/",
-     "kind": "other"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-calendari",
-   "section": "calendar",
-   "subject": "film",
-   "headline": "Calendari: de les estrenes de Tots Sants a l'estrena digital de Bellini al Liceu",
-   "deck": "Les dates clau de les pròximes quatre setmanes a sales, plataformes i escenaris filmats, amb el territori indicat.",
-   "paragraphs": [
-    "30 d'octubre (Espanya, cinemes): «Hope», «Leviticus», «Wicker», «Tiempos de ilusión», «Klara y el sol», «Karateka», «Esta soledad». 31 d'octubre: palmarès de la Seminci a Valladolid.",
-    "3 de novembre: «Les Liaisons Dangereuses» a National Theatre at Home i «Los nuevos casos de Bookish» a Filmin. 4 de novembre: clausura del festival de Tòquio. 5 de novembre: segona temporada de «Palomas negras» (Netflix).",
-    "6 de novembre: «Possible Love», de Lee Chang-dong (Netflix, mundial) i, a Filmin, «Eleonora Duse, la divina» i «Broken English». Del 6 o 7 de novembre: festival de terror de Molins de Rei (dates per confirmar).",
-    "11 de novembre: «El cuerpo» (Netflix) i «Los anillos de poder» T3 (Prime Video). 13 de novembre: «Infamia» (HBO Max), «El crimen de Pazos» (Netflix) i, a cinemes espanyols, «El niño», de Mariano Barroso, segons Artículo 14.",
-    "14 de novembre (EUA i altres territoris): reposició de «Carmen» de Bizet del cicle Met: Live in HD; la disponibilitat a cinemes espanyols no està confirmada. 17–23 de novembre: clàssics en Blu-ray i 4K (vegeu el reportatge d'edicions físiques). 22 de novembre: «I Capuleti e i Montecchi», de Bellini, a LiceuOPERA+."
-   ],
-   "publishedAt": "2026-10-26T15:00:00Z",
-   "eventDate": "2026-10-30",
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
-     "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
-     "kind": "other"
-    },
-    {
-     "name": "Netflix – Possible Love premieres November 6",
-     "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-     "kind": "official"
-    },
-    {
-     "name": "Liceu – Temporada digital LiceuOPERA+ 2026/27",
-     "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-     "kind": "official"
-    },
-    {
-     "name": "Público – Estrenos de noviembre 2026 en plataformas",
-     "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-     "kind": "other"
-    },
-    {
-     "name": "The Met: Live in HD",
-     "url": "https://www.metopera.org/hd",
-     "kind": "official"
-    }
-   ]
-  },
-  {
-   "id": "2026-10-26-recomanacions",
-   "section": "recommendation",
-   "subject": "film",
-   "headline": "Recomanacions de l'editor: Lee Chang-dong, Na Hong-jin i una «Aida» per veure a casa",
-   "deck": "Cinc propostes per als pròxims dies i el balanç d'una jornada marcada pel terror de Tots Sants i el teatre filmat.",
-   "paragraphs": [
-    "1. «Possible Love», de Lee Chang-dong (Netflix, 6 de novembre). Drama de dues parelles amb rerefons social, celebrat a Venècia. Afinitat 5/5, confiança mitjana.",
-    "2. «Hope», de Na Hong-jin (cinemes, 30 d'octubre). Terror i ciència-ficció d'autor coreà a gran escala; 160 minuts per veure en pantalla gran. Afinitat 4/5, confiança mitjana.",
-    "3. «Aida», de Verdi, en la producció de Shirin Neshat (LiceuOPERA+, ja disponible). Gran òpera de casa, amb Pirozzi i Beczała. Afinitat 4/5, confiança mitjana.",
-    "4. «Leviticus», d'Adrian Chiarella (cinemes, 30 d'octubre). Terror sobrenatural i drama juvenil en 88 minuts, premiat a Sitges. Afinitat 4/5, confiança mitjana.",
-    "5. «Les Liaisons Dangereuses» (National Theatre at Home, 3 de novembre). Lesley Manville i Aidan Turner en el clàssic de Hampton; crítica dividida, però el duel interpretatiu justifica la prova gratuïta. Afinitat 4/5, confiança mitjana.",
-    "Balanç del dia: una setmana de Tots Sants rica en terror d'autor —Corea, Austràlia i el festival de Molins a l'horitzó— contrasta amb la patacada de «Klara i el sol» als EUA, recordatori que un gran llibre i un director popular no garanteixen res. El teatre i l'òpera filmats tenen bona collita: el Liceu ja ofereix la seva «Aida» i el National Theatre prepara una tardor amb Laclos i Stoppard. Les afinitats són orientatives i no equivalen a cap nota de crítica ni de públic."
-   ],
-   "publishedAt": "2026-10-26T15:00:00Z",
-   "eventDate": null,
-   "territory": "ES",
-   "status": "confirmed",
-   "evidence": "corroborated",
-   "sources": [
-    {
-     "name": "Netflix – Possible Love premieres November 6",
-     "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-     "kind": "official"
-    },
-    {
-     "name": "LiceuOPERA+",
-     "url": "https://liceuoperaplus.com/en/",
-     "kind": "catalogue"
-    },
-    {
-     "name": "AVPasión – Hope",
-     "url": "https://www.avpasion.com/hope-salvaje-filme-ciencia-ficcion-estreno/",
-     "kind": "other"
-    },
-    {
-     "name": "AP / WTOP – Leviticus review",
-     "url": "https://wtop.com/entertainment/2026/06/movie-review-leviticus-makes-a-demon-out-of-desire-in-an-auspicious-debut-for-adrian-chiarella/",
-     "kind": "tradePress"
-    },
-    {
-     "name": "National Theatre – NT at Home: prova gratuïta i cinc títols nous (7/10/2026)",
-     "url": "https://images.nationaltheatre.org.uk/uploads/2026/10/National-Theatre-at-Home-Free-Trial-Release-FINAL-6-Oct-26.pdf",
-     "kind": "official"
-    }
-   ]
-  }
- ],
- "recommendedTitles": [
-  {
-   "title": "가능한 사랑",
-   "year": 2026,
-   "kind": "film"
-  },
-  {
-   "title": "호프",
-   "year": 2026,
-   "kind": "film"
-  },
-  {
-   "title": "Leviticus",
-   "year": 2026,
-   "kind": "film"
-  },
-  {
-   "title": "Aida",
-   "year": 2026,
-   "kind": "stage"
-  },
-  {
-   "title": "Les Liaisons Dangereuses",
-   "year": 2026,
-   "kind": "stage"
-  }
- ]
+  ]
 }
