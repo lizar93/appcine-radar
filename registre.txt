@@ -1,6 +1,5 @@
-Mon Oct 26 19:01:22 UTC 2026
+Mon Oct 26 19:09:54 UTC 2026
 FALTA LA CLAVE GEMINI_API_KEY
 Python 3.13.17
-ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
 dd6a100 Podcast: un sol podcast al dia (parella britànica per defecte); --mostra compara les dues
-Pas 3 omès: falta GEMINI_API_KEY a l'entorn
+Pas 3 omès: falta GEMINI_API_KEY a l'entorn d'aquesta execució.
