@@ -1,4 +1,4 @@
-Mon Oct 26 19:09:54 UTC 2026
+Mon Oct 26 19:10:35 UTC 2026
 FALTA LA CLAVE GEMINI_API_KEY
 Python 3.13.17
 dd6a100 Podcast: un sol podcast al dia (parella britànica per defecte); --mostra compara les dues
