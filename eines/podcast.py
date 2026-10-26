@@ -14,6 +14,7 @@ cada un amb torns de dos presentadors, «A» (dona) i «B» (home). Els noms de 
 import base64
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -26,6 +27,11 @@ ARREL = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API = "https://generativelanguage.googleapis.com/v1beta"
 MODEL = "gemini-3.8-flash-tts"
 RATE = 24000
+# Pla gratuït: unes 3 peticions per minut. Es fan poques peticions (trossos de ~700 paraules, ~5 minuts d'àudio)
+# i separades.
+PAUSA = 22
+MAX_PARAULES = 700
+_darrera = [0.0]
 
 # Parelles de presentadors. Les veus són de la Voice Library de Google (accent britànic i americà).
 # «voice» buit: es tria sola la primera veu de conversa amb aquest accent i gènere (es pot fixar després de triar).
@@ -53,11 +59,16 @@ def clau():
 
 
 def peticio(metode, cami, cos=None, consulta=None):
+    espera_minima = _darrera[0] + PAUSA - time.time()
+    if metode == "POST" and espera_minima > 0:
+        time.sleep(espera_minima)
+    if metode == "POST":
+        _darrera[0] = time.time()
     url = f"{API}/{cami}" + (("?" + urllib.parse.urlencode(consulta, doseq=True)) if consulta else "")
     dades = json.dumps(cos).encode() if cos is not None else None
     req = urllib.request.Request(url, data=dades, method=metode,
                                  headers={"x-goog-api-key": clau(), "Content-Type": "application/json"})
-    espera = 20
+    espera = 30
     for intent in range(5):
         try:
             with urllib.request.urlopen(req, timeout=600) as resposta:
@@ -143,16 +154,42 @@ def a_m4a(pcm, desti):
                         "-b:a", "64k", "-movflags", "+faststart", desti], check=True)
 
 
+def paraules(segment):
+    return sum(len(re.sub(r"<[^<>]+>|\|[^|]*\|", " ", torn["text"]).split()) for torn in segment["turns"])
+
+
+def trossos(segments):
+    """Agrupa segments seguits fins a ~MAX_PARAULES per fer poques peticions (i que la conversa flueixi)."""
+    grups, actual, total = [], [], 0
+    for segment in segments:
+        n = paraules(segment)
+        if actual and total + n > MAX_PARAULES:
+            grups.append(actual)
+            actual, total = [], 0
+        actual.append(segment)
+        total += n
+    if actual:
+        grups.append(actual)
+    return grups
+
+
 def grava(guio, clau_parella, desti):
     parella = PARELLES[clau_parella]
     silenci = b"\x00\x00" * int(RATE * 0.6)
     pcm, capitols, posicio = b"", [], 0.0
-    for segment in guio["segments"]:
-        so = sintetitza(segment["turns"], parella)
-        capitols.append({"id": segment["id"], "title": segment["title"], "start": round(posicio, 2)})
+    for grup in trossos(guio["segments"]):
+        so = sintetitza([torn for segment in grup for torn in segment["turns"]], parella)
+        durada = len(so) / 2 / RATE
+        # Dins d'un tros, cada segment comença on li toca per les paraules que hi ha abans (aproximat).
+        total = sum(paraules(segment) for segment in grup) or 1
+        abans = 0
+        for segment in grup:
+            capitols.append({"id": segment["id"], "title": segment["title"],
+                             "start": round(posicio + durada * abans / total, 2)})
+            abans += paraules(segment)
         pcm += so + silenci
-        posicio += (len(so) + len(silenci)) / 2 / RATE
-        print(f"  {clau_parella} · {segment['id']}: {len(so) / 2 / RATE:.0f} s", flush=True)
+        posicio += durada + len(silenci) / 2 / RATE
+        print(f"  {clau_parella} · {', '.join(s['id'][-24:] for s in grup)}: {durada:.0f} s", flush=True)
     a_m4a(pcm, desti)
     return round(len(pcm) / 2 / RATE, 1), capitols
 
