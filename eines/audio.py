@@ -48,9 +48,29 @@ VEUS = {
 
 
 def instala():
-    env = {**os.environ, "no_proxy": "", "NO_PROXY": ""}
-    subprocess.run([sys.executable, "-m", "pip", "install", "--break-system-packages", "-q",
-                    "onnxruntime", "piper-tts", "num2words", "numpy"], env=env, check=True)
+    """Instal·la el que falti, sense aturar-se per la xarxa de cada entorn.
+
+    - Primer amb la configuració de xarxa de l'entorn tal qual; si falla, sense no_proxy (en alguns entorns PyPI només
+      surt pel servidor intermediari).
+    - num2words va sense dependències: només necessita docopt per a la seva línia d'ordres, i docopt no té paquet binari
+      i a vegades no s'instal·la (26/10/2026, entorn «Default»).
+    """
+    import importlib.util
+
+    def pip(*args):
+        for env in (dict(os.environ), {**os.environ, "no_proxy": "", "NO_PROXY": ""}):
+            fet = subprocess.run([sys.executable, "-m", "pip", "install", "--break-system-packages", "-q", *args],
+                                 env=env)
+            if fet.returncode == 0:
+                return
+        raise SystemExit("No s'han pogut instal·lar: " + " ".join(args))
+
+    falten = [paquet for modul, paquet in (("numpy", "numpy"), ("onnxruntime", "onnxruntime"), ("piper", "piper-tts"))
+              if importlib.util.find_spec(modul) is None]
+    if falten:
+        pip(*falten)
+    if importlib.util.find_spec("num2words") is None:
+        pip("--no-deps", "num2words")
 
 
 def baixa(url, desti):
