@@ -228,7 +228,12 @@ def main():
             fitxer = f"{idioma}/{data}-{veu['id']}.m4a"
             os.makedirs(os.path.join(sortida, idioma), exist_ok=True)
             inici = datetime.now()
-            durada, capitols = grava(edicio, idioma == "ca", veu, os.path.join(sortida, fitxer))
+            # Si una veu falla (p. ex. la xarxa no deixa baixar-ne el model), es continua amb les altres i el podcast.
+            try:
+                durada, capitols = grava(edicio, idioma == "ca", veu, os.path.join(sortida, fitxer))
+            except Exception as error:  # noqa: BLE001
+                print(f"{fitxer}: no s'ha pogut gravar.", repr(error)[:300], flush=True)
+                continue
             print(f"{fitxer}: {durada / 60:.1f} min d'àudio en {(datetime.now() - inici).seconds / 60:.1f} min", flush=True)
             pistes.append({"language": idioma, "voice": veu["id"], "name": veu["name"], "gender": veu["gender"],
                            "file": fitxer, "durationSeconds": durada, "chapters": capitols})
@@ -241,6 +246,8 @@ def main():
         print("Podcast: no s'ha fet.", error, flush=True)
     except Exception as error:  # noqa: BLE001 — qualsevol error del podcast no ha d'aturar l'àudio
         print("Podcast: no s'ha fet.", repr(error)[:300], flush=True)
+    if not pistes:
+        raise SystemExit("No s'ha pogut gravar cap pista: la branca «audio» es queda com estava.")
     manifest = {"schemaVersion": 1, "date": data,
                 "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "tracks": pistes}
     json.dump(manifest, open(os.path.join(sortida, "latest.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
