@@ -137,6 +137,18 @@ def check_issue(path, errors, today):
             errors.need(len(set(urls)) == len(urls), f"{where}: hi ha enllaços de font repetits")
         kinds_by_url = {s.get("url"): s.get("kind") for s in sources or [] if isinstance(s, dict)}
 
+        report_titles = report.get("titles")
+        if report_titles is not None:
+            if errors.need(isinstance(report_titles, list) and len(report_titles) <= 12,
+                           f"{where}: titles ha de ser una llista de 12 títols com a màxim"):
+                for entry in report_titles:
+                    ok = isinstance(entry, dict) and text_ok(entry.get("title"), 1, 200) \
+                        and (entry.get("year") is None or (isinstance(entry["year"], int) and 1895 <= entry["year"] <= current_year + 5)) \
+                        and entry.get("kind") in ("film", "series") \
+                        and (entry.get("knownAs") is None or text_ok(entry.get("knownAs"), 1, 200)) \
+                        and not re.search(r"\(\d{4}\)\s*$", entry.get("title") or "")
+                    errors.need(ok, f"{where}: títol del reportatge mal fet ({entry!r}); cal title (sense l'any), year si consta i kind film/series")
+
         performance = report.get("filmedPerformance")
         if performance is not None:
             p = performance
@@ -233,7 +245,7 @@ def same_shape(ca, en, errors):
     for a, b in zip(ca.get("reports", []), en.get("reports", [])):
         if not isinstance(a, dict) or not isinstance(b, dict):
             continue
-        for key in ("section", "subject", "status", "evidence", "eventDate", "territory"):
+        for key in ("section", "subject", "status", "evidence", "eventDate", "territory", "titles"):
             errors.need(a.get(key) == b.get(key), f"[{a.get('id')}]: {key} és diferent en ca i en")
         errors.need([s.get("url") for s in a.get("sources", []) if isinstance(s, dict)]
                     == [s.get("url") for s in b.get("sources", []) if isinstance(s, dict)],

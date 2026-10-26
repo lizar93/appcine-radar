@@ -130,6 +130,9 @@ Un objecte JSON UTF-8 de **100 KB com a màxim** per idioma (millor per sota de 
       "evidence": "primarySource",
       "sources": [
         { "name": "Nom de la font", "url": "https://…", "kind": "official" }
+      ],
+      "titles": [
+        { "title": "Títol original", "year": 2026, "kind": "film", "knownAs": "Títol a Espanya (si és diferent)" }
       ]
     }
   ],
@@ -149,6 +152,7 @@ Un objecte JSON UTF-8 de **100 KB com a màxim** per idioma (millor per sota de 
 - Dates del dia: `AAAA-MM-DD`. Dates amb hora: ISO 8601 amb zona (`2026-10-27T05:58:00Z` o `+01:00`).
 - `territory` (de l'edició i opcional a cada reportatge): dues lletres majúscules (`ES`, `US`, `GB`, `FR`…).
 - `eventDate` i el `territory` del reportatge poden ser `null`.
+- `titles` (opcional, però posa-ho sempre que el reportatge parli de pel·lícules o sèries concretes): les pel·lícules i sèries del reportatge que el lector podria demanar al seu servidor (estrenades o anunciades, si ja tenen fitxa a TMDB), amb el mateix format que `recommendedTitles` (`title` original, `year` d'estrena o previst si consta, `kind` `film` o `series`, `knownAs` si cal). L'app hi posa un botó «Request» al costat de cada títol i un «Request all». Màxim 12 per reportatge; sense obres de teatre o òpera (aquestes no es demanen). Idèntic en ca i en.
 
 **Captació completa de teatre o òpera** (només a `stage`), dins del reportatge:
 
