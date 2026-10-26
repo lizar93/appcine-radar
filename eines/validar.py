@@ -252,6 +252,21 @@ def main():
             latest = os.path.join(ARREL, language, "latest.json")
             errors.need(os.path.exists(archived) and open(archived, "rb").read() == open(latest, "rb").read(),
                         f"falta la còpia idèntica a arxiu/{language}/{issue['date']}.json")
+    index_path = os.path.join(ARREL, "arxiu", "index.json")
+    try:
+        index = json.load(open(index_path, encoding="utf-8"))
+        dates = index.get("dates") if isinstance(index, dict) else None
+    except (OSError, json.JSONDecodeError):
+        dates = None
+    if errors.need(isinstance(dates, list) and all(valid_day(d) for d in dates),
+                   "arxiu/index.json ha de ser {\"dates\": [\"AAAA-MM-DD\", …]}"):
+        errors.need(dates == sorted(set(dates), reverse=True), "arxiu/index.json: dates de la més nova a la més antiga i sense repetir")
+        if ca and isinstance(ca.get("date"), str):
+            errors.need(ca["date"] in dates, f"arxiu/index.json: hi falta {ca['date']}")
+        for day in dates:
+            for language in ("ca", "en"):
+                errors.need(os.path.exists(os.path.join(ARREL, "arxiu", language, f"{day}.json")),
+                            f"arxiu/index.json diu {day} però no hi ha arxiu/{language}/{day}.json")
     if errors:
         print(f"{len(errors)} ERRORS:")
         for error in errors:

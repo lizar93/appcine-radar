@@ -5,6 +5,7 @@ Aquest repositori publica cada dia l'edició del **Radar** que llegeix l'app App
 - `ca/latest.json` — l'edició en català.
 - `en/latest.json` — la mateixa edició en anglès.
 - `arxiu/ca/AAAA-MM-DD.json` i `arxiu/en/AAAA-MM-DD.json` — còpia de cada edició.
+- `arxiu/index.json` — la llista de dates amb edició (`{"dates": ["AAAA-MM-DD", …]}`, la més nova primer).
 
 L'app les baixa de `https://raw.githubusercontent.com/lizar93/appcine-radar/main/{ca|en}/latest.json` quan s'obre. Les escriu una tasca programada de Claude cada matí seguint aquest document. Aquest document és l'adaptació del prompt original del Radar (versió del 25/10/2026) a l'app: el contingut és el mateix, però el resultat és el JSON que l'app llegeix, no un text per a un xat.
 
@@ -14,7 +15,7 @@ L'app les baixa de `https://raw.githubusercontent.com/lizar93/appcine-radar/main
 2. **Què s'ha publicat:** llegeix les edicions dels darrers 7 dies a `arxiu/ca/` per no repetir notícies. Una notícia ja publicada només torna si hi ha una novetat real (nova data, nou repartiment, nova confirmació…) i s'explica què ha canviat.
 3. **Recerca web actualitzada** (apartats 2–6): cerca àmplia, multilingüe i contrastada. Llegeix les pàgines, no només els titulars de la cerca. Res de memòria ni de coneixements generals: cada fet ha de tenir una font d'aquesta edició.
 4. **Escriu l'edició en català** a `ca/latest.json` i **la mateixa en anglès** a `en/latest.json` (apartat 8): mateixos reportatges, en el mateix ordre, amb els mateixos `id`, fonts, dates, estat i evidència. Només canvia el text (`headline`, `deck`, `paragraphs`, `name` de les fonts si cal). L'anglès ha de ser natural, no una traducció literal.
-5. **Còpia a l'arxiu:** `arxiu/ca/<data>.json` i `arxiu/en/<data>.json`, idèntiques a `latest.json`.
+5. **Còpia a l'arxiu:** `arxiu/ca/<data>.json` i `arxiu/en/<data>.json`, idèntiques a `latest.json`, i la data al principi de la llista `dates` d'`arxiu/index.json` (de la més nova a la més antiga, sense repetir). L'app hi llegeix les edicions anteriors.
 6. **Comprova:** `python3 eines/validar.py` ha de dir «TOT CORRECTE». Si dona errors, corregeix-los i torna-hi. No pugis mai una edició que no passi la comprovació.
 7. **Puja-ho:** un commit «Edició AAAA-MM-DD» a `main` i `git push`. Si el push falla perquè hi ha canvis a GitHub, `git pull --rebase` i torna a pujar.
 8. **Si un dia no surt bé** (poques fonts, errors que no se solucionen): publica menys reportatges abans que inventar res. Si no es pot fer una edició vàlida, no toquis `latest.json` (l'app continua mostrant l'anterior).
