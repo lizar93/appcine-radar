@@ -27,10 +27,11 @@ ARREL = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API = "https://generativelanguage.googleapis.com/v1beta"
 MODEL = "gemini-3.8-flash-tts"
 RATE = 24000
-# Pla gratuït: unes 3 peticions per minut. Es fan poques peticions (trossos de ~700 paraules, ~5 minuts d'àudio)
-# i separades.
+# Pla gratuït (26/10/2026): unes 3 peticions per minut i unes 10 al dia (es reinicia a mitjanit de Califòrnia, les 9:00
+# a Espanya). Per això cada podcast es fa en ~3 peticions (trossos de ~1.000 paraules, uns 7 minuts d'àudio, dins del
+# límit de sortida) i separades.
 PAUSA = 22
-MAX_PARAULES = 700
+MAX_PARAULES = 1000
 _darrera = [0.0]
 
 # Parelles de presentadors. Les veus són de la Voice Library de Google (accent britànic i americà).
