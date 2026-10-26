@@ -15,10 +15,12 @@ L'app les baixa de `https://raw.githubusercontent.com/lizar93/appcine-radar/main
 2. **Què s'ha publicat:** llegeix les edicions dels darrers 7 dies a `arxiu/ca/` per no repetir notícies. Una notícia ja publicada només torna si hi ha una novetat real (nova data, nou repartiment, nova confirmació…) i s'explica què ha canviat.
 3. **Recerca web actualitzada** (apartats 2–6): cerca àmplia, multilingüe i contrastada. Llegeix les pàgines, no només els titulars de la cerca. Res de memòria ni de coneixements generals: cada fet ha de tenir una font d'aquesta edició.
 4. **Escriu l'edició en català** a `ca/latest.json` i **la mateixa en anglès** a `en/latest.json` (apartat 8): mateixos reportatges, en el mateix ordre, amb els mateixos `id`, fonts, dates, estat i evidència. Només canvia el text (`headline`, `deck`, `paragraphs`, `name` de les fonts si cal). L'anglès ha de ser natural, no una traducció literal.
-5. **Còpia a l'arxiu:** `arxiu/ca/<data>.json` i `arxiu/en/<data>.json`, idèntiques a `latest.json`, i la data al principi de la llista `dates` d'`arxiu/index.json` (de la més nova a la més antiga, sense repetir). L'app hi llegeix les edicions anteriors.
-6. **Comprova:** `python3 eines/validar.py` ha de dir «TOT CORRECTE». Si dona errors, corregeix-los i torna-hi. No pugis mai una edició que no passi la comprovació.
-7. **Puja-ho:** un commit «Edició AAAA-MM-DD» a `main` i `git push`. Si el push falla perquè hi ha canvis a GitHub, `git pull --rebase` i torna a pujar.
-8. **Si un dia no surt bé** (poques fonts, errors que no se solucionen): publica menys reportatges abans que inventar res. Si no es pot fer una edició vàlida, no toquis `latest.json` (l'app continua mostrant l'anterior).
+5. **Guió del podcast** en anglès a `podcast/en.json` (apartat 10), a partir de l'edició anglesa que acabes d'escriure.
+6. **Còpia a l'arxiu:** `arxiu/ca/<data>.json` i `arxiu/en/<data>.json`, idèntiques a `latest.json`, i la data al principi de la llista `dates` d'`arxiu/index.json` (de la més nova a la més antiga, sense repetir). L'app hi llegeix les edicions anteriors.
+7. **Comprova:** `python3 eines/validar.py` ha de dir «TOT CORRECTE». Si dona errors, corregeix-los i torna-hi. No pugis mai una edició que no passi la comprovació.
+8. **Puja-ho:** un commit «Edició AAAA-MM-DD» a `main` i `git push`. Si el push falla perquè hi ha canvis a GitHub, `git pull --rebase` i torna a pujar.
+9. **Grava l'àudio** (després d'haver pujat l'edició): `python3 eines/audio.py`. Llegeix `ca/latest.json` i `en/latest.json`, grava l'edició amb veus naturals (català: Elia; anglès: Cori i Alan), grava el podcast de `podcast/en.json` amb Gemini (si hi ha la clau `GEMINI_API_KEY` a l'entorn; si no n'hi ha o falla, la resta surt igual) i reescriu la branca `audio` amb l'àudio d'avui. Tarda una bona estona (sobretot el català): deixa-ho acabar. Ha d'acabar amb «TOT CORRECTE». Si falla, torna-ho a provar una vegada; si torna a fallar, deixa-ho estar: l'edició escrita ja és a `main` i l'app la llegeix amb la veu de l'iPhone. No editis mai la branca `audio` a mà.
+10. **Si un dia no surt bé** (poques fonts, errors que no se solucionen): publica menys reportatges abans que inventar res. Si no es pot fer una edició vàlida, no toquis `latest.json` (l'app continua mostrant l'anterior).
 
 No hi ha cap secret ni clau en aquest repositori ni n'hi ha de posar mai cap. És públic.
 
@@ -193,3 +195,41 @@ D'1 a 80 entrades; `scope` és `selectedHighlights` (selecció) o `reportedCompl
 ## 9. Objectiu
 
 Una revista de cinema diària, experta, crítica i internacional, útil per a un espectador de Catalunya; amb un radar real d'enregistraments de teatre i òpera; amb la informació confirmada separada de la provisional; i llegible de cap a peus dins de l'app, en català o en anglès.
+
+## 10. Guió del podcast (`podcast/en.json`, en anglès)
+
+Cada dia, un podcast d'uns **20 minuts** en què dos presentadors comenten l'edició: **A** (dona) i **B** (home). Els noms no s'escriuen: posa `{A}` i `{B}` i l'eina hi posa els de cada parella (la britànica i l'americana). Es grava amb Gemini, que llegeix el text tal qual.
+
+**Contingut:** només el que diu l'edició anglesa d'avui (mateixos fets, xifres, dates, fonts i notes d'afinitat), sense espòilers i sense inventar res. Es pot dir de qui és una crítica («Time Out says…»), però no es llegeixen URL. Les dates sempre amb el territori quan importa (Espanya, EUA…).
+
+**To:** conversa natural entre dos amics que saben molt de cinema. Un porta la notícia, l'altre pregunta, reacciona, fa una broma, la relaciona amb els gustos del perfil. Frases curtes, de dir en veu alta; alguna vacil·lació natural («so…», «honestly?») però poca. Res de llistes llegides: si hi ha molts títols, se'n destaquen tres o quatre i es diu que la resta és a l'edició. Cap anunci, cap «don't forget to subscribe».
+
+**Expressió (Gemini):** etiquetes entre angles dins del text, en anglès, només aquestes: `<laugh>`, `<chuckle>`, `<giggle>`, `<sigh>`, `<short pause>`, `<long pause>`, `<breath>`, `<gasp>`, `<tsk>`, `<phew>`. Reaccions curtes de l'altre presentador entre barres verticals dins el torn de qui parla: `|oh really?|`, `|no way|`. Amb mesura: una o dues rialles per segment, no a cada frase. Opcionalment, `style` curt en un torn (`"amused"`, `"excited"`), però normalment buit.
+
+**Estructura:**
+- `intro` (30–45 s): data, qui són, de què es parlarà (els tres temes forts).
+- Un segment per reportatge, en el mateix ordre que l'edició, amb el seu `id`. Es pot saltar algun reportatge menor (no el calendari: si se salta, les dates es diuen dins dels altres segments). Els forts, 2–3 minuts; els petits, 30–60 segons.
+- `picks`: les recomanacions del dia, comentades breument.
+- `outro`: la idea del dia en dues frases i comiat («See you tomorrow on the Radar»).
+
+**Llargada:** entre **2.400 i 3.800 paraules** en total (sense comptar etiquetes). Cada torn, fins a 900 caràcters.
+
+```json
+{
+  "schemaVersion": 1,
+  "date": "AAAA-MM-DD",
+  "title": "World Cinema Radar — the podcast, Monday 26 October 2026",
+  "segments": [
+    {"id": "intro", "title": "Welcome", "turns": [
+      {"speaker": "A", "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}…"},
+      {"speaker": "B", "text": "…and I'm {B}. <chuckle> Big week for horror."}
+    ]},
+    {"id": "<id d'un reportatge>", "title": "Títol curt del segment", "turns": [ … ]},
+    {"id": "picks", "title": "Our picks", "turns": [ … ]},
+    {"id": "outro", "title": "Goodbye", "turns": [ … ]}
+  ]
+}
+```
+
+`python3 eines/validar.py` el comprova (data, segments, torns, etiquetes, paraules).
+

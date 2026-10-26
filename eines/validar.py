@@ -252,12 +252,65 @@ def same_shape(ca, en, errors):
                     f"[{a.get('id')}]: les fonts són diferents en ca i en")
 
 
+ETIQUETES = {"laugh", "laughter", "laughs", "chuckle", "chuckles", "giggle", "sigh", "sighs", "short pause", "long pause",
+             "breath", "gasp", "tsk", "snicker", "exhales", "throat-clearing", "phew", "pff", "cough", "groan"}
+
+
+def check_podcast(en, errors):
+    """podcast/en.json (apartat 10 d'INSTRUCCIONS): el guió del podcast en anglès de l'edició d'avui."""
+    path = os.path.join(ARREL, "podcast", "en.json")
+    if not errors.need(os.path.exists(path), "falta podcast/en.json (el guió del podcast, apartat 10)"):
+        return
+    try:
+        script = json.load(open(path, encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        errors.append(f"podcast/en.json: no és JSON UTF-8 vàlid ({error})")
+        return
+    if not errors.need(isinstance(script, dict), "podcast/en.json ha de ser un objecte"):
+        return
+    errors.need(script.get("schemaVersion") == 1, "podcast/en.json: schemaVersion ha de ser 1")
+    if en:
+        errors.need(script.get("date") == en.get("date"), "podcast/en.json: la data ha de ser la de l'edició")
+    segments = script.get("segments")
+    if not errors.need(isinstance(segments, list) and 4 <= len(segments) <= 20,
+                       "podcast/en.json: «segments» ha de ser una llista de 4 a 20 trossos"):
+        return
+    report_ids = {r.get("id") for r in (en or {}).get("reports", []) if isinstance(r, dict)}
+    words, ids = 0, []
+    for number, segment in enumerate(segments, 1):
+        tag = f"podcast/en.json, segment {number}"
+        if not errors.need(isinstance(segment, dict), f"{tag}: ha de ser un objecte"):
+            continue
+        ident = segment.get("id")
+        errors.need(ident in report_ids or ident in ("intro", "outro", "picks"),
+                    f"{tag}: «id» ha de ser el d'un reportatge de l'edició, «intro», «picks» o «outro»")
+        ids.append(ident)
+        errors.need(text_ok(segment.get("title"), 2, 90), f"{tag}: «title» (2–90 caràcters)")
+        turns = segment.get("turns")
+        if not errors.need(isinstance(turns, list) and 2 <= len(turns) <= 40, f"{tag}: «turns», de 2 a 40 torns"):
+            continue
+        for turn in turns:
+            if not errors.need(isinstance(turn, dict) and turn.get("speaker") in ("A", "B")
+                               and text_ok(turn.get("text"), 2, 900), f"{tag}: cada torn porta «speaker» A o B i «text» (fins a 900 caràcters)"):
+                continue
+            for etiqueta in re.findall(r"<([^<>]+)>", turn["text"]):
+                errors.need(etiqueta.strip().lower() in ETIQUETES, f"{tag}: etiqueta desconeguda <{etiqueta}>")
+            if turn.get("style") is not None:
+                errors.need(text_ok(turn.get("style"), 2, 60), f"{tag}: «style», curt (fins a 60 caràcters)")
+            words += len(re.sub(r"<[^<>]+>|\|[^|]*\|", " ", turn["text"]).split())
+    errors.need(len(ids) == len(set(ids)), "podcast/en.json: hi ha segments repetits")
+    errors.need(ids[:1] == ["intro"] and ids[-1:] == ["outro"], "podcast/en.json: comença amb «intro» i acaba amb «outro»")
+    errors.need(2400 <= words <= 3800, f"podcast/en.json: {words} paraules; han de ser entre 2.400 i 3.800 (uns 20 minuts)")
+
+
 def main():
     today = None if "--sense-data" in sys.argv else datetime.now(MADRID).strftime("%Y-%m-%d")
     errors = Errors()
     ca = check_issue(os.path.join(ARREL, "ca", "latest.json"), errors, today)
     en = check_issue(os.path.join(ARREL, "en", "latest.json"), errors, today)
     same_shape(ca, en, errors)
+    if "--sense-podcast" not in sys.argv:
+        check_podcast(en, errors)
     for language, issue in (("ca", ca), ("en", en)):
         if issue and isinstance(issue.get("date"), str):
             archived = os.path.join(ARREL, "arxiu", language, f"{issue['date']}.json")
