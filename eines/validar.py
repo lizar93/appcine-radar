@@ -205,6 +205,7 @@ def check_issue(path, errors, today):
             ok = isinstance(entry, dict) and text_ok(entry.get("title"), 1, 200) \
                 and isinstance(entry.get("year"), int) and 1895 <= entry["year"] <= current_year + 2 \
                 and entry.get("kind") in ("film", "stage") \
+                and (entry.get("knownAs") is None or text_ok(entry.get("knownAs"), 1, 200)) \
                 and not re.search(r"\(\d{4}\)\s*$", entry.get("title") or "")
             errors.need(ok, f"{tag}: títol recomanat mal fet ({entry!r}); cal title (sense l'any), year i kind film/stage")
             if isinstance(entry, dict):

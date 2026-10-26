@@ -100,6 +100,7 @@ Totes les pel·lícules **recomanades explícitament** a l'edició (de qualsevol
 - `title`: el **títol original**, exacte, sense l'any ni cap afegit (ni «òpera», ni director, ni plataforma, ni nota).
 - `year`: l'any verificat (nombre).
 - `kind`: `film` o `stage`.
+- `knownAs` (opcional): el títol amb què es coneix aquí o en anglès quan l'original és un altre o va en un altre alfabet (p. ej. `"title": "가능한 사랑", "knownAs": "Possible Love"`). No surt al TXT; l'app el mostra a sota i l'usa per trobar la pel·lícula al servidor.
 - Fora: sèries, tràilers, fragments, obres només esmentades com a comparació, títols no recomanats i qualsevol obra sense any verificat (no l'estimis ni posis l'any de producció si no és el d'estrena).
 - Sense repetits. La llista és **idèntica** en ca i en (són títols originals).
 
@@ -132,7 +133,7 @@ Un objecte JSON UTF-8 de **100 KB com a màxim** per idioma (millor per sota de 
     }
   ],
   "recommendedTitles": [
-    { "title": "Títol original", "year": 2025, "kind": "film" },
+    { "title": "Títol original", "year": 2025, "kind": "film", "knownAs": "Títol a Espanya o en anglès (si és diferent)" },
     { "title": "Títol original de l'obra", "year": 2024, "kind": "stage" }
   ]
 }
