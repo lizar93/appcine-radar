@@ -41,6 +41,9 @@ PARELLES = {
     "us": {"label": "American", "A": {"name": "Jess", "voice": None}, "B": {"name": "Mike", "voice": None}},
 }
 ACCENT = {"uk": "British", "us": "American"}
+# 26/10/2026: el propietari vol UN sol podcast (li és igual britànic o americà). Es grava només aquesta parella;
+# --mostra fa servir totes dues per comparar.
+ACTIVES = ["uk"]
 
 
 class ErrorGemini(Exception):
@@ -208,7 +211,8 @@ def grava_tots(sortida, data):
     tria_veus()
     pistes = []
     os.makedirs(os.path.join(sortida, "en"), exist_ok=True)
-    for clau_parella, parella in PARELLES.items():
+    for clau_parella in ACTIVES:
+        parella = PARELLES[clau_parella]
         fitxer = f"en/{data}-podcast-{clau_parella}.m4a"
         inici = time.time()
         durada, capitols = grava(guio, clau_parella, os.path.join(sortida, fitxer))
