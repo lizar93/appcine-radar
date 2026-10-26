@@ -91,7 +91,17 @@ L'estructura del prompt original (A–K) es reparteix en un màxim de **12 repor
 
 - **Diumenge:** el reportatge `calendar` fa la previsió dels set dies següents i el `recommendation` inclou un balanç de la setmana (sense repetir les notícies ja explicades).
 - **Dia 1 de cada mes:** el `calendar` és el calendari de tot el mes.
-- El fitxer TXT de recomanacions del prompt original no es fa: l'app ho mostra tot dins de l'edició.
+- **Llista de títols recomanats** (el TXT del prompt original): va dins del JSON, al camp `recommendedTitles` (apartat 8). L'app la mostra al final de l'edició i la deixa copiar o desar com a `pellicules_recomanades_AAAA-MM-DD.txt`.
+
+### Llista de títols recomanats (`recommendedTitles`, obligatòria)
+
+Totes les pel·lícules **recomanades explícitament** a l'edició (de qualsevol secció: notícies, plataformes, festivals, edicions físiques, calendari i recomanacions de l'editor) que tinguin l'**any d'estrena verificat** amb fonts fiables, i les **captacions completes** de teatre i òpera recomanades amb l'**any de l'enregistrament o de l'estrena audiovisual** contrastat (mai l'any de l'obra o de la composició).
+
+- `title`: el **títol original**, exacte, sense l'any ni cap afegit (ni «òpera», ni director, ni plataforma, ni nota).
+- `year`: l'any verificat (nombre).
+- `kind`: `film` o `stage`.
+- Fora: sèries, tràilers, fragments, obres només esmentades com a comparació, títols no recomanats i qualsevol obra sense any verificat (no l'estimis ni posis l'any de producció si no és el d'estrena).
+- Sense repetits. La llista és **idèntica** en ca i en (són títols originals).
 
 ## 8. Format del JSON (el que l'app accepta)
 
@@ -120,6 +130,10 @@ Un objecte JSON UTF-8 de **100 KB com a màxim** per idioma (millor per sota de 
         { "name": "Nom de la font", "url": "https://…", "kind": "official" }
       ]
     }
+  ],
+  "recommendedTitles": [
+    { "title": "Títol original", "year": 2025, "kind": "film" },
+    { "title": "Títol original de l'obra", "year": 2024, "kind": "stage" }
   ]
 }
 ```

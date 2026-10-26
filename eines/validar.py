@@ -197,6 +197,21 @@ def check_issue(path, errors, today):
                 if isinstance(entry, dict):
                     entry_ids.add(entry.get("id"))
 
+    titles = issue.get("recommendedTitles")
+    if errors.need(isinstance(titles, list) and 1 <= len(titles) <= 80,
+                   f"{tag}: recommendedTitles ha de ser una llista d'1 a 80 títols (la llista «Títol original (ANY)»)"):
+        seen_titles = set()
+        for entry in titles:
+            ok = isinstance(entry, dict) and text_ok(entry.get("title"), 1, 200) \
+                and isinstance(entry.get("year"), int) and 1895 <= entry["year"] <= current_year + 2 \
+                and entry.get("kind") in ("film", "stage") \
+                and not re.search(r"\(\d{4}\)\s*$", entry.get("title") or "")
+            errors.need(ok, f"{tag}: títol recomanat mal fet ({entry!r}); cal title (sense l'any), year i kind film/stage")
+            if isinstance(entry, dict):
+                key = (str(entry.get("title")).strip().lower(), entry.get("year"), entry.get("kind"))
+                errors.need(key not in seen_titles, f"{tag}: títol recomanat repetit ({entry.get('title')})")
+                seen_titles.add(key)
+
     errors.need(any(isinstance(r, dict) and r.get("section") == "stage" for r in reports),
                 f"{tag}: falta el reportatge obligatori de teatre i òpera filmats (section stage)")
     errors.need(any(isinstance(r, dict) and r.get("section") == "recommendation" for r in reports),
@@ -209,6 +224,8 @@ def same_shape(ca, en, errors):
     if not ca or not en:
         return
     errors.need(ca.get("date") == en.get("date"), "ca i en tenen dates diferents")
+    errors.need(ca.get("recommendedTitles") == en.get("recommendedTitles"),
+                "recommendedTitles ha de ser idèntica en ca i en (són títols originals)")
     ids_ca = [r.get("id") for r in ca.get("reports", []) if isinstance(r, dict)]
     ids_en = [r.get("id") for r in en.get("reports", []) if isinstance(r, dict)]
     errors.need(ids_ca == ids_en, f"ca i en no tenen els mateixos reportatges en el mateix ordre: {ids_ca} / {ids_en}")
