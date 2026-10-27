@@ -43,7 +43,9 @@ PARELLES = {
 ACCENT = {"uk": "British", "us": "American"}
 # 26/10/2026: el propietari vol UN sol podcast (li és igual britànic o americà). Es grava només aquesta parella;
 # --mostra fa servir totes dues per comparar.
-ACTIVES = ["uk"]
+# 27/10/2026: el podcast el grava cada nit el Mac mini del propietari amb Dia (AppCine/PodcastMac, fora del
+# repositori) i l'afegeix a la branca «audio». Aquí ja no es grava cap parella; --mostra encara les fa servir.
+ACTIVES = []
 
 
 class ErrorGemini(Exception):

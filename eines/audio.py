@@ -245,8 +245,9 @@ def main():
         import podcast
         noves = podcast.grava_tots(sortida, data)
         pistes += noves
-        if not noves:
-            avis_podcast = "No s'ha gravat cap podcast (falta el guió del dia o no hi ha parelles actives)."
+        # Sense parelles actives no és cap error: el podcast el grava el Mac mini (Dia) i l'afegeix després.
+        if not noves and podcast.ACTIVES:
+            avis_podcast = "No s'ha gravat cap podcast (falta el guió del dia)."
     except SystemExit as error:
         avis_podcast = str(error)
     except Exception as error:  # noqa: BLE001 — qualsevol error del podcast no ha d'aturar l'àudio

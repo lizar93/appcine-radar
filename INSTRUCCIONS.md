@@ -198,13 +198,13 @@ Una revista de cinema diària, experta, crítica i internacional, útil per a un
 
 ## 10. Guió del podcast (`podcast/en.json`, en anglès)
 
-Cada dia, un podcast d'uns **20 minuts** en què dos presentadors comenten l'edició: **A** (dona) i **B** (home). Els noms no s'escriuen: posa `{A}` i `{B}` i l'eina hi posa els de cada parella (la britànica i l'americana). Es grava amb Gemini, que llegeix el text tal qual.
+Cada dia, un podcast d'uns **20 minuts** en què dos presentadors comenten l'edició: **A** (dona) i **B** (home). Els noms no s'escriuen: posa `{A}` i `{B}` i l'eina hi posa els noms (Ellie i Tom). **No el gravis aquí:** el grava cada nit, a partir de la 1:00, el Mac mini del propietari amb Dia (veus naturals en local) i l'afegeix a la branca `audio`. Per això aquesta tasca s'ha d'executar a les **0:15** i el guió ha d'estar publicat a `main` com més aviat millor.
 
 **Contingut:** només el que diu l'edició anglesa d'avui (mateixos fets, xifres, dates, fonts i notes d'afinitat), sense espòilers i sense inventar res. Es pot dir de qui és una crítica («Time Out says…»), però no es llegeixen URL. Les dates sempre amb el territori quan importa (Espanya, EUA…).
 
 **To:** conversa natural entre dos amics que saben molt de cinema. Un porta la notícia, l'altre pregunta, reacciona, fa una broma, la relaciona amb els gustos del perfil. Frases curtes, de dir en veu alta; alguna vacil·lació natural («so…», «honestly?») però poca. Res de llistes llegides: si hi ha molts títols, se'n destaquen tres o quatre i es diu que la resta és a l'edició. Cap anunci, cap «don't forget to subscribe».
 
-**Expressió (Gemini):** etiquetes entre angles dins del text, en anglès, només aquestes: `<laugh>`, `<chuckle>`, `<giggle>`, `<sigh>`, `<short pause>`, `<long pause>`, `<breath>`, `<gasp>`, `<tsk>`, `<phew>`. Reaccions curtes de l'altre presentador entre barres verticals dins el torn de qui parla: `|oh really?|`, `|no way|`. Amb mesura: una o dues rialles per segment, no a cada frase. Opcionalment, `style` curt en un torn (`"amused"`, `"excited"`), però normalment buit.
+**Expressió:** etiquetes entre angles dins del text, en anglès, només aquestes: `<laugh>`, `<chuckle>`, `<giggle>`, `<sigh>`, `<short pause>`, `<long pause>`, `<breath>`, `<gasp>`, `<tsk>`, `<phew>`. Reaccions curtes de l'altre presentador entre barres verticals dins el torn de qui parla: `|oh really?|`, `|no way|`. Amb mesura: una o dues rialles per segment, no a cada frase. Opcionalment, `style` curt en un torn (`"amused"`, `"excited"`), però normalment buit. Dia només fa servir `<laugh>`, `<giggle>`, `<chuckle>`, `<sigh>`, `<gasp>` i `<breath>`; les altres es treuen. Frases curtes: Dia grava a trossos d'unes 38 paraules.
 
 **Estructura:**
 - `intro` (30–45 s): data, qui són, de què es parlarà (els tres temes forts).
