@@ -1,198 +1,593 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-26",
-  "title": "World Cinema Radar — the podcast, Monday 26 October 2026",
+  "date": "2026-10-28",
+  "title": "World Cinema Radar — the podcast, Wednesday 28 October 2026",
   "segments": [
     {
       "id": "intro",
       "title": "Welcome",
       "turns": [
-        {"speaker": "A", "text": "Hello, and welcome to World Cinema Radar, the podcast. It's Monday the twenty-sixth of October, I'm {A}…"},
-        {"speaker": "B", "text": "…and I'm {B}. And {A}, it's All Saints' week, which means one thing in the release schedule."},
-        {"speaker": "A", "text": "Horror. <laugh> So much horror."},
-        {"speaker": "B", "text": "Korean horror, Australian horror, a man made of wicker… |a what?| We'll get to him. Plus a big Ishiguro adaptation that's had a rough weekend in America, Lee Chang-dong's first film in eight years, and some really good filmed theatre and opera you can watch from the sofa."},
-        {"speaker": "A", "text": "Everything we mention comes from today's edition of the Radar, with the sources linked in the app. And no spoilers, I promise. Shall we?"},
-        {"speaker": "B", "text": "Let's go."}
+        {
+          "speaker": "A",
+          "text": "Hello, and welcome to World Cinema Radar, the podcast. It's Wednesday the twenty-eighth of October, and I'm {A}."
+        },
+        {
+          "speaker": "B",
+          "text": "And I'm {B}. <chuckle> Good morning, {A}. Today feels like an awards-season sort of day."
+        },
+        {
+          "speaker": "A",
+          "text": "It does. We have the Gotham nominations, which came out yesterday, and a prize in Helsinki for a Norwegian film that you and I both adore."
+        },
+        {
+          "speaker": "B",
+          "text": "Then a box office story with a bit of a plot twist, a rumour about a very classy reunion, and some filmed theatre you can watch tonight."
+        },
+        {
+          "speaker": "A",
+          "text": "Plus a look back at Sitges, who won what, and a calendar of dates to put in your diary."
+        },
+        {
+          "speaker": "B",
+          "text": "Everything we say comes from today's edition of the Radar, with every source linked in the app. And as always, no spoilers."
+        },
+        {
+          "speaker": "A",
+          "text": "Right. Shall we start with the Gothams?"
+        },
+        {
+          "speaker": "B",
+          "text": "Let's go."
+        }
       ]
     },
     {
-      "id": "2026-10-26-klara-sol-taquilla",
-      "title": "Klara and the Sun stumbles in the US",
+      "id": "2026-10-28-gotham-nominacions",
+      "title": "The Gotham nominations",
       "turns": [
-        {"speaker": "B", "text": "So. Taika Waititi. Kazuo Ishiguro. Jenna Ortega and Amy Adams. On paper, that's an event."},
-        {"speaker": "A", "text": "On paper. <chuckle> How did it actually do?"},
-        {"speaker": "B", "text": "Klara and the Sun opened in North America over the weekend of the twenty-third to the twenty-fifth with roughly seven hundred and twenty-five thousand dollars, from eight hundred and eighty cinemas. That's according to studio estimates gathered by One Mann's Movies."},
-        {"speaker": "A", "text": "Oof. <short pause> That's one of the softest openings of the autumn, isn't it?"},
-        {"speaker": "B", "text": "It is. It ended up right at the bottom of the chart, next to the Helen Mirren film A Talent for Murder. And the critics haven't rescued it. Olly Richards in Time Out says Waititi's broad approach flattens the subtleties of the book, and that the mix of childish gags and thin drama never really settles."},
-        {"speaker": "A", "text": "Which is a shame, because the premise is so lovely. An artificial friend, watching over a family that's been shaped by loss. That's pure Ishiguro."},
-        {"speaker": "B", "text": "It is, and it does have defenders. The One Mann's Movies writer says he loved it. But the consensus so far is lukewarm."},
-        {"speaker": "A", "text": "And what actually won the weekend?"},
-        {"speaker": "B", "text": "DC Studios' Clayface, with twenty-four million in North America and nineteen million elsewhere. Variety, via Numlock, calls that a little soft against expectations. The Elizabeth Holmes documentary You Can See Everything, from Nathan Fielder and Lance Oppenheim, grew in its second weekend to nineteen and a half million. And Laika's new stop-motion film, Wildwood, opened with about eleven million."},
-        {"speaker": "A", "text": "For listeners in Spain, Klara y el sol opens this Friday, the thirtieth, through Sony. Jenna Ortega, Amy Adams, and Steve Buscemi too."},
-        {"speaker": "B", "text": "On our own profile score, it's a two out of five. That's not a critics' rating, just how well it fits what we usually recommend."},
-        {"speaker": "A", "text": "So… go if you love the book, but maybe keep your expectations in check. <sigh> I'll probably still go."},
-        {"speaker": "B", "text": "Of course you will. <laugh>"}
+        {
+          "speaker": "A",
+          "text": "So, the Gotham Awards, the big independent-film awards in America, announced their nominations yesterday, the twenty-seventh. The ceremony is on the thirtieth of November."
+        },
+        {
+          "speaker": "B",
+          "text": "And five films lead the pack with four nominations each. <short pause> All of a Sudden, Clarissa, La Gradiva, The Invite and Tender Loving Care."
+        },
+        {
+          "speaker": "A",
+          "text": "Honestly? That is a very auteur-friendly list. The one I look at first is Best International Feature. Ten nominees."
+        },
+        {
+          "speaker": "B",
+          "text": "|Ten?| Yes, ten. And Lee Chang-dong's Possible Love is in there. You remember, it lands on Netflix on the sixth of November."
+        },
+        {
+          "speaker": "A",
+          "text": "How could I forget. It was our top pick last Monday. Minotaur is in that category too, plus Filipiñana, Fatherland and Blue Heron."
+        },
+        {
+          "speaker": "B",
+          "text": "And the directing category is lovely. Ryusuke Hamaguchi for All of a Sudden, Sandra Wollner for Everytime, Andrey Zvyagintsev for Minotaur…"
+        },
+        {
+          "speaker": "A",
+          "text": "…Jane Schoenbrun for Teenage Sex and Death at Camp Miasma, which is a title I will never say fast, and Mike Leigh for Tender Loving Care. <chuckle>"
+        },
+        {
+          "speaker": "B",
+          "text": "Mike Leigh next to Zvyagintsev. That is a dinner party I would like to be at."
+        },
+        {
+          "speaker": "A",
+          "text": "In the documentary category there's You Can See Everything, the Nathan Fielder film. We'll come back to it in a minute, because it's having a very good box office run."
+        },
+        {
+          "speaker": "B",
+          "text": "And the Audience Award list includes La Bola Negra, Backrooms and Project Hail Mary, among others."
+        },
+        {
+          "speaker": "A",
+          "text": "A caveat, though. These are American awards. They tell us nothing about when these films reach Spain."
+        },
+        {
+          "speaker": "B",
+          "text": "Right. But as a map of the international auteur season, it's a useful one. Our editorial affinity is four out of five, medium confidence, for that international category. And remember, that's our guide, not a critics' score."
+        },
+        {
+          "speaker": "A",
+          "text": "One thing I like about the Gotham list is how mixed it is. You have a Japanese director, an Austrian one, a Russian one, an American one and a British one, all in the same category."
+        },
+        {
+          "speaker": "B",
+          "text": "And three of those five are names this Radar has followed for years. Hamaguchi, Zvyagintsev and Leigh. <chuckle> Our taste is showing."
+        },
+        {
+          "speaker": "A",
+          "text": "It is. And if you only have time for one name from the international list, I'd say start with the one that's already on its way to your living room, Possible Love."
+        },
+        {
+          "speaker": "B",
+          "text": "Because the others have no Spanish date that we could verify. So, again, nominations are a map, not a release calendar."
+        },
+        {
+          "speaker": "A",
+          "text": "And do not forget the date. The thirtieth of November. We'll remind you in the calendar."
+        },
+        {
+          "speaker": "B",
+          "text": "We always do."
+        }
       ]
     },
     {
-      "id": "2026-10-26-estrenes-30-octubre",
-      "title": "Friday's releases: Hope, Leviticus and Wicker",
+      "id": "2026-10-28-nordic-sentimental-value",
+      "title": "The Nordic Council Film Prize",
       "turns": [
-        {"speaker": "A", "text": "Right, Friday the thirtieth. Twelve films reach Spanish cinemas, and for once I know exactly where I'm starting."},
-        {"speaker": "B", "text": "Na Hong-jin."},
-        {"speaker": "A", "text": "Na Hong-jin! The director of The Wailing is back, with a film called Hope. Police are sent after a mysterious creature in a remote village, and pretty soon the hunters become the hunted."},
-        {"speaker": "B", "text": "And the cast is wild. Hwang Jung-min, Zo In-sung, Hoyeon… and then Alicia Vikander and Michael Fassbender turn up as well."},
-        {"speaker": "A", "text": "In a Korean creature film! <laugh> I love it. It runs a hundred and sixty minutes, it was in the Official Selection at Cannes this year, where, according to AVPasión, it caused quite a stir. MUBI is distributing it in Spain."},
-        {"speaker": "B", "text": "A hundred and sixty minutes is a big-screen commitment."},
-        {"speaker": "A", "text": "It's a big-screen film! We haven't seen it yet, so this is based on the director's track record and the Cannes reception, but it's a four out of five on our profile."},
-        {"speaker": "B", "text": "Then there's Leviticus, from Australia, directed by Adrian Chiarella. Two teenagers in an isolated religious community fall into a forbidden romance… and a supernatural presence, tied to a so-called conversion therapy practice, starts to stalk them."},
-        {"speaker": "A", "text": "That's a seriously unsettling idea."},
-        {"speaker": "B", "text": "It is. The AP gave it three and a half out of four and called it an auspicious debut. It's a tight eighty-eight minutes, and it just won the Citizen Kane award for best new director at Sitges. YouPlanet Pictures is releasing it. Also a four out of five for us."},
-        {"speaker": "A", "text": "Okay, now. <short pause> The wicker man."},
-        {"speaker": "B", "text": "Not that Wicker Man. <laugh> This one's called Wicker. It's British, directed by Alex Huston Fischer and Eleanor Wilson, and it's about an ostracised fisherwoman who commissions a husband… woven out of wicker."},
-        {"speaker": "A", "text": "|as you do| As you do."},
-        {"speaker": "B", "text": "Olivia Colman plays her, with Alexander Skarsgård, Peter Dinklage and Richard E. Grant. It's a fantasy comedy, loosely based on a story by Ursula Wills-Jones, and it premiered at Sundance. TheWrap found it well-meaning but a bit wooden…"},
-        {"speaker": "A", "text": "Wooden! <laugh> They didn't."},
-        {"speaker": "B", "text": "I'm just reporting it. Other Sundance reviews were warmer. Vértice Cine has it in Spain. Three out of five, low confidence."},
-        {"speaker": "A", "text": "And from France, something gentler: Tiempos de ilusión, or Juste une illusion, from Olivier Nakache and Eric Toledano, the duo behind The Intouchables. A boy who's nearly thirteen, in the Paris suburbs in 1985, caught between his first love and a family under strain. Louis Garrel and Camille Cottin are in it."},
-        {"speaker": "B", "text": "Diego Batlle at Otros Cines calls it warm, popular and effective, if occasionally a bit over-sentimental. A Contracorriente has it, and it's a three out of five for us."},
-        {"speaker": "A", "text": "And the Spanish titles: Aritz Moreno's Karateka, about the champion Sandra Sánchez and her coach; Javier Giner's Esta soledad, a relationship drama with Omar Ayuso; and El mundo es ansí, a docufiction about a student obsessed with Pío Baroja."},
-        {"speaker": "B", "text": "Plus Adam Wingard's Aniquilación, which is Onslaught in English. One practical note: our source, Cinemagavia, doesn't list screen counts or subtitled and Catalan versions, so check your local cinema."}
+        {
+          "speaker": "B",
+          "text": "Next, a bit of Nordic news. The Nordic Council Film Prize goes to Sentimental Value, by Joachim Trier."
+        },
+        {
+          "speaker": "A",
+          "text": "Winner announced on the twentieth of October, and the prize is presented today, the twenty-seventh, in Helsinki, at the Nordic Council session."
+        },
+        {
+          "speaker": "B",
+          "text": "The prize money is three hundred thousand Danish kroner, shared equally between Joachim Trier, his co-writer Eskil Vogt, and the producers Maria Ekerhovd and Andrea Berentsen Ottmar."
+        },
+        {
+          "speaker": "A",
+          "text": "And Screen Daily reported the dollar value with two slightly different figures in two stories, so we'll stay with the kroner. <chuckle>"
+        },
+        {
+          "speaker": "B",
+          "text": "Very sensible. Here's the bit I like. According to the Council, it's the first time all the Nordic prize winners in one year come from the same country."
+        },
+        {
+          "speaker": "A",
+          "text": "|Same country?| Norway. All of them."
+        },
+        {
+          "speaker": "B",
+          "text": "Quite a year for Norway. Now, one honest note. We haven't verified for this edition when or where you can see it in Spain, so check your usual distributor or platform."
+        },
+        {
+          "speaker": "A",
+          "text": "And we haven't read reviews for this edition either, so our affinity is four out of five with low confidence. That's us being careful."
+        },
+        {
+          "speaker": "A",
+          "text": "It's also a nice reminder that a prize like this is shared. Not just the director. The writer and the producers get a share too."
+        },
+        {
+          "speaker": "B",
+          "text": "Which is rare, and rather lovely. Producers rarely get the spotlight, and yet without them, no film."
+        },
+        {
+          "speaker": "A",
+          "text": "Exactly. And we'll keep an eye out for the Spanish release information, because that's what you really want to know, isn't it?"
+        },
+        {
+          "speaker": "B",
+          "text": "It is. When we have a verified date, you'll hear it here."
+        }
       ]
     },
     {
-      "id": "2026-10-26-possible-love-filmin",
-      "title": "Lee Chang-dong's Possible Love, and Filmin in November",
+      "id": "2026-10-28-clayface-taquilla",
+      "title": "The weekend box office",
       "turns": [
-        {"speaker": "A", "text": "{B}, this is the one I'm most excited about this week."},
-        {"speaker": "B", "text": "Lee Chang-dong. Eight years after Burning."},
-        {"speaker": "A", "text": "Eight years! His new film is called Possible Love, and Netflix has confirmed it streams worldwide from the sixth of November, after cinema runs in Korea, Australia, the US, the UK and Japan."},
-        {"speaker": "B", "text": "But no Spanish cinema release listed, right?"},
-        {"speaker": "A", "text": "Not that we've seen, so it's Netflix for us. Jeon Do-yeon, Sul Kyung-gu, Zo In-sung and Cho Yeo-jeong lead the cast."},
-        {"speaker": "B", "text": "And without spoiling anything, what's it about?"},
-        {"speaker": "A", "text": "A cheerful woman who works in a paper factory, and her husband, who's still scarred by a strike that failed. They get drawn into the orbit of a documentary filmmaker and her wealthy husband, because she decides she wants to film them."},
-        {"speaker": "B", "text": "Two couples, a camera and class tension. That's very Lee Chang-dong."},
-        {"speaker": "A", "text": "Exactly. Rory O'Connor, reviewing from Venice for The Film Stage, calls it the triumph his admirers had hoped for. He praises the novelistic script, though he notes the politics sometimes weigh on the drama."},
-        {"speaker": "B", "text": "And it's a five out of five on our profile, which… doesn't happen often."},
-        {"speaker": "A", "text": "It doesn't! <laugh> Asian auteur cinema, a relationship drama with a thriller's tension. It ticks every box."},
-        {"speaker": "B", "text": "Meanwhile, Filmin's November looks good too. On the sixth: Pietro Marcello's Eleonora Duse, la divina, with Valeria Bruni Tedeschi as the great Italian stage actress; Barrio triste, a debut produced by Harmony Korine; and Broken English, the Marianne Faithfull documentary."},
-        {"speaker": "A", "text": "Then later in the month: Bàrbara Farré's first feature, Mala bèstia, on the twentieth; Love Letters, from Cannes' Critics' Week, on the twenty-sixth; and on the twenty-seventh, Hlynur Pálmason's new Iceland-set film."},
-        {"speaker": "B", "text": "If I had to pick one, it's the Marcello. A portrait of Duse is very much our kind of thing."}
+        {
+          "speaker": "A",
+          "text": "Now the box office, and this one has two stories in one. First, Clayface, the DC Studios film."
+        },
+        {
+          "speaker": "B",
+          "text": "Sunday estimates, so remember these are provisional. About twenty-four million dollars in North America, around forty-three million worldwide, and the net budget is forty-four."
+        },
+        {
+          "speaker": "A",
+          "text": "Roger's Movie Nation said on Friday that it wasn't hitting the usual superhero numbers. It did get an A-minus CinemaScore, though, according to ComicBookMovie."
+        },
+        {
+          "speaker": "B",
+          "text": "So, decent, but nobody's throwing a parade. <short pause> In the UK and Ireland it came second, behind Ghosts: The Possession of Button House."
+        },
+        {
+          "speaker": "A",
+          "text": "And then the second story. You Can See Everything, A24's documentary by Nathan Fielder and Lance Oppenheim, about Elizabeth Holmes."
+        },
+        {
+          "speaker": "B",
+          "text": "It went up twenty-five percent in its second weekend. Nineteen and a half million dollars."
+        },
+        {
+          "speaker": "A",
+          "text": "A documentary going up in its second weekend. <laugh> That's word of mouth for you."
+        },
+        {
+          "speaker": "B",
+          "text": "And Laika's stop-motion film Wildwood opened with eleven point six million in the US, plus three million from other markets. It also won the audience award at Sitges, which we'll get to."
+        },
+        {
+          "speaker": "A",
+          "text": "The whole weekend was ninety-four point nine million, down eleven percent on the week before."
+        },
+        {
+          "speaker": "B",
+          "text": "So the market is shrinking, a blockbuster is lukewarm, and a documentary is climbing. Quite a picture."
+        },
+        {
+          "speaker": "A",
+          "text": "One more caveat. We haven't verified the Spanish release dates for any of these, so no promises on when they arrive here."
+        },
+        {
+          "speaker": "A",
+          "text": "What I find interesting is the contrast. A big studio film with a proper marketing push lands with a shrug, and a documentary about a corporate fraud climbs."
+        },
+        {
+          "speaker": "B",
+          "text": "People like stories about real people behaving strangely. <laugh> It's an old truth."
+        },
+        {
+          "speaker": "A",
+          "text": "And these are all Sunday estimates, remember. The confirmed numbers can move a little, so treat all of this as a snapshot."
+        },
+        {
+          "speaker": "B",
+          "text": "A snapshot of a market that, as we said, is down on last week. Right, onwards."
+        },
+        {
+          "speaker": "A",
+          "text": "So, if you're a box office watcher, keep one eye on the confirmed numbers when they arrive."
+        },
+        {
+          "speaker": "B",
+          "text": "And one eye on whether the documentary keeps climbing. That's the story I'd follow."
+        }
       ]
     },
     {
-      "id": "2026-10-26-series-novembre",
-      "title": "November series",
+      "id": "2026-10-28-haynes-las-criadas",
+      "title": "Todd Haynes and Genet",
       "turns": [
-        {"speaker": "B", "text": "Quick tour of November's series, because there's a lot."},
-        {"speaker": "A", "text": "Go on, I'm ready. <chuckle>"},
-        {"speaker": "B", "text": "The big Spanish thriller is Infamia, on HBO Max from the thirteenth. It's based on Ledicia Costas's novel, six episodes, with Susana Abaitua, Jorge Bosch and Eva Llorach."},
-        {"speaker": "A", "text": "And the same day, Netflix has El crimen de Pazos: a three-part miniseries from Ramón Campos and Bambú, drawn from a real crime in Galicia, with Tristán Ulloa and Carlos Blanco. There's a companion documentary a week earlier, on the sixth."},
-        {"speaker": "B", "text": "For period drama: the third and final season of The Empress, on Netflix on the twelfth. And on Filmin, The New Bookish Cases, from the third, with a bookseller-detective in London in 1946."},
-        {"speaker": "A", "text": "Oh, that one's mine. |of course it is| A British period mystery with books. <laugh> Of course it's mine."},
-        {"speaker": "B", "text": "Also on Filmin: the third season of the Danish Carmen Curlers, set in the sixties, and the return of the French political drama Baron Noir."},
-        {"speaker": "A", "text": "And the rest, very fast?"},
-        {"speaker": "B", "text": "Black Doves season two, with Keira Knightley and Ben Whishaw, on the fifth. The Body, a psychological horror series from Quinn Shephard, on the eleventh. The Rings of Power season three, also the eleventh, on Prime. The Altruists, about the collapse of FTX, on the nineteenth. And Blade Runner 2099, with Michelle Yeoh, on the twenty-fifth."},
-        {"speaker": "A", "text": "None of these has been available to watch yet, so treat our scores as hunches: Bookish four, Infamia three, and The Body three if you like horror."}
+        {
+          "speaker": "B",
+          "text": "Now, a project. And honestly, this is the one that made me sit up. Todd Haynes is preparing an adaptation of The Maids, the play by Jean Genet."
+        },
+        {
+          "speaker": "A",
+          "text": "|Genet?| Yes. In French it's Les Bonnes. He said so in an interview with the French magazine Le Point, and The Film Stage picked it up on the twenty-third of October."
+        },
+        {
+          "speaker": "B",
+          "text": "His next project after De Noche. He described a very specific take, and then politely refused to say anything more."
+        },
+        {
+          "speaker": "A",
+          "text": "<chuckle> The classic director move."
+        },
+        {
+          "speaker": "B",
+          "text": "Now, here's where we have to be careful. The article says Cate Blanchett will likely star. That's the author's assumption, not a confirmation."
+        },
+        {
+          "speaker": "A",
+          "text": "Though she did play in the stage version in 2013, so it's not a wild guess."
+        },
+        {
+          "speaker": "B",
+          "text": "True. But the status is simply this: announced by the director himself. No dates, no producers, no screenwriter confirmed. And the Blanchett part is a rumour."
+        },
+        {
+          "speaker": "A",
+          "text": "The article expects more news when De Noche premieres, which it puts around May 2027. Again, the author's expectation, not an announcement."
+        },
+        {
+          "speaker": "B",
+          "text": "But as a combination, auteur cinema and classic theatre, it's exactly what this Radar likes. Affinity four out of five, low confidence, because there's nothing to watch yet."
+        },
+        {
+          "speaker": "A",
+          "text": "And the play itself is such a good choice for a film. Two women, one house, a lot of tension, and a lot of room for a director to play with performance and artifice."
+        },
+        {
+          "speaker": "B",
+          "text": "Haynes is a director who loves artifice. Think of how carefully he builds his period worlds."
+        },
+        {
+          "speaker": "A",
+          "text": "Careful, though, we shouldn't make up what the film will be. All we know is the title and the director's one line about a specific take."
+        },
+        {
+          "speaker": "B",
+          "text": "Fair. So we wait, and we file it under announced, with a rumour attached. Not a promise."
+        }
       ]
     },
     {
-      "id": "2026-10-26-liceu-aida-digital",
-      "title": "The Liceu's Aida, streaming now",
+      "id": "2026-10-28-nt-at-home-audience-war-horse",
+      "title": "The Audience and War Horse",
       "turns": [
-        {"speaker": "A", "text": "Now, opera. And this is something you can watch tonight."},
-        {"speaker": "B", "text": "The Liceu's Aida."},
-        {"speaker": "A", "text": "Yes! The production that opened the 2026–27 season at Barcelona's Gran Teatre del Liceu had its digital premiere yesterday, Sunday the twenty-fifth, on the house's own platform, LiceuOPERA+. The complete recording."},
-        {"speaker": "B", "text": "And it's not a conventional staging."},
-        {"speaker": "A", "text": "Not at all. It's directed by the visual artist Shirin Neshat, who also designed the video. It's a co-production with the Opéra national de Paris, based on her original Salzburg Festival production. The platform highlights Anna Pirozzi as Aida and Piotr Beczała as Radamès."},
-        {"speaker": "B", "text": "One honest caveat from the edition: Antonello Manacorda or Josep Gil conducted, depending on the night, and the Liceu doesn't say which performance was filmed. So the conductor and full cast of the recording aren't confirmed."},
-        {"speaker": "A", "text": "Good point. In the house it ran about three hours twenty with the interval, so… snacks. <laugh>"},
-        {"speaker": "B", "text": "Lots of snacks. And access: you can buy the title on its own, or subscribe to the digital season. The Liceu advertises ninety euros for the general public and forty-five for subscribers."},
-        {"speaker": "A", "text": "It's the first of six digital premieres this season. The next one is Bellini's I Capuleti e i Montecchi, on the twenty-second of November."},
-        {"speaker": "B", "text": "Grand opera, a contemporary artist's reading, and a home-grown Barcelona production. Four out of five."}
+        {
+          "speaker": "A",
+          "text": "Now our daily dose of filmed theatre, which is the part I look forward to. National Theatre at Home, and two titles that arrived on the twenty-second of October."
+        },
+        {
+          "speaker": "B",
+          "text": "The Audience, by Peter Morgan, directed by Stephen Daldry, with Helen Mirren as Queen Elizabeth the Second."
+        },
+        {
+          "speaker": "A",
+          "text": "And a detail that matters. This is the West End performance from 2013. So the recording year is 2013, not this year."
+        },
+        {
+          "speaker": "B",
+          "text": "Right, we always separate those. The other title is War Horse, from Nick Stafford, based on Michael Morpurgo's novel."
+        },
+        {
+          "speaker": "A",
+          "text": "That one is a new capture of the recent return to the Olivier Theatre, with the life-sized puppets from Handspring Puppet Company and music by Adrian Sutton."
+        },
+        {
+          "speaker": "B",
+          "text": "And honestly, War Horse is a show where the puppets are the actors. I'd love to see how a camera handles that."
+        },
+        {
+          "speaker": "A",
+          "text": "Same. <giggle> Now, they were two of five autumn arrivals. All My Sons with Bryan Cranston on the first of September, Teeth 'N' Smiles on the eighth, and The Fifth Step with Jack Lowden and Martin Freeman on the first of October."
+        },
+        {
+          "speaker": "B",
+          "text": "Access. The platform says it's available worldwide, with a seven-day free trial, a monthly or annual subscription, and a rental option."
+        },
+        {
+          "speaker": "A",
+          "text": "But the announcement gives no prices and no territorial limits, and we could not confirm that these two titles are available from Spain. So check before you get excited."
+        },
+        {
+          "speaker": "B",
+          "text": "Our affinity for The Audience is four out of five, medium confidence. We haven't seen the recording."
+        },
+        {
+          "speaker": "A",
+          "text": "And what I like about The Audience is the format. It's a play made of conversations, a queen and her prime ministers, one weekly meeting at a time."
+        },
+        {
+          "speaker": "B",
+          "text": "Which suits a camera very well. Close-ups of Mirren doing small, precise things with her face."
+        },
+        {
+          "speaker": "A",
+          "text": "Though we haven't seen the recording, so that's our expectation, not a verdict. We never pretend we've watched something we've only read about."
+        },
+        {
+          "speaker": "B",
+          "text": "Never. If you try it, tell us what you think. And remember the platform says all its shows have captions, and over ninety percent have audio description."
+        },
+        {
+          "speaker": "B",
+          "text": "One last thing. The recording year for The Audience is 2013. It's an older capture of a production from the West End, so don't expect the latest staging."
+        },
+        {
+          "speaker": "A",
+          "text": "Which is perfectly fine for a play this good."
+        }
       ]
     },
     {
-      "id": "2026-10-26-nt-liaisons-dangereuses",
-      "title": "Les Liaisons Dangereuses at home",
+      "id": "2026-10-28-sitges-palmares",
+      "title": "Sitges looks back",
       "turns": [
-        {"speaker": "B", "text": "Staying with filmed theatre: National Theatre at Home releases Les Liaisons Dangereuses on the third of November."},
-        {"speaker": "A", "text": "With Lesley Manville. |and Aidan Turner| And Aidan Turner! Christopher Hampton's adaptation of Laclos, directed by Marianne Elliott, and filmed live in the Lyttelton during this year's run."},
-        {"speaker": "B", "text": "The London reviews were respectable rather than rapturous. Sam Marlowe gave it three stars in The Stage. He says the two leads make those cruel games of seduction genuinely entertaining, but felt the production was short on a clear sense of purpose."},
-        {"speaker": "A", "text": "Honestly, Manville and Turner trading barbs in eighteenth-century costume? I'm there. <chuckle>"},
-        {"speaker": "B", "text": "And the rest of the season is strong. Tom Stoppard's Arcadia, directed by Carrie Cracknell and captured at the Old Vic, on the twenty-sixth of November. The Playboy of the Western World with Nicola Coughlan, and the musical Kinky Boots, both on the first of December. And Emma Rice's A Child's Christmas in Wales on the eighth."},
-        {"speaker": "A", "text": "It's a subscription service, nine ninety-nine a month or ninety-nine ninety-nine a year, and there's a seven-day free trial for new subscribers worldwide. The announcement mentions more than a hundred and eighty-four countries, but it doesn't name Spain specifically or detail subtitles."},
-        {"speaker": "B", "text": "So check before you sign up. Four out of five from us."}
+        {
+          "speaker": "B",
+          "text": "Let's do a quick look back at Sitges, which closed with its winners published on the seventeenth."
+        },
+        {
+          "speaker": "A",
+          "text": "Best film in the official section: Sanguine, by Marion Le Corroller. Special Jury Prize to Drag, and Joko Anwar is best director for Ghost in the Cell."
+        },
+        {
+          "speaker": "B",
+          "text": "Jasmine Trinca won best actress for The Spiral, by Paolo Strippoli, and Benoît Magimel best actor for Historias de la noche, by Léa Mysius."
+        },
+        {
+          "speaker": "A",
+          "text": "And the Citizen Kane award for best new director went to Adrian Chiarella, for Leviticus."
+        },
+        {
+          "speaker": "B",
+          "text": "Which, if you read Monday's edition, opens in Spain on the thirtieth of October. That's the one we recommended for All Saints' week."
+        },
+        {
+          "speaker": "A",
+          "text": "Also: Colony, by Yeon Sang-ho, won best visual effects, and it closes the Tokyo festival on the fourth of November."
+        },
+        {
+          "speaker": "B",
+          "text": "And the audience chose Wildwood, from Travis Knight. So the same film is at the box office and at Sitges. Neat."
+        },
+        {
+          "speaker": "A",
+          "text": "One caveat. The article we read doesn't give the full list or the gala date. The complete palmarés is on the festival's website."
+        },
+        {
+          "speaker": "B",
+          "text": "I like that this list is so international. French, Italian, Indonesian, Korean, Argentine, Spanish. A proper map of genre cinema."
+        },
+        {
+          "speaker": "A",
+          "text": "And a nice thread through today's show. Leviticus, Colony, Wildwood, they all appear in more than one story this week."
+        },
+        {
+          "speaker": "B",
+          "text": "That happens at festival time. The same titles keep turning up, and that's usually a sign they're worth a look."
+        },
+        {
+          "speaker": "A",
+          "text": "Which is why we point you to the official site for the full list. We only had a partial one today."
+        },
+        {
+          "speaker": "A",
+          "text": "If horror is your thing, the whole palmarés is a good shopping list, especially for the winter evenings."
+        },
+        {
+          "speaker": "B",
+          "text": "A shopping list with no spoilers, which is how we like it."
+        }
       ]
     },
     {
-      "id": "2026-10-26-fisic-novembre",
-      "title": "November on disc",
+      "id": "2026-10-28-calendari",
+      "title": "Dates to remember",
       "turns": [
-        {"speaker": "A", "text": "For the collectors listening… {B}, this one's for you."},
-        {"speaker": "B", "text": "It really is. <laugh> According to Mubis's calendar for the Spanish market, the classics cluster between the seventeenth and the twenty-third of November."},
-        {"speaker": "A", "text": "Highlights?"},
-        {"speaker": "B", "text": "On the seventeenth, The Umbrellas of Cherbourg on Blu-ray, plus Glengarry Glen Ross. On the eighteenth, a 4K collector's edition of Gone with the Wind, The Remains of the Day on Blu-ray, and High Society in 4K in a steelbook. And on the twenty-third, the western La búsqueda in 4K, and In Cold Blood on Blu-ray."},
-        {"speaker": "A", "text": "The Umbrellas of Cherbourg and The Remains of the Day. That's a lovely little shelf."},
-        {"speaker": "B", "text": "It is. But a warning: the calendar doesn't give the label, the restoration, the audio tracks or the subtitles, and dates can move. So check each edition's listing before you buy."}
-      ]
-    },
-    {
-      "id": "2026-10-26-seminci-recta-final",
-      "title": "Seminci's final stretch",
-      "turns": [
-        {"speaker": "B", "text": "Festivals. Valladolid's Seminci, the seventy-first edition, runs until Saturday the thirty-first, when it announces the Golden Spike."},
-        {"speaker": "A", "text": "It opened with Lili Horvát's My Notes on Mars, and it closes with Hombre al agua, which Gael García Bernal is presenting."},
-        {"speaker": "B", "text": "In competition: İlker Çatak's Yellow Letters, Anthony Chen's We Are All Strangers, Ali Asgari's A Bit of Light, Markus Schleinzer's Rose… and three Spanish films: Ione Hernández's Hermanas, Las islas afortunadas by Helena Girón and Samuel Delgado, and La violinista."},
-        {"speaker": "A", "text": "And the honorary Spike goes to the Chilean filmmaker Valeria Sarmiento. Just remember, playing at Valladolid doesn't guarantee a Spanish cinema release."}
-      ]
-    },
-    {
-      "id": "2026-10-26-tokyo-molins",
-      "title": "Tokyo, Molins de Rei and the Sitges awards",
-      "turns": [
-        {"speaker": "A", "text": "Further afield, Tokyo is under way until the fourth of November."},
-        {"speaker": "B", "text": "With Lisandro Alonso and Bahman Ghobadi in competition, among fifteen films. But {A}, the real treat is the retrospective."},
-        {"speaker": "A", "text": "Kenji Mizoguchi! Ugetsu, Sansho the Bailiff… <sigh> I would fly to Tokyo just for that. There's also an eight-film selection from Youssef Chahine, including Cairo Station, and Yeon Sang-ho's new film, Colony."},
-        {"speaker": "B", "text": "Closer to home, the Molins de Rei horror festival, its forty-fifth edition, is in November, with a found-footage retrospective, from Cannibal Holocaust to REC. The official site gives two different sets of dates, though, so wait for the programme."},
-        {"speaker": "A", "text": "<chuckle> Classic. And a quick Sitges recap: best film went to the French film Sanguine, by Marion Le Corroller. Best director, Joko Anwar for Ghost in the Cell. The audience award went to Wildwood, and best actress to Jasmine Trinca for The Spiral."},
-        {"speaker": "B", "text": "And Leviticus, which won best first feature there, is the one opening on Friday. Everything connects."}
-      ]
-    },
-    {
-      "id": "2026-10-26-buen-camino-rodatge",
-      "title": "Buen Camino starts shooting",
-      "turns": [
-        {"speaker": "B", "text": "One production story. Cameras are rolling on Buen Camino, the Spanish version of the Italian comedy that Cinerama describes as the highest-grossing film in Italian history."},
-        {"speaker": "A", "text": "Wow. Who's in it?"},
-        {"speaker": "B", "text": "Susan Béjar directs, with Jordi Sánchez, Venecia Franco and Joaquín Reyes, plus Antonio Resines and Carlos Areces, among others. It started in O Cebreiro and moves on to Galicia, Gran Canaria and Madrid. No release date yet."},
-        {"speaker": "A", "text": "A big family comedy, not really our usual territory, so it's a two. But we'll keep an eye on it."}
+        {
+          "speaker": "A",
+          "text": "Now, dates for your diary. Today, the twenty-eighth, at Seminci in Valladolid, they screen Andrzej Wajda's Los brujos inocentes with live music."
+        },
+        {
+          "speaker": "B",
+          "text": "The festival runs until the thirty-first. That's the closing night, with Hombre al agua, by Gael García Bernal, and the awards."
+        },
+        {
+          "speaker": "A",
+          "text": "Twenty-two features compete for the Golden Spike. The jury includes Francesca Andreoli, Grégoire Hetzel, Dennis Lim, Elena Manrique and Federico Veiroj, and Elvira Mínguez gets the Honorary Spike."
+        },
+        {
+          "speaker": "B",
+          "text": "The opening film was My Notes on Mars, by Lili Horvát. On the fourth of November, the Tokyo festival closes with Colony."
+        },
+        {
+          "speaker": "A",
+          "text": "Then the twenty-second of November, the Liceu's digital season continues with Bellini's I Capuleti e i Montecchi. And the thirtieth, the Gotham ceremony."
+        },
+        {
+          "speaker": "B",
+          "text": "And all of these are the organisers' dates. They don't mean a commercial release in Spain."
+        },
+        {
+          "speaker": "A",
+          "text": "If I had to choose one date, it's Saturday the thirty-first. Seminci closes, the awards are given, and you get a clear picture of the autumn's festival cinema."
+        },
+        {
+          "speaker": "B",
+          "text": "I'd say the fourth of November, only because it's a nice contrast. A zombie action film closing a big festival in Tokyo."
+        },
+        {
+          "speaker": "A",
+          "text": "<chuckle> That's a fair point. Genre cinema wins at the closing night."
+        },
+        {
+          "speaker": "B",
+          "text": "And one last reminder: nothing on this list is a Spanish release date unless we said so. Dates belong to whoever organises the event."
+        },
+        {
+          "speaker": "A",
+          "text": "Good rule. Keep it handy."
+        }
       ]
     },
     {
       "id": "picks",
       "title": "Our picks",
       "turns": [
-        {"speaker": "A", "text": "Okay, {B}. Our picks for the next few days. You first."},
-        {"speaker": "B", "text": "Number one has to be Possible Love. Lee Chang-dong, on Netflix from the sixth of November."},
-        {"speaker": "A", "text": "Agreed. Number two: Hope, Na Hong-jin, in cinemas from Friday. Go big screen."},
-        {"speaker": "B", "text": "Three: the Liceu's Aida, in Shirin Neshat's staging, which you can watch right now on LiceuOPERA+."},
-        {"speaker": "A", "text": "Four: Leviticus, also from Friday. Eighty-eight minutes of very creepy, very sad horror."},
-        {"speaker": "B", "text": "And five: Les Liaisons Dangereuses on National Theatre at Home, from the third. The reviews were mixed, but that acting duel is worth the free trial."},
-        {"speaker": "A", "text": "And all of those are in the app's list of recommended titles, so you can request the films straight away."}
+        {
+          "speaker": "A",
+          "text": "Picks, then. Number one: Possible Love, Lee Chang-dong, on Netflix on the sixth of November. Affinity five out of five, medium confidence."
+        },
+        {
+          "speaker": "B",
+          "text": "Number two: Leviticus, by Adrian Chiarella, in Spanish cinemas on the thirtieth. Supernatural horror, and the Sitges prize for best new director."
+        },
+        {
+          "speaker": "A",
+          "text": "Number three: The Audience, with Helen Mirren, the 2013 recording. Four out of five, but check access from Spain first."
+        },
+        {
+          "speaker": "B",
+          "text": "And remember, those scores are a guide, not critics' or audience ratings."
+        },
+        {
+          "speaker": "A",
+          "text": "Let me add a word on why these three. Possible Love is the safest: a verified date, a platform, and a director we trust."
+        },
+        {
+          "speaker": "B",
+          "text": "Leviticus is the one for the people who want a proper scare on the thirtieth. Short, around ninety minutes, and it has a prize from a festival that knows its horror."
+        },
+        {
+          "speaker": "A",
+          "text": "And The Audience is the stay-at-home option. A cup of tea, Helen Mirren, a bit of British history. <chuckle>"
+        },
+        {
+          "speaker": "B",
+          "text": "If you only pick one for tonight, that's the one I'd go for, as long as it plays from where you are. Check access first."
+        },
+        {
+          "speaker": "A",
+          "text": "Exactly. And we will tell you more as soon as we have it verified."
+        }
       ]
     },
     {
       "id": "outro",
       "title": "Goodbye",
       "turns": [
-        {"speaker": "B", "text": "So, the takeaway from today: an All Saints' week full of auteur horror, from Korea, from Australia, with Molins de Rei on the horizon…"},
-        {"speaker": "A", "text": "…and a reminder from Klara and the Sun that a great novel and a popular director guarantee nothing. <laugh>"},
-        {"speaker": "B", "text": "Brutal, but fair. And filmed theatre and opera are in great shape, between the Liceu and the National Theatre."},
-        {"speaker": "A", "text": "The scores we mentioned are just our guide, not critics' or audience ratings. Every source is linked in today's edition."},
-        {"speaker": "B", "text": "That's all for today. I'm {B}…"},
-        {"speaker": "A", "text": "…and I'm {A}. See you tomorrow on the Radar. Bye!"}
+        {
+          "speaker": "B",
+          "text": "So the idea of the day: the awards are pointing at auteur cinema, the box office is showing a lukewarm blockbuster and a growing documentary…"
+        },
+        {
+          "speaker": "A",
+          "text": "…and Todd Haynes may be taking Genet to the screen. <laugh> Which is a nice sentence to say."
+        },
+        {
+          "speaker": "B",
+          "text": "It is. All the sources are linked in today's edition."
+        },
+        {
+          "speaker": "A",
+          "text": "That's all for today. I'm {A}…"
+        },
+        {
+          "speaker": "B",
+          "text": "…and I'm {B}. See you tomorrow on the Radar."
+        }
       ]
     }
-  ]
+  ],
+  "pronunciations": {
+    "Ryusuke Hamaguchi": "Ree-oo-skeh Hah-mah-goo-chee",
+    "Zvyagintsev": "Zvyah-geen-tsev",
+    "Joachim Trier": "Yo-ah-keem Treer",
+    "Eskil Vogt": "Eh-skeel Vogt",
+    "Sandra Wollner": "Sahn-drah Vol-ner",
+    "Lee Chang-dong": "Lee Chahng-dong",
+    "Jean Genet": "Zhon Zheh-nay",
+    "Marion Le Corroller": "Mah-ree-on Luh Ko-ro-lay",
+    "Joko Anwar": "Joh-koh Ahn-wahr",
+    "Jasmine Trinca": "Jas-meen Treen-kah",
+    "Benoît Magimel": "Ben-wah Mah-zhee-mel",
+    "Léa Mysius": "Lay-ah Mee-see-oos",
+    "Paolo Strippoli": "Pah-oh-loh Stree-poh-lee",
+    "Yeon Sang-ho": "Yawn Sahng-ho",
+    "Gael García Bernal": "Gah-el Gar-see-ah Bair-nahl",
+    "Hombre al agua": "Om-bray ahl Ah-gwah",
+    "Elvira Mínguez": "El-vee-rah Meen-geth",
+    "Lili Horvát": "Lee-lee Hor-vaht",
+    "Los brujos inocentes": "Los Broo-hos Ee-noh-sen-tes",
+    "Andrzej Wajda": "Ahn-jay Vai-dah",
+    "Historias de la noche": "Ees-toh-ree-ahs deh lah Noh-cheh",
+    "I Capuleti e i Montecchi": "Ee Kah-poo-leh-tee eh ee Mon-teck-ee",
+    "Bellini": "Bel-lee-nee",
+    "Liceu": "Lee-seh-oo",
+    "Filipiñana": "Fee-lee-pee-nyah-nah",
+    "Les Bonnes": "Lay Bonn",
+    "Grégoire Hetzel": "Gray-gwar Het-zel",
+    "Francesca Andreoli": "Frahn-ches-kah Ahn-dreh-oh-lee",
+    "Federico Veiroj": "Feh-deh-ree-koh Bay-roh",
+    "Elena Manrique": "Eh-leh-nah Mahn-ree-keh",
+    "La Bola Negra": "Lah Boh-lah Neh-grah",
+    "Seminci": "Seh-meen-thee"
+  }
 }
