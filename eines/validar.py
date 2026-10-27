@@ -299,6 +299,10 @@ def check_podcast(en, errors):
                 errors.need(text_ok(turn.get("style"), 2, 60), f"{tag}: «style», curt (fins a 60 caràcters)")
             words += len(re.sub(r"<[^<>]+>|\|[^|]*\|", " ", turn["text"]).split())
     errors.need(len(ids) == len(set(ids)), "podcast/en.json: hi ha segments repetits")
+    pron = script.get("pronunciations", {})
+    errors.need(isinstance(pron, dict) and len(pron) <= 150
+                and all(text_ok(k, 2, 80) and text_ok(v, 2, 120) for k, v in pron.items()),
+                "podcast/en.json: «pronunciations» ha de ser un objecte {nom: com es llegeix} (fins a 150, textos curts)")
     errors.need(ids[:1] == ["intro"] and ids[-1:] == ["outro"], "podcast/en.json: comença amb «intro» i acaba amb «outro»")
     errors.need(2400 <= words <= 3800, f"podcast/en.json: {words} paraules; han de ser entre 2.400 i 3.800 (uns 20 minuts)")
 

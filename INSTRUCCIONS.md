@@ -212,6 +212,8 @@ Cada dia, un podcast d'uns **20 minuts** en què dos presentadors comenten l'edi
 - `picks`: les recomanacions del dia, comentades breument.
 - `outro`: la idea del dia en dues frases i comiat («See you tomorrow on the Radar»).
 
+**Pronúncia dels noms (`pronunciations`, obligatori si n'hi ha):** Dia és un model anglès i s'empassa o destrossa els noms que no ho són (catalans, castellans, coreans, japonesos, francesos, italians…). Afegeix al JSON un objecte `pronunciations` amb cada nom propi no anglès del guió (persones, títols, festivals, sales, llocs) i com s'ha de llegir escrit a l'anglesa, per síl·labes amb guionets: `{"Liceu": "Lee-seh-oo", "Ione Hernández": "Ee-oh-neh Air-nahn-deth", "Na Hong-jin": "Nah Hong-jin"}`. La clau ha de ser exactament com surt al text (respectant majúscules i accents); al text dels torns, el nom es deixa normal. Els noms anglesos i els molt coneguts (Netflix, Cannes ja hi és) no cal posar-los. El Mac en té una llista fixa (Liceu, Sitges, Seminci, Filmin, Valladolid…) i les del guió hi passen per davant.
+
 **Llargada:** entre **2.400 i 3.800 paraules** en total (sense comptar etiquetes). Cada torn, fins a 900 caràcters.
 
 ```json
