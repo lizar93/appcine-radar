@@ -1,305 +1,135 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "territory": "ES",
-  "generatedAt": "2026-10-27T23:40:00Z",
+  "generatedAt": "2026-10-28T23:30:00Z",
   "reports": [
     {
-      "id": "2026-10-28-gotham-nominacions",
-      "section": "news",
+      "id": "2026-10-29-hbo-max-novembre",
+      "section": "services",
       "subject": "film",
-      "headline": "Gotham Awards 2026 lean toward auteur cinema: Lee Chang-dong's 'Possible Love', Hamaguchi, Zvyagintsev and Mike Leigh among the nominees",
-      "deck": "America's independent-film awards announced their nominations yesterday, 27 October. The ceremony takes place on 30 November.",
+      "headline": "HBO Max fills November with cinema: 'Jojo Rabbit', 'The Whale' and 'Black Swan' on the 5th, 'Tres de más' on the 20th",
+      "deck": "HBO Max's Spanish catalogue announces a batch of films for November with specific dates, plus several European original series.",
       "paragraphs": [
-        "According to The Film Stage, five titles lead the nominations with four each: 'All of a Sudden', 'Clarissa', 'La Gradiva', 'The Invite' and 'Tender Loving Care'. The Gotham ceremony is scheduled for 30 November.",
-        "The category that matters most for auteur-minded viewers is Best International Feature, with ten nominees, among them 'Possible Love' (Lee Chang-dong, arriving on Netflix on 6 November), 'Minotaur', 'Filipiñana', 'Fatherland' and 'Blue Heron'. The directing category pits Ryusuke Hamaguchi ('All of a Sudden'), Sandra Wollner ('Everytime'), Andrey Zvyagintsev ('Minotaur'), Jane Schoenbrun ('Teenage Sex and Death at Camp Miasma') and Mike Leigh ('Tender Loving Care') against each other.",
-        "Among the documentaries is 'You Can See Everything', Nathan Fielder and Lance Oppenheim's film, which made headlines this weekend at the box office. The Audience Award list includes 'La Bola Negra', 'Backrooms' and 'Project Hail Mary', among others.",
-        "Why it matters: these are American awards and say nothing about when the films will reach Spain, but they work as a map of the season's international auteur cinema. Editorial affinity 4/5, medium confidence for the international category (not a critics' score)."
+        "According to the calendar published by AVPasión (updated Wednesday 28), 'Jojo Rabbit' (Taika Waititi), 'The Whale' and 'Black Swan' (Darren Aronofsky) reach HBO Max in Spain on 5 November, together with 'Constantine' and 'The Color of Money'. On the 12th come 'Dangerous Minds', 'Contact' and 'Little Miss Sunshine', and on the 26th 'Locura padre' and 'El soldado de Dios'. These are platform dates for Spain; the articles consulted do not give years or directors for every title.",
+        "The Spanish comedy 'Tres de más' arrives on the 20th after its theatrical run. On the series side, Que.es lists 'The Gilded Age' (season 4) on 2 November, the Italian 'Melania Rea' on the 6th, 'Ciudad de Dios: La lucha no para' on the 8th and the thriller 'Infamia' on the 13th; the same day also lists two European productions, the Polish 'Silent Night' and the Hungarian 'Maniacs of Truth', without further details. 'The Good Daughter', an adaptation of a Karin Slaughter novel, appears on the 12th.",
+        "Why it matters: for this reader's profile, the interest is the November cycle with 'Black Swan' (psychological horror) and 'Jojo Rabbit' (period satire) on the same date, plus the curiosity of the two Eastern European series. Editorial affinity 3/5, medium confidence (not a critics' score). Both sources are non-official specialist press: check the platform."
       ],
-      "publishedAt": "2026-10-27T16:00:00Z",
-      "eventDate": "2026-11-30",
-      "territory": "US",
-      "status": "confirmed",
-      "evidence": "singleSource",
-      "sources": [
-        {
-          "name": "The Film Stage – Gotham Awards nominations",
-          "url": "https://thefilmstage.com/all-of-a-sudden-clarissa-la-gradiva-the-invite-and-tender-loving-care-lead-2026-gotham-awards-nominations/",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
-        {
-          "title": "가능한 사랑",
-          "year": 2026,
-          "kind": "film",
-          "knownAs": "Possible Love"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-28-nordic-sentimental-value",
-      "section": "news",
-      "subject": "film",
-      "headline": "Joachim Trier's 'Sentimental Value' receives the Nordic Council Film Prize in Helsinki",
-      "deck": "The Norwegian film was named winner on 20 October, and the prize is presented today, 27 October, at the Nordic Council session.",
-      "paragraphs": [
-        "On 20 October the Nordic Council announced that its 2026 Film Prize goes to the Norwegian feature 'Sentimental Value' ('Affeksjonsverdi'). The prize is presented in Helsinki during the Council's session on 27 October.",
-        "The award is worth DKK 300,000, shared equally between director and co-writer Joachim Trier, co-writer Eskil Vogt and producers Maria Ekerhovd and Andrea Berentsen Ottmar. Screen Daily gives the dollar value with slightly different figures in two stories ($45,000 and $47,000), so only the Danish-krone figure is given here.",
-        "According to the Council, for the first time all of this year's Nordic Prize winners come from the same country: Norway.",
-        "Why it matters: it confirms the weight of Nordic auteur cinema in this awards season. We have not verified for this edition when or where it can be seen in Spain; check your usual distributor or platform. Editorial affinity 4/5, low confidence (we have not read reviews for this edition)."
-      ],
-      "publishedAt": "2026-10-27T08:00:00Z",
-      "eventDate": "2026-10-27",
-      "territory": "FI",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Nordic Council – Winners of the 2026 Nordic Council Prizes",
-          "url": "https://www.norden.org/en/news/winners-2026-nordic-council-prizes-are-here",
-          "kind": "official"
-        },
-        {
-          "name": "Nordic Council – Winner of the 2026 Film Prize",
-          "url": "https://www.norden.org/en/nominee/winner-2026-nordic-council-film-prize",
-          "kind": "official"
-        },
-        {
-          "name": "Screen Daily – Sentimental Value wins Nordic Council Film Prize",
-          "url": "https://www.screendaily.com/news/sentimental-value-wins-45000-nordic-council-film-prize/5221619.article",
-          "kind": "tradePress"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-28-clayface-taquilla",
-      "section": "news",
-      "subject": "film",
-      "headline": "'Clayface' opens with $24M in the US, short of the DC-Marvel effect, while Fielder's documentary climbs 25%",
-      "deck": "Provisional Sunday figures: the DC Studios film makes $43M worldwide against a $44M net budget, and Laika opens 'Wildwood' with $11.6M.",
-      "paragraphs": [
-        "According to Sunday estimates collected by One Mann's Movies, 'Clayface' (DC Studios) led the North American weekend with about $24 million, and about $43 million worldwide. Its net budget is $44 million. The numbers are estimates; final figures follow later.",
-        "Roger's Movie Nation had already said on Friday that it was not reaching the usual superhero numbers, and the film earned an A– CinemaScore, per ComicBookMovie. In the UK and Ireland it was second, behind 'Ghosts: The Possession of Button House', with $2.6 million.",
-        "Behind it, 'You Can See Everything', A24's documentary by Nathan Fielder and Lance Oppenheim about Elizabeth Holmes, rose 25% in its second weekend to $19.5 million; Laika's stop-motion 'Wildwood' opened with $11.6 million in the US and $3 million in other markets. The weekend total, $94.9 million, is down 11.2% on the previous one.",
-        "We have not verified the Spanish release date of any of these titles for this edition. Why it matters: two opposite cases — a decent but unexcited blockbuster and a documentary growing by word of mouth — in a shrinking market."
-      ],
-      "publishedAt": "2026-10-26T14:00:00Z",
-      "eventDate": "2026-10-25",
-      "territory": "US",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "One Mann's Movies – Movie news 26 October 2026",
-          "url": "https://onemannsmovies.com/movie-news/movie-news-26th-october-2026/",
-          "kind": "other"
-        },
-        {
-          "name": "One Mann's Movies – Movie news 27 October 2026",
-          "url": "https://onemannsmovies.com/movie-news/movie-news-27th-october-2026/",
-          "kind": "other"
-        },
-        {
-          "name": "Roger's Movie Nation – Box office",
-          "url": "https://rogersmovienation.com/2026/10/24/box-office-clayface-doesnt-deliver-d-c-marvel-money-you-can-see-everything-adds-screens-and-cash/",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Clayface",
-          "year": 2026,
-          "kind": "film"
-        },
-        {
-          "title": "Wildwood",
-          "year": 2026,
-          "kind": "film"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-28-haynes-las-criadas",
-      "section": "projects",
-      "subject": "film",
-      "headline": "Todd Haynes is preparing an adaptation of Jean Genet's 'The Maids', and Cate Blanchett may reunite with him",
-      "deck": "Haynes said so in an interview with 'Le Point'; Blanchett's involvement is not confirmed.",
-      "paragraphs": [
-        "The Film Stage (23 October) picks up an interview Todd Haynes gave to the French magazine 'Le Point': his next project after 'De Noche' will be an adaptation of Jean Genet's play 'The Maids' ('Les Bonnes'). Haynes spoke of a 'very specific take' and would say nothing more.",
-        "Status: announced by the director himself, with no shooting or release dates and no producers or screenwriter confirmed. Cate Blanchett's involvement is only the article's assumption ('will likely star'), not a fact: she played in the stage version in 2013. Rumour, not confirmation.",
-        "The article expects more news when 'De Noche' premieres, around May 2027; that is the author's expectation, not an announcement.",
-        "Why it matters: it joins auteur cinema and classic theatre, two axes of the profile. Editorial affinity 4/5, low confidence (there is nothing to watch yet)."
-      ],
-      "publishedAt": "2026-10-23T12:00:00Z",
-      "eventDate": null,
-      "territory": "US",
+      "publishedAt": "2026-10-28T12:15:00Z",
+      "eventDate": "2026-11-05",
+      "territory": "ES",
       "status": "announced",
-      "evidence": "singleSource",
+      "evidence": "corroborated",
       "sources": [
         {
-          "name": "The Film Stage – Todd Haynes and Cate Blanchett plan reunion",
-          "url": "https://thefilmstage.com/todd-haynes-and-cate-blanchett-plan-reunion-with-adaptation-of-jean-genets-the-maids/",
-          "kind": "tradePress"
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "kind": "film"
+        },
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "kind": "film",
+          "knownAs": "Cisne negro"
         }
       ]
     },
     {
-      "id": "2026-10-28-nt-at-home-audience-war-horse",
+      "id": "2026-10-29-nt-arcadia-playboy",
       "section": "stage",
       "subject": "film",
-      "headline": "'The Audience' with Helen Mirren and 'War Horse' arrive on National Theatre at Home on 22 October",
-      "deck": "The last two of the platform's five autumn arrivals: a dramatic comedy about Elizabeth II and the great puppet spectacle.",
+      "headline": "National Theatre at Home schedules Stoppard's 'Arcadia' for 26 November and 'The Playboy of the Western World' for 1 December",
+      "deck": "The British theatre streaming catalogue lines up two classics before year's end, after 'Les Liaisons Dangereuses' (3 November).",
       "paragraphs": [
-        "According to a Theatre Weekly announcement (11 August), National Theatre at Home's autumn schedule included five titles: 'All My Sons' (1 September, Ivo van Hove, with Bryan Cranston), 'Teeth 'N' Smiles' (8 September), 'The Fifth Step' (1 October, Jack Lowden and Martin Freeman) and, on 22 October, 'War Horse' and 'The Audience'.",
-        "Peter Morgan's 'The Audience', directed by Stephen Daldry, is the 2013 West End performance with Helen Mirren as Elizabeth II. The recording year is 2013, not the year it reached the platform. 'War Horse' (Nick Stafford, from Michael Morpurgo's novel) is a new capture of the recent return to the Olivier Theatre, with Handspring Puppet Company's life-sized puppets and music by Adrian Sutton.",
-        "Access: the platform says it is available worldwide with a seven-day free trial, monthly or annual subscription and a rental option; the announcement gives no prices or territorial limits, and we could not confirm that these two titles are available from Spain. Subtitles: the announcement only mentions captions (English) and audio description on over 90% of the catalogue.",
-        "Why it matters: Mirren is the great draw of 'The Audience', and 'War Horse' is pure stage spectacle. Editorial affinity 4/5, medium confidence (we have not seen the recording)."
+        "The 'Coming soon' page of National Theatre at Home lists, besides 'Les Liaisons Dangereuses' (3 November, directed by Marianne Elliott), Tom Stoppard's 'Arcadia', directed by Carrie Cracknell and produced by the Old Vic, arriving on 26 November. On 1 December comes John Millington Synge's 'The Playboy of the Western World', directed by Caitríona McLaughlin with Nicola Coughlan, Éanna Hardwicke and Siobhán McSweeney.",
+        "Also scheduled are 'Kinky Boots' (1 December), 'A Child's Christmas in Wales' (8 December) and, for March 2027, 'Owain & Henry'. The service offers monthly or annual subscriptions, rentals and a one-week free trial, but the page does not say which model applies to each play, nor the recording year or subtitles.",
+        "Because the recording year, subtitles and exact access from Spain are missing, no full-recording card is given here: this is a calendar notice. Editorial affinity 4/5 for 'Arcadia', medium confidence (the recording has not been seen)."
       ],
-      "publishedAt": "2026-10-22T09:00:00Z",
-      "eventDate": "2026-10-22",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": "2026-11-26",
       "territory": "GB",
-      "status": "confirmed",
-      "evidence": "corroborated",
+      "status": "announced",
+      "evidence": "primarySource",
       "sources": [
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
+        },
         {
           "name": "National Theatre at Home",
           "url": "https://www.ntathome.com/",
           "kind": "catalogue"
-        },
-        {
-          "name": "Theatre Weekly – NT at Home autumn line-up",
-          "url": "https://theatreweekly.com/national-theatre-at-home-announces-autumn-streaming-line-up-including-all-my-sons-teeth-n-smiles-the-fifth-step-war-horse-and-the-audience/",
-          "kind": "tradePress"
-        }
-      ],
-      "filmedPerformance": {
-        "kind": "theatre",
-        "workTitle": "The Audience",
-        "creators": [
-          "Peter Morgan"
-        ],
-        "workYear": 2013,
-        "recordingYear": 2013,
-        "completeRecordingSource": "https://www.ntathome.com/",
-        "venue": "West End (Londres)",
-        "director": "Stephen Daldry",
-        "principalCast": [
-          "Helen Mirren"
-        ],
-        "recordingDate": null,
-        "audiovisualReleaseDate": "2026-10-22"
-      }
-    },
-    {
-      "id": "2026-10-28-sitges-palmares",
-      "section": "festivals",
-      "subject": "film",
-      "headline": "Sitges 2026 closes with 'Sanguine' as best film; 'Leviticus' takes the best new director prize",
-      "deck": "The 59th edition's winners, published on 17 October, include 'Colony' and 'Wildwood', two titles back in the news this week.",
-      "paragraphs": [
-        "According to Que.es, the official section named 'Sanguine' (Marion Le Corroller) best film, gave 'Drag' (Greg Yagolnitzer and Raviv Ullman) the Special Jury Prize, Joko Anwar best director for 'Ghost in the Cell' and the screenplay prize to 'Buddy' (Casper Kelly and Jamie King). Acting awards went to Jasmine Trinca ('The Spiral', Paolo Strippoli) and Benoît Magimel ('Historias de la noche', Léa Mysius).",
-        "Among the technical awards, visual effects went to 'Colony' (Yeon Sang-ho), which closes the Tokyo festival this week; cinematography to 'Océano titánico' and music to 'River'. The Citizen Kane award for best new director went to Adrian Chiarella for 'Leviticus', which opens in Spain on 30 October according to Monday's edition. The audience chose Travis Knight's 'Wildwood'.",
-        "The article does not give the full list of winners or the gala date; the complete list is on the festival's website. Why it matters: it maps the season's horror and fantasy titles. Editorial affinity 4/5, medium confidence."
-      ],
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "eventDate": null,
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "singleSource",
-      "sources": [
-        {
-          "name": "Que.es – Palmarés Sitges 2026",
-          "url": "https://www.que.es/2026/10/17/palmares-sitges-2026-sanguine/",
-          "kind": "other"
-        },
-        {
-          "name": "Tokyo International Film Festival lineup – Screen Daily",
-          "url": "https://www.screendaily.com/news/tokyo-film-festival-reveals-2026-lineup-including-15-strong-competition-selection/5220926.article",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Leviticus",
-          "year": 2026,
-          "kind": "film"
-        },
-        {
-          "title": "Wildwood",
-          "year": 2026,
-          "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-10-28-calendari",
-      "section": "calendar",
+      "id": "2026-10-29-seminci-clausura",
+      "section": "festivals",
       "subject": "film",
-      "headline": "Calendar: Seminci winners on Saturday, Tokyo until 4 November, the Liceu on the 22nd and the Gothams on the 30th",
-      "deck": "The dates of the coming weeks that we were able to verify.",
+      "headline": "Seminci closes on Saturday with 'Hombre al agua', Gael García Bernal's comedy about class and masculinity",
+      "deck": "The 71st Valladolid festival ends on 31 October with the Mexican actor's third film as a director, which he also wrote and stars in.",
       "paragraphs": [
-        "28 October — Seminci (Valladolid): the 71st edition runs from 23 to 31 October; today Andrzej Wajda's 'Los brujos inocentes' is screened with live music.",
-        "31 October — Seminci: closing with Gael García Bernal's 'Hombre al agua' and the awards ceremony. 22 features compete for the Golden Spike; the jury is Francesca Andreoli, Grégoire Hetzel, Dennis Lim, Elena Manrique and Federico Veiroj, and Elvira Mínguez receives the Honorary Spike. The opening film was Lili Horvát's 'My Notes on Mars'.",
-        "4 November — Tokyo Film Festival: closes with Yeon Sang-ho's 'Colony'; 'Godzilla Minus Zero' is the centrepiece.",
-        "22 November — LiceuOPERA+: digital premiere of Bellini's 'I Capuleti e i Montecchi', per the Liceu's digital calendar (the next one after 'Aida').",
-        "30 November — Gotham Awards (New York). All dates are the organisers'; they do not imply a commercial release in Spain."
+        "According to Seminci's press release, 'Hombre al agua' is the closing film of the edition, held from 23 to 31 October. It is Gael García Bernal's third feature as a director; he wrote it and plays Camilo, a Cuban lifeguard who saves a Mexican businessman. The cast also includes Esmeralda Pimentel, Débora Nascimento, Natalia Oreiro and Ricky Martin.",
+        "The festival opened with Lili Horvát's 'My Notes on Mars', in the Official Section with Mackenzie Davis and Rupert Friend. The release notes that this will be Bernal's first visit to Valladolid, although two of his films have played there before: 'Museo' (2018) and 'Magallanes' (2025).",
+        "Why it matters: the Official Section results, with the Espiga de Oro, are due this Saturday the 31st; the release is dated 5 October and does not confirm the time or a commercial release date in Spain for 'Hombre al agua'. We have not seen the film. Editorial affinity 3/5, low confidence (social comedy; not a critics' score)."
       ],
-      "publishedAt": "2026-10-27T22:00:00Z",
+      "publishedAt": "2026-10-05T00:00:00Z",
       "eventDate": "2026-10-31",
       "territory": "ES",
       "status": "confirmed",
-      "evidence": "corroborated",
+      "evidence": "primarySource",
       "sources": [
         {
-          "name": "Vivir Ediciones – 208 películas y 121 estrenos en la 71 Seminci",
-          "url": "https://vivirediciones.es/?p=1136868",
-          "kind": "other"
-        },
-        {
-          "name": "Seminci",
-          "url": "https://www.seminci.com/en/sections/",
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
           "kind": "official"
-        },
-        {
-          "name": "Liceu – LiceuOPERA+ 2026/27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
-        },
-        {
-          "name": "Screen Daily – Tokyo lineup",
-          "url": "https://www.screendaily.com/news/tokyo-film-festival-reveals-2026-lineup-including-15-strong-competition-selection/5220926.article",
-          "kind": "tradePress"
-        },
-        {
-          "name": "The Film Stage – Gotham nominations",
-          "url": "https://thefilmstage.com/all-of-a-sudden-clarissa-la-gradiva-the-invite-and-tender-loving-care-lead-2026-gotham-awards-nominations/",
-          "kind": "tradePress"
         }
       ]
     },
     {
-      "id": "2026-10-28-recomanacions",
-      "section": "recommendation",
+      "id": "2026-10-29-calendari",
+      "section": "calendar",
       "subject": "film",
-      "headline": "Editor's picks: Lee Chang-dong, 'Leviticus' and 'The Audience' with Helen Mirren",
-      "deck": "Three suggestions for the coming days and a wrap-up of a day of awards, box office and filmed theatre.",
+      "headline": "Calendar: Seminci results on Saturday, 'The Gilded Age' on HBO Max on 2 November and 'Les Liaisons Dangereuses' on the 3rd",
+      "deck": "Dates with territory for the coming weeks, only those found in this edition's sources.",
       "paragraphs": [
-        "1. 'Possible Love', Lee Chang-dong (Netflix, 6 November; Gotham nominee). A relationships drama with a social backdrop. Affinity 5/5, medium confidence.",
-        "2. 'Leviticus', Adrian Chiarella (Spanish cinemas, 30 October per Monday's edition; best new director at Sitges). Supernatural horror. Affinity 4/5, medium confidence.",
-        "3. Peter Morgan's 'The Audience', with Helen Mirren (National Theatre at Home; 2013 recording). British theatre and history. Affinity 4/5, medium confidence; access from Spain still to be checked.",
-        "Today's wrap-up: the awards (Gothams, Nordic Council) point to auteur cinema, the box office shows a lukewarm 'Clayface' and a growing documentary, Haynes announces a theatrical project and the National Theatre adds Mirren to its catalogue. Affinity scores are a guide only, not critics' or audience ratings."
+        "31 October (Spain): Seminci closes with 'Hombre al agua' and the 71st edition's results. 2 November (Spain, HBO Max): season four of 'The Gilded Age'. 3 November (National Theatre at Home): 'Les Liaisons Dangereuses'.",
+        "5 November (Spain, HBO Max): 'Jojo Rabbit', 'The Whale' and 'Black Swan'. 13 November (Spain, HBO Max): the series 'Infamia'. 20 November (Spain, HBO Max): 'Tres de más'.",
+        "26 November (National Theatre at Home): 'Arcadia'. 1 December: 'The Playboy of the Western World' and 'Kinky Boots'. Platform dates can change; confirm them with the service."
       ],
-      "publishedAt": "2026-10-27T22:30:00Z",
+      "publishedAt": "2026-10-29T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
-      "status": "confirmed",
+      "status": "announced",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Netflix – Possible Love premieres November 6",
-          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-          "kind": "official"
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        },
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
         },
         {
           "name": "National Theatre at Home",
@@ -307,29 +137,75 @@
           "kind": "catalogue"
         },
         {
-          "name": "Que.es – Palmarés Sitges 2026",
-          "url": "https://www.que.es/2026/10/17/palmares-sitges-2026-sanguine/",
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Editor's picks: 'Black Swan' on 5 November, 'Arcadia' at the National Theatre and Seminci's closing night",
+      "deck": "Three suggestions for this late-October moment, with editorial affinity (not the critics' score).",
+      "paragraphs": [
+        "1) 'Black Swan' (2010, Darren Aronofsky), on HBO Max Spain on 5 November: psychological horror with ballet in the background; affinity 4/5, high confidence for the genre, though it is already a well-known film. 2) 'Arcadia' by Tom Stoppard, on National Theatre at Home on 26 November: a drama of ideas and relationships; affinity 4/5, medium confidence (the recording has not been seen). 3) 'Hombre al agua' by Gael García Bernal, at Seminci's closing on the 31st: social comedy; affinity 3/5, low confidence.",
+        "Day's wrap-up: a short edition because today's search found few verifiable news items; we preferred fewer reports to adding unconfirmed rumours."
+      ],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
           "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        },
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
+        },
+        {
+          "name": "National Theatre at Home",
+          "url": "https://www.ntathome.com/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "kind": "official"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "kind": "film",
+          "knownAs": "Cisne negro"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
-      "title": "가능한 사랑",
-      "year": 2026,
+      "title": "Black Swan",
+      "year": 2010,
       "kind": "film",
-      "knownAs": "Possible Love"
+      "knownAs": "Cisne negro"
     },
     {
-      "title": "Leviticus",
-      "year": 2026,
+      "title": "Jojo Rabbit",
+      "year": 2019,
       "kind": "film"
-    },
-    {
-      "title": "The Audience",
-      "year": 2013,
-      "kind": "stage"
     }
   ]
 }

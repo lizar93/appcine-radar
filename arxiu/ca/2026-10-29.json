@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "territory": "ES",
+  "generatedAt": "2026-10-28T23:30:00Z",
+  "reports": [
+    {
+      "id": "2026-10-29-hbo-max-novembre",
+      "section": "services",
+      "subject": "film",
+      "headline": "HBO Max omple novembre de cinema: «Jojo Rabbit», «La ballena» i «Cisne negro» el 5, i «Tres de más» el dia 20",
+      "deck": "El catàleg espanyol de HBO Max anuncia per a novembre una tanda de pel·lícules, amb dates concretes, i diverses sèries originals europees.",
+      "paragraphs": [
+        "Segons el calendari que publica AVPasión (actualitzat dimecres 28), el dia 5 de novembre arriben a HBO Max a Espanya «Jojo Rabbit» (Taika Waititi), «La ballena» i «Cisne negro» (Darren Aronofsky), juntament amb «Constantine» i «El color del dinero». El dia 12 s'hi afegeixen «Mentes peligrosas», «Contact» i «Pequeña Miss Sunshine», i el 26 «Locura padre» i «El soldado de Dios». Les dates són de plataforma i territori espanyol: els articles consultats no detallen anys ni direcció de tots els títols.",
+        "La comèdia espanyola «Tres de más» arriba el dia 20, després del seu pas pels cinemes. En sèries, Que.es recull «La edad dorada» (temporada 4) el 2 de novembre, la italiana «Melania Rea» el 6, «Ciudad de Dios: La lucha no para» el 8 i el thriller «Infamia» el 13; el mateix dia 13 consten dues produccions europees, la polonesa «Silent Night» i la hongaresa «Maniacs of Truth», sense més detalls. El dia 12 apareix també «The Good Daughter», adaptació d'una novel·la de Karin Slaughter.",
+        "Per què importa: per al perfil del lector, el més interessant és el cicle de novembre amb «Cisne negro» (terror psicològic) i «Jojo Rabbit» (sàtira d'època) a la mateixa data, a més de la curiositat de les dues sèries d'Europa de l'Est. Afinitat editorial 3/5, confiança mitjana (no és una nota de crítica). Les dues fonts són premsa especialitzada no oficial: convé confirmar-ho a la plataforma."
+      ],
+      "publishedAt": "2026-10-28T12:15:00Z",
+      "eventDate": "2026-11-05",
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "kind": "film"
+        },
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "kind": "film",
+          "knownAs": "Cisne negro"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-nt-arcadia-playboy",
+      "section": "stage",
+      "subject": "film",
+      "headline": "National Theatre at Home programa «Arcadia» de Stoppard el 26 de novembre i «The Playboy of the Western World» l'1 de desembre",
+      "deck": "El catàleg en línia del teatre britànic prepara dues peces clàssiques abans d'acabar l'any, després de «Les Liaisons Dangereuses» (3 de novembre).",
+      "paragraphs": [
+        "La pàgina «Coming soon» de National Theatre at Home recull, a més de «Les Liaisons Dangereuses» (3 de novembre, direcció de Marianne Elliott), «Arcadia» de Tom Stoppard, amb direcció de Carrie Cracknell i producció de l'Old Vic, que arribarà el 26 de novembre. L'1 de desembre és el torn de «The Playboy of the Western World» de John Millington Synge, dirigida per Caitríona McLaughlin i amb Nicola Coughlan, Éanna Hardwicke i Siobhán McSweeney.",
+        "També hi ha programats «Kinky Boots» (1 de desembre), «A Child's Christmas in Wales» (8 de desembre) i, per al març del 2027, «Owain & Henry». El servei ofereix subscripció mensual o anual, lloguer de títols i una prova gratuïta d'una setmana, però la pàgina no indica quin model s'aplica a cada obra ni l'any de l'enregistrament de cadascuna, ni si els subtítols hi són.",
+        "Com que falten l'any d'enregistrament, els subtítols i l'accés concret des d'Espanya, aquí no es presenta cap fitxa de captació completa: és un avís de calendari. Afinitat editorial 4/5 per a «Arcadia», confiança mitjana (no he vist l'enregistrament)."
+      ],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": "2026-11-26",
+      "territory": "GB",
+      "status": "announced",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
+        },
+        {
+          "name": "National Theatre at Home",
+          "url": "https://www.ntathome.com/",
+          "kind": "catalogue"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-seminci-clausura",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "La Seminci es tanca dissabte amb «Hombre al agua», la comèdia de Gael García Bernal sobre classe i masculinitat",
+      "deck": "La 71a Seminci de Valladolid acaba el 31 d'octubre amb la tercera pel·lícula com a director de l'actor mexicà, que també l'ha escrita i protagonitzada.",
+      "paragraphs": [
+        "Segons la nota de premsa de la Seminci, «Hombre al agua» és la pel·lícula de clausura de l'edició, que se celebra del 23 al 31 d'octubre. És el tercer llargmetratge de Gael García Bernal com a director; ell mateix l'escriu i hi interpreta Camilo, un socorrista cubà que salva un empresari mexicà. Al repartiment hi ha també Esmeralda Pimentel, Débora Nascimento, Natalia Oreiro i Ricky Martin.",
+        "El festival va obrir amb «My Notes on Mars», de Lili Horvát, que competeix a la Secció Oficial amb Mackenzie Davis i Rupert Friend. Per a Bernal, la nota recorda que serà la seva primera visita a Valladolid, tot i que dues pel·lícules seves hi han passat abans: «Museo» (2018) i «Magallanes» (2025).",
+        "Per què importa: el palmarès de la Secció Oficial, amb la Espiga de Oro, es coneix aquest mateix dissabte 31; la nota és del 5 d'octubre i no confirma l'horari ni la data d'estrena comercial a Espanya de «Hombre al agua». No hem vist la pel·lícula. Afinitat editorial 3/5, confiança baixa (comèdia social; no és una nota de crítica)."
+      ],
+      "publishedAt": "2026-10-05T00:00:00Z",
+      "eventDate": "2026-10-31",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendari: palmarès de la Seminci dissabte, «La edad dorada» a HBO Max el 2 de novembre i «Les Liaisons Dangereuses» el dia 3",
+      "deck": "Dates amb territori de les properes setmanes, només les que consten a les fonts d'aquesta edició.",
+      "paragraphs": [
+        "31 d'octubre (Espanya): clausura de la Seminci amb «Hombre al agua» i palmarès de la 71a edició. 2 de novembre (Espanya, HBO Max): quarta temporada de «La edad dorada». 3 de novembre (National Theatre at Home): «Les Liaisons Dangereuses».",
+        "5 de novembre (Espanya, HBO Max): «Jojo Rabbit», «La ballena» i «Cisne negro». 13 de novembre (Espanya, HBO Max): la sèrie «Infamia». 20 de novembre (Espanya, HBO Max): «Tres de más».",
+        "26 de novembre (National Theatre at Home): «Arcadia». 1 de desembre: «The Playboy of the Western World» i «Kinky Boots». Les dates de plataforma poden canviar; confirma-les al servei."
+      ],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        },
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
+        },
+        {
+          "name": "National Theatre at Home",
+          "url": "https://www.ntathome.com/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: «Cisne negro» el 5 de novembre, «Arcadia» al National Theatre i la clausura de la Seminci",
+      "deck": "Tres propostes per a aquest ritme de finals d'octubre, amb la nota d'afinitat editorial (no és la nota de la crítica).",
+      "paragraphs": [
+        "1) «Black Swan» (2010, Darren Aronofsky), a HBO Max Espanya el 5 de novembre: terror psicològic amb ballet de fons; afinitat 4/5, confiança alta pel gènere, tot i que ja és una pel·lícula coneguda. 2) «Arcadia», de Tom Stoppard, a National Theatre at Home el 26 de novembre: drama d'idees i comèdia de relacions; afinitat 4/5, confiança mitjana (no hem vist l'enregistrament). 3) «Hombre al agua», de Gael García Bernal, a la clausura de la Seminci el dia 31: comèdia social; afinitat 3/5, confiança baixa.",
+        "Balanç del dia: edició curta perquè la cerca d'avui ha trobat poques novetats verificables; hem preferit menys reportatges abans que afegir rumors sense confirmar."
+      ],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Que.es – Estrenos de HBO Max en noviembre",
+          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
+          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "kind": "other"
+        },
+        {
+          "name": "National Theatre at Home – Coming soon",
+          "url": "https://www.ntathome.com/coming-soon",
+          "kind": "catalogue"
+        },
+        {
+          "name": "National Theatre at Home",
+          "url": "https://www.ntathome.com/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
+          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "kind": "official"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "kind": "film",
+          "knownAs": "Cisne negro"
+        }
+      ]
+    }
+  ],
+  "recommendedTitles": [
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "kind": "film",
+      "knownAs": "Cisne negro"
+    },
+    {
+      "title": "Jojo Rabbit",
+      "year": 2019,
+      "kind": "film"
+    }
+  ]
+}
