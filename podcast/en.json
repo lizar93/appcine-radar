@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-29",
-  "title": "World Cinema Radar — the podcast, Thursday 29 October 2026",
+  "date": "2026-10-30",
+  "title": "World Cinema Radar — the podcast, Friday 30 October 2026",
   "segments": [
     {
       "id": "intro",
@@ -9,463 +9,405 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Hello, and welcome to World Cinema Radar, the podcast. It's Thursday the twenty-ninth of October, and I'm {A}."
+          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Friday the thirtieth of October, twenty twenty-six."
         },
         {
           "speaker": "B",
-          "text": "And I'm {B}. <chuckle> Good morning, {A}. Quick warning: today's edition is a short one."
+          "text": "And I'm {B}. <chuckle> The night before Halloween, which is exactly when you want a quiet, sensible news day. Spoiler: it is a quiet day."
         },
         {
           "speaker": "A",
-          "text": "It is. We looked hard this morning, and honestly? There wasn't much we could verify properly. So we chose fewer stories over shaky ones."
+          "text": "It is. So we're going to be honest about that. Fewer stories, all of them checked. Today we have three big things."
         },
         {
           "speaker": "B",
-          "text": "Which I respect. Better a small radar that works than a big one that makes things up."
+          "text": "First, the James Bond casting race, which has reached screen tests. Second, the Friday openings in Spain, with a sports biopic, a French coming-of-age comedy and a very noisy action thriller. And third, the sequel to Apocalypse Z, landing on Prime Video."
         },
         {
           "speaker": "A",
-          "text": "So here's the plan. First, what HBO Max is doing in Spain in November. A lot of films, and a couple of very good ones."
-        },
-        {
-          "speaker": "B",
-          "text": "Then some theatre news from the National Theatre at Home, with Tom Stoppard in the mix."
+          "text": "Plus a short stop at the opera calendar, because the Royal Opera has a Carmen coming, and our picks for the long weekend."
         },
         {
           "speaker": "A",
-          "text": "And then Seminci in Valladolid, which closes this Saturday with a film by Gael García Bernal."
+          "text": "One housekeeping note. Everything we say today comes from the written edition, which you can read in the app, with the sources next to each story."
         },
         {
           "speaker": "B",
-          "text": "After that, the calendar, and our picks. Everything comes from today's edition, with every source in the app. No spoilers, as always."
-        },
-        {
-          "speaker": "A",
-          "text": "Right. Shall we start with the streaming news?"
+          "text": "So if we sound careful, it's on purpose. <chuckle> Careful is the whole job."
         },
         {
           "speaker": "B",
-          "text": "Let's go."
+          "text": "Let's go. Bond first, because everybody is already talking about it."
         }
       ]
     },
     {
-      "id": "2026-10-29-hbo-max-novembre",
-      "title": "HBO Max in November",
+      "id": "2026-10-30-bond-screen-tests",
+      "title": "Bond screen tests",
       "turns": [
         {
           "speaker": "A",
-          "text": "So, HBO Max in Spain. Their November calendar is out, and the interesting part is the films. On the fifth of November, three titles land on the same day."
+          "text": "So, the headline: Amazon MGM is reportedly running final screen tests for the next James Bond. And I want to start with the word reportedly, because that's doing a lot of work here."
         },
         {
           "speaker": "B",
-          "text": "Jojo Rabbit, The Whale and Black Swan. <short pause> That's quite a Thursday evening."
+          "text": "Yes. Nothing is official. Not the names, not the dates. Everything comes from anonymous sources, mostly through The Hollywood Reporter, and Dark Horizons summarised it on the twenty-second of October."
         },
         {
           "speaker": "A",
-          "text": "It is! Jojo Rabbit is Taika Waititi's satire, Black Swan is Darren Aronofsky's psychological horror, and The Whale is the third one."
+          "text": "Right. And what does that reporting say? It says the shortlist to replace Daniel Craig includes Jack Lowden, Josh O'Connor and Callum Turner."
         },
         {
           "speaker": "B",
-          "text": "I love that Black Swan is in there. Ballet, paranoia, a mirror that never quite behaves. <chuckle> It's horror dressed up as a drama, or the other way round."
+          "text": "Plus at least one name that hasn't come out yet. <chuckle> So somebody out there is keeping a secret very well."
         },
         {
           "speaker": "A",
-          "text": "Exactly. And I'd say Jojo Rabbit is the perfect companion piece, if you like period settings with a sharp edge."
+          "text": "The tests are said to be mostly in London, over the weekend of the twenty-fourth and twenty-fifth. And they cover three things: stunts, camera presence and dialogue."
         },
         {
           "speaker": "B",
-          "text": "Hm. |oh, that's a strange double bill| But it works. One is all nerves, the other is all irony."
+          "text": "Which makes sense. You need someone who can run across a roof, but also someone who can sit in a room and make a line sound dangerous. |both, yes|"
         },
         {
           "speaker": "A",
-          "text": "Then there's a second wave on the twelfth. Dangerous Minds, Contact and Little Miss Sunshine. And on the twenty-sixth, two more, Locura padre and El soldado de Dios."
+          "text": "Here's the part I find funny. Two names that were strongly tipped in the days before, Jacob Elordi and Jack O'Connell, are reportedly not testing at all."
         },
         {
           "speaker": "B",
-          "text": "Now, one thing we should say clearly. These are dates for Spain, and they come from specialist press, not from HBO itself. So double-check on the platform."
+          "text": "So, sorry, can I say something? That's reportedly, reportedly. Same anonymous sources. Neither Amazon nor the actors have said a word."
         },
         {
           "speaker": "A",
-          "text": "Yes. And the articles we read don't give years or directors for every title, so we're not going to pretend they do."
+          "text": "Exactly. And Deadline, as relayed by another outlet, says that even if the tests wrap this week, there's no timeline for a final decision."
         },
         {
           "speaker": "B",
-          "text": "Fair. What about the Spanish side?"
+          "text": "So nobody should expect a name tomorrow morning. <sigh> I know, I know. The internet will pretend otherwise."
         },
         {
           "speaker": "A",
-          "text": "One more thought on the films. When a platform drops three big titles on one day, it is usually building a kind of mini season. Not a festival, but an evening menu."
+          "text": "What is on record is the team. Denis Villeneuve is directing. Amy Pascal and David Heyman are producing, for Amazon MGM Studios."
         },
         {
           "speaker": "B",
-          "text": "A menu! <chuckle> Okay, so what would you order?"
+          "text": "And that's a genuinely interesting combination for this audience. Villeneuve does big, serious, patient cinema. A Bond film from him will probably not be a quip machine."
         },
         {
           "speaker": "A",
-          "text": "Black Swan first, because it is tense and it is short enough for a weeknight. Then Jojo Rabbit on the weekend, when you want something with more air in it."
+          "text": "Careful, though. We can say what he has done before, but we don't know what this film will be. We just know who's attached."
         },
         {
           "speaker": "B",
-          "text": "And The Whale for a night when you are in the mood to be a bit sad. I'm only guessing from the title and the date, mind you. The article doesn't tell us more."
+          "text": "Fair. Fair. My honest take is that the casting rumour is the loudest story today and the least solid one. Enjoy it, but don't repeat it as fact."
         },
         {
           "speaker": "A",
-          "text": "Right, and that is the point. We are reporting a calendar, not a review. If we cite a critic, we will say who."
-        },
-        {
-          "speaker": "B",
-          "text": "Good rule. Also, I like that the list mixes very old favourites with brand new Spanish releases. It's a catalogue that wants to be everything for everybody."
+          "text": "That's the rule for this show. If it's a rumour, we say it's a rumour. If it's confirmed, you'll hear it."
         },
         {
           "speaker": "A",
-          "text": "Which is fine. For us, the question is simply what fits the profile. Horror, history, clever comedies, international cinema. And this month, honestly, it's a modest yes."
+          "text": "Let me put the sourcing in plain words, because it matters. The first source is The Hollywood Reporter, relayed by Dark Horizons. The second is The Nation, which passes on a line attributed to Deadline."
         },
         {
           "speaker": "B",
-          "text": "A modest yes. <short pause> I'll take it."
+          "text": "So we have trade press, passed along, and no first-hand confirmation. That's why the edition marks it as unverified, from a single source. <chuckle> It's the most careful label we have."
         },
         {
           "speaker": "A",
-          "text": "There's Tres de más, a Spanish comedy, coming on the twentieth after its run in cinemas. That one is for people who want something lighter."
+          "text": "And that is how I'd read every headline you see this weekend with a name and the word frontrunner in it."
         },
         {
           "speaker": "B",
-          "text": "And the series?"
-        },
-        {
-          "speaker": "B",
-          "text": "One question, {A}. If someone only has time for one title from this list, which one?"
+          "text": "Yes. If a site says it's Callum Turner, or it's Jack Lowden, or it's Josh O'Connor, ask yourself where that site got it. Because the answer is usually the same three outlets."
         },
         {
           "speaker": "A",
-          "text": "Black Swan. It is the one that fits the profile best. Psychological horror, an artist under pressure, and a director with a very precise eye."
+          "text": "Also, a small point. The reports say the shortlist includes those three. They don't say it only includes those three."
         },
         {
           "speaker": "B",
-          "text": "I would maybe say Jojo Rabbit, because the period setting is such a strong thing for me. But I see your point."
+          "text": "Right, and that is the unnamed fourth person. I find that funny. We're all arguing about three actors, and the real answer might be a fourth."
         },
         {
           "speaker": "A",
-          "text": "See? Two different answers, same calendar. <chuckle> That is what a good list does."
-        },
-        {
-          "speaker": "B",
-          "text": "And the nice thing is that all of it is on one platform. No hunting around."
-        },
-        {
-          "speaker": "A",
-          "text": "True. Although, it is a platform, so the usual rule applies. Things come and go. Watch what you like while it is there."
-        },
-        {
-          "speaker": "B",
-          "text": "Wise words. Moving on, then?"
-        },
-        {
-          "speaker": "A",
-          "text": "Moving on."
-        },
-        {
-          "speaker": "A",
-          "text": "The Gilded Age is back for season four on the second of November. Then an Italian series, Melania Rea, on the sixth. And Ciudad de Dios, the new batch of six episodes, on the eighth."
-        },
-        {
-          "speaker": "B",
-          "text": "And Infamia on the thirteenth, the thriller we mentioned earlier this week. The same day, two European productions appear in the lists, one Polish called Silent Night and one Hungarian called Maniacs of Truth."
-        },
-        {
-          "speaker": "A",
-          "text": "Which I'm curious about, but we know nothing else yet. That's all the articles say."
-        },
-        {
-          "speaker": "B",
-          "text": "So, the verdict? Is this a big month for our profile?"
-        },
-        {
-          "speaker": "A",
-          "text": "Medium. Three out of five on our scale, with medium confidence. It's not a news breakthrough, it's a good reason to have Black Swan on your list."
-        },
-        {
-          "speaker": "B",
-          "text": "And that's an editorial score, remember. Not a critics' score."
-        },
-        {
-          "speaker": "A",
-          "text": "And a reminder for anyone outside Spain. Everything here is about the Spanish catalogue. Other countries will get different lists."
-        },
-        {
-          "speaker": "B",
-          "text": "Always worth saying. The same film can be on a platform in one country and gone in the next."
+          "text": "It might. Or it might not. We genuinely don't know, and the honest thing is to enjoy the guessing game without pretending to win it."
         }
       ]
     },
     {
-      "id": "2026-10-29-nt-arcadia-playboy",
-      "title": "National Theatre at Home",
+      "id": "2026-10-30-estrenes-karateka",
+      "title": "Friday openings in Spain",
       "turns": [
         {
+          "speaker": "A",
+          "text": "Now, what actually opens in Spanish cinemas this Friday. Twelve titles, in total."
+        },
+        {
           "speaker": "B",
-          "text": "Now, theatre. National Theatre at Home has posted its coming-soon page, and there are two classics we like."
+          "text": "Twelve! And some of them we covered on Monday, like Hope, by Na Hong-jin, plus Leviticus, Wicker and Klara y el sol. So today we're looking at the others."
         },
         {
           "speaker": "A",
-          "text": "Arcadia first. Tom Stoppard's play, directed by Carrie Cracknell and produced by the Old Vic. It arrives on the twenty-sixth of November."
+          "text": "The first one is Karateka, directed by Aritz Moreno. It's the biopic of Sandra Sánchez, who was born in Talavera de la Reina in nineteen eighty-one."
         },
         {
           "speaker": "B",
-          "text": "Oh, Arcadia. <breath> It's the one with the two time periods in the same room, isn't it? I remember it being clever and, weirdly, moving."
+          "text": "And she won Olympic gold in kata at Tokyo twenty twenty-one. At thirty-nine years old."
         },
         {
           "speaker": "A",
-          "text": "That's it. Ideas, wit, a country house, and a lot of people being wrong in interesting ways."
+          "text": "Andrea Ros plays her. Patrick Criado plays her coach and husband, Jesús del Moral. Ernesto Alterio and Pilar Castro are in the cast too, and Warner Bros. España is releasing it."
         },
         {
           "speaker": "B",
-          "text": "Honestly, that's my favourite kind of play. |ha, mine too|"
+          "text": "Now, I'll be straight. A sports biopic is not the centre of our usual taste."
         },
         {
           "speaker": "A",
-          "text": "Then on the first of December, The Playboy of the Western World, by John Millington Synge. Directed by Caitríona McLaughlin, with Nicola Coughlan, Éanna Hardwicke and Siobhán McSweeney."
+          "text": "No. But I always try to say this: we found no broad professional reviews yet, so we can't tell you if it's good. We can only tell you what it is."
         },
         {
           "speaker": "B",
-          "text": "A comic tragedy about a big story told in a small pub. And Nicola Coughlan in it, which is lovely."
+          "text": "Good. Next, for me, the most interesting title of the day. Tiempos de ilusión. The original is Juste une illusion."
+        },
+        {
+          "speaker": "B",
+          "text": "And he's starting to work out love, faith, friendship and who he is. Louis Garrel and Camille Cottin are in it. A Contracorriente is distributing it in Spain."
         },
         {
           "speaker": "A",
-          "text": "There are others, too. Kinky Boots on the first of December, A Child's Christmas in Wales on the eighth, and Owain and Henry next March."
+          "text": "That's a comedy-drama about human relationships. Which is very close to the profile, honestly."
         },
         {
           "speaker": "B",
-          "text": "And this week's one, Les Liaisons Dangereuses, goes live on the third of November. We talked about it on Monday."
+          "text": "Yes. No international date was found, so I can't tell you when the rest of the world gets it. But in Spain, it's tomorrow."
         },
         {
           "speaker": "A",
-          "text": "Right. Now here's the careful part. The page says you can subscribe monthly or yearly, or rent, and there's a one-week free trial. But it doesn't say which plays are on which model."
+          "text": "Then there's Aniquilación, which is the Spanish title of Onslaught, by Adam Wingard. Adria Arjona and Dan Stevens, and Diamond Films is releasing it."
         },
         {
           "speaker": "B",
-          "text": "And it doesn't give the year of the recording or the subtitles."
+          "text": "The setup is a sniper who has to protect her daughter, and her neighbours in a trailer park, from escaped former soldiers."
         },
         {
           "speaker": "A",
-          "text": "No. So this isn't a full recommendation card. It's a calendar notice, and we say so."
+          "text": "And the reviews in English are split. io9 sees wasted potential. JoBlo gives it six out of ten. <chuckle> Not a disaster, not a triumph."
+        },
+        {
+          "speaker": "B",
+          "text": "But both of them single out Adria Arjona. And Dan Stevens, who, let's say, goes big."
         },
         {
           "speaker": "A",
-          "text": "What I like about this kind of service is that you can see a play you will never get to see in London. The theatre travels to your living room."
+          "text": "That's a tactful way of putting it. <laugh>"
         },
         {
           "speaker": "B",
-          "text": "Yes, though it's different from the cinema. A filmed play is a record of a night, with cameras placed by someone else. It can be wonderful, or a bit flat."
+          "text": "And two smaller ones. Esta soledad, from Javier Giner, distributed by Filmax. A couple who've separated, trying to rebuild their lives, one with a sick father and one with money trouble."
         },
         {
           "speaker": "A",
-          "text": "That's why we are careful. Until we know the year of the recording and the cast, we don't promise anything."
-        },
-        {
-          "speaker": "B",
-          "text": "And for Arcadia, the page doesn't list a cast at all. So we can only say who directed it and where it was produced."
+          "text": "And El mundo es ansí, by Miguel Ángel Calvo Buttini, with Ramón Barea. A student writing a thesis on the writer Pío Baroja who gradually gets absorbed into his life."
         },
         {
           "speaker": "A",
-          "text": "Which is the Old Vic, with Carrie Cracknell. That much we do know."
+          "text": "One more thing on Karateka. The film follows Sandra Sánchez, but also her husband and coach, Jesús del Moral. The edition says the story is about the two of them."
         },
         {
           "speaker": "B",
-          "text": "So if you are a Stoppard person, the twenty-sixth of November goes in the diary. If you are a Synge person, the first of December."
+          "text": "That's a nice angle. Elite sport is almost never one person. There's always somebody in the corner with a towel and a plan."
         },
         {
           "speaker": "A",
-          "text": "And if you are a Kinky Boots person, also the first of December. <giggle> Busy day for the National Theatre."
+          "text": "<chuckle> And a stopwatch. And, in karate, a very good eye for a cleanly done kata."
         },
         {
           "speaker": "B",
-          "text": "A very busy day. Honestly, I would love to see the first of December as a double bill, a comic tragedy and a musical. Strange, but fun."
-        },
-        {
-          "speaker": "B",
-          "text": "Still, Arcadia gets a four out of five from us, with medium confidence. We haven't seen the recording yet."
-        },
-        {
-          "speaker": "B",
-          "text": "I should also say something about the free trial. A week of unlimited access is a good way to try a service without a long commitment."
+          "text": "Okay, I'll allow that one. <laugh>"
         },
         {
           "speaker": "A",
-          "text": "It is, and the page says so. But we don't know the prices, because the page doesn't list them. So we won't quote any."
+          "text": "On Tiempos de ilusión, I'd just add what we know about the people. Nakache and Toledano are the directors, and the film is French, from twenty twenty-six, as the listings say."
         },
         {
           "speaker": "B",
-          "text": "Right. No numbers we can't check."
+          "text": "And that's the thing with a coming-of-age comedy-drama. You can't tell from a synopsis whether it's charming or sugary. That's why our confidence on it is low."
         },
         {
           "speaker": "A",
-          "text": "And if you rent single plays instead, it depends on the title. Again, the page doesn't say which ones."
+          "text": "Exactly. We try to be clear: affinity with the profile is one thing, quality is another."
         },
         {
           "speaker": "B",
-          "text": "So the advice is simple. Check the page when the date arrives, and decide then."
+          "text": "And the others? Aniquilación and Esta soledad are both opening tomorrow too, so you have a very different set of options. One is loud and one is quiet."
         },
         {
           "speaker": "A",
-          "text": "Which, for Arcadia, is the twenty-sixth of November. About four weeks from now."
+          "text": "Which one is which? <laugh>"
+        },
+        {
+          "speaker": "B",
+          "text": "I think you know. Though, to be fair, Esta soledad is a drama, and we haven't seen it, so it could surprise everyone."
+        },
+        {
+          "speaker": "B",
+          "text": "Honestly? That one sounds lovely. It's a film about getting hooked on somebody else's story. And a warning: the listings don't always agree on distributors and cast, so check your cinema's session."
         }
       ]
     },
     {
-      "id": "2026-10-29-seminci-clausura",
-      "title": "Seminci closes",
+      "id": "2026-10-30-apocalipsis-z-prime",
+      "title": "Apocalipsis Z on Prime Video",
       "turns": [
         {
           "speaker": "A",
-          "text": "Seminci, the Valladolid festival. It closes this Saturday, the thirty-first, with a film called Hombre al agua."
+          "text": "Okay, from cinemas to the sofa. Apocalipsis Z: Un nuevo mundo comes to Prime Video this Friday, the thirtieth."
         },
         {
           "speaker": "B",
-          "text": "It's Gael García Bernal's third film as a director. He also wrote it, and he stars in it."
+          "text": "Amazon says it's in more than two hundred and forty countries and territories, Spain included. It also played the Sitges Film Festival on the tenth of October, in the fifty-ninth edition."
         },
         {
           "speaker": "A",
-          "text": "He plays Camilo, a Cuban lifeguard who saves a Mexican businessman. And that's as far as we'll go, because spoilers."
+          "text": "Carles Torrens is directing again. The screenplay is by Ángel Agudo, based on the novels of Manel Loureiro."
         },
         {
           "speaker": "B",
-          "text": "<chuckle> A lifeguard story with no spoilers. We can do that."
+          "text": "And José María Yazpik and Berta Vázquez are back. Carlos Alcaide and Julia Martínez are among the rest of the cast."
         },
         {
           "speaker": "A",
-          "text": "The cast also includes Esmeralda Pimentel, Débora Nascimento, Natalia Oreiro and Ricky Martin. It's described as a comedy about class and masculinity."
+          "text": "The premise, without spoilers: after the virus outbreak, the Canary Islands are the last refuge in Europe. A special mission travels to the mainland for supplies."
         },
         {
           "speaker": "B",
-          "text": "And the festival says this will be his first visit to Valladolid, even though two films he was part of played there before. Museo in 2018 and Magallanes last year."
+          "text": "And one person joins that team with, let's say, questionable intentions. |ooh|"
         },
         {
           "speaker": "A",
-          "text": "The festival opened with Lili Horvát's My Notes on Mars, which is in competition, with Mackenzie Davis and Rupert Friend."
+          "text": "Here's a number I like. The first film, from twenty twenty-four, is the most-watched international original film in Prime Video's history. That's Amazon's claim."
         },
         {
           "speaker": "B",
-          "text": "Now, the important bit. The competition results, the Espiga de Oro, are due on Saturday too."
+          "text": "Which explains the sequel. <chuckle> It's commercial survival horror, and we've not seen it. So we're only talking about context."
         },
         {
           "speaker": "A",
-          "text": "Yes. And a caveat. The press release we read is dated the fifth of October. It doesn't give a time for the closing, and it doesn't say when the film opens in Spanish cinemas."
+          "text": "And a quick note on where it premiered. Sitges was the film's first stop, on the tenth of October, in the fifty-ninth edition. So the film has already had its festival audience."
         },
         {
           "speaker": "B",
-          "text": "And we haven't seen it. So it gets three out of five from us, with low confidence. A social comedy, so a bit outside the usual horror and history territory."
+          "text": "The Spanish title, by the way, is Apocalipsis Z: Un nuevo mundo, and Amazon uses that wording. Some listings shorten it, so don't be surprised if you see slightly different names."
+        },
+        {
+          "speaker": "A",
+          "text": "It's also worth noticing the release strategy. Same day, worldwide, on the platform. No cinema window at all."
         },
         {
           "speaker": "B",
-          "text": "I find it interesting that a festival picks a comedy to close. Usually the last night is the glamorous one, the prize night."
+          "text": "Which, in Spain, with twelve films opening in cinemas the same Friday, is probably a smart choice. <chuckle> Less competition for the zombies."
         },
         {
           "speaker": "A",
-          "text": "And this year the prizes and the closing film arrive together on the same Saturday. It makes the day feel like a little finale."
+          "text": "Right. You need a Prime Video subscription. And if you like horror on Halloween night, it's an easy one to put on."
         },
         {
           "speaker": "B",
-          "text": "Do we know who is in the jury, or the favourites? Because I'm curious."
-        },
-        {
-          "speaker": "A",
-          "text": "Not from the sources we have today. So we won't guess. What we know is that the festival ran from the twenty-third to the thirty-first of October."
-        },
-        {
-          "speaker": "B",
-          "text": "Fair enough. Another thing I noticed: García Bernal has a history with Seminci films, even as an actor, without having come in person."
-        },
-        {
-          "speaker": "A",
-          "text": "That is what the release says. His first visit, after Museo and Magallanes. It is a sweet detail for a festival that likes its history."
-        },
-        {
-          "speaker": "B",
-          "text": "And a nice reminder that Valladolid is one of the places in Spain that takes international cinema seriously."
-        },
-        {
-          "speaker": "A",
-          "text": "Agreed. If you can't go, keep an eye on the news on Saturday evening. We will bring the results when they are official."
-        },
-        {
-          "speaker": "A",
-          "text": "One more small thing. The release talks about Lili Horvát having won the Espiga de Oro at the sixty-fifth edition. So she is a returning guest, not a newcomer."
-        },
-        {
-          "speaker": "B",
-          "text": "Oh, that's a nice detail. She won before, she opened this year, and she is in competition again."
-        },
-        {
-          "speaker": "A",
-          "text": "Yes. A festival that likes to bring its friends back."
-        },
-        {
-          "speaker": "B",
-          "text": "Which is a good way to build a family of filmmakers. And a good reason to follow Valladolid from afar."
-        },
-        {
-          "speaker": "A",
-          "text": "But a closing night with a comedy is a nice choice. It's gentle after nine days of heavy drama."
+          "text": "Easy, yes. I'd say it's more popcorn than gothic. But that's fine. Not everything has to be gothic."
         }
       ]
     },
     {
-      "id": "2026-10-29-calendari",
-      "title": "The calendar",
+      "id": "2026-10-30-rbo-carmen-met",
+      "title": "Opera and theatre on screen",
       "turns": [
         {
+          "speaker": "A",
+          "text": "Now our daily visit to filmed theatre and opera. And today, I have to say it plainly: no new complete recording to recommend."
+        },
+        {
           "speaker": "B",
-          "text": "Right, the calendar. Saturday the thirty-first, in Spain: Seminci closes with Hombre al agua, and the results come out."
+          "text": "We looked, and we found nothing with enough verified detail. So instead, here's what we can verify, which is the cinema calendar."
         },
         {
           "speaker": "A",
-          "text": "Monday the second of November, HBO Max Spain: season four of The Gilded Age."
+          "text": "The Royal Ballet and Opera's season for twenty twenty-six, twenty-seven includes a revival of Damiano Michieletto's Carmen in November."
         },
         {
           "speaker": "B",
-          "text": "Tuesday the third: Les Liaisons Dangereuses on National Theatre at Home."
+          "text": "Götterdämmerung and Così fan tutte, both live, in February. Tosca in May. And from the Met, the new Macbeth in October, and La Fanciulla del West later on."
         },
         {
           "speaker": "A",
-          "text": "Thursday the fifth, HBO Max Spain: Jojo Rabbit, The Whale and Black Swan."
+          "text": "But about Carmen, the dates fight each other. The official site just says November."
         },
         {
           "speaker": "B",
-          "text": "The thirteenth, HBO Max Spain: Infamia. The twentieth: Tres de más."
+          "text": "A cinema called Tyneside, in the UK, lists Tuesday the tenth of November. And Gwyn Hall, also in the UK, lists Sunday the fifteenth."
         },
         {
           "speaker": "A",
-          "text": "And in the theatre column, Arcadia on the twenty-sixth, then The Playboy of the Western World and Kinky Boots on the first of December."
+          "text": "And we don't know the conductor, the cast, or whether it's live or delayed. And we couldn't check which Spanish cinemas will show it."
         },
         {
           "speaker": "B",
-          "text": "Platform dates can change, so check with the service."
+          "text": "That's an important thing. It's not a complete recording on a platform. It's a cinema event. Different thing."
         },
         {
           "speaker": "A",
-          "text": "If you want one tip, it's this. The first week of November is the busy one. The Gilded Age on the second, the National Theatre play on the third, three films on the fifth."
-        },
-        {
-          "speaker": "B",
-          "text": "So that is one week, with a bit of everything. A series, a stage recording, and a cinema evening."
+          "text": "The same calendar also has the Royal Ballet's Nutcracker from the first of December."
         },
         {
           "speaker": "A",
-          "text": "And after that it is calmer, until the end of the month. So plan accordingly."
+          "text": "I want to explain why we don't invent anything here. A filmed performance has a lot of details: who conducts, who sings, the year it was recorded, where you can watch it from Spain."
         },
         {
           "speaker": "B",
-          "text": "Exactly. Plan accordingly, and keep a seat free for Saturday's festival news."
-        },
-        {
-          "speaker": "B",
-          "text": "Before we leave the calendar, a note on honesty. These dates are the ones we found in today's sources. If a date isn't here, it doesn't mean nothing happens."
+          "text": "And if we don't have those, we don't pretend. Guessing the recording year, for example, is a classic mistake. People mix up the year of the opera with the year of the recording."
         },
         {
           "speaker": "A",
-          "text": "Exactly. It only means we haven't verified it. Last week's editions have other dates, and you can find them in the app's archive."
+          "text": "Exactly. Carmen is old, the production is a revival, and none of that tells you when a cinema recording was made."
+        },
+        {
+          "speaker": "B",
+          "text": "So the honest summary is: opera is coming, but we'll tell you more when there's a date we can trust."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-calendari",
+      "title": "Dates to remember",
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "Let me give the dates in one go. Tomorrow is Friday the thirtieth. Five films open in Spain, and Apocalipsis Z arrives on Prime Video."
+        },
+        {
+          "speaker": "B",
+          "text": "Saturday the thirty-first is the closing of the seventy-first Seminci in Valladolid. It runs from the twenty-third to the thirty-first, and the winners are announced at the closing gala."
+        },
+        {
+          "speaker": "A",
+          "text": "On the fourth of November, in Japan, the Tokyo International Film Festival closes its thirty-ninth edition. It started on the twenty-sixth of October."
+        },
+        {
+          "speaker": "A",
+          "text": "And since Seminci closes on Saturday, one practical thing. The winners are announced at the closing gala, so Saturday night is when the festival result exists."
+        },
+        {
+          "speaker": "B",
+          "text": "We don't have the jury or the winners yet. We'll cover the awards when they exist, not before."
+        },
+        {
+          "speaker": "A",
+          "text": "Same for Tokyo: the edition only says it closes on the fourth of November, so that is when to look."
+        },
+        {
+          "speaker": "B",
+          "text": "And the tenth of November, in the UK, is the date one cinema gives for Carmen. Remember: the official site only says November."
         }
       ]
     },
@@ -475,47 +417,51 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Our picks, then. Number one, Black Swan, on HBO Max Spain on the fifth of November. Four out of five, high confidence for the genre."
+          "text": "So, our picks for the long weekend. Number one, in my case, is Tiempos de ilusión."
         },
         {
           "speaker": "B",
-          "text": "I'd say that's the safe choice, but a good one. You've probably seen it, but it deserves a rewatch."
+          "text": "Affinity three and a half out of five. And low confidence. Because we've not read any reviews yet."
         },
         {
           "speaker": "A",
-          "text": "Number two, Arcadia, from the twenty-sixth, on National Theatre at Home. Four out of five, medium confidence."
+          "text": "Yes. It's a comedy-drama about relationships and childhood, which is the kind of film this show likes. But we're honest about what we don't know."
         },
         {
           "speaker": "B",
-          "text": "And number three, Hombre al agua on Saturday at Seminci. Three out of five, low confidence."
+          "text": "Number two, Karateka. Two and a half out of five, low confidence. A sports biopic is outside the core of the profile."
+        },
+        {
+          "speaker": "A",
+          "text": "But you might still enjoy it. It's about a woman who won Olympic gold at thirty-nine. That's a story."
         },
         {
           "speaker": "B",
-          "text": "One thing about these picks. They are not a guarantee of quality. They are a match between what is coming and what we like."
-        },
-        {
-          "speaker": "A",
-          "text": "Yes. The scores are editorial affinity, from nought to five. Not what critics say, and not what the public says."
-        },
-        {
-          "speaker": "A",
-          "text": "And if you only watch one of the three, make it the one you can see at home on a rainy evening."
+          "text": "And number three, Apocalipsis Z: Un nuevo mundo. Three out of five, low confidence. It played Sitges, and it's an easy Halloween night."
         },
         {
           "speaker": "B",
-          "text": "Black Swan, then. <laugh> Lights off, volume up, and a very good chair."
+          "text": "One thing about confidence. All three are low, and that is not modesty. It is because we've read synopses and a few reviews, and we haven't watched the films."
+        },
+        {
+          "speaker": "A",
+          "text": "Right. The edition never pretends we've seen something we haven't. If you watch one of them, you'll have a better opinion than ours."
         },
         {
           "speaker": "B",
-          "text": "And we tell you how confident we are, because we haven't seen everything. We would rather admit it than pretend."
+          "text": "And if you do, tell us what you thought. <laugh> Well, tell your friends at least."
         },
         {
           "speaker": "A",
-          "text": "That is the idea of the Radar. Careful, curious, and honest about the gaps."
+          "text": "Also, a small reminder about timing. Karateka and Tiempos de ilusión are cinema releases, so go this weekend. Apocalipsis Z is on Prime Video, so it will wait for you."
+        },
+        {
+          "speaker": "B",
+          "text": "Unlike the cinemas on a long weekend. <chuckle> Go early, and book your seat."
         },
         {
           "speaker": "A",
-          "text": "A modest list today, but honest."
+          "text": "And remember, this isn't a critics' score. It's our editorial affinity with the profile."
         }
       ]
     },
@@ -524,49 +470,72 @@
       "title": "Goodbye",
       "turns": [
         {
-          "speaker": "B",
-          "text": "So, the idea of the day: a quiet news day is still a good day to plan your November."
+          "speaker": "A",
+          "text": "So, the idea of the day. The Bond rumour is the loudest story and the least solid. The quiet films are the ones you can actually go and watch."
         },
         {
           "speaker": "A",
-          "text": "Thank you for listening, and for putting up with a small edition today."
+          "text": "Before we go, one more time: the Bond story is a rumour, the Carmen date is unconfirmed, and the film reviews are mixed. Everything else is checked."
         },
         {
           "speaker": "B",
-          "text": "Small but true. Tomorrow we will look for more. And in the meantime, go and watch something good."
+          "text": "And that's a decent summary of a Friday. Some noise, some solid openings, and one opera that hasn't picked its date."
+        },
+        {
+          "speaker": "B",
+          "text": "Which is a nice thing to say on the night before Halloween. <chuckle> Go to the cinema. See something you didn't plan to see."
         },
         {
           "speaker": "A",
-          "text": "Put Black Swan and Arcadia in your diary, and keep an eye on Valladolid on Saturday. See you tomorrow on the Radar."
+          "text": "The full edition, with sources and every date, is in the app. See you tomorrow on the Radar."
         },
         {
           "speaker": "B",
-          "text": "See you tomorrow. <laugh> Bring a bigger edition."
+          "text": "See you tomorrow. And happy Halloween."
         }
       ]
     }
   ],
   "pronunciations": {
+    "Aritz Moreno": "Ah-reets Moh-reh-noh",
+    "Sandra Sánchez": "San-drah San-chess",
+    "Patrick Criado": "Pah-trick Kree-ah-doh",
+    "Andrea Ros": "Ahn-dreh-ah Ross",
+    "Javier Giner": "Hah-vee-air Hee-nair",
+    "Esta soledad": "Es-tah Soh-leh-dad",
+    "Tiempos de ilusión": "Tee-em-pohs deh Ee-loo-see-ohn",
+    "Juste une illusion": "Zhoost oon ee-loo-zee-ohn",
+    "Nakache": "Nah-kahsh",
+    "Toledano": "Toh-leh-dah-noh",
+    "Carles Torrens": "Car-less Tor-rens",
+    "Apocalipsis Z": "Ah-poh-kah-leep-sees Zeta",
+    "Un nuevo mundo": "Oon Nweh-voh Moon-doh",
+    "Manel Loureiro": "Mah-nel Lou-ray-roh",
+    "Karateka": "Kah-rah-teh-kah",
+    "Aniquilación": "Ah-nee-kee-lah-see-ohn",
+    "Talavera de la Reina": "Tah-lah-veh-rah deh lah Ray-nah",
+    "Michieletto": "Mee-keh-lyeh-toh",
+    "Damiano": "Dah-mee-ah-noh",
+    "Miguel Ángel Calvo Buttini": "Mee-gel Ahn-hel Kal-voh Boo-tee-nee",
+    "El mundo es ansí": "El Moon-doh es Ahn-see",
+    "Ramón Barea": "Rah-mohn Bah-reh-ah",
+    "Pío Baroja": "Pee-oh Bah-roh-hah",
+    "Ernesto Alterio": "Air-nes-toh Al-teh-ree-oh",
+    "Pilar Castro": "Pee-lar Kas-troh",
+    "Berta Vázquez": "Bair-tah Vahs-keth",
+    "José María Yazpik": "Hoh-seh Mah-ree-ah Yahs-peek",
+    "Canary Islands": "Kuh-nair-ee Eye-lands",
     "Seminci": "Seh-meen-thee",
-    "Gael García Bernal": "Gah-el Gar-see-ah Bair-nahl",
-    "Hombre al agua": "Om-bray ahl Ah-gwah",
-    "Lili Horvát": "Lee-lee Hor-vaht",
-    "Ciudad de Dios": "See-oo-dahd deh Dee-ohs",
-    "Tres de más": "Trace deh Mahs",
-    "Locura padre": "Loh-koo-rah Pah-dreh",
-    "El soldado de Dios": "El Sol-dah-doh deh Dee-ohs",
-    "Melania Rea": "Meh-lah-nee-ah Reh-ah",
-    "Infamia": "Een-fah-mee-ah",
     "Valladolid": "Vah-yah-doh-leed",
-    "Caitríona McLaughlin": "Cat-ree-oh-nah Mick-lock-lin",
-    "Siobhán McSweeney": "Shiv-awn Mick-Swee-nee",
-    "Éanna Hardwicke": "Ay-nah Hard-wick",
-    "Museo": "Moo-seh-oh",
-    "Magallanes": "Mah-gah-yah-nes",
-    "Camilo": "Kah-mee-loh",
-    "Esmeralda Pimentel": "Es-meh-rahl-dah Pee-men-tel",
-    "Débora Nascimento": "Deh-boh-rah Nah-see-men-toh",
-    "Natalia Oreiro": "Nah-tah-lee-ah Oh-ray-roh",
-    "Espiga de Oro": "Es-pee-gah deh Oh-roh"
+    "Na Hong-jin": "Nah Hong-jin",
+    "Sitges": "Seet-jess",
+    "Tyneside": "Tine-side",
+    "Götterdämmerung": "Get-er-dem-er-oong",
+    "Così fan tutte": "Koh-zee fahn too-teh",
+    "La Fanciulla del West": "Lah Fahn-choo-lah del West",
+    "Contracorriente": "Kon-trah-koh-ree-en-teh",
+    "Louis Garrel": "Loo-ee Gah-rel",
+    "Camille Cottin": "Kah-mee Koh-tan",
+    "Ángel Agudo": "Ahn-hel Ah-goo-doh"
   }
 }

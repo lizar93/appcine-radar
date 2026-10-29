@@ -1,211 +1,282 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "territory": "ES",
-  "generatedAt": "2026-10-28T23:30:00Z",
+  "generatedAt": "2026-10-29T23:30:00Z",
   "reports": [
     {
-      "id": "2026-10-29-hbo-max-novembre",
-      "section": "services",
+      "id": "2026-10-30-bond-screen-tests",
+      "section": "news",
       "subject": "film",
-      "headline": "HBO Max fills November with cinema: 'Jojo Rabbit', 'The Whale' and 'Black Swan' on the 5th, 'Tres de más' on the 20th",
-      "deck": "HBO Max's Spanish catalogue announces a batch of films for November with specific dates, plus several European original series.",
+      "headline": "Amazon MGM runs final screen tests for the next James Bond: Callum Turner, Jack Lowden and Josh O'Connor, trade press reports",
+      "deck": "The tests would take place in London over the weekend of 24–25 October. There is no official confirmation and no date for an announcement; everything comes from anonymous sources.",
       "paragraphs": [
-        "According to the calendar published by AVPasión (updated Wednesday 28), 'Jojo Rabbit' (Taika Waititi), 'The Whale' and 'Black Swan' (Darren Aronofsky) reach HBO Max in Spain on 5 November, together with 'Constantine' and 'The Color of Money'. On the 12th come 'Dangerous Minds', 'Contact' and 'Little Miss Sunshine', and on the 26th 'Locura padre' and 'El soldado de Dios'. These are platform dates for Spain; the articles consulted do not give years or directors for every title.",
-        "The Spanish comedy 'Tres de más' arrives on the 20th after its theatrical run. On the series side, Que.es lists 'The Gilded Age' (season 4) on 2 November, the Italian 'Melania Rea' on the 6th, 'Ciudad de Dios: La lucha no para' on the 8th and the thriller 'Infamia' on the 13th; the same day also lists two European productions, the Polish 'Silent Night' and the Hungarian 'Maniacs of Truth', without further details. 'The Good Daughter', an adaptation of a Karin Slaughter novel, appears on the 12th.",
-        "Why it matters: for this reader's profile, the interest is the November cycle with 'Black Swan' (psychological horror) and 'Jojo Rabbit' (period satire) on the same date, plus the curiosity of the two Eastern European series. Editorial affinity 3/5, medium confidence (not a critics' score). Both sources are non-official specialist press: check the platform."
+        "According to The Hollywood Reporter, as summarised by Dark Horizons on 22 October, the shortlist to replace Daniel Craig includes Jack Lowden, Josh O'Connor and Callum Turner, plus at least one name that has not come out. The tests would be held mostly in London and would combine stunt work, camera presence and dialogue.",
+        "The same piece says Jack O'Connell and Jacob Elordi, who had been strongly tipped in the previous days, will not test. That is also anonymous-source information: neither Amazon MGM nor the actors have said anything. Another outlet reports that Deadline notes that even if the tests wrap this week, there is no timeline for the final decision.",
+        "What is on record is that Denis Villeneuve will direct, with Amy Pascal and David Heyman producing for Amazon MGM Studios. Read all of it as well-sourced rumour, not a closed casting: the role cannot be attributed to any of the names."
       ],
-      "publishedAt": "2026-10-28T12:15:00Z",
-      "eventDate": "2026-11-05",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "eventDate": "2026-10-25",
+      "territory": "US",
+      "status": "unverified",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Dark Horizons – New James Bond Final Candidates Emerge",
+          "url": "https://www.darkhorizons.com/new-james-bond-final-candidates-emerge/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "The Nation – Final James Bond screen tests to take place this weekend",
+          "url": "https://www.nation.com.pk/24-Oct-2026/final-james-bond-screen-tests-take-place-weekend",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-estrenes-karateka",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Friday 30 October openings in Spain: 'Karateka', 'Tiempos de ilusión', 'Aniquilación' and 'Esta soledad' join the All Saints horror slate",
+      "deck": "Twelve titles reach Spanish cinemas on 30 October. Besides the ones already covered ('Hope', 'Leviticus', 'Wicker', 'Klara y el sol'), the standouts are a sports biopic, a French dramedy and an action thriller.",
+      "paragraphs": [
+        "'Karateka', by Aritz Moreno, is the biopic of Sandra Sánchez (Talavera de la Reina, 1981), who won Olympic kata gold at Tokyo 2021 aged 39. Andrea Ros plays the lead and Patrick Criado her coach and husband, Jesús del Moral; Ernesto Alterio and Pilar Castro complete the cast. It opens in Spain on 30 October via Warner Bros. España; we found no broad professional reviews to summarise its reception.",
+        "'Tiempos de ilusión' ('Juste une illusion'), by Olivier Nakache and Éric Toledano, follows a 13-year-old in a Paris suburb in 1985, between a distant brother and arguing parents, as he discovers love, faith, friendship and identity. Louis Garrel and Camille Cottin are in it, and A Contracorriente distributes. It is a dramedy about human relationships, close to the profile; we found no international date.",
+        "'Aniquilación' is 'Onslaught', by Adam Wingard, with Adria Arjona and Dan Stevens, distributed by Diamond Films: a sniper has to protect her daughter and her neighbours in a trailer park from escaped former soldiers. English-language critics are split: io9 sees wasted potential and JoBlo gives it 6 out of 10, and both single out Arjona and Stevens's excess.",
+        "Also opening are 'Esta soledad', by Javier Giner (Filmax), about a separated couple trying to rebuild amid a father's illness and job precarity, and 'El mundo es ansí', by Miguel Ángel Calvo Buttini (Barton Films), with Ramón Barea, about a student who ends up absorbed in Pío Baroja's life. Listings do not always agree on distributors and casts; check your cinema's session."
+      ],
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "eventDate": "2026-10-30",
       "territory": "ES",
-      "status": "announced",
+      "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Que.es – Estrenos de HBO Max en noviembre",
-          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
           "kind": "other"
         },
         {
-          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
-          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "name": "AccionCine – Estrenos de cine y plataformas del 30 de octubre",
+          "url": "https://www.accioncine.es/estrenos-de-cine-y-plataformas-del-30-de-octubre",
           "kind": "other"
+        },
+        {
+          "name": "SensaCine – «Karateka» llega a los cines el 30 de octubre",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000228868/",
+          "kind": "other"
+        },
+        {
+          "name": "io9 (Gizmodo) – crítica d'«Onslaught»",
+          "url": "https://gizmodo.com/onslaught-movie-review-adam-wingard-adria-arjona-2000798127",
+          "kind": "tradePress"
+        },
+        {
+          "name": "JoBlo – crítica d'«Onslaught»",
+          "url": "https://www.joblo.com/onslaught-review/",
+          "kind": "tradePress"
         }
       ],
       "titles": [
         {
-          "title": "Jojo Rabbit",
-          "year": 2019,
+          "title": "Karateka",
+          "year": 2026,
           "kind": "film"
         },
         {
-          "title": "Black Swan",
-          "year": 2010,
+          "title": "Juste une illusion",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Cisne negro"
+          "knownAs": "Tiempos de ilusión"
+        },
+        {
+          "title": "Onslaught",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Aniquilación"
+        },
+        {
+          "title": "Esta soledad",
+          "year": 2026,
+          "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-10-29-nt-arcadia-playboy",
+      "id": "2026-10-30-apocalipsis-z-prime",
+      "section": "services",
+      "subject": "film",
+      "headline": "'Apocalipsis Z: Un nuevo mundo' reaches Prime Video on 30 October after Sitges",
+      "deck": "Carles Torrens's zombie sequel makes the Canary Islands Europe's last refuge. It streams worldwide on the platform on Friday.",
+      "paragraphs": [
+        "According to Amazon, 'Apocalypse Z: New World' (in Spanish, 'Apocalipsis Z: Un nuevo mundo') premieres on Prime Video on 30 October in more than 240 countries and territories, Spain included. It had its debut at the Sitges Film Festival on 10 October, in the 59th edition.",
+        "Carles Torrens directs again, from a screenplay by Ángel Agudo based on Manel Loureiro's novels. José María Yazpik and Berta Vázquez return; Carlos Alcaide and Julia Martínez are among the rest of the cast. The plot, spoiler-free: after the virus outbreak, the Canary Islands are Europe's last refuge, and a special mission travels to the mainland for supplies.",
+        "The first film (2024) is, per Amazon, the most-watched international original film in Prime Video history. This is commercial survival horror; we have not seen it, so we assess context only, not quality. A Prime Video subscription is needed."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-10-30",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Amazon – Apocalypse Z: New World, tràiler i data",
+          "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video",
+          "kind": "official"
+        },
+        {
+          "name": "AccionCine – Estrenos de cine y plataformas del 30 de octubre",
+          "url": "https://www.accioncine.es/estrenos-de-cine-y-plataformas-del-30-de-octubre",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Apocalipsis Z: Un nuevo mundo",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Apocalypse Z: New World"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-rbo-carmen-met",
       "section": "stage",
       "subject": "film",
-      "headline": "National Theatre at Home schedules Stoppard's 'Arcadia' for 26 November and 'The Playboy of the Western World' for 1 December",
-      "deck": "The British theatre streaming catalogue lines up two classics before year's end, after 'Les Liaisons Dangereuses' (3 November).",
+      "headline": "Filmed theatre and opera: the Royal Opera's Michieletto 'Carmen' reaches cinemas in November, but there is no new complete recording to recommend today",
+      "deck": "The Royal Ballet and Opera previews its 2026/27 cinema season and the Met already has 'Macbeth' on screens. For now, no Spain access details or casts.",
       "paragraphs": [
-        "The 'Coming soon' page of National Theatre at Home lists, besides 'Les Liaisons Dangereuses' (3 November, directed by Marianne Elliott), Tom Stoppard's 'Arcadia', directed by Carrie Cracknell and produced by the Old Vic, arriving on 26 November. On 1 December comes John Millington Synge's 'The Playboy of the Western World', directed by Caitríona McLaughlin with Nicola Coughlan, Éanna Hardwicke and Siobhán McSweeney.",
-        "Also scheduled are 'Kinky Boots' (1 December), 'A Child's Christmas in Wales' (8 December) and, for March 2027, 'Owain & Henry'. The service offers monthly or annual subscriptions, rentals and a one-week free trial, but the page does not say which model applies to each play, nor the recording year or subtitles.",
-        "Because the recording year, subtitles and exact access from Spain are missing, no full-recording card is given here: this is a calendar notice. Editorial affinity 4/5 for 'Arcadia', medium confidence (the recording has not been seen)."
+        "Today we found no new complete theatre or opera recording with enough verified data to write a file on it. What can be verified is the cinema-transmission calendar: per the Royal Ballet and Opera, this season includes a revival of Damiano Michieletto's 'Carmen' in November, 'Götterdämmerung' and 'Così fan tutte' live in February, 'Tosca' in May and, from the Met, October's new 'Macbeth' and later 'La Fanciulla del West'.",
+        "For 'Carmen' the data conflict: the official site just says 'November'; Tyneside Cinema in the UK lists Tuesday 10 November and Gwyn Hall in the UK lists Sunday 15. Conductor, cast and whether it is live or delayed are not yet known, and we could not verify which Spanish cinemas will show it. Nor is this a complete recording on a platform: it is a cinema event.",
+        "The same calendar lists the Royal Ballet's 'The Nutcracker' from 1 December. If you want complete opera at home, earlier editions this month already covered other options (Liceu, National Theatre at Home)."
       ],
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "eventDate": "2026-11-26",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-11-10",
       "territory": "GB",
       "status": "announced",
-      "evidence": "primarySource",
+      "evidence": "corroborated",
       "sources": [
         {
-          "name": "National Theatre at Home – Coming soon",
-          "url": "https://www.ntathome.com/coming-soon",
-          "kind": "catalogue"
+          "name": "Royal Ballet and Opera – temporada de cinema 2026/27",
+          "url": "https://www.rbo.org.uk/latest-news/royal-ballet-and-opera-announces-2026-27-cinema-season",
+          "kind": "official"
         },
         {
-          "name": "National Theatre at Home",
-          "url": "https://www.ntathome.com/",
-          "kind": "catalogue"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-29-seminci-clausura",
-      "section": "festivals",
-      "subject": "film",
-      "headline": "Seminci closes on Saturday with 'Hombre al agua', Gael García Bernal's comedy about class and masculinity",
-      "deck": "The 71st Valladolid festival ends on 31 October with the Mexican actor's third film as a director, which he also wrote and stars in.",
-      "paragraphs": [
-        "According to Seminci's press release, 'Hombre al agua' is the closing film of the edition, held from 23 to 31 October. It is Gael García Bernal's third feature as a director; he wrote it and plays Camilo, a Cuban lifeguard who saves a Mexican businessman. The cast also includes Esmeralda Pimentel, Débora Nascimento, Natalia Oreiro and Ricky Martin.",
-        "The festival opened with Lili Horvát's 'My Notes on Mars', in the Official Section with Mackenzie Davis and Rupert Friend. The release notes that this will be Bernal's first visit to Valladolid, although two of his films have played there before: 'Museo' (2018) and 'Magallanes' (2025).",
-        "Why it matters: the Official Section results, with the Espiga de Oro, are due this Saturday the 31st; the release is dated 5 October and does not confirm the time or a commercial release date in Spain for 'Hombre al agua'. We have not seen the film. Editorial affinity 3/5, low confidence (social comedy; not a critics' score)."
-      ],
-      "publishedAt": "2026-10-05T00:00:00Z",
-      "eventDate": "2026-10-31",
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "primarySource",
-      "sources": [
+          "name": "Tyneside Cinema – Royal Ballet & Opera 2026-27",
+          "url": "https://tynesidecinema.co.uk/film-seasons/royal-ballet-opera-2026-27/",
+          "kind": "other"
+        },
         {
-          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
-          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
-          "kind": "official"
+          "name": "Gwyn Hall – event cinema",
+          "url": "https://gwynhall.com/event-cinema/",
+          "kind": "other"
         }
       ]
     },
     {
-      "id": "2026-10-29-calendari",
+      "id": "2026-10-30-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendar: Seminci results on Saturday, 'The Gilded Age' on HBO Max on 2 November and 'Les Liaisons Dangereuses' on the 3rd",
-      "deck": "Dates with territory for the coming weeks, only those found in this edition's sources.",
+      "headline": "Calendar: Seminci and 'Hombre al agua', Tokyo until 4 November and the Royal Opera's 'Carmen' at the cinema",
+      "deck": "Verified dates for the coming days, each with its territory.",
       "paragraphs": [
-        "31 October (Spain): Seminci closes with 'Hombre al agua' and the 71st edition's results. 2 November (Spain, HBO Max): season four of 'The Gilded Age'. 3 November (National Theatre at Home): 'Les Liaisons Dangereuses'.",
-        "5 November (Spain, HBO Max): 'Jojo Rabbit', 'The Whale' and 'Black Swan'. 13 November (Spain, HBO Max): the series 'Infamia'. 20 November (Spain, HBO Max): 'Tres de más'.",
-        "26 November (National Theatre at Home): 'Arcadia'. 1 December: 'The Playboy of the Western World' and 'Kinky Boots'. Platform dates can change; confirm them with the service."
+        "30 October (Spain): 'Karateka', 'Tiempos de ilusión', 'Aniquilación', 'Esta soledad' and 'El mundo es ansí' open in cinemas; 'Apocalipsis Z: Un nuevo mundo' arrives on Prime Video.",
+        "31 October (Spain): the 71st Seminci in Valladolid closes (it runs 23–31 October); the awards are known at the closing gala. 4 November (Japan): the Tokyo International Film Festival closes its 39th edition, which began on 26 October.",
+        "10 November (UK): date one cinema gives for the Royal Opera's 'Carmen'; the official site only says 'November'. 1 December: the Royal Ballet's 'The Nutcracker', per the same calendar."
       ],
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "eventDate": null,
-      "territory": "ES",
-      "status": "announced",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Que.es – Estrenos de HBO Max en noviembre",
-          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
-          "kind": "other"
-        },
-        {
-          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
-          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
-          "kind": "other"
-        },
-        {
-          "name": "National Theatre at Home – Coming soon",
-          "url": "https://www.ntathome.com/coming-soon",
-          "kind": "catalogue"
-        },
-        {
-          "name": "National Theatre at Home",
-          "url": "https://www.ntathome.com/",
-          "kind": "catalogue"
-        },
-        {
-          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
-          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
-          "kind": "official"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-29-recomanacions",
-      "section": "recommendation",
-      "subject": "film",
-      "headline": "Editor's picks: 'Black Swan' on 5 November, 'Arcadia' at the National Theatre and Seminci's closing night",
-      "deck": "Three suggestions for this late-October moment, with editorial affinity (not the critics' score).",
-      "paragraphs": [
-        "1) 'Black Swan' (2010, Darren Aronofsky), on HBO Max Spain on 5 November: psychological horror with ballet in the background; affinity 4/5, high confidence for the genre, though it is already a well-known film. 2) 'Arcadia' by Tom Stoppard, on National Theatre at Home on 26 November: a drama of ideas and relationships; affinity 4/5, medium confidence (the recording has not been seen). 3) 'Hombre al agua' by Gael García Bernal, at Seminci's closing on the 31st: social comedy; affinity 3/5, low confidence.",
-        "Day's wrap-up: a short edition because today's search found few verifiable news items; we preferred fewer reports to adding unconfirmed rumours."
-      ],
-      "publishedAt": "2026-10-29T00:00:00Z",
+      "publishedAt": "2026-10-30T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Que.es – Estrenos de HBO Max en noviembre",
-          "url": "https://www.que.es/2026/10/28/estrenos-hbo-max-noviembre/",
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
           "kind": "other"
         },
         {
-          "name": "AVPasión – Estrenos de HBO Max en noviembre de 2026",
-          "url": "https://www.avpasion.com/estrenos-hbo-max-noviembre-2026-cine-series/",
+          "name": "Don Porque – Seminci 2026, claves",
+          "url": "https://donporque.com/seminci-2026-guia-claves/",
           "kind": "other"
         },
         {
-          "name": "National Theatre at Home – Coming soon",
-          "url": "https://www.ntathome.com/coming-soon",
-          "kind": "catalogue"
+          "name": "Outlook India – Tokyo International Film Festival 2026",
+          "url": "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed",
+          "kind": "other"
         },
         {
-          "name": "National Theatre at Home",
-          "url": "https://www.ntathome.com/",
-          "kind": "catalogue"
+          "name": "Tyneside Cinema – Royal Ballet & Opera 2026-27",
+          "url": "https://tynesidecinema.co.uk/film-seasons/royal-ballet-opera-2026-27/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Editor's picks: 'Karateka', 'Tiempos de ilusión' and 'Apocalipsis Z: Un nuevo mundo'",
+      "deck": "Three suggestions for the All Saints break, with editorial affinity (not the critics' or the public's score).",
+      "paragraphs": [
+        "1) 'Tiempos de ilusión' (Nakache and Toledano, in cinemas): a relationship and childhood dramedy; affinity 3.5/5, low confidence, as we have read no reviews. 2) 'Karateka' (Aritz Moreno, in cinemas): a sports biopic outside the profile's core; affinity 2.5/5, low confidence. 3) 'Apocalipsis Z: Un nuevo mundo' (Prime Video): survival horror that played Sitges; affinity 3/5, low confidence, and we have not seen it.",
+        "Day's wrap-up: a short edition; much of the listings was already covered on Monday and we published only what we could verify. The Bond rumour is the loudest story but also the least solid."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
         },
         {
-          "name": "Seminci – Nota de prensa sobre la inauguració i la clausura",
-          "url": "https://www.seminci.com/2026/notas-de-prensa/lili-horvat-ganadora-de-la-espiga-de-oro-inaugurara-la-71-seminci-y-gael-garcia-bernal-la-clausurara-con-su-ultima-pelicula-como-actor-y-director/",
+          "name": "Amazon – Apocalypse Z: New World",
+          "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video",
           "kind": "official"
         }
       ],
       "titles": [
         {
-          "title": "Black Swan",
-          "year": 2010,
+          "title": "Karateka",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Juste une illusion",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Cisne negro"
+          "knownAs": "Tiempos de ilusión"
+        },
+        {
+          "title": "Apocalipsis Z: Un nuevo mundo",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Apocalypse Z: New World"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
-      "title": "Black Swan",
-      "year": 2010,
-      "kind": "film",
-      "knownAs": "Cisne negro"
+      "title": "Karateka",
+      "year": 2026,
+      "kind": "film"
     },
     {
-      "title": "Jojo Rabbit",
-      "year": 2019,
-      "kind": "film"
+      "title": "Juste une illusion",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Tiempos de ilusión"
+    },
+    {
+      "title": "Apocalipsis Z: Un nuevo mundo",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Apocalypse Z: New World"
     }
   ]
 }

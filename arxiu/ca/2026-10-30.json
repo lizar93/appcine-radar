@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "territory": "ES",
+  "generatedAt": "2026-10-29T23:30:00Z",
+  "reports": [
+    {
+      "id": "2026-10-30-bond-screen-tests",
+      "section": "news",
+      "subject": "film",
+      "headline": "Amazon MGM fa les proves de càmera finals per al nou James Bond: Callum Turner, Jack Lowden i Josh O'Connor, segons la premsa especialitzada",
+      "deck": "Les proves es farien a Londres el cap de setmana del 24 i 25 d'octubre. No hi ha cap confirmació oficial ni data per a l'anunci; tot ve de fonts anònimes.",
+      "paragraphs": [
+        "Segons The Hollywood Reporter, que Dark Horizons resumeix el 22 d'octubre, la llista de finalistes per substituir Daniel Craig inclou Jack Lowden, Josh O'Connor i Callum Turner, més almenys un nom que no ha transcendit. Les proves es farien sobretot a Londres i combinarien escenes d'acrobàcia, presència davant la càmera i diàleg.",
+        "El mateix text diu que Jack O'Connell i Jacob Elordi, que els dies anteriors havien sonat amb força, no farien les proves. També és informació de fonts anònimes: ni Amazon MGM ni els actors no han dit res. Un altre mitjà recull que Deadline apunta que, encara que les proves acabin aquesta setmana, no hi ha calendari per a la decisió final.",
+        "El que sí que consta és que Denis Villeneuve dirigirà la pel·lícula, amb Amy Pascal i David Heyman com a productors, per a Amazon MGM Studios. Convé llegir-ho tot com a rumor ben informat, no com a càsting tancat: no es pot atribuir el paper a cap dels noms."
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "eventDate": "2026-10-25",
+      "territory": "US",
+      "status": "unverified",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Dark Horizons – New James Bond Final Candidates Emerge",
+          "url": "https://www.darkhorizons.com/new-james-bond-final-candidates-emerge/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "The Nation – Final James Bond screen tests to take place this weekend",
+          "url": "https://www.nation.com.pk/24-Oct-2026/final-james-bond-screen-tests-take-place-weekend",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-estrenes-karateka",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Estrenes de divendres 30 a Espanya: «Karateka», «Tiempos de ilusión», «Aniquilación» i «Esta soledad» acompanyen el terror de Tots Sants",
+      "deck": "Dotze títols arriben a les sales espanyoles el 30 d'octubre. Fora de les ja explicades («Hope», «Leviticus», «Wicker», «Klara y el sol»), destaquen un biopic esportiu, una comèdia dramàtica francesa i un thriller d'acció.",
+      "paragraphs": [
+        "«Karateka», d'Aritz Moreno, és el biopic de Sandra Sánchez (Talavera de la Reina, 1981), que va guanyar l'or olímpic de kata a Tòquio 2021 amb 39 anys. Andrea Ros interpreta la protagonista i Patrick Criado el seu entrenador i marit, Jesús del Moral; completen el repartiment Ernesto Alterio i Pilar Castro. L'estrena a Espanya és el 30 d'octubre amb Warner Bros. España; no hem trobat crítiques professionals prou àmplies per resumir-ne la recepció.",
+        "«Tiempos de ilusión» («Juste une illusion»), d'Olivier Nakache i Éric Toledano, situa un noi de 13 anys a un barri de les rodalies de París el 1985, entre germans distants i uns pares que discuteixen, mentre descobreix l'amor, la fe, l'amistat i la identitat. Hi surten Louis Garrel i Camille Cottin, i la distribueix A Contracorriente. És una comèdia dramàtica de relacions humanes, una línia propera al perfil; no n'hem trobat la data internacional.",
+        "«Aniquilación» és «Onslaught», d'Adam Wingard, amb Adria Arjona i Dan Stevens, i la distribueix Diamond Films: una francotiradora ha de protegir la seva filla i els veïns d'un aparcament de caravanes d'uns antics soldats fugits. La crítica anglosaxona és dividida: io9 hi troba potencial desaprofitat i JoBlo li dona un 6 sobre 10, i ambdues destaquen Arjona i l'excés de Stevens.",
+        "També arriben «Esta soledad», de Javier Giner (Filmax), sobre una parella separada que intenta refer-se entre la malaltia d'un pare i la precarietat laboral, i «El mundo es ansí», de Miguel Ángel Calvo Buttini (Barton Films), amb Ramón Barea, sobre una estudiant que acaba absorbida per la vida de Pío Baroja. Les guies de cartellera no sempre coincideixen en distribuïdores i repartiments; convé confirmar la sessió al cinema."
+      ],
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "eventDate": "2026-10-30",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "AccionCine – Estrenos de cine y plataformas del 30 de octubre",
+          "url": "https://www.accioncine.es/estrenos-de-cine-y-plataformas-del-30-de-octubre",
+          "kind": "other"
+        },
+        {
+          "name": "SensaCine – «Karateka» llega a los cines el 30 de octubre",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000228868/",
+          "kind": "other"
+        },
+        {
+          "name": "io9 (Gizmodo) – crítica d'«Onslaught»",
+          "url": "https://gizmodo.com/onslaught-movie-review-adam-wingard-adria-arjona-2000798127",
+          "kind": "tradePress"
+        },
+        {
+          "name": "JoBlo – crítica d'«Onslaught»",
+          "url": "https://www.joblo.com/onslaught-review/",
+          "kind": "tradePress"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Karateka",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Juste une illusion",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Tiempos de ilusión"
+        },
+        {
+          "title": "Onslaught",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Aniquilación"
+        },
+        {
+          "title": "Esta soledad",
+          "year": 2026,
+          "kind": "film"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-apocalipsis-z-prime",
+      "section": "services",
+      "subject": "film",
+      "headline": "«Apocalipsis Z: Un nuevo mundo» arriba a Prime Video el 30 d'octubre després de passar per Sitges",
+      "deck": "La seqüela de la pel·lícula de zombis de Carles Torrens situa Canàries com a darrer refugi d'Europa. Es veu a tot el món a la plataforma el mateix divendres.",
+      "paragraphs": [
+        "Segons Amazon, «Apocalypse Z: New World» (en espanyol, «Apocalipsis Z: Un nuevo mundo») s'estrena a Prime Video el 30 d'octubre en més de 240 països i territoris, també a Espanya. Va presentar-se al Festival de Sitges el 10 d'octubre, dins la 59a edició.",
+        "Carles Torrens dirigeix de nou, amb guió d'Ángel Agudo a partir de les novel·les de Manel Loureiro. Hi tornen José María Yazpik i Berta Vázquez; completen el repartiment Carlos Alcaide i Julia Martínez, entre d'altres. La trama, sense espòilers: després del brot del virus, Canàries és l'últim refugi d'Europa i una missió especial viatja al continent a buscar subministraments.",
+        "La primera pel·lícula (2024) és, segons Amazon, la pel·lícula original internacional més vista de la història de Prime Video. És terror de supervivència de to comercial; no n'hem vist res, així que no en valorem la qualitat, només el context. Cal subscripció a Prime Video."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-10-30",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Amazon – Apocalypse Z: New World, tràiler i data",
+          "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video",
+          "kind": "official"
+        },
+        {
+          "name": "AccionCine – Estrenos de cine y plataformas del 30 de octubre",
+          "url": "https://www.accioncine.es/estrenos-de-cine-y-plataformas-del-30-de-octubre",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Apocalipsis Z: Un nuevo mundo",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Apocalypse Z: New World"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-rbo-carmen-met",
+      "section": "stage",
+      "subject": "film",
+      "headline": "Teatre i òpera en pantalla: la «Carmen» de Michieletto de la Royal Opera arriba als cinemes al novembre, però no hi ha cap captació completa nova per recomanar avui",
+      "deck": "El Royal Ballet and Opera avança la seva temporada de cinema 2026/27 i el Met ja té «Macbeth» en cartell. De moment, cap dada d'accés a Espanya ni de repartiment.",
+      "paragraphs": [
+        "Avui no hem trobat cap enregistrament complet nou de teatre o òpera amb dades prou contrastades per fer-ne una fitxa. El que sí que és verificable és el calendari de transmissions al cinema: segons el Royal Ballet and Opera, aquesta temporada porta una represa de la «Carmen» de Damiano Michieletto al novembre, «Götterdämmerung» i «Così fan tutte» en directe al febrer, «Tosca» al maig i, del Met, el «Macbeth» nou d'octubre i «La Fanciulla del West» més endavant.",
+        "Per a la «Carmen» hi ha dades contradictòries: la web oficial només diu «novembre»; Tyneside Cinema, al Regne Unit, la programa el dimarts 10 de novembre i Gwyn Hall, al Regne Unit, el diumenge 15. Ni la direcció musical, ni el repartiment, ni si és en directe o en diferit no consten encara, i no hem pogut verificar quines sales d'Espanya la projectaran. Tampoc és una captació completa en plataforma: és un esdeveniment de cinema.",
+        "El mateix calendari indica «El trencanous» del Royal Ballet a partir de l'1 de desembre. Si busqueu òpera completa a casa, recordeu que les edicions d'aquest mes ja n'han explicat altres opcions (Liceu, National Theatre at Home)."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-11-10",
+      "territory": "GB",
+      "status": "announced",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Royal Ballet and Opera – temporada de cinema 2026/27",
+          "url": "https://www.rbo.org.uk/latest-news/royal-ballet-and-opera-announces-2026-27-cinema-season",
+          "kind": "official"
+        },
+        {
+          "name": "Tyneside Cinema – Royal Ballet & Opera 2026-27",
+          "url": "https://tynesidecinema.co.uk/film-seasons/royal-ballet-opera-2026-27/",
+          "kind": "other"
+        },
+        {
+          "name": "Gwyn Hall – event cinema",
+          "url": "https://gwynhall.com/event-cinema/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendari: Seminci i «Hombre al agua», Tòquio fins al 4 de novembre i la «Carmen» del Royal Opera al cinema",
+      "deck": "Les dates verificades dels propers dies, amb el territori de cada una.",
+      "paragraphs": [
+        "30 d'octubre (Espanya): estrena en sales de «Karateka», «Tiempos de ilusión», «Aniquilación», «Esta soledad» i «El mundo es ansí»; a Prime Video, «Apocalipsis Z: Un nuevo mundo».",
+        "31 d'octubre (Espanya): tanca la 71a Seminci de Valladolid, que va del 23 al 31; el palmarès es coneix en la gala de clausura. 4 de novembre (Japó): el Festival Internacional de Cinema de Tòquio tanca la 39a edició, que va començar el 26 d'octubre.",
+        "10 de novembre (Regne Unit): data que dona un cinema per a la «Carmen» de la Royal Opera; la web oficial només diu «novembre». 1 de desembre: «El trencanous» del Royal Ballet, segons el mateix calendari."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "Don Porque – Seminci 2026, claves",
+          "url": "https://donporque.com/seminci-2026-guia-claves/",
+          "kind": "other"
+        },
+        {
+          "name": "Outlook India – Tokyo International Film Festival 2026",
+          "url": "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed",
+          "kind": "other"
+        },
+        {
+          "name": "Tyneside Cinema – Royal Ballet & Opera 2026-27",
+          "url": "https://tynesidecinema.co.uk/film-seasons/royal-ballet-opera-2026-27/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: «Karateka», «Tiempos de ilusión» i «Apocalipsis Z: Un nuevo mundo»",
+      "deck": "Tres propostes per a aquest pont de Tots Sants, amb l'afinitat editorial (no la nota de la crítica ni del públic).",
+      "paragraphs": [
+        "1) «Tiempos de ilusión» (Nakache i Toledano, a sales): comèdia dramàtica de relacions i d'infància; afinitat 3,5/5, confiança baixa, perquè no n'hem llegit crítiques. 2) «Karateka» (Aritz Moreno, a sales): biopic esportiu fora del nucli del perfil; afinitat 2,5/5, confiança baixa. 3) «Apocalipsis Z: Un nuevo mundo» (Prime Video): terror de supervivència, passat per Sitges; afinitat 3/5, confiança baixa, i no hem vist la pel·lícula.",
+        "Balanç del dia: edició curta; molta de la cartellera ja s'havia explicat dilluns i només hem publicat el que hem pogut contrastar. El rumor del Bond és el més sorollós, però també el menys sòlid."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 30 de octubre de 2026",
+          "url": "https://cinemagavia.es/estrenos-30-octubre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "Amazon – Apocalypse Z: New World",
+          "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video",
+          "kind": "official"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Karateka",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Juste une illusion",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Tiempos de ilusión"
+        },
+        {
+          "title": "Apocalipsis Z: Un nuevo mundo",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Apocalypse Z: New World"
+        }
+      ]
+    }
+  ],
+  "recommendedTitles": [
+    {
+      "title": "Karateka",
+      "year": 2026,
+      "kind": "film"
+    },
+    {
+      "title": "Juste une illusion",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Tiempos de ilusión"
+    },
+    {
+      "title": "Apocalipsis Z: Un nuevo mundo",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Apocalypse Z: New World"
+    }
+  ]
+}
