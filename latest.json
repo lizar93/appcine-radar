@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-30T23:28:54Z",
+  "tracks": [
+    {
+      "language": "ca",
+      "voice": "elia",
+      "name": "Elia",
+      "gender": "female",
+      "file": "ca/2026-10-31-elia.m4a",
+      "durationSeconds": 528.3,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-31-seminci-gala-suspesa",
+          "title": "La Seminci suspèn la gala de clausura pel dol de l'accident ferroviari de Toledo, però manté el palmarès i les projeccions",
+          "start": 6.61
+        },
+        {
+          "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+          "title": "Estrenes del divendres 6 de novembre: «Godzilla Minus Zero» arriba a Espanya i «Sacamantecas» porta el crim real a la Àlaba del segle XIX",
+          "start": 92.62
+        },
+        {
+          "id": "2026-10-31-the-greatest-prime",
+          "title": "«El más grande», la sèrie autoritzada sobre Muhammad Ali, arriba a Prime Video el 4 de novembre",
+          "start": 231.15
+        },
+        {
+          "id": "2026-10-31-operavision-novembre",
+          "title": "Teatre i òpera en pantalla: OperaVision programa «De Materie» d'Andriessen el 6 de novembre i «Peter Grimes» el 26, però no hi ha cap captació completa nova per recomanar",
+          "start": 303.25
+        },
+        {
+          "id": "2026-10-31-calendari",
+          "title": "Calendari: palmarès de la Seminci avui, «Godzilla Minus Zero» al Japó el 3 i a Espanya el 6, i «The Greatest» a Prime Video el 4",
+          "start": 381.56
+        },
+        {
+          "id": "2026-10-31-recomanacions",
+          "title": "Recomanacions de l'editor: «Sacamantecas», «Godzilla Minus Zero» i «El más grande»",
+          "start": 441.05
+        },
+        {
+          "id": "fi",
+          "title": "Fi",
+          "start": 526.14
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "voice": "cori",
+      "name": "Cori",
+      "gender": "female",
+      "file": "en/2026-10-31-cori.m4a",
+      "durationSeconds": 468.5,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-31-seminci-gala-suspesa",
+          "title": "Seminci cancels its closing gala in mourning for the Toledo rail accident, but keeps the awards list and screenings",
+          "start": 5.53
+        },
+        {
+          "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+          "title": "Friday 6 November openings: 'Godzilla Minus Zero' reaches Spain and 'Sacamantecas' brings a real crime to 19th-century Álava",
+          "start": 81.01
+        },
+        {
+          "id": "2026-10-31-the-greatest-prime",
+          "title": "'The Greatest', the authorised Muhammad Ali series, arrives on Prime Video on 4 November",
+          "start": 208.64
+        },
+        {
+          "id": "2026-10-31-operavision-novembre",
+          "title": "Filmed theatre and opera: OperaVision lists Andriessen's 'De Materie' on 6 November and 'Peter Grimes' on the 26th, but there is no new complete recording to recommend",
+          "start": 273.35
+        },
+        {
+          "id": "2026-10-31-calendari",
+          "title": "Calendar: Seminci awards today, 'Godzilla Minus Zero' in Japan on the 3rd and Spain on the 6th, and 'The Greatest' on Prime Video on the 4th",
+          "start": 340.0
+        },
+        {
+          "id": "2026-10-31-recomanacions",
+          "title": "Editor's picks: 'Sacamantecas', 'Godzilla Minus Zero' and 'The Greatest'",
+          "start": 392.36
+        },
+        {
+          "id": "fi",
+          "title": "End",
+          "start": 466.4
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "voice": "alan",
+      "name": "Alan",
+      "gender": "male",
+      "file": "en/2026-10-31-alan.m4a",
+      "durationSeconds": 535.8,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-31-seminci-gala-suspesa",
+          "title": "Seminci cancels its closing gala in mourning for the Toledo rail accident, but keeps the awards list and screenings",
+          "start": 5.63
+        },
+        {
+          "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+          "title": "Friday 6 November openings: 'Godzilla Minus Zero' reaches Spain and 'Sacamantecas' brings a real crime to 19th-century Álava",
+          "start": 91.8
+        },
+        {
+          "id": "2026-10-31-the-greatest-prime",
+          "title": "'The Greatest', the authorised Muhammad Ali series, arrives on Prime Video on 4 November",
+          "start": 235.67
+        },
+        {
+          "id": "2026-10-31-operavision-novembre",
+          "title": "Filmed theatre and opera: OperaVision lists Andriessen's 'De Materie' on 6 November and 'Peter Grimes' on the 26th, but there is no new complete recording to recommend",
+          "start": 310.97
+        },
+        {
+          "id": "2026-10-31-calendari",
+          "title": "Calendar: Seminci awards today, 'Godzilla Minus Zero' in Japan on the 3rd and Spain on the 6th, and 'The Greatest' on Prime Video on the 4th",
+          "start": 388.85
+        },
+        {
+          "id": "2026-10-31-recomanacions",
+          "title": "Editor's picks: 'Sacamantecas', 'Godzilla Minus Zero' and 'The Greatest'",
+          "start": 449.6
+        },
+        {
+          "id": "fi",
+          "title": "End",
+          "start": 533.54
+        }
+      ]
+    }
+  ],
+  "podcastError": "No hi ha veus British female a la Voice Library."
+}
