@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "territory": "ES",
+  "generatedAt": "2026-10-30T23:30:00Z",
+  "reports": [
+    {
+      "id": "2026-10-31-seminci-gala-suspesa",
+      "section": "news",
+      "subject": "film",
+      "headline": "La Seminci suspèn la gala de clausura pel dol de l'accident ferroviari de Toledo, però manté el palmarès i les projeccions",
+      "deck": "El palmarès de la 71a edició es donarà a conèixer aquest dissabte 31 al matí en un acte informatiu. «Hombre al agua» tanca el festival igualment, a les 20:00 al Teatro Calderón.",
+      "paragraphs": [
+        "La Seminci ha anul·lat la gala de clausura prevista per a aquest dissabte 31 d'octubre al Teatro Calderón de Valladolid, en senyal de respecte i solidaritat amb les víctimes, les famílies i els ferits de l'accident ferroviari de la província de Toledo. La decisió cau dins dels tres dies de dol oficial que ha declarat el Govern. També queden cancel·lades la retransmissió de la cerimònia a La 2 i RTVE Play i les activitats de Seminci Noche.",
+        "Allò que es manté: les projeccions als cinemes de Valladolid continuen segons el programa, i el palmarès es farà públic dissabte al matí en un acte informatiu, que substitueix la cerimònia. El festival no n'ha avançat els guanyadors; quan es publiqui, ho recollirem a l'edició següent.",
+        "La pel·lícula de clausura, «Hombre al agua», de Gael García Bernal, es projectarà com estava previst a les 20:00 al Teatro Calderón, precedida d'un resum del festival i d'un homenatge als cineastes i les pel·lícules premiades. Als dies anteriors ja havíem explicat el cartell de clausura; la novetat d'avui és el canvi de format."
+      ],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "eventDate": "2026-10-31",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "Seminci – comunicat oficial sobre la suspensió de la gala de clausura",
+          "url": "https://www.seminci.com/2026/noticias/seminci-suspende-la-gala-de-clausura-de-su-71a-edicion-en-senal-de-respeto-y-solidaridad-con-las-victimas-del-accidente-ferroviario-de-toledo/",
+          "kind": "official"
+        },
+        {
+          "name": "COPE – La Seminci suspende la gala de clausura en señal de luto",
+          "url": "https://www.cope.es/emisoras/castilla-y-leon/valladolid-provincia/valladolid/noticias/seminci-suspende-gala-clausura-senal-luto-accidente-tren-toledo-20261029_3465172.html",
+          "kind": "other"
+        },
+        {
+          "name": "Infobae – Suspendida la gala de clausura de Seminci",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/29/suspendida-la-gala-de-clausura-de-seminci-por-el-accidente-ferroviario-de-toledo/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Estrenes del divendres 6 de novembre: «Godzilla Minus Zero» arriba a Espanya i «Sacamantecas» porta el crim real a la Àlaba del segle XIX",
+      "deck": "Takashi Yamazaki torna a Godzilla amb el primer rodatge japonès fet per a IMAX, i David Pérez Sañudo estrena un thriller d'època amb Antonio de la Torre i Patricia López Arnaiz.",
+      "paragraphs": [
+        "«Godzilla Minus Zero» s'estrena als cinemes espanyols el 6 de novembre, el mateix dia que als EUA (GKIDS); al Japó arriba el 3 de novembre amb Toho. Takashi Yamazaki dirigeix i escriu la seqüela de «Godzilla Minus One», que va guanyar l'Oscar als millors efectes visuals. Transcorre el 1949, dos anys després, i hi tornen Ryunosuke Kamiki i Minami Hamabe, amb Min Tanaka com a nova incorporació. Segons una de les fitxes, és la primera producció japonesa rodada en format Filmed for IMAX. Una font dona el 9 de novembre al subtítol, però el cos del text i les altres fonts diuen el 6. És cinema de monstres amb to d'època; no n'hem vist res i no en valorem la qualitat. Als EUA té classificació R.",
+        "«Sacamantecas», de David Pérez Sañudo, s'estrena el mateix 6 a les sales amb distribució de Buena Vista International (Disney). Situada a l'Àlaba de les acabades de la tercera guerra carlina, parteix de fets reals: apareixen dones estrangulades prop de Vitòria, i Ángela (Patricia López Arnaiz), la germana de la qual n'és una víctima, torna a la ciutat per buscar justícia. Antonio de la Torre fa de Juan Díaz de Garayo. Va tenir una projecció especial a la Secció Oficial del 74è Festival de Sant Sebastià i dura 109 minuts. Un mitjà local la defineix com una pel·lícula incòmoda i destaca la contenció de De la Torre; és una sola crítica, no un consens.",
+        "Compte amb una discrepància: eCartelera situa «Sacamantecas» a Prime Video, mentre que les fonts alabeses parlen d'estrena a cinemes el 6 i d'arribada posterior a la plataforma, sense data. El mateix divendres també apareixen als llistats «Los miserables», «Runner», «Dante», «Ruega por nosotras», «Persiguiendo a Michael» i «El gato con sombrero», però no n'hem verificat fitxa ni distribuïdora; convé confirmar sessions al cinema."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Guía del Ocio – Godzilla Minus Zero",
+          "url": "https://guiadelocio.es/madrid/?p=60075",
+          "kind": "other"
+        },
+        {
+          "name": "Espinof – Godzilla Minus Zero ya tiene fecha de estreno",
+          "url": "https://www.espinof.com/trailers/godzilla-minus-zero-tiene-fecha-estreno-nuevo-trailer-que-situa-como-uno-grandes-bombazos-ano",
+          "kind": "other"
+        },
+        {
+          "name": "SlashFilm – previsió de taquilla de Godzilla Minus Zero",
+          "url": "https://www.slashfilm.com/2298662/godzilla-minus-zero-box-office-preview/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
+          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "Gasteiz Hoy – crítica de Sacamantecas",
+          "url": "https://www.gasteizhoy.com/sacamantecas-pelicula-critica-vitoria/",
+          "kind": "other"
+        },
+        {
+          "name": "eCartelera – Próximos estrenos de cine",
+          "url": "https://www.ecartelera.com/peliculas/estrenos/",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Godzilla Minus Zero",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Sacamantecas",
+          "year": 2026,
+          "kind": "film"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-the-greatest-prime",
+      "section": "services",
+      "subject": "series",
+      "headline": "«El más grande», la sèrie autoritzada sobre Muhammad Ali, arriba a Prime Video el 4 de novembre",
+      "deck": "Vuit episodis sobre la transformació de Cassius Clay en Ali, amb Jaalen Best de protagonista i Michael B. Jordan com a productor executiu.",
+      "paragraphs": [
+        "«The Greatest» (en espanyol, «El más grande») s'estrena a Prime Video el dimecres 4 de novembre, segons la guia d'estrenes de Público per a Espanya i la resta de la premsa. És una minisèrie de vuit episodis: Jaalen Best fa de Cassius Clay/Muhammad Ali, Ben Watkins és el showrunner i Michael B. Jordan la produeix amb Outlier Society.",
+        "Segons les fonts, és la primera sèrie de ficció amb guió plenament autoritzada pel patrimoni d'Ali (Lonnie Ali és productora executiva) i se centra en els anys 1960 a 1964. Cal subscripció a Prime Video. És un biopic d'època i esports; no l'hem vist i només en descrivim el context.",
+        "Per a les sèries, la mateixa guia situa la segona temporada de «Ciudad de Dios: la lucha no para» a HBO Max el 8 de novembre, però una altra font només diu «novembre»: tractem el dia exacte com a no confirmat."
+      ],
+      "publishedAt": "2026-07-06T00:00:00Z",
+      "eventDate": "2026-11-04",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        },
+        {
+          "name": "The Statesman – «The Greatest» fixa el 4 de novembre a Prime Video",
+          "url": "https://www.thestatesman.com/entertainment/ott/the-greatest-muhammad-ali-series-prime-video-november-release-date-1503613799.html",
+          "kind": "other"
+        },
+        {
+          "name": "Señal News – segona temporada de Ciudad de Dios: La lucha no para",
+          "url": "https://senalnews.com/es/digital/hbo-max-adelanto-como-sera-la-segunda-temporada-de-ciudad-de-dios-la-lucha-no-para",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "The Greatest",
+          "year": 2026,
+          "kind": "series",
+          "knownAs": "El más grande"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-operavision-novembre",
+      "section": "stage",
+      "subject": "film",
+      "headline": "Teatre i òpera en pantalla: OperaVision programa «De Materie» d'Andriessen el 6 de novembre i «Peter Grimes» el 26, però no hi ha cap captació completa nova per recomanar",
+      "deck": "No hem trobat avui cap enregistrament complet amb dades prou verificades. Sí que hi ha dues emissions a OperaVision al calendari.",
+      "paragraphs": [
+        "Segons la programació d'OperaVision, el 6 de novembre a les 19:00 (CET) s'emet «De Materie», l'òpera de Louis Andriessen, d'Opera Ballet Vlaanderen, i el 26 de novembre a les 18:00 «Peter Grimes», de Britten, de l'Òpera i Ballet Nacional de Finlàndia. La plataforma es presenta com un servei gratuït de nous espectacles setmanals, però la pàgina no confirma que aquestes dues emissions concretes ho siguin ni fins quan quedaran disponibles.",
+        "No podem dir si «De Materie» és una emissió en directe o una gravació: la nova producció, de Phia Ménard, es va representar a Anvers al setembre. Tampoc tenim repartiment, any d'enregistrament ni subtítols, per això no la presentem com una captació completa recomanada. El Liceu ja porta «I Capuleti e i Montecchi» a LiceuOPERA+ el 22 de novembre, i els calendaris del National Theatre i del Royal Ballet and Opera ja s'han explicat aquests dies."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "BE",
+      "status": "announced",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "OperaVision – programació",
+          "url": "https://operavision.eu/",
+          "kind": "official"
+        },
+        {
+          "name": "Opera Ballet Vlaanderen – De Materie",
+          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendari: palmarès de la Seminci avui, «Godzilla Minus Zero» al Japó el 3 i a Espanya el 6, i «The Greatest» a Prime Video el 4",
+      "deck": "Les dates verificades dels pròxims dies, amb el territori de cadascuna.",
+      "paragraphs": [
+        "Dissabte 31 d'octubre (Espanya): palmarès de la Seminci al matí, sense gala, i projecció de «Hombre al agua» a les 20:00 al Teatro Calderón. Dimarts 3 de novembre (Japó): estrena de «Godzilla Minus Zero». Dimecres 4 (Espanya): «El más grande» a Prime Video; el Festival de Tòquio, segons el calendari de festivals asiàtics, acaba aquell dia.",
+        "Divendres 6 de novembre (Espanya): «Godzilla Minus Zero» i «Sacamantecas» als cinemes, i «De Materie» a OperaVision a les 19:00 (CET). Diumenge 22: «I Capuleti e i Montecchi» a LiceuOPERA+, segons el Liceu. Dijous 26: «Peter Grimes» a OperaVision a les 18:00 (CET)."
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Seminci – comunicat oficial",
+          "url": "https://www.seminci.com/2026/noticias/seminci-suspende-la-gala-de-clausura-de-su-71a-edicion-en-senal-de-respeto-y-solidaridad-con-las-victimas-del-accidente-ferroviario-de-toledo/",
+          "kind": "official"
+        },
+        {
+          "name": "Guía del Ocio – Godzilla Minus Zero",
+          "url": "https://guiadelocio.es/madrid/?p=60075",
+          "kind": "other"
+        },
+        {
+          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
+          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        },
+        {
+          "name": "OperaVision – programació",
+          "url": "https://operavision.eu/",
+          "kind": "official"
+        },
+        {
+          "name": "Liceu – LiceuOPERA+ 2026/27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: «Sacamantecas», «Godzilla Minus Zero» i «El más grande»",
+      "deck": "Tres propostes per als pròxims dies, amb afinitat editorial (no és nota de crítica) i confiança.",
+      "paragraphs": [
+        "«Sacamantecas» (2026): afinitat 4 sobre 5, confiança mitjana. Thriller d'època inspirat en fets reals, amb Antonio de la Torre i Patricia López Arnaiz, sobre una societat que prefereix callar els crims. Encaixa amb el gust per l'època i el cinema fosc d'autor; no l'hem vist i només coneixem una crítica local. Estrena el 6 de novembre a Espanya.",
+        "«Godzilla Minus Zero» (2026): afinitat 3 sobre 5, confiança baixa. Cinema de monstres d'època, de qui va fer una de les grans sorpreses de 2023; la seva força està a l'escala IMAX, i la recepció encara és escassa. El 6 de novembre als cinemes espanyols.",
+        "«El más grande» (2026, sèrie): afinitat 3 sobre 5, confiança baixa. Biopic esportiu i d'època; depèn de l'execució, que encara no podem valorar. Prime Video, 4 de novembre.",
+        "Balanç del dia: l'actualitat de la jornada és la Seminci, que tanca amb sobrietat pel dol, i la setmana vinent porta estrenes de gènere i d'època que fan un bon cap de setmana de cinema."
+      ],
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
+          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
+          "kind": "other"
+        },
+        {
+          "name": "Guía del Ocio – Godzilla Minus Zero",
+          "url": "https://guiadelocio.es/madrid/?p=60075",
+          "kind": "other"
+        },
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        }
+      ]
+    }
+  ],
+  "recommendedTitles": [
+    {
+      "title": "Sacamantecas",
+      "year": 2026,
+      "kind": "film"
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "year": 2026,
+      "kind": "film"
+    }
+  ]
+}

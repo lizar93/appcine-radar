@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-30",
-  "title": "World Cinema Radar — the podcast, Friday 30 October 2026",
+  "date": "2026-10-31",
+  "title": "World Cinema Radar — the podcast, Saturday 31 October 2026",
   "segments": [
     {
       "id": "intro",
@@ -9,405 +9,413 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Friday the thirtieth of October, twenty twenty-six."
+          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Saturday the thirty-first of October. Happy Halloween, if that's your thing."
         },
         {
           "speaker": "B",
-          "text": "And I'm {B}. <chuckle> The night before Halloween, which is exactly when you want a quiet, sensible news day. Spoiler: it is a quiet day."
+          "text": "And I'm {B}. <chuckle> Halloween, and the cinema world is a little quieter than usual, to be honest. There's one serious story from Spain we have to start with."
         },
         {
           "speaker": "A",
-          "text": "It is. So we're going to be honest about that. Fewer stories, all of them checked. Today we have three big things."
+          "text": "Yes. The Seminci film festival in Valladolid has cancelled its closing gala, out of respect for the victims of the rail accident in the province of Toledo. We'll tell you exactly what stays and what goes."
         },
         {
           "speaker": "B",
-          "text": "First, the James Bond casting race, which has reached screen tests. Second, the Friday openings in Spain, with a sports biopic, a French coming-of-age comedy and a very noisy action thriller. And third, the sequel to Apocalypse Z, landing on Prime Video."
+          "text": "Then the happier part. Next Friday, the sixth of November, two very different films open in Spain: the new Godzilla, and a dark period thriller from the Basque Country called Sacamantecas."
         },
         {
           "speaker": "A",
-          "text": "Plus a short stop at the opera calendar, because the Royal Opera has a Carmen coming, and our picks for the long weekend."
-        },
-        {
-          "speaker": "A",
-          "text": "One housekeeping note. Everything we say today comes from the written edition, which you can read in the app, with the sources next to each story."
+          "text": "After that, a big biopic series about Muhammad Ali, what's streaming on the opera front, and the dates to keep in your diary. Let's get going."
         },
         {
           "speaker": "B",
-          "text": "So if we sound careful, it's on purpose. <chuckle> Careful is the whole job."
-        },
-        {
-          "speaker": "B",
-          "text": "Let's go. Bond first, because everybody is already talking about it."
+          "text": "All of it is in the written edition, with sources and dates, if you want the details."
         }
       ]
     },
     {
-      "id": "2026-10-30-bond-screen-tests",
-      "title": "Bond screen tests",
+      "id": "2026-10-31-seminci-gala-suspesa",
+      "title": "Seminci closes in mourning",
       "turns": [
         {
           "speaker": "A",
-          "text": "So, the headline: Amazon MGM is reportedly running final screen tests for the next James Bond. And I want to start with the word reportedly, because that's doing a lot of work here."
+          "text": "So, Seminci. This is the seventy-first edition of the Valladolid International Film Week, and it was due to end tonight with its closing gala at the Teatro Calderón."
         },
         {
           "speaker": "B",
-          "text": "Yes. Nothing is official. Not the names, not the dates. Everything comes from anonymous sources, mostly through The Hollywood Reporter, and Dark Horizons summarised it on the twenty-second of October."
+          "text": "That gala is now cancelled. The festival says it's out of respect and solidarity with the victims, their families and the injured of the rail accident in Toledo province."
         },
         {
           "speaker": "A",
-          "text": "Right. And what does that reporting say? It says the shortlist to replace Daniel Craig includes Jack Lowden, Josh O'Connor and Callum Turner."
+          "text": "And that falls inside the three days of official mourning declared by the Spanish government. So it's not only the gala. The television broadcast on La 2 and RTVE Play is off too."
         },
         {
           "speaker": "B",
-          "text": "Plus at least one name that hasn't come out yet. <chuckle> So somebody out there is keeping a secret very well."
+          "text": "The Seminci Noche activities as well. The red carpet, all of it. |That makes sense.| It's the right call, I think. A party doesn't sit well next to a national tragedy."
         },
         {
           "speaker": "A",
-          "text": "The tests are said to be mostly in London, over the weekend of the twenty-fourth and twenty-fifth. And they cover three things: stunts, camera presence and dialogue."
+          "text": "Now, what stays. The screenings in Valladolid's cinemas carry on as scheduled. The festival isn't shutting its doors."
         },
         {
           "speaker": "B",
-          "text": "Which makes sense. You need someone who can run across a roof, but also someone who can sit in a room and make a line sound dangerous. |both, yes|"
+          "text": "And the awards still happen, just differently. The winners will be announced this morning, Saturday, at an information event that replaces the ceremony."
         },
         {
           "speaker": "A",
-          "text": "Here's the part I find funny. Two names that were strongly tipped in the days before, Jacob Elordi and Jack O'Connell, are reportedly not testing at all."
+          "text": "We don't have the winners yet, because the list wasn't out when we wrote this. So we'll bring you the awards in the next edition."
         },
         {
           "speaker": "B",
-          "text": "So, sorry, can I say something? That's reportedly, reportedly. Same anonymous sources. Neither Amazon nor the actors have said a word."
-        },
-        {
-          "speaker": "A",
-          "text": "Exactly. And Deadline, as relayed by another outlet, says that even if the tests wrap this week, there's no timeline for a final decision."
+          "text": "One more detail. The closing film, Hombre al agua, by Gael García Bernal, still screens tonight at eight o'clock at the Teatro Calderón."
         },
         {
           "speaker": "B",
-          "text": "So nobody should expect a name tomorrow morning. <sigh> I know, I know. The internet will pretend otherwise."
+          "text": "A thought on the timing. A festival like this builds its whole last day around that evening. Cancelling it means choosing to lose the glamour and keep the cinema."
         },
         {
           "speaker": "A",
-          "text": "What is on record is the team. Denis Villeneuve is directing. Amy Pascal and David Heyman are producing, for Amazon MGM Studios."
+          "text": "And that's what they did. The films keep screening, the prizes are still announced, and the work of the filmmakers isn't erased. <sigh> It's just done quietly."
+        },
+        {
+          "speaker": "A",
+          "text": "For anyone who followed the festival, the list of Espiga prizes will come out as one announcement, without the usual ceremony. That's the whole change."
         },
         {
           "speaker": "B",
-          "text": "And that's a genuinely interesting combination for this audience. Villeneuve does big, serious, patient cinema. A Bond film from him will probably not be a quip machine."
-        },
-        {
-          "speaker": "A",
-          "text": "Careful, though. We can say what he has done before, but we don't know what this film will be. We just know who's attached."
+          "text": "We also won't speculate about who wins. We'd rather wait for the real list."
         },
         {
           "speaker": "B",
-          "text": "Fair. Fair. My honest take is that the casting rumour is the loudest story today and the least solid one. Enjoy it, but don't repeat it as fact."
+          "text": "For anyone following the awards, the plan is simple: the list comes out this morning, and we'll go through it with you in the next edition."
         },
         {
           "speaker": "A",
-          "text": "That's the rule for this show. If it's a rumour, we say it's a rumour. If it's confirmed, you'll hear it."
-        },
-        {
-          "speaker": "A",
-          "text": "Let me put the sourcing in plain words, because it matters. The first source is The Hollywood Reporter, relayed by Dark Horizons. The second is The Nation, which passes on a line attributed to Deadline."
+          "text": "And before it, there'll be a short summary of the festival and a tribute to the filmmakers and films that won. A quieter way to say goodbye."
         },
         {
           "speaker": "B",
-          "text": "So we have trade press, passed along, and no first-hand confirmation. That's why the edition marks it as unverified, from a single source. <chuckle> It's the most careful label we have."
+          "text": "We talked about that closing film earlier this week. What's new today is only the format. So, a sober end to a festival that has had a lot of good cinema."
         },
         {
           "speaker": "A",
-          "text": "And that is how I'd read every headline you see this weekend with a name and the word frontrunner in it."
-        },
-        {
-          "speaker": "B",
-          "text": "Yes. If a site says it's Callum Turner, or it's Jack Lowden, or it's Josh O'Connor, ask yourself where that site got it. Because the answer is usually the same three outlets."
-        },
-        {
-          "speaker": "A",
-          "text": "Also, a small point. The reports say the shortlist includes those three. They don't say it only includes those three."
-        },
-        {
-          "speaker": "B",
-          "text": "Right, and that is the unnamed fourth person. I find that funny. We're all arguing about three actors, and the real answer might be a fourth."
-        },
-        {
-          "speaker": "A",
-          "text": "It might. Or it might not. We genuinely don't know, and the honest thing is to enjoy the guessing game without pretending to win it."
+          "text": "If you're in Valladolid today, check the cinema times directly. That's the practical advice."
         }
       ]
     },
     {
-      "id": "2026-10-30-estrenes-karateka",
-      "title": "Friday openings in Spain",
+      "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+      "title": "Friday 6 November: Godzilla and Sacamantecas",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now, what actually opens in Spanish cinemas this Friday. Twelve titles, in total."
+          "text": "Okay, lighter now. Next Friday, the sixth of November, Godzilla Minus Zero opens in Spanish cinemas."
         },
         {
           "speaker": "B",
-          "text": "Twelve! And some of them we covered on Monday, like Hope, by Na Hong-jin, plus Leviticus, Wicker and Klara y el sol. So today we're looking at the others."
+          "text": "Finally. <chuckle> Takashi Yamazaki is back, and he directs and writes it, like the first one. The one that won the Oscar for visual effects, Godzilla Minus One."
         },
         {
           "speaker": "A",
-          "text": "The first one is Karateka, directed by Aritz Moreno. It's the biopic of Sandra Sánchez, who was born in Talavera de la Reina in nineteen eighty-one."
+          "text": "Right. And this one is set in nineteen forty-nine, two years later. Japan is rebuilding, and then Godzilla comes back."
         },
         {
           "speaker": "B",
-          "text": "And she won Olympic gold in kata at Tokyo twenty twenty-one. At thirty-nine years old."
+          "text": "Ryunosuke Kamiki and Minami Hamabe return from the first film. And there's a new name, Min Tanaka, who plays a biologist."
         },
         {
           "speaker": "A",
-          "text": "Andrea Ros plays her. Patrick Criado plays her coach and husband, Jesús del Moral. Ernesto Alterio and Pilar Castro are in the cast too, and Warner Bros. España is releasing it."
+          "text": "One listing says it's the first Japanese production shot in the Filmed for IMAX format. So if you can, big screen."
         },
         {
           "speaker": "B",
-          "text": "Now, I'll be straight. A sports biopic is not the centre of our usual taste."
+          "text": "Dates matter here, so let's be careful. In Japan it opens on the third of November, through Toho. In the US it's the sixth, through GKIDS. And Spain is the sixth, too."
         },
         {
           "speaker": "A",
-          "text": "No. But I always try to say this: we found no broad professional reviews yet, so we can't tell you if it's good. We can only tell you what it is."
+          "text": "Though one outlet put the ninth in a subtitle. The body text of that same article says the sixth, and so do the other sources. So we go with the sixth."
         },
         {
           "speaker": "B",
-          "text": "Good. Next, for me, the most interesting title of the day. Tiempos de ilusión. The original is Juste une illusion."
-        },
-        {
-          "speaker": "B",
-          "text": "And he's starting to work out love, faith, friendship and who he is. Louis Garrel and Camille Cottin are in it. A Contracorriente is distributing it in Spain."
+          "text": "It's also rated R in the US, which is a first for the franchise, apparently. |No way.| Yes. But I'd say that's a detail, not a verdict."
         },
         {
           "speaker": "A",
-          "text": "That's a comedy-drama about human relationships. Which is very close to the profile, honestly."
+          "text": "And that's the point: we haven't seen it. We're not judging quality. We're telling you it exists, and when."
         },
         {
           "speaker": "B",
-          "text": "Yes. No international date was found, so I can't tell you when the rest of the world gets it. But in Spain, it's tomorrow."
+          "text": "Fair. <short pause> So, the other one. Sacamantecas. This is the one that interests me more, honestly."
         },
         {
           "speaker": "A",
-          "text": "Then there's Aniquilación, which is the Spanish title of Onslaught, by Adam Wingard. Adria Arjona and Dan Stevens, and Diamond Films is releasing it."
+          "text": "It's by David Pérez Sañudo, and it's set in Álava, in the Basque Country, at the end of the Third Carlist War. Nineteenth century."
         },
         {
           "speaker": "B",
-          "text": "The setup is a sniper who has to protect her daughter, and her neighbours in a trailer park, from escaped former soldiers."
+          "text": "Based on real events. Several women are found strangled near Vitoria. And Ángela, played by Patricia López Arnaiz, comes back to the city because one of the victims is her sister."
         },
         {
           "speaker": "A",
-          "text": "And the reviews in English are split. io9 sees wasted potential. JoBlo gives it six out of ten. <chuckle> Not a disaster, not a triumph."
+          "text": "And Antonio de la Torre plays the killer, Juan Díaz de Garayo, the man known as the Sacamantecas."
         },
         {
           "speaker": "B",
-          "text": "But both of them single out Adria Arjona. And Dan Stevens, who, let's say, goes big."
+          "text": "What I like is that it's about the society around the crimes, too. Authorities who would rather hide the murders. That's more than a body-count film."
         },
         {
           "speaker": "A",
-          "text": "That's a tactful way of putting it. <laugh>"
+          "text": "It had a special screening in the Official Section at the San Sebastián festival this year. It runs a hundred and nine minutes. And it's distributed by Buena Vista International."
         },
         {
           "speaker": "B",
-          "text": "And two smaller ones. Esta soledad, from Javier Giner, distributed by Filmax. A couple who've separated, trying to rebuild their lives, one with a sick father and one with money trouble."
+          "text": "One local outlet, Gasteiz Hoy, calls it an uncomfortable film. They praise De la Torre for holding back. <breath> That's one review, so take it as one voice."
         },
         {
           "speaker": "A",
-          "text": "And El mundo es ansí, by Miguel Ángel Calvo Buttini, with Ramón Barea. A student writing a thesis on the writer Pío Baroja who gradually gets absorbed into his life."
+          "text": "There's a small mess in the listings, by the way. eCartelera lists Sacamantecas on Prime Video. But the local sources say cinemas on the sixth, and the platform only later."
+        },
+        {
+          "speaker": "B",
+          "text": "So: cinemas on the sixth. The streaming date, nobody knows yet."
         },
         {
           "speaker": "A",
-          "text": "One more thing on Karateka. The film follows Sandra Sánchez, but also her husband and coach, Jesús del Moral. The edition says the story is about the two of them."
+          "text": "Other titles show up for that Friday too: Los miserables, Runner, Dante, a few more. We haven't verified details for them, so we won't guess."
         },
         {
           "speaker": "B",
-          "text": "That's a nice angle. Elite sport is almost never one person. There's always somebody in the corner with a towel and a plan."
+          "text": "Check the showtimes. And for the horror fans listening, Sacamantecas is the real-crime dark side. Godzilla is the popcorn side."
         },
         {
           "speaker": "A",
-          "text": "<chuckle> And a stopwatch. And, in karate, a very good eye for a cleanly done kata."
+          "text": "Let me go back to Godzilla for a second, because the setup is neat. The first film was a small, human story with a giant monster on top. Do you think the sequel keeps that?"
         },
         {
           "speaker": "B",
-          "text": "Okay, I'll allow that one. <laugh>"
+          "text": "We can't say, we haven't seen it. What the sources give us is the premise: nineteen forty-nine, a country still rebuilding, a scientist warning that the monster was never fully destroyed."
         },
         {
           "speaker": "A",
-          "text": "On Tiempos de ilusión, I'd just add what we know about the people. Nakache and Toledano are the directors, and the film is French, from twenty twenty-six, as the listings say."
+          "text": "The listing even mentions a plan with a name, Operation Narukami. We won't say more, no spoilers."
         },
         {
           "speaker": "B",
-          "text": "And that's the thing with a coming-of-age comedy-drama. You can't tell from a synopsis whether it's charming or sugary. That's why our confidence on it is low."
+          "text": "Good. <chuckle> I'll just say that if you liked the first one, the new film has your attention already."
         },
         {
           "speaker": "A",
-          "text": "Exactly. We try to be clear: affinity with the profile is one thing, quality is another."
+          "text": "Reception is the open question. The US box office forecasts talk about an opening in the mid-twenty-million-dollar range. Those are forecasts, not results."
         },
         {
           "speaker": "B",
-          "text": "And the others? Aniquilación and Esta soledad are both opening tomorrow too, so you have a very different set of options. One is loud and one is quiet."
+          "text": "Right, and the first film opened with eleven million in North America, so even the forecast would be more than double. Still just a forecast, though."
         },
         {
           "speaker": "A",
-          "text": "Which one is which? <laugh>"
+          "text": "And for Sacamantecas, one more thing about the production. It was filmed partly in Vitoria-Gasteiz, in February, and also in Agurain, Elciego and Amurrio. Real Álava locations."
+        },
+        {
+          "speaker": "A",
+          "text": "Let's do a quick practical round for that Friday. Two films, one date, and you may want both."
         },
         {
           "speaker": "B",
-          "text": "I think you know. Though, to be fair, Esta soledad is a drama, and we haven't seen it, so it could surprise everyone."
+          "text": "Then my order would be Sacamantecas first, then Godzilla. The thriller is the one that depends on you being in the mood. The monster film is the one you'd go to with friends."
+        },
+        {
+          "speaker": "A",
+          "text": "<chuckle> That's very sensible, and very unlike you."
         },
         {
           "speaker": "B",
-          "text": "Honestly? That one sounds lovely. It's a film about getting hooked on somebody else's story. And a warning: the listings don't always agree on distributors and cast, so check your cinema's session."
+          "text": "I contain multitudes. Also, one warning about Sacamantecas: it deals with violence against women in a period setting, and the people who made it say they tried not to turn it into spectacle."
+        },
+        {
+          "speaker": "A",
+          "text": "Yes, the director has talked about that. The challenge was how to show a killer without making the violence the attraction. Patricia López Arnaiz also says the story still feels current because of gender violence today."
+        },
+        {
+          "speaker": "B",
+          "text": "That's their reading, and it's a serious one. It's why the film is more than a history lesson."
+        },
+        {
+          "speaker": "A",
+          "text": "And the title, if you've never heard it: the Sacamantecas is a real nickname from nineteenth-century Álava. It's part of local memory."
+        },
+        {
+          "speaker": "B",
+          "text": "Which is why it's strong stuff for a Spanish audience, and maybe less known abroad."
+        },
+        {
+          "speaker": "B",
+          "text": "With RTVE and the Basque broadcaster EITB involved, according to the sources. A properly local production, but with Disney's distribution behind it."
+        },
+        {
+          "speaker": "A",
+          "text": "The cast is deep, too. Beyond the two leads, there's Josean Bengoetxea and Eneko Sagardoy, among others."
+        },
+        {
+          "speaker": "B",
+          "text": "Which is the sort of cast that makes a period film feel lived in."
+        },
+        {
+          "speaker": "A",
+          "text": "<giggle> Popcorn with an Oscar attached."
         }
       ]
     },
     {
-      "id": "2026-10-30-apocalipsis-z-prime",
-      "title": "Apocalipsis Z on Prime Video",
+      "id": "2026-10-31-the-greatest-prime",
+      "title": "The Greatest on Prime Video",
       "turns": [
         {
           "speaker": "A",
-          "text": "Okay, from cinemas to the sofa. Apocalipsis Z: Un nuevo mundo comes to Prime Video this Friday, the thirtieth."
+          "text": "Now streaming. The Greatest, in Spanish El más grande, arrives on Prime Video on Wednesday the fourth of November."
         },
         {
           "speaker": "B",
-          "text": "Amazon says it's in more than two hundred and forty countries and territories, Spain included. It also played the Sitges Film Festival on the tenth of October, in the fifty-ninth edition."
+          "text": "It's a miniseries about Muhammad Ali, eight episodes. Jaalen Best plays him, Cassius Clay at the start."
         },
         {
           "speaker": "A",
-          "text": "Carles Torrens is directing again. The screenplay is by Ángel Agudo, based on the novels of Manel Loureiro."
+          "text": "And Michael B. Jordan is an executive producer, through his company Outlier Society. The showrunner is Ben Watkins."
         },
         {
           "speaker": "B",
-          "text": "And José María Yazpik and Berta Vázquez are back. Carlos Alcaide and Julia Martínez are among the rest of the cast."
+          "text": "What's interesting is the authorisation. According to the sources, it's the first scripted series fully authorised by Ali's estate. His widow, Lonnie Ali, is an executive producer."
         },
         {
           "speaker": "A",
-          "text": "The premise, without spoilers: after the virus outbreak, the Canary Islands are the last refuge in Europe. A special mission travels to the mainland for supplies."
+          "text": "And it focuses on the early years, nineteen sixty to nineteen sixty-four. The making of the champion, more than the legend."
         },
         {
           "speaker": "B",
-          "text": "And one person joins that team with, let's say, questionable intentions. |ooh|"
+          "text": "That's a smart choice. Everyone knows the late story. The early years are where the drama is."
         },
         {
           "speaker": "A",
-          "text": "Here's a number I like. The first film, from twenty twenty-four, is the most-watched international original film in Prime Video's history. That's Amazon's claim."
+          "text": "Again, a note of honesty. We haven't watched it. It's a period sports biopic, and its quality depends on how it's done."
         },
         {
           "speaker": "B",
-          "text": "Which explains the sequel. <chuckle> It's commercial survival horror, and we've not seen it. So we're only talking about context."
+          "text": "You need a Prime Video subscription. And, in Spain, the fourth of November, according to Público's guide."
         },
         {
           "speaker": "A",
-          "text": "And a quick note on where it premiered. Sitges was the film's first stop, on the tenth of October, in the fifty-ninth edition. So the film has already had its festival audience."
+          "text": "Same guide says the second season of Ciudad de Dios, la lucha no para, lands on HBO Max on the eighth of November."
         },
         {
           "speaker": "B",
-          "text": "The Spanish title, by the way, is Apocalipsis Z: Un nuevo mundo, and Amazon uses that wording. Some listings shorten it, so don't be surprised if you see slightly different names."
+          "text": "But another source only says November. So <short pause> treat the eighth as unconfirmed."
+        },
+        {
+          "speaker": "B",
+          "text": "The series is, I suppose, a different kind of bet from the films. A long form lets you follow the boxer outside the ring."
         },
         {
           "speaker": "A",
-          "text": "It's also worth noticing the release strategy. Same day, worldwide, on the platform. No cinema window at all."
+          "text": "And that is the stated focus. The transformation of Cassius Clay into Ali, rather than a greatest-hits tour of his fights."
         },
         {
           "speaker": "B",
-          "text": "Which, in Spain, with twelve films opening in cinemas the same Friday, is probably a smart choice. <chuckle> Less competition for the zombies."
+          "text": "For the record, it's eight episodes, so you can finish it in a couple of weekends."
         },
         {
           "speaker": "A",
-          "text": "Right. You need a Prime Video subscription. And if you like horror on Halloween night, it's an easy one to put on."
+          "text": "Whether it's good, we'll know when people have watched it. Come back to the Radar then."
+        },
+        {
+          "speaker": "A",
+          "text": "And a reminder of how we handle series on this show. They are tracked separately. They don't go in the list of recommended titles at the end of the edition."
         },
         {
           "speaker": "B",
-          "text": "Easy, yes. I'd say it's more popcorn than gothic. But that's fine. Not everything has to be gothic."
+          "text": "Right. That list is for films and complete recordings with a verified year."
         }
       ]
     },
     {
-      "id": "2026-10-30-rbo-carmen-met",
-      "title": "Opera and theatre on screen",
+      "id": "2026-10-31-operavision-novembre",
+      "title": "Opera streams on OperaVision",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now our daily visit to filmed theatre and opera. And today, I have to say it plainly: no new complete recording to recommend."
+          "text": "Our stage section. And I'll be straight with you. Today we have no new complete theatre or opera recording that we can verify enough to recommend."
         },
         {
           "speaker": "B",
-          "text": "We looked, and we found nothing with enough verified detail. So instead, here's what we can verify, which is the cinema calendar."
+          "text": "But the calendar has something. OperaVision lists De Materie, by Louis Andriessen, from Opera Ballet Vlaanderen, on the sixth of November at seven in the evening, Central European Time."
         },
         {
           "speaker": "A",
-          "text": "The Royal Ballet and Opera's season for twenty twenty-six, twenty-seven includes a revival of Damiano Michieletto's Carmen in November."
+          "text": "That's a modern piece, a big one. And then Britten's Peter Grimes, from the Finnish National Opera and Ballet, on the twenty-sixth, at six."
         },
         {
           "speaker": "B",
-          "text": "Götterdämmerung and Così fan tutte, both live, in February. Tosca in May. And from the Met, the new Macbeth in October, and La Fanciulla del West later on."
+          "text": "OperaVision says it offers new performances every week for free. But the page doesn't say these two are free, or how long they stay online. So we can't promise."
         },
         {
           "speaker": "A",
-          "text": "But about Carmen, the dates fight each other. The official site just says November."
+          "text": "And we can't say whether De Materie is live or a recording. The new production, by Phia Ménard, played in Antwerp back in September."
         },
         {
           "speaker": "B",
-          "text": "A cinema called Tyneside, in the UK, lists Tuesday the tenth of November. And Gwyn Hall, also in the UK, lists Sunday the fifteenth."
+          "text": "No cast, no recording year, no subtitles. So it isn't a recommended complete recording yet. It's a date to watch."
         },
         {
           "speaker": "A",
-          "text": "And we don't know the conductor, the cast, or whether it's live or delayed. And we couldn't check which Spanish cinemas will show it."
+          "text": "The Liceu, meanwhile, brings I Capuleti e i Montecchi to LiceuOPERA+ on the twenty-second of November."
         },
         {
           "speaker": "B",
-          "text": "That's an important thing. It's not a complete recording on a platform. It's a cinema event. Different thing."
-        },
-        {
-          "speaker": "A",
-          "text": "The same calendar also has the Royal Ballet's Nutcracker from the first of December."
-        },
-        {
-          "speaker": "A",
-          "text": "I want to explain why we don't invent anything here. A filmed performance has a lot of details: who conducts, who sings, the year it was recorded, where you can watch it from Spain."
+          "text": "Bellini. That one we mentioned earlier this week. It's in the calendar again for a reason: it's a good one to plan around."
         },
         {
           "speaker": "B",
-          "text": "And if we don't have those, we don't pretend. Guessing the recording year, for example, is a classic mistake. People mix up the year of the opera with the year of the recording."
+          "text": "It's also worth noting what OperaVision is. A European platform, supported by the Creative Europe programme, that streams opera for free according to its own description."
         },
         {
           "speaker": "A",
-          "text": "Exactly. Carmen is old, the production is a revival, and none of that tells you when a cinema recording was made."
+          "text": "So the practical advice: look at the page on the day, see the availability, and don't assume it stays online."
         },
         {
           "speaker": "B",
-          "text": "So the honest summary is: opera is coming, but we'll tell you more when there's a date we can trust."
+          "text": "For a modern piece like De Materie, that's a good reason to make an evening of it."
+        },
+        {
+          "speaker": "A",
+          "text": "And to be clear, we separate the dates from the recommendation. A date is a fact. A recommendation needs a full recording we can describe, and today we don't have one."
         }
       ]
     },
     {
-      "id": "2026-10-30-calendari",
-      "title": "Dates to remember",
+      "id": "2026-10-31-calendari",
+      "title": "Dates to keep",
       "turns": [
         {
           "speaker": "A",
-          "text": "Let me give the dates in one go. Tomorrow is Friday the thirtieth. Five films open in Spain, and Apocalipsis Z arrives on Prime Video."
+          "text": "Quick calendar. Today, Saturday: Seminci's winners in the morning, no gala, and Hombre al agua at eight tonight."
         },
         {
           "speaker": "B",
-          "text": "Saturday the thirty-first is the closing of the seventy-first Seminci in Valladolid. It runs from the twenty-third to the thirty-first, and the winners are announced at the closing gala."
+          "text": "Tuesday the third: Godzilla Minus Zero opens in Japan. Wednesday the fourth: The Greatest on Prime Video, and the Tokyo festival wraps up."
         },
         {
           "speaker": "A",
-          "text": "On the fourth of November, in Japan, the Tokyo International Film Festival closes its thirty-ninth edition. It started on the twenty-sixth of October."
-        },
-        {
-          "speaker": "A",
-          "text": "And since Seminci closes on Saturday, one practical thing. The winners are announced at the closing gala, so Saturday night is when the festival result exists."
+          "text": "Friday the sixth in Spain: Godzilla, Sacamantecas, and De Materie on OperaVision."
         },
         {
           "speaker": "B",
-          "text": "We don't have the jury or the winners yet. We'll cover the awards when they exist, not before."
+          "text": "Then Sunday the twenty-second for the Liceu, and Thursday the twenty-sixth for Peter Grimes. Done."
         },
         {
           "speaker": "A",
-          "text": "Same for Tokyo: the edition only says it closes on the fourth of November, so that is when to look."
+          "text": "One thing to keep in mind with the dates: the Japan opening on the third is for Japan only. Spain waits until the sixth."
         },
         {
           "speaker": "B",
-          "text": "And the tenth of November, in the UK, is the date one cinema gives for Carmen. Remember: the official site only says November."
+          "text": "Always the territory. We don't guess a Spanish date from a Japanese one."
         }
       ]
     },
@@ -417,51 +425,59 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "So, our picks for the long weekend. Number one, in my case, is Tiempos de ilusión."
+          "text": "Picks time. First, Sacamantecas. Our editorial affinity is four out of five, with medium confidence."
         },
         {
           "speaker": "B",
-          "text": "Affinity three and a half out of five. And low confidence. Because we've not read any reviews yet."
+          "text": "It fits the taste for period films and dark auteur cinema. A thriller about a society that prefers silence. We haven't seen it, and we've only read one local review, so medium confidence."
         },
         {
           "speaker": "A",
-          "text": "Yes. It's a comedy-drama about relationships and childhood, which is the kind of film this show likes. But we're honest about what we don't know."
+          "text": "Second, Godzilla Minus Zero. Three out of five, low confidence."
         },
         {
           "speaker": "B",
-          "text": "Number two, Karateka. Two and a half out of five, low confidence. A sports biopic is outside the core of the profile."
+          "text": "Low, because it's early. Reception is thin. It's period monster cinema, and its strength is the scale. Seen on a big screen, it could be wonderful. <chuckle> Or not. We'll see."
         },
         {
           "speaker": "A",
-          "text": "But you might still enjoy it. It's about a woman who won Olympic gold at thirty-nine. That's a story."
+          "text": "And third, The Greatest, also three out of five and low confidence."
         },
         {
           "speaker": "B",
-          "text": "And number three, Apocalipsis Z: Un nuevo mundo. Three out of five, low confidence. It played Sitges, and it's an easy Halloween night."
-        },
-        {
-          "speaker": "B",
-          "text": "One thing about confidence. All three are low, and that is not modesty. It is because we've read synopses and a few reviews, and we haven't watched the films."
+          "text": "Quick reminder that The Greatest is a series, so it's in the picks, but not in the recommended titles list."
         },
         {
           "speaker": "A",
-          "text": "Right. The edition never pretends we've seen something we haven't. If you watch one of them, you'll have a better opinion than ours."
+          "text": "Yes. That one is films only."
         },
         {
           "speaker": "B",
-          "text": "And if you do, tell us what you thought. <laugh> Well, tell your friends at least."
+          "text": "A sports biopic. It'll depend on the execution. Remember, these are editorial affinity scores, not critics' marks."
         },
         {
           "speaker": "A",
-          "text": "Also, a small reminder about timing. Karateka and Tiempos de ilusión are cinema releases, so go this weekend. Apocalipsis Z is on Prime Video, so it will wait for you."
+          "text": "Nothing from the opera side today, since we can't verify a recording. But the dates are there."
+        },
+        {
+          "speaker": "A",
+          "text": "If you can only pick one for next weekend, I'd say Sacamantecas, because it's the one with the stronger match to what this Radar looks for."
         },
         {
           "speaker": "B",
-          "text": "Unlike the cinemas on a long weekend. <chuckle> Go early, and book your seat."
+          "text": "Agreed, though I'd go to Godzilla for the sound alone. <laugh> Roaring in IMAX, that's the whole point."
         },
         {
           "speaker": "A",
-          "text": "And remember, this isn't a critics' score. It's our editorial affinity with the profile."
+          "text": "Just remember, it's a recommendation based on what we've read, not on what we've seen. We say that every time, and we mean it."
+        },
+        {
+          "speaker": "B",
+          "text": "If a review changes our mind, we'll tell you."
+        },
+        {
+          "speaker": "B",
+          "text": "Sacamantecas and Godzilla are also in the list of recommended titles at the end of the edition, if you want to copy it."
         }
       ]
     },
@@ -471,71 +487,58 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "So, the idea of the day. The Bond rumour is the loudest story and the least solid. The quiet films are the ones you can actually go and watch."
-        },
-        {
-          "speaker": "A",
-          "text": "Before we go, one more time: the Bond story is a rumour, the Carmen date is unconfirmed, and the film reviews are mixed. Everything else is checked."
+          "text": "So, the idea of the day. A festival chooses sobriety over spectacle, and a quiet week opens into a Friday with a monster and a murderer."
         },
         {
           "speaker": "B",
-          "text": "And that's a decent summary of a Friday. Some noise, some solid openings, and one opera that hasn't picked its date."
-        },
-        {
-          "speaker": "B",
-          "text": "Which is a nice thing to say on the night before Halloween. <chuckle> Go to the cinema. See something you didn't plan to see."
-        },
-        {
-          "speaker": "A",
-          "text": "The full edition, with sources and every date, is in the app. See you tomorrow on the Radar."
-        },
-        {
-          "speaker": "B",
-          "text": "See you tomorrow. And happy Halloween."
+          "text": "Take care of each other this weekend. Thanks for listening. See you tomorrow on the Radar."
         }
       ]
     }
   ],
   "pronunciations": {
-    "Aritz Moreno": "Ah-reets Moh-reh-noh",
-    "Sandra Sánchez": "San-drah San-chess",
-    "Patrick Criado": "Pah-trick Kree-ah-doh",
-    "Andrea Ros": "Ahn-dreh-ah Ross",
-    "Javier Giner": "Hah-vee-air Hee-nair",
-    "Esta soledad": "Es-tah Soh-leh-dad",
-    "Tiempos de ilusión": "Tee-em-pohs deh Ee-loo-see-ohn",
-    "Juste une illusion": "Zhoost oon ee-loo-zee-ohn",
-    "Nakache": "Nah-kahsh",
-    "Toledano": "Toh-leh-dah-noh",
-    "Carles Torrens": "Car-less Tor-rens",
-    "Apocalipsis Z": "Ah-poh-kah-leep-sees Zeta",
-    "Un nuevo mundo": "Oon Nweh-voh Moon-doh",
-    "Manel Loureiro": "Mah-nel Lou-ray-roh",
-    "Karateka": "Kah-rah-teh-kah",
-    "Aniquilación": "Ah-nee-kee-lah-see-ohn",
-    "Talavera de la Reina": "Tah-lah-veh-rah deh lah Ray-nah",
-    "Michieletto": "Mee-keh-lyeh-toh",
-    "Damiano": "Dah-mee-ah-noh",
-    "Miguel Ángel Calvo Buttini": "Mee-gel Ahn-hel Kal-voh Boo-tee-nee",
-    "El mundo es ansí": "El Moon-doh es Ahn-see",
-    "Ramón Barea": "Rah-mohn Bah-reh-ah",
-    "Pío Baroja": "Pee-oh Bah-roh-hah",
-    "Ernesto Alterio": "Air-nes-toh Al-teh-ree-oh",
-    "Pilar Castro": "Pee-lar Kas-troh",
-    "Berta Vázquez": "Bair-tah Vahs-keth",
-    "José María Yazpik": "Hoh-seh Mah-ree-ah Yahs-peek",
-    "Canary Islands": "Kuh-nair-ee Eye-lands",
     "Seminci": "Seh-meen-thee",
     "Valladolid": "Vah-yah-doh-leed",
-    "Na Hong-jin": "Nah Hong-jin",
-    "Sitges": "Seet-jess",
-    "Tyneside": "Tine-side",
-    "Götterdämmerung": "Get-er-dem-er-oong",
-    "Così fan tutte": "Koh-zee fahn too-teh",
-    "La Fanciulla del West": "Lah Fahn-choo-lah del West",
-    "Contracorriente": "Kon-trah-koh-ree-en-teh",
-    "Louis Garrel": "Loo-ee Gah-rel",
-    "Camille Cottin": "Kah-mee Koh-tan",
-    "Ángel Agudo": "Ahn-hel Ah-goo-doh"
+    "Teatro Calderón": "Teh-ah-troh Kal-deh-ron",
+    "Toledo": "Toh-leh-doh",
+    "Hombre al agua": "Ohm-breh al Ah-gwah",
+    "Gael García Bernal": "Guy-el Gar-see-ah Bair-nal",
+    "Sacamantecas": "Sah-kah-mahn-teh-kas",
+    "David Pérez Sañudo": "Dah-veed Peh-reth San-yoo-doh",
+    "Álava": "Ah-lah-vah",
+    "Vitoria": "Vee-toh-ree-ah",
+    "Ángela": "Ahn-heh-lah",
+    "Patricia López Arnaiz": "Pah-tree-see-ah Loh-peth Ar-nice",
+    "Antonio de la Torre": "Ahn-toh-nee-oh deh lah Tor-reh",
+    "Juan Díaz de Garayo": "Hwan Dee-ath deh Gah-rah-yoh",
+    "Buena Vista International": "Bweh-nah Vees-tah International",
+    "Gasteiz Hoy": "Gahs-taych Oy",
+    "El más grande": "El Mas Grahn-deh",
+    "Ciudad de Dios, la lucha no para": "See-oo-dad deh Dee-ohs, lah Loo-chah noh Pah-rah",
+    "Los miserables": "Los Mee-seh-rah-bles",
+    "Ruega por nosotras": "Rweh-gah por Noh-soh-trahs",
+    "Persiguiendo a Michael": "Pair-see-gee-en-doh ah Michael",
+    "Takashi Yamazaki": "Tah-kah-shee Yah-mah-zah-kee",
+    "Ryunosuke Kamiki": "Ree-oo-noh-skeh Kah-mee-kee",
+    "Minami Hamabe": "Mee-nah-mee Hah-mah-beh",
+    "Min Tanaka": "Min Tah-nah-kah",
+    "Toho": "Toh-hoh",
+    "Ménard": "May-nar",
+    "Phia Ménard": "Fee-ah May-nar",
+    "Andriessen": "Ahn-dree-sen",
+    "De Materie": "Deh Mah-teh-ree",
+    "Vlaanderen": "Vlahn-der-en",
+    "Liceu": "Lee-seh-oo",
+    "LiceuOPERA+": "Lee-seh-oo Opera Plus",
+    "I Capuleti e i Montecchi": "Ee Kah-poo-leh-tee eh ee Mon-teh-kee",
+    "Bellini": "Bel-lee-nee",
+    "Ramón": "Rah-mohn",
+    "Tokyo": "Toh-kee-oh",
+    "Lonnie Ali": "Lon-nee Ah-lee",
+    "Cassius Clay": "Kash-us Clay",
+    "Público": "Poo-blee-koh",
+    "Jaalen Best": "Jah-len Best",
+    "Lonnie": "Lon-nee",
+    "Outlier Society": "Out-ly-er Society"
   }
 }
