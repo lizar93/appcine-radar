@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-31",
-  "generatedAt": "2026-10-30T23:28:54Z",
+  "generatedAt": "2026-10-31T04:10:06Z",
   "tracks": [
     {
       "language": "ca",
@@ -152,7 +152,160 @@
           "start": 533.54
         }
       ]
+    },
+    {
+      "language": "en",
+      "kind": "podcast",
+      "voice": "dia",
+      "name": "Ellie & Tom",
+      "gender": null,
+      "file": "en/2026-10-31-podcast-dia.m4a",
+      "durationSeconds": 823.7,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Welcome",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-31-seminci-gala-suspesa",
+          "title": "Seminci closes in mourning",
+          "start": 53.18
+        },
+        {
+          "id": "2026-10-31-estrenes-godzilla-sacamantecas",
+          "title": "Friday 6 November: Godzilla and Sacamantecas",
+          "start": 176.09
+        },
+        {
+          "id": "2026-10-31-the-greatest-prime",
+          "title": "The Greatest on Prime Video",
+          "start": 478.13
+        },
+        {
+          "id": "2026-10-31-operavision-novembre",
+          "title": "Opera streams on OperaVision",
+          "start": 581.5
+        },
+        {
+          "id": "2026-10-31-calendari",
+          "title": "Dates to keep",
+          "start": 674.0
+        },
+        {
+          "id": "picks",
+          "title": "Our picks",
+          "start": 725.11
+        },
+        {
+          "id": "outro",
+          "title": "Goodbye",
+          "start": 810.35
+        }
+      ],
+      "date": "2026-10-31",
+      "title": "World Cinema Radar — the podcast, Saturday 31 October 2026"
+    },
+    {
+      "language": "en",
+      "kind": "podcast",
+      "voice": "dia",
+      "name": "Ellie & Tom",
+      "gender": null,
+      "file": "en/2026-10-30-podcast-dia.m4a",
+      "durationSeconds": 839.6,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Welcome",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-30-bond-screen-tests",
+          "title": "Bond screen tests",
+          "start": 58.61
+        },
+        {
+          "id": "2026-10-30-estrenes-karateka",
+          "title": "Friday openings in Spain",
+          "start": 227.61
+        },
+        {
+          "id": "2026-10-30-apocalipsis-z-prime",
+          "title": "Apocalipsis Z on Prime Video",
+          "start": 451.89
+        },
+        {
+          "id": "2026-10-30-rbo-carmen-met",
+          "title": "Opera and theatre on screen",
+          "start": 561.22
+        },
+        {
+          "id": "2026-10-30-calendari",
+          "title": "Dates to remember",
+          "start": 659.91
+        },
+        {
+          "id": "picks",
+          "title": "Our picks",
+          "start": 715.66
+        },
+        {
+          "id": "outro",
+          "title": "Goodbye",
+          "start": 799.18
+        }
+      ],
+      "date": "2026-10-30",
+      "title": "World Cinema Radar — the podcast, Friday 30 October 2026"
+    },
+    {
+      "language": "en",
+      "kind": "podcast",
+      "voice": "dia",
+      "name": "Ellie & Tom",
+      "gender": null,
+      "file": "en/2026-10-29-podcast-dia.m4a",
+      "durationSeconds": 793.6,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Welcome",
+          "start": 0.0
+        },
+        {
+          "id": "2026-10-29-hbo-max-novembre",
+          "title": "HBO Max in November",
+          "start": 57.38
+        },
+        {
+          "id": "2026-10-29-nt-arcadia-playboy",
+          "title": "National Theatre at Home",
+          "start": 292.17
+        },
+        {
+          "id": "2026-10-29-seminci-clausura",
+          "title": "Seminci closes",
+          "start": 468.2
+        },
+        {
+          "id": "2026-10-29-calendari",
+          "title": "The calendar",
+          "start": 627.8
+        },
+        {
+          "id": "picks",
+          "title": "Our picks",
+          "start": 706.98
+        },
+        {
+          "id": "outro",
+          "title": "Goodbye",
+          "start": 768.12
+        }
+      ],
+      "date": "2026-10-29",
+      "title": "World Cinema Radar — the podcast, Thursday 29 October 2026"
     }
-  ],
-  "podcastError": "No hi ha veus British female a la Voice Library."
+  ]
 }
