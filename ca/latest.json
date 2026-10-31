@@ -1,203 +1,192 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "territory": "ES",
-  "generatedAt": "2026-10-30T23:30:00Z",
+  "generatedAt": "2026-10-31T23:30:00Z",
   "reports": [
     {
-      "id": "2026-10-31-seminci-gala-suspesa",
+      "id": "2026-11-01-seminci-palmares",
       "section": "news",
       "subject": "film",
-      "headline": "La Seminci suspèn la gala de clausura pel dol de l'accident ferroviari de Toledo, però manté el palmarès i les projeccions",
-      "deck": "El palmarès de la 71a edició es donarà a conèixer aquest dissabte 31 al matí en un acte informatiu. «Hombre al agua» tanca el festival igualment, a les 20:00 al Teatro Calderón.",
+      "headline": "«Dao», d'Alain Gomis, guanya l'Espiga d'Or de la 71 Seminci; Lisandro Alonso, millor direcció",
+      "deck": "El palmarés s'ha fet públic sense gala, per dol pl'accident ferroviari de Toledo. L'Espiga de Plata és per a «La Gradiva», de Marine Atlan, i hi ha dos premis d'interpretació: Alba Rohrwacher i Swann Arlaud.",
       "paragraphs": [
-        "La Seminci ha anul·lat la gala de clausura prevista per a aquest dissabte 31 d'octubre al Teatro Calderón de Valladolid, en senyal de respecte i solidaritat amb les víctimes, les famílies i els ferits de l'accident ferroviari de la província de Toledo. La decisió cau dins dels tres dies de dol oficial que ha declarat el Govern. També queden cancel·lades la retransmissió de la cerimònia a La 2 i RTVE Play i les activitats de Seminci Noche.",
-        "Allò que es manté: les projeccions als cinemes de Valladolid continuen segons el programa, i el palmarès es farà públic dissabte al matí en un acte informatiu, que substitueix la cerimònia. El festival no n'ha avançat els guanyadors; quan es publiqui, ho recollirem a l'edició següent.",
-        "La pel·lícula de clausura, «Hombre al agua», de Gael García Bernal, es projectarà com estava previst a les 20:00 al Teatro Calderón, precedida d'un resum del festival i d'un homenatge als cineastes i les pel·lícules premiades. Als dies anteriors ja havíem explicat el cartell de clausura; la novetat d'avui és el canvi de format."
+        "La Seminci de Valladolid ha fet públic el palmarés de la 71a edició (23–31 d'octubre) el mateix dissabte 31, sense cerimònia, tal com s'havia anunciat. L'Espiga d'Or de la Secció Oficial Internacional és per a «Dao», d'Alain Gomis (França, Senegal i Guinea Bissau). L'Espiga de Plata va a «La Gradiva», de Marine Atlan (França i Itàlia), que també s'enduu el premi de muntatge (Guillaume Lillo) i l'Espiga Arc de Sant Martí.",
+        "Premis individuals: millor direcció, Lisandro Alonso per «La libertad doble» (Xile, Argentina, Luxemburg, Alemanya i Regne Unit); millor actriu, Alba Rohrwacher per «A Good Little Soldier», de Stéphane Brizé; millor actor, Swann Arlaud per «Un hombre de nuestro tiempo», d'Emmanuel Marre; guió, Sandra Wollner per «Everytime»; fotografia, Oliver Boonjing per «Notre Salut». Menció especial per a «Aquí», de Tiago Guedes, i Premi del Públic per a «Rose», de Markus Schleinzer. El jurat el formaven Francesca Andreoli, Grégoire Hetzel, Dennis Lim, Elena Manrique i Federico Veiroj.",
+        "Entre les seccions paral·leles, «9 Temples to Heaven», de Sompot Chidgasornpongse, guanya Punt de Trobada; «Alea Jacarandas», de Hassen Ferhani, el Gran Premi de Temps d'Història; i «Todo es cárcel», d'Eloy Enciso, el premi DOC. España. El Premi Pilar Miró a la millor direcció espanyola és per a Sebastián Uría («Adiós, ríos»). La pel·lícula de cloenda, «Hombre al agua», de Gael García Bernal, es projecta aquest vespre. Segons l'organització, el balanç provisional és de 100.000 espectadors. No hem vist cap d'aquestes pel·lícules; són premis, no una garantia de gust, i encara no sabem quines tindran estrena comercial a Espanya."
       ],
-      "publishedAt": "2026-10-29T00:00:00Z",
+      "publishedAt": "2026-10-31T00:00:00Z",
       "eventDate": "2026-10-31",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "primarySource",
       "sources": [
         {
-          "name": "Seminci – comunicat oficial sobre la suspensió de la gala de clausura",
-          "url": "https://www.seminci.com/2026/noticias/seminci-suspende-la-gala-de-clausura-de-su-71a-edicion-en-senal-de-respeto-y-solidaridad-con-las-victimas-del-accidente-ferroviario-de-toledo/",
+          "name": "Seminci – 'Dao', d'Alain Gomis, Espiga de Oro de la 71 Seminci (comunicat oficial)",
+          "url": "https://www.seminci.com/2026/noticias/dao-de-alain-gomis-gala-la-espiga-de-oro-de-la-71-seminci/",
           "kind": "official"
         },
         {
-          "name": "COPE – La Seminci suspende la gala de clausura en señal de luto",
-          "url": "https://www.cope.es/emisoras/castilla-y-leon/valladolid-provincia/valladolid/noticias/seminci-suspende-gala-clausura-senal-luto-accidente-tren-toledo-20261029_3465172.html",
+          "name": "Infobae (EFE) – Dao, Espiga de Oro de la 71 Seminci",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/31/dao-del-francosenegales-alain-gomis-espiga-de-oro-de-la-71-seminci/",
           "kind": "other"
         },
         {
-          "name": "Infobae – Suspendida la gala de clausura de Seminci",
-          "url": "https://www.infobae.com/espana/agencias/2026/10/29/suspendida-la-gala-de-clausura-de-seminci-por-el-accidente-ferroviario-de-toledo/",
+          "name": "El Español – Dao gana la Espiga de Oro de la Seminci",
+          "url": "https://www.elespanol.com/el-cultural/cine/20261031/dao-francosenegales-alain-gomis-gana-espiga-oro-seminci/1003744442300_0.html",
           "kind": "other"
         }
       ]
     },
     {
-      "id": "2026-10-31-estrenes-godzilla-sacamantecas",
-      "section": "cinema",
-      "subject": "film",
-      "headline": "Estrenes del divendres 6 de novembre: «Godzilla Minus Zero» arriba a Espanya i «Sacamantecas» porta el crim real a la Àlaba del segle XIX",
-      "deck": "Takashi Yamazaki torna a Godzilla amb el primer rodatge japonès fet per a IMAX, i David Pérez Sañudo estrena un thriller d'època amb Antonio de la Torre i Patricia López Arnaiz.",
+      "id": "2026-11-01-novembre-series",
+      "section": "services",
+      "subject": "series",
+      "headline": "Novembre a les plataformes: terror escolar a Netflix amb «El cuerpo», «Els anells de poder» i «Blade Runner 2099»",
+      "deck": "Una guia de dates per a Espanya amb tres sèries que encaixen amb el perfil: terror, fantasia èpica i ciència-ficció.",
       "paragraphs": [
-        "«Godzilla Minus Zero» s'estrena als cinemes espanyols el 6 de novembre, el mateix dia que als EUA (GKIDS); al Japó arriba el 3 de novembre amb Toho. Takashi Yamazaki dirigeix i escriu la seqüela de «Godzilla Minus One», que va guanyar l'Oscar als millors efectes visuals. Transcorre el 1949, dos anys després, i hi tornen Ryunosuke Kamiki i Minami Hamabe, amb Min Tanaka com a nova incorporació. Segons una de les fitxes, és la primera producció japonesa rodada en format Filmed for IMAX. Una font dona el 9 de novembre al subtítol, però el cos del text i les altres fonts diuen el 6. És cinema de monstres amb to d'època; no n'hem vist res i no en valorem la qualitat. Als EUA té classificació R.",
-        "«Sacamantecas», de David Pérez Sañudo, s'estrena el mateix 6 a les sales amb distribució de Buena Vista International (Disney). Situada a l'Àlaba de les acabades de la tercera guerra carlina, parteix de fets reals: apareixen dones estrangulades prop de Vitòria, i Ángela (Patricia López Arnaiz), la germana de la qual n'és una víctima, torna a la ciutat per buscar justícia. Antonio de la Torre fa de Juan Díaz de Garayo. Va tenir una projecció especial a la Secció Oficial del 74è Festival de Sant Sebastià i dura 109 minuts. Un mitjà local la defineix com una pel·lícula incòmoda i destaca la contenció de De la Torre; és una sola crítica, no un consens.",
-        "Compte amb una discrepància: eCartelera situa «Sacamantecas» a Prime Video, mentre que les fonts alabeses parlen d'estrena a cinemes el 6 i d'arribada posterior a la plataforma, sense data. El mateix divendres també apareixen als llistats «Los miserables», «Runner», «Dante», «Ruega por nosotras», «Persiguiendo a Michael» i «El gato con sombrero», però no n'hem verificat fitxa ni distribuïdora; convé confirmar sessions al cinema."
+        "Segons la guia de novembre de Público, Netflix estrena l'11 de novembre «El cuerpo», una sèrie de terror de vuit episodis ambientada en una escola catòlica: un ritu d'iniciació que surt malament fa que un grup d'alumnes tingui visions profètiques. És l'estrena de terror més clara del mes a les plataformes; no l'hem vista i només en coneixem la premissa.",
+        "El mateix dia, l'11, arriba a Prime Video la tercera temporada de «El señor de los anillos: Los anillos de poder», que salta cinc anys després de la caiguda d'Eregion. El 25 de novembre hi ha «Blade Runner 2099», vuit episodis, amb Hunter Schaffer i Michelle Yeoh, ambientada cinquanta anys després de «Blade Runner 2049»; es publiquen tots els episodis alhora.",
+        "Altres dates de la guia: «Los altruistas», drama de vuit episodis sobre l'ascens i la caiguda dels fundadors de FTX (amb Julia Garner i Anthony Boyle), a Netflix el 19 de novembre; «12 12 12», thriller de robatori amb Anthony Mackie i Jamie Dornan, a Apple TV el 13 de novembre (setmanal); i la segona temporada de «Todas de la ley» (Ryan Murphy), a Disney+ el 4 de novembre. Les sèries «Infamia» i «El crimen de Pazos» ja van sortir en edicions anteriors. Tota la guia és una sola font; les dates poden moure's."
       ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "eventDate": "2026-11-06",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "eventDate": "2026-11-11",
       "territory": "ES",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "El cuerpo",
+          "year": 2026,
+          "kind": "series"
+        },
+        {
+          "title": "The Lord of the Rings: The Rings of Power",
+          "year": 2022,
+          "kind": "series",
+          "knownAs": "El señor de los anillos: Los anillos de poder"
+        },
+        {
+          "title": "Blade Runner 2099",
+          "year": 2026,
+          "kind": "series"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-got-4k-col-leccionista",
+      "section": "physical",
+      "subject": "series",
+      "headline": "«Joc de trons» en 4K: arriba a Espanya l'edició col·leccionista limitada del 15è aniversari, però amb doblatge en Dolby Digital 5.1",
+      "deck": "Trenta-tres discs, vuit steelbooks i més de quinze hores d'extres, previstos per a novembre; preu i data exacta, per confirmar.",
+      "paragraphs": [
+        "AVPasión informa que «Juego de Tronos: La colección completa» surt a Espanya al novembre en una edició coleccionista limitada del 15è aniversari, en 4K UHD. Són les vuit temporades, cadascuna en un steelbook, dins d'un estoig metàl·lic numerat amb un llibret: 33 discs (30 Ultra HD Blu-ray i 3 Blu-ray) i més de quinze hores d'extres, entre les quals una reunió del repartiment a Belfast presentada per Conan O'Brien i el documental «La última guardia».",
+        "La imatge és 2160p amb HDR10 i Dolby Vision. L'anglès porta Dolby Atmos, però l'àudio en castellà és només Dolby Digital 5.1, un detall que pesa si es vol veure amb doblatge. No s'ha publicat el preu (l'autor espera que sigui alt) i no hi ha dia concret. És una sola font, actualitzada el 21 d'abril; tractem-ho com a anunciat, no com a confirmat."
+      ],
+      "publishedAt": "2026-04-21T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "AVPasión – Juego de Tronos: La colección completa, edició col·leccionista 15è aniversari (4K UHD)",
+          "url": "https://www.avpasion.com/brutal-pack-coleccionista-4k-uhd-juego-de-tronos/",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Game of Thrones",
+          "year": 2011,
+          "kind": "series",
+          "knownAs": "Juego de Tronos"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-nt-live-golden-boy",
+      "section": "stage",
+      "subject": "film",
+      "headline": "Josh O'Connor a «Golden Boy», de Clifford Odets: NT Live el retransmet al cinema els dies 5 i 13 de novembre, però sense data verificada per a Espanya",
+      "deck": "No hem trobat cap captació completa nova amb dades suficients per recomanar-la avui; sí una retransmissió al cinema que val la pena tenir al radar.",
+      "paragraphs": [
+        "Un cinema de Colchester (Firstsite) programa «Golden Boy», de Clifford Odets, dins de National Theatre Live, el dijous 5 de novembre a les 18:30 i el divendres 13 a les 18:00. La producció es filma al teatre Almeida; la dirigeix Sam Yates i la interpreten Josh O'Connor, Daniel Mays, Hayley Squires i Zubin Varla. Dura 195 minuts.",
+        "Amb els fets que tenim no es pot dir que sigui un enregistrament complet disponible des d'Espanya: és una projecció en un cinema del Regne Unit, no sabem l'any ni la data de l'enregistrament, i la web oficial de NT Live no ens ha mostrat dates per a Espanya. Per això no hi afegim fitxa de captació ni accés. Si tens interès pel teatre britànic, convé mirar el cinema més proper o el catàleg oficial; i recordem que O'Connor és també un dels noms de les proves de pantalla del proper Bond, que vam explicar divendres."
+      ],
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "eventDate": "2026-11-05",
+      "territory": "GB",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Firstsite (Colchester) – National Theatre Live: Golden Boy",
+          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
+          "kind": "other"
+        },
+        {
+          "name": "National Theatre Live – web oficial (catàleg consultat)",
+          "url": "https://www.ntlive.com/",
+          "kind": "catalogue"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-tokyo-competicio",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "Tòquio, a la recta final: la competició de quinze títols inclou Lisandro Alonso, Bahman Ghobadi i Milcho Manchevski, i el premi es coneixerà el 4 de novembre",
+      "deck": "El mateix «La libertad doble» que ha guanyat a Valladolid competeix a Tòquio, amb retrospectives de Mizoguchi i Chahine i un nou film d'Ulrike Ottinger.",
+      "paragraphs": [
+        "El 39è Festival Internacional de Cinema de Tòquio dura fins al 4 de novembre. La competició té quinze títols, entre els quals «Double Freedom» de Lisandro Alonso (el mateix film que a Valladolid es diu «La libertad doble» i ha guanyat la millor direcció), «Trees Are Watching» de Bahman Ghobadi, «Sister Brother Manhole Cover» de Milcho Manchevski, «Fuxi: Four Tales of Feasting» de Qiu Jiongjiong, «Red Before Dawn» de Garin Nugroho, «Heysel 85» de Teodora Ana Mihai i «Two Cigarettes, Three Nights» de Yukiko Mishima. No tenim encara guanyadors.",
+        "Fora de competició hi ha tres projeccions destacades: «Sukiyaki», de Zeze Takahisa; «Godzilla Minus Zero», de Takashi Yamazaki, que arriba als cinemes d'Espanya el divendres 6; i «Colony», de Yeon Sang-ho. Les retrospectives són una retrospectiva de Kenji Mizoguchi (tretze films, segons la informació consultada) (amb «Ugetsu» i «Sansho el balivo»), vuit de Youssef Chahine (entre ells «Estació central» i «Adéu, Bonaparte») i la presència d'Ulrike Ottinger, amb la seva nova pel·lícula «The Blood Countess», protagonitzada per Isabelle Huppert. Aquest és un resum de la selecció, no el programa complet."
+      ],
+      "publishedAt": "2026-10-31T00:00:00Z",
+      "eventDate": "2026-11-04",
+      "territory": "JP",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Guía del Ocio – Godzilla Minus Zero",
-          "url": "https://guiadelocio.es/madrid/?p=60075",
-          "kind": "other"
-        },
-        {
-          "name": "Espinof – Godzilla Minus Zero ya tiene fecha de estreno",
-          "url": "https://www.espinof.com/trailers/godzilla-minus-zero-tiene-fecha-estreno-nuevo-trailer-que-situa-como-uno-grandes-bombazos-ano",
-          "kind": "other"
-        },
-        {
-          "name": "SlashFilm – previsió de taquilla de Godzilla Minus Zero",
-          "url": "https://www.slashfilm.com/2298662/godzilla-minus-zero-box-office-preview/",
+          "name": "The Film Stage – 39th Tokyo International Film Festival lineup",
+          "url": "https://thefilmstage.com/39th-tokyo-international-film-festival-lineup-features-lisandro-alonso-and-qiu-jiongjiong-kenji-mizoguchi-and-youssef-chahine-retrospectives-more/",
           "kind": "tradePress"
         },
         {
-          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
-          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
+          "name": "Outlook India – Tokyo International Film Festival full lineup",
+          "url": "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed",
           "kind": "other"
-        },
-        {
-          "name": "Gasteiz Hoy – crítica de Sacamantecas",
-          "url": "https://www.gasteizhoy.com/sacamantecas-pelicula-critica-vitoria/",
-          "kind": "other"
-        },
-        {
-          "name": "eCartelera – Próximos estrenos de cine",
-          "url": "https://www.ecartelera.com/peliculas/estrenos/",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Godzilla Minus Zero",
-          "year": 2026,
-          "kind": "film"
-        },
-        {
-          "title": "Sacamantecas",
-          "year": 2026,
-          "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-10-31-the-greatest-prime",
-      "section": "services",
-      "subject": "series",
-      "headline": "«El más grande», la sèrie autoritzada sobre Muhammad Ali, arriba a Prime Video el 4 de novembre",
-      "deck": "Vuit episodis sobre la transformació de Cassius Clay en Ali, amb Jaalen Best de protagonista i Michael B. Jordan com a productor executiu.",
-      "paragraphs": [
-        "«The Greatest» (en espanyol, «El más grande») s'estrena a Prime Video el dimecres 4 de novembre, segons la guia d'estrenes de Público per a Espanya i la resta de la premsa. És una minisèrie de vuit episodis: Jaalen Best fa de Cassius Clay/Muhammad Ali, Ben Watkins és el showrunner i Michael B. Jordan la produeix amb Outlier Society.",
-        "Segons les fonts, és la primera sèrie de ficció amb guió plenament autoritzada pel patrimoni d'Ali (Lonnie Ali és productora executiva) i se centra en els anys 1960 a 1964. Cal subscripció a Prime Video. És un biopic d'època i esports; no l'hem vist i només en descrivim el context.",
-        "Per a les sèries, la mateixa guia situa la segona temporada de «Ciudad de Dios: la lucha no para» a HBO Max el 8 de novembre, però una altra font només diu «novembre»: tractem el dia exacte com a no confirmat."
-      ],
-      "publishedAt": "2026-07-06T00:00:00Z",
-      "eventDate": "2026-11-04",
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Público – Estrenos de noviembre 2026 en plataformas",
-          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-          "kind": "other"
-        },
-        {
-          "name": "The Statesman – «The Greatest» fixa el 4 de novembre a Prime Video",
-          "url": "https://www.thestatesman.com/entertainment/ott/the-greatest-muhammad-ali-series-prime-video-november-release-date-1503613799.html",
-          "kind": "other"
-        },
-        {
-          "name": "Señal News – segona temporada de Ciudad de Dios: La lucha no para",
-          "url": "https://senalnews.com/es/digital/hbo-max-adelanto-como-sera-la-segunda-temporada-de-ciudad-de-dios-la-lucha-no-para",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "The Greatest",
-          "year": 2026,
-          "kind": "series",
-          "knownAs": "El más grande"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-31-operavision-novembre",
-      "section": "stage",
-      "subject": "film",
-      "headline": "Teatre i òpera en pantalla: OperaVision programa «De Materie» d'Andriessen el 6 de novembre i «Peter Grimes» el 26, però no hi ha cap captació completa nova per recomanar",
-      "deck": "No hem trobat avui cap enregistrament complet amb dades prou verificades. Sí que hi ha dues emissions a OperaVision al calendari.",
-      "paragraphs": [
-        "Segons la programació d'OperaVision, el 6 de novembre a les 19:00 (CET) s'emet «De Materie», l'òpera de Louis Andriessen, d'Opera Ballet Vlaanderen, i el 26 de novembre a les 18:00 «Peter Grimes», de Britten, de l'Òpera i Ballet Nacional de Finlàndia. La plataforma es presenta com un servei gratuït de nous espectacles setmanals, però la pàgina no confirma que aquestes dues emissions concretes ho siguin ni fins quan quedaran disponibles.",
-        "No podem dir si «De Materie» és una emissió en directe o una gravació: la nova producció, de Phia Ménard, es va representar a Anvers al setembre. Tampoc tenim repartiment, any d'enregistrament ni subtítols, per això no la presentem com una captació completa recomanada. El Liceu ja porta «I Capuleti e i Montecchi» a LiceuOPERA+ el 22 de novembre, i els calendaris del National Theatre i del Royal Ballet and Opera ja s'han explicat aquests dies."
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "eventDate": "2026-11-06",
-      "territory": "BE",
-      "status": "announced",
-      "evidence": "primarySource",
-      "sources": [
-        {
-          "name": "OperaVision – programació",
-          "url": "https://operavision.eu/",
-          "kind": "official"
-        },
-        {
-          "name": "Opera Ballet Vlaanderen – De Materie",
-          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
-          "kind": "official"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-31-calendari",
+      "id": "2026-11-01-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendari: palmarès de la Seminci avui, «Godzilla Minus Zero» al Japó el 3 i a Espanya el 6, i «The Greatest» a Prime Video el 4",
-      "deck": "Les dates verificades dels pròxims dies, amb el territori de cadascuna.",
+      "headline": "Calendari de novembre: Tòquio acaba el dia 4, «Possible Love» i «Sacamantecas» el 6, «El cuerpo» l'11 i els Gotham el 30",
+      "deck": "Previsió dels set dies vinents (1–7 de novembre) i calendari del mes. Estrenes a Espanya separades de les d'altres països.",
       "paragraphs": [
-        "Dissabte 31 d'octubre (Espanya): palmarès de la Seminci al matí, sense gala, i projecció de «Hombre al agua» a les 20:00 al Teatro Calderón. Dimarts 3 de novembre (Japó): estrena de «Godzilla Minus Zero». Dimecres 4 (Espanya): «El más grande» a Prime Video; el Festival de Tòquio, segons el calendari de festivals asiàtics, acaba aquell dia.",
-        "Divendres 6 de novembre (Espanya): «Godzilla Minus Zero» i «Sacamantecas» als cinemes, i «De Materie» a OperaVision a les 19:00 (CET). Diumenge 22: «I Capuleti e i Montecchi» a LiceuOPERA+, segons el Liceu. Dijous 26: «Peter Grimes» a OperaVision a les 18:00 (CET)."
+        "Els set dies vinents. Dilluns 2 i dimarts 3, res de nou a la nostra llista. Dimecres 4: acaba el Festival de Tòquio; «The Greatest» (la sèrie sobre Muhammad Ali) arriba a Prime Video i la segona temporada de «Todas de la ley» a Disney+. Dijous 5: «Golden Boy» de NT Live en un cinema de Colchester (Regne Unit). Divendres 6, a Espanya: «Godzilla Minus Zero», «Sacamantecas», «Los miserables» (Fred Cavayé), «Ruega por nosotras» (Daniel Monzón), «El gato con sombrero» i «Fiesta Pagäna» (Álvaro Brechner), segons el llistat de Sensacine; a Netflix, «Possible Love» de Lee Chang-dong (el mateix dia).",
+        "Dies després. Diumenge 8: segona temporada de «Ciudad de Dios: la lucha no para» a HBO Max (dada d'una sola guia). Dimecres 11: «El cuerpo» a Netflix i la tercera temporada dels «Anells de poder» a Prime Video. Divendres 13, cinemes d'Espanya: «Scrooge y los fantasmas de la Navidad» (Ti West), «Wild Horse Nine» (Martin McDonagh) i «Jaleos» (Isaki Lacuesta); el mateix dia, «Infamia» a HBO Max, «12 12 12» a Apple TV i «El crimen de Pazos» a Netflix; i la segona sessió de «Golden Boy» a Colchester. Dijous 19: «Los altruistas» a Netflix.",
+        "Final de mes. Divendres 20, cinemes: «Los Juegos del Hambre: Amanecer en la cosecha» (Francis Lawrence) i «Adolescencia, sexo y muerte en Campamento Miasma» (Jane Schoenbrun); el llistat també hi posa «Moulin» de László Nemes, però no hem pogut confirmar l'estrena espanyola. Dimecres 25: «Blade Runner 2099». Divendres 27: «Hermanas» (Ione Hernández) i «Sanguine», guanyadora de Sitges; per a aquesta darrera, Sensacine dona el 27 i Cinemanía el 6, així que cal comprovar-ho. Dilluns 30: cerimònia dels Gotham Awards de cinema. Les dates d'altres països (Corea, Japó, Estats Units) no valen per a Espanya."
       ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "eventDate": "2026-11-06",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "eventDate": "2026-11-01",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Seminci – comunicat oficial",
-          "url": "https://www.seminci.com/2026/noticias/seminci-suspende-la-gala-de-clausura-de-su-71a-edicion-en-senal-de-respeto-y-solidaridad-con-las-victimas-del-accidente-ferroviario-de-toledo/",
-          "kind": "official"
-        },
-        {
-          "name": "Guía del Ocio – Godzilla Minus Zero",
-          "url": "https://guiadelocio.es/madrid/?p=60075",
-          "kind": "other"
-        },
-        {
-          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
-          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
+          "name": "Sensacine – Estrenos de cine en España, novembre 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
           "kind": "other"
         },
         {
@@ -206,63 +195,94 @@
           "kind": "other"
         },
         {
-          "name": "OperaVision – programació",
-          "url": "https://operavision.eu/",
+          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
           "kind": "official"
         },
         {
-          "name": "Liceu – LiceuOPERA+ 2026/27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
+          "name": "Firstsite – National Theatre Live: Golden Boy",
+          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
+          "kind": "other"
+        },
+        {
+          "name": "Cinemanía – Sanguine",
+          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
+          "kind": "other"
+        },
+        {
+          "name": "Outlook India – nominacions dels Gotham Awards 2026",
+          "url": "https://www.outlookindia.com/art-entertainment/2026-gotham-award-noms-the-invite-tender-loving-care-and-all-of-a-sudden-top-slate",
+          "kind": "other"
         }
       ]
     },
     {
-      "id": "2026-10-31-recomanacions",
+      "id": "2026-11-01-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Recomanacions de l'editor: «Sacamantecas», «Godzilla Minus Zero» i «El más grande»",
-      "deck": "Tres propostes per als pròxims dies, amb afinitat editorial (no és nota de crítica) i confiança.",
+      "headline": "Recomanacions de l'editor i balanç de la setmana: «Possible Love», «Sanguine» i «El cuerpo»",
+      "deck": "Quatre suggeriments amb afinitat editorial (no és la nota de la crítica) i confiança, i un repàs de la setmana.",
       "paragraphs": [
-        "«Sacamantecas» (2026): afinitat 4 sobre 5, confiança mitjana. Thriller d'època inspirat en fets reals, amb Antonio de la Torre i Patricia López Arnaiz, sobre una societat que prefereix callar els crims. Encaixa amb el gust per l'època i el cinema fosc d'autor; no l'hem vist i només coneixem una crítica local. Estrena el 6 de novembre a Espanya.",
-        "«Godzilla Minus Zero» (2026): afinitat 3 sobre 5, confiança baixa. Cinema de monstres d'època, de qui va fer una de les grans sorpreses de 2023; la seva força està a l'escala IMAX, i la recepció encara és escassa. El 6 de novembre als cinemes espanyols.",
-        "«El más grande» (2026, sèrie): afinitat 3 sobre 5, confiança baixa. Biopic esportiu i d'època; depèn de l'execució, que encara no podem valorar. Prime Video, 4 de novembre.",
-        "Balanç del dia: l'actualitat de la jornada és la Seminci, que tanca amb sobrietat pel dol, i la setmana vinent porta estrenes de gènere i d'època que fan un bon cap de setmana de cinema."
+        "«Possible Love» (2026): afinitat 4 sobre 5, confiança mitjana. Lee Chang-dong torna vuit anys després de «Burning», amb un drama sentimental que va passar per Venècia; a Netflix des del 6 de novembre. Encaixa amb el cinema d'autor i els drames de relacions; no l'hem vista i el seu to només el coneixem per cròniques.",
+        "«Sanguine» (2026, «Species» en el títol original): afinitat 4 sobre 5, confiança mitjana. Terror corporal francès sobre una jove residenta d'urgències el cos de la qual comença a canviar, amb lectura satírica de l'estrès laboral; va guanyar a Sitges. Estrena espanyola el 27 de novembre segons una font i el 6 segons una altra: cal comprovar-ho.",
+        "«El cuerpo» (sèrie): afinitat 3 sobre 5, confiança baixa. Terror escolar en un col·legi catòlic, Netflix, 11 de novembre; només en coneixem la premissa. I «Golden Boy» (Odets, Almeida): afinitat 3 sobre 5, confiança baixa, perquè no n'hi ha accés verificat des d'Espanya.",
+        "Balanç de la setmana. Ha estat una setmana de dol i de palmarés: la Seminci ha tancat sense gala i amb «Dao» com a Espiga d'Or, Sitges va coronar «Sanguine», «Clayface» va obrir per sota de l'efecte esperat, el càsting del proper Bond va arribar a proves de pantalla i les candidatures dels Gotham van tirar cap al cinema d'autor. Per a la setmana vinent, el divendres 6 concentra les estrenes d'Espanya."
       ],
-      "publishedAt": "2026-10-31T00:00:00Z",
+      "publishedAt": "2026-11-01T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Gasteiz Hoy – Sacamantecas llegará a la gran pantalla el 6 de noviembre",
-          "url": "https://www.gasteizhoy.com/sacamantecas-cine-6-noviembre/",
-          "kind": "other"
+          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
         },
         {
-          "name": "Guía del Ocio – Godzilla Minus Zero",
-          "url": "https://guiadelocio.es/madrid/?p=60075",
+          "name": "Cinemanía – Sanguine",
+          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
           "kind": "other"
         },
         {
           "name": "Público – Estrenos de noviembre 2026 en plataformas",
           "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
           "kind": "other"
+        },
+        {
+          "name": "Firstsite – National Theatre Live: Golden Boy",
+          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "가능한 사랑",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Possible Love"
+        },
+        {
+          "title": "Species",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Sanguine"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
-      "title": "Sacamantecas",
+      "title": "가능한 사랑",
       "year": 2026,
-      "kind": "film"
+      "kind": "film",
+      "knownAs": "Possible Love"
     },
     {
-      "title": "Godzilla Minus Zero",
+      "title": "Species",
       "year": 2026,
-      "kind": "film"
+      "kind": "film",
+      "knownAs": "Sanguine"
     }
   ]
 }
