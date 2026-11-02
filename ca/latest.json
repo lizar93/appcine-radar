@@ -1,185 +1,97 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "territory": "ES",
-  "generatedAt": "2026-10-31T23:30:00Z",
+  "generatedAt": "2026-11-02T23:20:00Z",
   "reports": [
     {
-      "id": "2026-11-01-seminci-palmares",
+      "id": "2026-11-03-taquilla-halloween",
       "section": "news",
       "subject": "film",
-      "headline": "«Dao», d'Alain Gomis, guanya l'Espiga d'Or de la 71 Seminci; Lisandro Alonso, millor direcció",
-      "deck": "El palmarés s'ha fet públic sense gala, per dol pl'accident ferroviari de Toledo. L'Espiga de Plata és per a «La Gradiva», de Marine Atlan, i hi ha dos premis d'interpretació: Alba Rohrwacher i Swann Arlaud.",
+      "headline": "Un documental d'A24, «You Can See Everything», encapçala la taquilla nord-americana de Halloween en un cap de setmana fluix",
+      "deck": "Amb 10,6 milions de dòlars, supera «Clayface» (10,4) i es converteix en el primer documental no musical que és número u des de «Fahrenheit 9/11», el 2004.",
       "paragraphs": [
-        "La Seminci de Valladolid ha fet públic el palmarés de la 71a edició (23–31 d'octubre) el mateix dissabte 31, sense cerimònia, tal com s'havia anunciat. L'Espiga d'Or de la Secció Oficial Internacional és per a «Dao», d'Alain Gomis (França, Senegal i Guinea Bissau). L'Espiga de Plata va a «La Gradiva», de Marine Atlan (França i Itàlia), que també s'enduu el premi de muntatge (Guillaume Lillo) i l'Espiga Arc de Sant Martí.",
-        "Premis individuals: millor direcció, Lisandro Alonso per «La libertad doble» (Xile, Argentina, Luxemburg, Alemanya i Regne Unit); millor actriu, Alba Rohrwacher per «A Good Little Soldier», de Stéphane Brizé; millor actor, Swann Arlaud per «Un hombre de nuestro tiempo», d'Emmanuel Marre; guió, Sandra Wollner per «Everytime»; fotografia, Oliver Boonjing per «Notre Salut». Menció especial per a «Aquí», de Tiago Guedes, i Premi del Públic per a «Rose», de Markus Schleinzer. El jurat el formaven Francesca Andreoli, Grégoire Hetzel, Dennis Lim, Elena Manrique i Federico Veiroj.",
-        "Entre les seccions paral·leles, «9 Temples to Heaven», de Sompot Chidgasornpongse, guanya Punt de Trobada; «Alea Jacarandas», de Hassen Ferhani, el Gran Premi de Temps d'Història; i «Todo es cárcel», d'Eloy Enciso, el premi DOC. España. El Premi Pilar Miró a la millor direcció espanyola és per a Sebastián Uría («Adiós, ríos»). La pel·lícula de cloenda, «Hombre al agua», de Gael García Bernal, es projecta aquest vespre. Segons l'organització, el balanç provisional és de 100.000 espectadors. No hem vist cap d'aquestes pel·lícules; són premis, no una garantia de gust, i encara no sabem quines tindran estrena comercial a Espanya."
+        "Segons la crònica de Rotten Tomatoes, «You Can See Everything» va recaptar 10,6 milions de dòlars en el tercer cap de setmana als Estats Units i el Canadà i acumula 63,8 milions. El mateix text diu que és el primer documental que no és un concert que arriba al primer lloc des de «Fahrenheit 9/11», fa vint-i-dos anys. Les xifres del cap de setmana són estimacions i es poden revisar: les fonts de taquilla no coincidien del tot en qui era número u.",
+        "«Clayface» va caure un 57% fins als 10,4 milions i suma 44 milions després de deu dies; «Wildwood», de Laika, va fer 7,5 milions (25,9 en total). El terror «Wicker», un títol sorgit de Sundance que Black Bear va ampliar a més de 2.300 cinemes, va ingressar 4,1 milions i en porta 13,2. Completa la llista el film-concert de BTS «Arirang», amb 3 milions en una sola nit als cinemes.",
+        "Són dades dels Estats Units: no diuen res sobre l'estrena o l'èxit d'aquests títols a Espanya. La crònica assenyala que la temporada de festes arrenca el cap de setmana vinent amb l'estrena de l'animada «The Cat in the Hat»."
       ],
-      "publishedAt": "2026-10-31T00:00:00Z",
-      "eventDate": "2026-10-31",
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "primarySource",
-      "sources": [
-        {
-          "name": "Seminci – 'Dao', d'Alain Gomis, Espiga de Oro de la 71 Seminci (comunicat oficial)",
-          "url": "https://www.seminci.com/2026/noticias/dao-de-alain-gomis-gala-la-espiga-de-oro-de-la-71-seminci/",
-          "kind": "official"
-        },
-        {
-          "name": "Infobae (EFE) – Dao, Espiga de Oro de la 71 Seminci",
-          "url": "https://www.infobae.com/espana/agencias/2026/10/31/dao-del-francosenegales-alain-gomis-espiga-de-oro-de-la-71-seminci/",
-          "kind": "other"
-        },
-        {
-          "name": "El Español – Dao gana la Espiga de Oro de la Seminci",
-          "url": "https://www.elespanol.com/el-cultural/cine/20261031/dao-francosenegales-alain-gomis-gana-espiga-oro-seminci/1003744442300_0.html",
-          "kind": "other"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-novembre-series",
-      "section": "services",
-      "subject": "series",
-      "headline": "Novembre a les plataformes: terror escolar a Netflix amb «El cuerpo», «Els anells de poder» i «Blade Runner 2099»",
-      "deck": "Una guia de dates per a Espanya amb tres sèries que encaixen amb el perfil: terror, fantasia èpica i ciència-ficció.",
-      "paragraphs": [
-        "Segons la guia de novembre de Público, Netflix estrena l'11 de novembre «El cuerpo», una sèrie de terror de vuit episodis ambientada en una escola catòlica: un ritu d'iniciació que surt malament fa que un grup d'alumnes tingui visions profètiques. És l'estrena de terror més clara del mes a les plataformes; no l'hem vista i només en coneixem la premissa.",
-        "El mateix dia, l'11, arriba a Prime Video la tercera temporada de «El señor de los anillos: Los anillos de poder», que salta cinc anys després de la caiguda d'Eregion. El 25 de novembre hi ha «Blade Runner 2099», vuit episodis, amb Hunter Schaffer i Michelle Yeoh, ambientada cinquanta anys després de «Blade Runner 2049»; es publiquen tots els episodis alhora.",
-        "Altres dates de la guia: «Los altruistas», drama de vuit episodis sobre l'ascens i la caiguda dels fundadors de FTX (amb Julia Garner i Anthony Boyle), a Netflix el 19 de novembre; «12 12 12», thriller de robatori amb Anthony Mackie i Jamie Dornan, a Apple TV el 13 de novembre (setmanal); i la segona temporada de «Todas de la ley» (Ryan Murphy), a Disney+ el 4 de novembre. Les sèries «Infamia» i «El crimen de Pazos» ja van sortir en edicions anteriors. Tota la guia és una sola font; les dates poden moure's."
-      ],
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "eventDate": "2026-11-11",
-      "territory": "ES",
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "eventDate": "2026-11-01",
+      "territory": "US",
       "status": "confirmed",
       "evidence": "singleSource",
       "sources": [
         {
-          "name": "Público – Estrenos de noviembre 2026 en plataformas",
-          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "El cuerpo",
-          "year": 2026,
-          "kind": "series"
-        },
-        {
-          "title": "The Lord of the Rings: The Rings of Power",
-          "year": 2022,
-          "kind": "series",
-          "knownAs": "El señor de los anillos: Los anillos de poder"
-        },
-        {
-          "title": "Blade Runner 2099",
-          "year": 2026,
-          "kind": "series"
+          "name": "Rotten Tomatoes – Weekend Box Office (1 de novembre de 2026)",
+          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-you-can-see-everything-week-2/",
+          "kind": "tradePress"
         }
       ]
     },
     {
-      "id": "2026-11-01-got-4k-col-leccionista",
-      "section": "physical",
-      "subject": "series",
-      "headline": "«Joc de trons» en 4K: arriba a Espanya l'edició col·leccionista limitada del 15è aniversari, però amb doblatge en Dolby Digital 5.1",
-      "deck": "Trenta-tres discs, vuit steelbooks i més de quinze hores d'extres, previstos per a novembre; preu i data exacta, per confirmar.",
-      "paragraphs": [
-        "AVPasión informa que «Juego de Tronos: La colección completa» surt a Espanya al novembre en una edició coleccionista limitada del 15è aniversari, en 4K UHD. Són les vuit temporades, cadascuna en un steelbook, dins d'un estoig metàl·lic numerat amb un llibret: 33 discs (30 Ultra HD Blu-ray i 3 Blu-ray) i més de quinze hores d'extres, entre les quals una reunió del repartiment a Belfast presentada per Conan O'Brien i el documental «La última guardia».",
-        "La imatge és 2160p amb HDR10 i Dolby Vision. L'anglès porta Dolby Atmos, però l'àudio en castellà és només Dolby Digital 5.1, un detall que pesa si es vol veure amb doblatge. No s'ha publicat el preu (l'autor espera que sigui alt) i no hi ha dia concret. És una sola font, actualitzada el 21 d'abril; tractem-ho com a anunciat, no com a confirmat."
-      ],
-      "publishedAt": "2026-04-21T00:00:00Z",
-      "eventDate": null,
-      "territory": "ES",
-      "status": "announced",
-      "evidence": "singleSource",
-      "sources": [
-        {
-          "name": "AVPasión – Juego de Tronos: La colección completa, edició col·leccionista 15è aniversari (4K UHD)",
-          "url": "https://www.avpasion.com/brutal-pack-coleccionista-4k-uhd-juego-de-tronos/",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Game of Thrones",
-          "year": 2011,
-          "kind": "series",
-          "knownAs": "Juego de Tronos"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-nt-live-golden-boy",
-      "section": "stage",
-      "subject": "film",
-      "headline": "Josh O'Connor a «Golden Boy», de Clifford Odets: NT Live el retransmet al cinema els dies 5 i 13 de novembre, però sense data verificada per a Espanya",
-      "deck": "No hem trobat cap captació completa nova amb dades suficients per recomanar-la avui; sí una retransmissió al cinema que val la pena tenir al radar.",
-      "paragraphs": [
-        "Un cinema de Colchester (Firstsite) programa «Golden Boy», de Clifford Odets, dins de National Theatre Live, el dijous 5 de novembre a les 18:30 i el divendres 13 a les 18:00. La producció es filma al teatre Almeida; la dirigeix Sam Yates i la interpreten Josh O'Connor, Daniel Mays, Hayley Squires i Zubin Varla. Dura 195 minuts.",
-        "Amb els fets que tenim no es pot dir que sigui un enregistrament complet disponible des d'Espanya: és una projecció en un cinema del Regne Unit, no sabem l'any ni la data de l'enregistrament, i la web oficial de NT Live no ens ha mostrat dates per a Espanya. Per això no hi afegim fitxa de captació ni accés. Si tens interès pel teatre britànic, convé mirar el cinema més proper o el catàleg oficial; i recordem que O'Connor és també un dels noms de les proves de pantalla del proper Bond, que vam explicar divendres."
-      ],
-      "publishedAt": "2026-10-31T00:00:00Z",
-      "eventDate": "2026-11-05",
-      "territory": "GB",
-      "status": "confirmed",
-      "evidence": "singleSource",
-      "sources": [
-        {
-          "name": "Firstsite (Colchester) – National Theatre Live: Golden Boy",
-          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
-          "kind": "other"
-        },
-        {
-          "name": "National Theatre Live – web oficial (catàleg consultat)",
-          "url": "https://www.ntlive.com/",
-          "kind": "catalogue"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-tokyo-competicio",
+      "id": "2026-11-03-tokyo-recta-final",
       "section": "festivals",
       "subject": "film",
-      "headline": "Tòquio, a la recta final: la competició de quinze títols inclou Lisandro Alonso, Bahman Ghobadi i Milcho Manchevski, i el premi es coneixerà el 4 de novembre",
-      "deck": "El mateix «La libertad doble» que ha guanyat a Valladolid competeix a Tòquio, amb retrospectives de Mizoguchi i Chahine i un nou film d'Ulrike Ottinger.",
+      "headline": "El Festival de Tòquio entra a l'última setmana: 204 films de 112 països i quinze títols a la competició",
+      "deck": "Rolf de Heer presideix el jurat; el festival es tanca el 4 de novembre amb «Colony», de Yeon Sang-ho, i no hem trobat la data del palmarès.",
       "paragraphs": [
-        "El 39è Festival Internacional de Cinema de Tòquio dura fins al 4 de novembre. La competició té quinze títols, entre els quals «Double Freedom» de Lisandro Alonso (el mateix film que a Valladolid es diu «La libertad doble» i ha guanyat la millor direcció), «Trees Are Watching» de Bahman Ghobadi, «Sister Brother Manhole Cover» de Milcho Manchevski, «Fuxi: Four Tales of Feasting» de Qiu Jiongjiong, «Red Before Dawn» de Garin Nugroho, «Heysel 85» de Teodora Ana Mihai i «Two Cigarettes, Three Nights» de Yukiko Mishima. No tenim encara guanyadors.",
-        "Fora de competició hi ha tres projeccions destacades: «Sukiyaki», de Zeze Takahisa; «Godzilla Minus Zero», de Takashi Yamazaki, que arriba als cinemes d'Espanya el divendres 6; i «Colony», de Yeon Sang-ho. Les retrospectives són una retrospectiva de Kenji Mizoguchi (tretze films, segons la informació consultada) (amb «Ugetsu» i «Sansho el balivo»), vuit de Youssef Chahine (entre ells «Estació central» i «Adéu, Bonaparte») i la presència d'Ulrike Ottinger, amb la seva nova pel·lícula «The Blood Countess», protagonitzada per Isabelle Huppert. Aquest és un resum de la selecció, no el programa complet."
+        "La 39a edició del Festival Internacional de Cinema de Tòquio és del 26 d'octubre al 4 de novembre, sobretot als barris de Hibiya, Yurakucho, Marunouchi i Ginza. Segons Japan Travel, projecta 204 films de 112 països i regions, amb col·loquis amb directors, classes magistrals i tallers oberts. El lema és «Connecting»: el cinema com a pont amb el món.",
+        "La competició pel Gran Premi de Tòquio té quinze pel·lícules. El jurat el presideix el director australià Rolf de Heer, amb l'actriu Makiko Watanabe i el productor Alex Lo. El festival va obrir amb «Sukiyaki», de Zeze Takahisa; «Godzilla Minus Zero» fa de pel·lícula central (a Espanya s'estrena el divendres 6, segons Sensacine) i la clausura és per a «Colony», terror zombi d'acció coreà de Yeon Sang-ho.",
+        "Ens queda un forat: cap de les fonts que hem pogut llegir diu quin dia es dona el palmarès ni el publica. Quan hi hagi el veredicte oficial, el recollirem. Per al lector, la clau és que Tòquio mescla cinema d'autor asiàtic i cinema de gènere en la mateixa setmana."
       ],
-      "publishedAt": "2026-10-31T00:00:00Z",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "eventDate": "2026-11-04",
       "territory": "JP",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "The Film Stage – 39th Tokyo International Film Festival lineup",
-          "url": "https://thefilmstage.com/39th-tokyo-international-film-festival-lineup-features-lisandro-alonso-and-qiu-jiongjiong-kenji-mizoguchi-and-youssef-chahine-retrospectives-more/",
-          "kind": "tradePress"
+          "name": "Metropolis Japan – Tokyo International Film Festival 2026",
+          "url": "https://metropolisjapan.com/events/tokyo-international-film-festival-2026/",
+          "kind": "other"
         },
         {
-          "name": "Outlook India – Tokyo International Film Festival full lineup",
-          "url": "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed",
+          "name": "Japan Travel – Tokyo International Film Festival 2026",
+          "url": "https://en.japantravel.com/tokyo/tiff/31711",
           "kind": "other"
         }
       ]
     },
     {
-      "id": "2026-11-01-calendari",
+      "id": "2026-11-03-liceu-capuleti-digital",
+      "section": "stage",
+      "subject": "film",
+      "headline": "El Liceu estrenarà «I Capuleti e i Montecchi», de Bellini, a LiceuOPERA+ el 22 de novembre: 45 euros per als abonats",
+      "deck": "Encara no hi ha fitxa completa de l'enregistrament; el que sabem és la data, la plataforma i el preu.",
+      "paragraphs": [
+        "El Gran Teatre del Liceu anuncia a la web de LiceuOPERA+ l'estrena digital de «I Capuleti e i Montecchi», de Vincenzo Bellini, el 22 de novembre de 2026. La plataforma s'inclou a l'abonament del teatre amb un preu especial de 45 euros; per a qui no és abonat, el preu general és de 90 euros.",
+        "La pàgina no dona repartiment, direcció escènica ni dades de l'enregistrament, de manera que no podem omplir la fitxa de captació completa ni recomanar-la com a tal. La temporada digital continua amb «La bohème» (31 de gener de 2027), «La fanciulla del West» (11 d'abril), «Jenůfa» (6 de juny) i «Die Zauberflöte» (25 de juliol). Vam parlar de l'«Aida» del 25 d'octubre fa uns dies."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": "2026-11-22",
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendari de novembre: Tòquio acaba el dia 4, «Possible Love» i «Sacamantecas» el 6, «El cuerpo» l'11 i els Gotham el 30",
-      "deck": "Previsió dels set dies vinents (1–7 de novembre) i calendari del mes. Estrenes a Espanya separades de les d'altres països.",
+      "headline": "Calendari: Tòquio acaba dimecres, «Possible Love» i les estrenes espanyoles el divendres 6, i el Liceu digital el 22",
+      "deck": "Previsió fins al 9 de novembre i dates clau del mes; l'ordre separa Espanya d'altres països.",
       "paragraphs": [
-        "Els set dies vinents. Dilluns 2 i dimarts 3, res de nou a la nostra llista. Dimecres 4: acaba el Festival de Tòquio; «The Greatest» (la sèrie sobre Muhammad Ali) arriba a Prime Video i la segona temporada de «Todas de la ley» a Disney+. Dijous 5: «Golden Boy» de NT Live en un cinema de Colchester (Regne Unit). Divendres 6, a Espanya: «Godzilla Minus Zero», «Sacamantecas», «Los miserables» (Fred Cavayé), «Ruega por nosotras» (Daniel Monzón), «El gato con sombrero» i «Fiesta Pagäna» (Álvaro Brechner), segons el llistat de Sensacine; a Netflix, «Possible Love» de Lee Chang-dong (el mateix dia).",
-        "Dies després. Diumenge 8: segona temporada de «Ciudad de Dios: la lucha no para» a HBO Max (dada d'una sola guia). Dimecres 11: «El cuerpo» a Netflix i la tercera temporada dels «Anells de poder» a Prime Video. Divendres 13, cinemes d'Espanya: «Scrooge y los fantasmas de la Navidad» (Ti West), «Wild Horse Nine» (Martin McDonagh) i «Jaleos» (Isaki Lacuesta); el mateix dia, «Infamia» a HBO Max, «12 12 12» a Apple TV i «El crimen de Pazos» a Netflix; i la segona sessió de «Golden Boy» a Colchester. Dijous 19: «Los altruistas» a Netflix.",
-        "Final de mes. Divendres 20, cinemes: «Los Juegos del Hambre: Amanecer en la cosecha» (Francis Lawrence) i «Adolescencia, sexo y muerte en Campamento Miasma» (Jane Schoenbrun); el llistat també hi posa «Moulin» de László Nemes, però no hem pogut confirmar l'estrena espanyola. Dimecres 25: «Blade Runner 2099». Divendres 27: «Hermanas» (Ione Hernández) i «Sanguine», guanyadora de Sitges; per a aquesta darrera, Sensacine dona el 27 i Cinemanía el 6, així que cal comprovar-ho. Dilluns 30: cerimònia dels Gotham Awards de cinema. Les dates d'altres països (Corea, Japó, Estats Units) no valen per a Espanya."
+        "Aquesta setmana. Dimarts 3: res de nou a la nostra llista. Dimecres 4: acaba el Festival de Tòquio. Dijous 5: «Golden Boy» de NT Live en un cinema de Colchester (Regne Unit), i el 13 una segona sessió. Divendres 6, a Espanya: «Godzilla Minus Zero», «Sacamantecas» i altres estrenes segons Sensacine; a Netflix, «Possible Love» de Lee Chang-dong.",
+        "Després. Dimecres 11: «El cuerpo» a Netflix. Diumenge 22: estrena digital de «I Capuleti e i Montecchi» al Liceu. Divendres 27: «Sanguine», segons Sensacine, tot i que Cinemanía la posa el 6: cal comprovar-ho. Dilluns 30: Gotham Awards. A la taquilla dels EUA, «The Cat in the Hat» arriba el cap de setmana vinent. Les dates d'altres països no valen per a Espanya."
       ],
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "eventDate": "2026-11-01",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": "2026-11-03",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
@@ -210,25 +122,24 @@
           "kind": "other"
         },
         {
-          "name": "Outlook India – nominacions dels Gotham Awards 2026",
-          "url": "https://www.outlookindia.com/art-entertainment/2026-gotham-award-noms-the-invite-tender-loving-care-and-all-of-a-sudden-top-slate",
-          "kind": "other"
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-01-recomanacions",
+      "id": "2026-11-03-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Recomanacions de l'editor i balanç de la setmana: «Possible Love», «Sanguine» i «El cuerpo»",
-      "deck": "Quatre suggeriments amb afinitat editorial (no és la nota de la crítica) i confiança, i un repàs de la setmana.",
+      "headline": "Recomanacions de l'editor: «Possible Love», «Sanguine» i el Bellini del Liceu",
+      "deck": "Tres suggeriments amb afinitat editorial (no és la nota de la crítica) i confiança, i el balanç del dia.",
       "paragraphs": [
-        "«Possible Love» (2026): afinitat 4 sobre 5, confiança mitjana. Lee Chang-dong torna vuit anys després de «Burning», amb un drama sentimental que va passar per Venècia; a Netflix des del 6 de novembre. Encaixa amb el cinema d'autor i els drames de relacions; no l'hem vista i el seu to només el coneixem per cròniques.",
-        "«Sanguine» (2026, «Species» en el títol original): afinitat 4 sobre 5, confiança mitjana. Terror corporal francès sobre una jove residenta d'urgències el cos de la qual comença a canviar, amb lectura satírica de l'estrès laboral; va guanyar a Sitges. Estrena espanyola el 27 de novembre segons una font i el 6 segons una altra: cal comprovar-ho.",
-        "«El cuerpo» (sèrie): afinitat 3 sobre 5, confiança baixa. Terror escolar en un col·legi catòlic, Netflix, 11 de novembre; només en coneixem la premissa. I «Golden Boy» (Odets, Almeida): afinitat 3 sobre 5, confiança baixa, perquè no n'hi ha accés verificat des d'Espanya.",
-        "Balanç de la setmana. Ha estat una setmana de dol i de palmarés: la Seminci ha tancat sense gala i amb «Dao» com a Espiga d'Or, Sitges va coronar «Sanguine», «Clayface» va obrir per sota de l'efecte esperat, el càsting del proper Bond va arribar a proves de pantalla i les candidatures dels Gotham van tirar cap al cinema d'autor. Per a la setmana vinent, el divendres 6 concentra les estrenes d'Espanya."
+        "«Possible Love» (2026): afinitat 4 sobre 5, confiança mitjana. Lee Chang-dong torna vuit anys després de «Burning»; a Netflix el 6 de novembre. Encaixa amb el cinema d'autor i els drames de relacions; no l'hem vista i només la coneixem per cròniques.",
+        "«Sanguine» (2026): afinitat 4 sobre 5, confiança mitjana. Terror corporal francès que va guanyar a Sitges; l'estrena espanyola és el 6 o el 27 de novembre segons la font. «I Capuleti e i Montecchi» al Liceu: afinitat 3 sobre 5, confiança baixa, perquè falten repartiment i dades de l'enregistrament.",
+        "Balanç del dia. Dia de poques novetats verificables: un documental ha sorprès la taquilla nord-americana, Tòquio entra a la recta final i el teatre d'òpera digital ja té data. Preferim una edició curta a una de plena de rumors."
       ],
-      "publishedAt": "2026-11-01T00:00:00Z",
+      "publishedAt": "2026-11-03T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
@@ -245,14 +156,9 @@
           "kind": "other"
         },
         {
-          "name": "Público – Estrenos de noviembre 2026 en plataformas",
-          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-          "kind": "other"
-        },
-        {
-          "name": "Firstsite – National Theatre Live: Golden Boy",
-          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
-          "kind": "other"
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
         }
       ],
       "titles": [

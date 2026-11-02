@@ -1,566 +1,539 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-11-01",
-  "title": "World Cinema Radar — the podcast, Sunday 1 November 2026",
-  "segments": [
+ "schemaVersion": 1,
+ "date": "2026-11-03",
+ "title": "World Cinema Radar — the podcast, Tuesday 3 November 2026",
+ "segments": [
+  {
+   "id": "intro",
+   "title": "Welcome",
+   "turns": [
     {
-      "id": "intro",
-      "title": "Welcome",
-      "turns": [
-        {
-          "speaker": "A",
-          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Sunday the first of November. Welcome to a brand new month."
-        },
-        {
-          "speaker": "B",
-          "text": "And I'm {B}. <chuckle> A new month, a new calendar. And since it's the first, we'll go through the whole of November later on."
-        },
-        {
-          "speaker": "A",
-          "text": "But first, the news. Seminci, the Valladolid film festival, has announced its winners. There was no gala this year, but there is a Golden Spike."
-        },
-        {
-          "speaker": "B",
-          "text": "Then we have a look at Tokyo, where the competition is in its last days. One of the films there has already won a big prize in Spain."
-        },
-        {
-          "speaker": "A",
-          "text": "After that, a few series for November, including some horror, a giant box set of Game of Thrones, and a play you can see at the cinema, sort of."
-        },
-        {
-          "speaker": "B",
-          "text": "Sort of is the key word. <short pause> All of it is in the written edition, with sources and dates. Let's go."
-        }
-      ]
+     "speaker": "A",
+     "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Tuesday the third of November."
     },
     {
-      "id": "2026-11-01-seminci-palmares",
-      "title": "Seminci's winners",
-      "turns": [
-        {
-          "speaker": "A",
-          "text": "So, Seminci. The seventy-first edition of the Valladolid International Film Festival is over, and the Golden Spike goes to a film called Dao."
-        },
-        {
-          "speaker": "B",
-          "text": "Dao. Directed by Alain Gomis. |Is that the French director?| Yes, French and Senegalese. And the film is a coproduction between France, Senegal and Guinea-Bissau."
-        },
-        {
-          "speaker": "A",
-          "text": "That's right. The film moves between two celebrations, a wedding in France and a funeral rite in Guinea-Bissau. That's how it was described in the reports we read."
-        },
-        {
-          "speaker": "B",
-          "text": "Lovely premise. And the Silver Spike?"
-        },
-        {
-          "speaker": "A",
-          "text": "That goes to La Gradiva, by Marine Atlan, a French and Italian film. It also won for best editing, and the Rainbow Spike, the LGBTQ prize."
-        },
-        {
-          "speaker": "B",
-          "text": "Three prizes for one film. <chuckle> Not bad at all."
-        },
-        {
-          "speaker": "A",
-          "text": "Now, individual awards. Best director is Lisandro Alonso, for La libertad doble. That's a coproduction between Chile, Argentina, Luxembourg, Germany and the United Kingdom."
-        },
-        {
-          "speaker": "B",
-          "text": "Alonso is such a particular filmmaker. Slow, patient, very precise. And we'll come back to that film in a minute, because it's also in Tokyo."
-        },
-        {
-          "speaker": "A",
-          "text": "Best actress is Alba Rohrwacher, for A Good Little Soldier, directed by Stéphane Brizé. And best actor is Swann Arlaud, for Un hombre de nuestro tiempo, by Emmanuel Marre."
-        },
-        {
-          "speaker": "B",
-          "text": "Screenplay went to Sandra Wollner, for Everytime. And cinematography to Oliver Boonjing, for Notre Salut."
-        },
-        {
-          "speaker": "A",
-          "text": "There's also a special mention for Aquí, by Tiago Guedes. And the audience award went to Rose, by Markus Schleinzer."
-        },
-        {
-          "speaker": "B",
-          "text": "In the parallel sections, a few names. 9 Temples to Heaven, by Sompot Chidgasornpongse, won Punto de Encuentro. Alea Jacarandas, by Hassen Ferhani, won the history section. And the Spanish documentary prize went to Todo es cárcel, by Eloy Enciso."
-        },
-        {
-          "speaker": "A",
-          "text": "The best Spanish director prize is Sebastián Uría, for Adiós, ríos. And the jury for the main section included Dennis Lim and Federico Veiroj."
-        },
-        {
-          "speaker": "B",
-          "text": "Honestly, I like this list. It's international, it's not all big names. <short pause> But we haven't seen any of these films."
-        },
-        {
-          "speaker": "A",
-          "text": "Right. A prize is not a guarantee that you'll like it. And we don't know yet which ones will get a commercial release in Spain."
-        },
-        {
-          "speaker": "B",
-          "text": "The festival says that around a hundred thousand people came to the screenings. And the closing film, Gael García Bernal's Hombre al agua, plays tonight, even without the gala."
-        },
-        {
-          "speaker": "A",
-          "text": "One more thing about the context. The festival cancelled its closing gala out of respect for the victims of the rail accident in the province of Toledo. We told you about that yesterday."
-        },
-        {
-          "speaker": "B",
-          "text": "So the winners were published at an information event instead of a ceremony. It feels a bit strange for a festival that usually ends with such a big night."
-        },
-        {
-          "speaker": "A",
-          "text": "Yes. But the screenings in Valladolid went on as planned. And there are also short film prizes. The Golden Spike for short films is Class Photo, by Arnas Balčiūnas, from Lithuania."
-        },
-        {
-          "speaker": "B",
-          "text": "I like that the list has so many small films. <chuckle> Our listeners who love festival discoveries should keep an eye on Aquí and on Alea Jacarandas."
-        },
-        {
-          "speaker": "A",
-          "text": "Let's be careful though. We haven't seen them, and we only know the official list. So we describe, we don't judge."
-        }
-      ]
+     "speaker": "B",
+     "text": "And I'm {B}. <chuckle> The weekend is over, the Halloween candy is gone, and the news is a little quieter today. But there is still plenty to talk about."
     },
     {
-      "id": "2026-11-01-tokyo-competicio",
-      "title": "Tokyo's final stretch",
-      "turns": [
-        {
-          "speaker": "B",
-          "text": "So, Tokyo. The thirty-ninth Tokyo International Film Festival runs until the fourth of November, and the prize will be announced then."
-        },
-        {
-          "speaker": "A",
-          "text": "There are fifteen films in the main competition. And as you said, one of them is Lisandro Alonso's film. In Tokyo, it's called Double Freedom."
-        },
-        {
-          "speaker": "B",
-          "text": "Same film, different title. <chuckle> It's a little confusing, but yes. La libertad doble in Spanish, Double Freedom in English."
-        },
-        {
-          "speaker": "A",
-          "text": "Other names in competition: Bahman Ghobadi, with Trees Are Watching. Milcho Manchevski, from North Macedonia, with Sister Brother Manhole Cover."
-        },
-        {
-          "speaker": "B",
-          "text": "I love that title. |Me too.| And Qiu Jiongjiong with Fuxi, Four Tales of Feasting, plus Garin Nugroho from Indonesia, and Yukiko Mishima from Japan."
-        },
-        {
-          "speaker": "A",
-          "text": "Outside the competition, there are three big screenings. Sukiyaki, by Zeze Takahisa. Colony, by Yeon Sang-ho."
-        },
-        {
-          "speaker": "B",
-          "text": "And Godzilla Minus Zero, by Takashi Yamazaki. That one opens in Spanish cinemas this coming Friday, the sixth."
-        },
-        {
-          "speaker": "A",
-          "text": "Then the retrospectives. A big Kenji Mizoguchi series, with Ugetsu and Sansho the Bailiff. And eight films by Youssef Chahine."
-        },
-        {
-          "speaker": "B",
-          "text": "That's the kind of programme I'd travel for. <sigh> And there's a new film by Ulrike Ottinger, called The Blood Countess, with Isabelle Huppert."
-        },
-        {
-          "speaker": "A",
-          "text": "One note. This is a summary of the selection, not the full programme. And we don't have winners yet."
-        },
-        {
-          "speaker": "B",
-          "text": "Let me add something about the title mix. Many of these films are coproductions between four, five or even six countries."
-        },
-        {
-          "speaker": "A",
-          "text": "Yes. Sister Brother Manhole Cover lists North Macedonia, Bulgaria, Serbia, Albania, Italy and the UK. It's a very European way of making cinema."
-        },
-        {
-          "speaker": "B",
-          "text": "And then Fuxi, Four Tales of Feasting, is a coproduction between Hong Kong, Taiwan, Japan, Saudi Arabia and Qatar. <laugh> It takes a spreadsheet to follow the funding."
-        },
-        {
-          "speaker": "A",
-          "text": "In the profile of our listeners, the interesting ones are probably the Asian titles and the history retrospectives."
-        },
-        {
-          "speaker": "B",
-          "text": "Mizoguchi, in particular. Ugetsu is a ghost story, and Sansho the Bailiff is a historical drama. Both are about as close to the heart of period cinema as you can get."
-        },
-        {
-          "speaker": "A",
-          "text": "A thirteen-film retrospective, according to the report we read, although the list we saw had a few entries fewer, because one film is in two parts. So let's say around thirteen."
-        },
-        {
-          "speaker": "B",
-          "text": "Sure. And please note, again, this is a selection and not the complete programme."
-        }
-      ]
+     "speaker": "A",
+     "text": "We start with the American box office. A documentary has just beaten a superhero-adjacent film at the top of the chart. That's not a sentence you hear often."
     },
     {
-      "id": "2026-11-01-novembre-series",
-      "title": "November on the platforms",
-      "turns": [
-        {
-          "speaker": "A",
-          "text": "Now, series. We're using one guide here, from the Spanish newspaper Público, so the dates could change."
-        },
-        {
-          "speaker": "B",
-          "text": "Start with the horror. Netflix has El cuerpo on the eleventh of November. Eight episodes, set in a Catholic school."
-        },
-        {
-          "speaker": "A",
-          "text": "A ritual goes wrong, and a group of students start having prophetic visions. That's all we know. We haven't watched it."
-        },
-        {
-          "speaker": "B",
-          "text": "Catholic school horror. <chuckle> That's very much our territory."
-        },
-        {
-          "speaker": "A",
-          "text": "The same day, the eleventh, Prime Video has season three of The Rings of Power. It jumps five years ahead."
-        },
-        {
-          "speaker": "B",
-          "text": "And on the twenty-fifth, Blade Runner 2099. Eight episodes, with Hunter Schaffer and Michelle Yeoh. It's set fifty years after Blade Runner 2049, and all episodes arrive at once."
-        },
-        {
-          "speaker": "A",
-          "text": "A few more dates, quickly. The Altruists, on Netflix, the nineteenth. It's about the founders of FTX, with Julia Garner and Anthony Boyle."
-        },
-        {
-          "speaker": "B",
-          "text": "And 12 12 12, on Apple TV on the thirteenth, a heist thriller with Anthony Mackie and Jamie Dornan. One episode per week."
-        },
-        {
-          "speaker": "A",
-          "text": "The rest of the dates are in the written edition. Infamia and the Pazos crime we covered earlier this month."
-        },
-        {
-          "speaker": "B",
-          "text": "Let me go back to The Rings of Power for a second. The third season takes place five years after the fall of Eregion."
-        },
-        {
-          "speaker": "A",
-          "text": "So the story has jumped ahead. If you stopped watching after season two, that's worth knowing before you restart."
-        },
-        {
-          "speaker": "B",
-          "text": "And Blade Runner 2099. All episodes at once on the twenty-fifth. So that's a weekend gone."
-        },
-        {
-          "speaker": "A",
-          "text": "<chuckle> Probably, yes. And for those who like sports and period dramas, remember The Greatest, the Muhammad Ali series, arrives on Prime Video on the fourth."
-        },
-        {
-          "speaker": "B",
-          "text": "We covered that one yesterday. It focuses on the early years, and it's the first scripted series fully authorised by Ali's estate, according to the sources."
-        },
-        {
-          "speaker": "A",
-          "text": "As for El cuerpo, the premise is the only thing we have. But it ticks a lot of boxes: school, religion, prophecies, group of teenagers."
-        },
-        {
-          "speaker": "B",
-          "text": "Honestly? I'd give it a go. But we'll wait for reviews before we recommend it strongly. That's why it's only a three out of five, with low confidence."
-        }
-      ]
+     "speaker": "B",
+     "text": "Then we visit Tokyo, where the film festival is in its final days. After that, a bit of opera: the Liceu in Barcelona has set a date for a new digital release."
     },
     {
-      "id": "2026-11-01-got-4k-col-leccionista",
-      "title": "Game of Thrones in 4K",
-      "turns": [
-        {
-          "speaker": "B",
-          "text": "Now something for collectors. Game of Thrones is getting a limited fifteenth anniversary box set on 4K, coming to Spain in November."
-        },
-        {
-          "speaker": "A",
-          "text": "And it's huge. Thirty-three discs. Eight steelbooks, one per season, in a numbered metal case, with a booklet."
-        },
-        {
-          "speaker": "B",
-          "text": "Over fifteen hours of extras. <gasp> Including a cast reunion filmed in Belfast, hosted by Conan O'Brien."
-        },
-        {
-          "speaker": "A",
-          "text": "The picture is 4K, with HDR10 and Dolby Vision. English audio is in Dolby Atmos. But here's the catch."
-        },
-        {
-          "speaker": "B",
-          "text": "Go on."
-        },
-        {
-          "speaker": "A",
-          "text": "The Spanish audio is only Dolby Digital five point one. So if you watch it dubbed, you won't get the Atmos."
-        },
-        {
-          "speaker": "B",
-          "text": "That's a real detail. <short pause> And there's no price yet. The author of the article expects it to be expensive."
-        },
-        {
-          "speaker": "A",
-          "text": "It's one source, last updated in April. So we treat it as announced, not confirmed. Check the shops."
-        },
-        {
-          "speaker": "A",
-          "text": "Who is this for? Mostly collectors. If you already own the earlier box sets, this one is about the steelbooks and the extras."
-        },
-        {
-          "speaker": "B",
-          "text": "And the documentary, La última guardia. |Which is the one about the making of the series.| Yes, as far as we know."
-        },
-        {
-          "speaker": "A",
-          "text": "One more detail from the article. The distributor is named as HBO, although the author suggests Warner Bros may be the more accurate name."
-        },
-        {
-          "speaker": "B",
-          "text": "Small detail, but it matters if you're searching for it in shops."
-        }
-      ]
+     "speaker": "A",
+     "text": "We'll also run through the calendar for the week, and then our picks. Everything is in the written edition, with sources and dates."
     },
     {
-      "id": "2026-11-01-nt-live-golden-boy",
-      "title": "Golden Boy on screen",
-      "turns": [
-        {
-          "speaker": "A",
-          "text": "Now, theatre. We looked for complete recordings of plays and operas, and today we didn't find a new one with enough verified data."
-        },
-        {
-          "speaker": "B",
-          "text": "But there is something. National Theatre Live is showing Golden Boy, by Clifford Odets, at a cinema in Colchester, in the UK."
-        },
-        {
-          "speaker": "A",
-          "text": "The dates are the fifth and the thirteenth of November. It's filmed at the Almeida Theatre, directed by Sam Yates, and it runs a hundred and ninety-five minutes."
-        },
-        {
-          "speaker": "B",
-          "text": "And the cast includes Josh O'Connor, Daniel Mays and Hayley Squires. |Josh O'Connor? Again?| He keeps showing up. He was in the Bond screen tests we talked about on Friday."
-        },
-        {
-          "speaker": "A",
-          "text": "<chuckle> He really is everywhere. But here's the important part. This is a screening in a British cinema."
-        },
-        {
-          "speaker": "B",
-          "text": "So we can't say it's available from Spain. We don't know the recording date either, and the official site didn't show Spanish dates."
-        },
-        {
-          "speaker": "A",
-          "text": "So no recommendation to watch it at home. Just a note. If you love British theatre, check your nearest cinema."
-        },
-        {
-          "speaker": "B",
-          "text": "Let me say why we mention it at all. Odets is a classic of American theatre, and Josh O'Connor is a very interesting name right now."
-        },
-        {
-          "speaker": "A",
-          "text": "And the Almeida is one of London's most respected stages. So it's a production worth watching, if you get the chance."
-        },
-        {
-          "speaker": "B",
-          "text": "But we have to be honest about what we know. We know the cast, the director, the dates in Colchester and the running time."
-        },
-        {
-          "speaker": "A",
-          "text": "We don't know the recording year, the language access in Spain, or any platform. So the report says that clearly."
-        }
-      ]
+     "speaker": "B",
+     "text": "Right. <short pause> Let's get going."
     },
     {
-      "id": "2026-11-01-calendari",
-      "title": "November calendar",
-      "turns": [
-        {
-          "speaker": "B",
-          "text": "And now the calendar. It's the first of the month, and it's Sunday, so we'll do the next seven days and then the month."
-        },
-        {
-          "speaker": "A",
-          "text": "Wednesday the fourth: Tokyo ends. The Greatest, the Muhammad Ali series, arrives on Prime Video. And season two of All's Fair, on Disney Plus."
-        },
-        {
-          "speaker": "B",
-          "text": "Friday the sixth is the big day in Spain. Godzilla Minus Zero, Sacamantecas, Los miserables, Ruega por nosotras, and a few more."
-        },
-        {
-          "speaker": "A",
-          "text": "And on Netflix the same day, Possible Love, by Lee Chang-dong. Remember, that's the global date."
-        },
-        {
-          "speaker": "B",
-          "text": "Then, next week. The eleventh: El cuerpo and The Rings of Power. The thirteenth: three Spanish cinema releases, Ti West's Scrooge film, Martin McDonagh's Wild Horse Nine, and Jaleos, by Isaki Lacuesta."
-        },
-        {
-          "speaker": "A",
-          "text": "Also on the thirteenth, Infamia on HBO Max, 12 12 12 on Apple TV, and the Pazos crime on Netflix. Busy Friday."
-        },
-        {
-          "speaker": "B",
-          "text": "The twentieth: the new Hunger Games film, and Jane Schoenbrun's Camp Miasma. A listing also includes Moulin, by László Nemes, but we couldn't confirm the Spanish date."
-        },
-        {
-          "speaker": "A",
-          "text": "The twenty-fifth is Blade Runner 2099. The twenty-seventh: Hermanas, by Ione Hernández, and Sanguine."
-        },
-        {
-          "speaker": "B",
-          "text": "Sanguine, the Sitges winner. But careful. One source says it opens on the twenty-seventh, another says the sixth."
-        },
-        {
-          "speaker": "A",
-          "text": "So check it before you go. And on the thirtieth, the Gotham Awards ceremony. The dates from other countries, like Korea, Japan or the US, don't apply to Spain."
-        },
-        {
-          "speaker": "A",
-          "text": "One more thing about Friday the sixth. The listing also includes Fiesta Pagäna, by Álvaro Brechner, and El gato con sombrero."
-        },
-        {
-          "speaker": "B",
-          "text": "Yes. And Godzilla Minus Zero opens in Spain on the sixth, which is the same day as the US. In Japan, it opens on the third."
-        },
-        {
-          "speaker": "A",
-          "text": "Right. That's why we always separate the dates by country. A date from Japan or Korea doesn't tell you when it will arrive in Spain."
-        },
-        {
-          "speaker": "B",
-          "text": "Also worth noting. Possible Love is listed for the sixth on Netflix globally. We haven't verified a Spanish cinema date."
-        },
-        {
-          "speaker": "A",
-          "text": "And on Sunday the eighth, Ciudad de Dios, season two, on HBO Max. That date comes from a single guide, so keep it as provisional."
-        }
-      ]
+     "speaker": "A",
+     "text": "A small note before we start. We read everything for this edition on Sunday night and this morning, and where sources disagree, we say so."
     },
     {
-      "id": "picks",
-      "title": "Our picks",
-      "turns": [
-        {
-          "speaker": "A",
-          "text": "Our picks. First, Possible Love, by Lee Chang-dong, on Netflix from the sixth. Affinity four out of five, medium confidence."
-        },
-        {
-          "speaker": "B",
-          "text": "Eight years after Burning. And it played in Venice. We haven't seen it, so that's based on reports."
-        },
-        {
-          "speaker": "A",
-          "text": "Second, Sanguine, the French body horror about a young emergency-room resident whose body starts changing. It won at Sitges. Affinity four, medium confidence."
-        },
-        {
-          "speaker": "B",
-          "text": "And a satirical look at work stress. <laugh> Which is relatable. Check the release date."
-        },
-        {
-          "speaker": "A",
-          "text": "Third, El cuerpo, the school horror series. Affinity three, low confidence. And Golden Boy, also three, low confidence, because there's no verified access from Spain."
-        },
-        {
-          "speaker": "B",
-          "text": "The week in review, quickly. A week of mourning and winners. Seminci closed without a gala, Sitges crowned Sanguine, and the Gotham nominations leaned towards auteur cinema."
-        },
-        {
-          "speaker": "A",
-          "text": "And Clayface opened below expectations, while the Bond casting reached screen tests. Next week, Friday the sixth is the day."
-        },
-        {
-          "speaker": "B",
-          "text": "Let me say a word about how we score. These numbers are editorial affinity with our profile, not critics' scores, and not audience scores."
-        },
-        {
-          "speaker": "A",
-          "text": "Right. And the confidence tells you how much we really know. Low confidence means we only know the premise."
-        },
-        {
-          "speaker": "B",
-          "text": "So, our most solid pick is Possible Love, because of the director. And the one to watch the date on is Sanguine."
-        }
-      ]
+     "speaker": "B",
+     "text": "Which happens today, a couple of times. <chuckle> You'll hear it."
     },
     {
-      "id": "outro",
-      "title": "Goodbye",
-      "turns": [
-        {
-          "speaker": "B",
-          "text": "So, the idea of the day. The prizes are in, and now it's time for the films to actually arrive."
-        },
-        {
-          "speaker": "A",
-          "text": "And Friday the sixth is the date to circle. See you tomorrow on the Radar."
-        }
-      ]
+     "speaker": "A",
+     "text": "Today the theme is simple. Fewer stories, checked properly. That is better than a long list with doubts."
     }
-  ],
-  "pronunciations": {
-    "Seminci": "Seh-meen-thee",
-    "Valladolid": "Vah-yah-doh-leed",
-    "Alain Gomis": "Ah-lan Goh-mees",
-    "Dao": "Dow",
-    "Guinea-Bissau": "Ghin-ee Bis-sow",
-    "La Gradiva": "Lah Grah-dee-vah",
-    "Marine Atlan": "Mah-reen At-lon",
-    "Lisandro Alonso": "Lee-sahn-droh Ah-lon-soh",
-    "La libertad doble": "Lah Lee-ber-tad Doh-bleh",
-    "Alba Rohrwacher": "Al-bah Roar-vah-ker",
-    "Stéphane Brizé": "Stay-fan Bree-zay",
-    "Swann Arlaud": "Swan Ar-low",
-    "Un hombre de nuestro tiempo": "Oon Ohm-breh deh Nwes-troh Tee-em-poh",
-    "Emmanuel Marre": "Eh-man-weel Mar",
-    "Sandra Wollner": "Sandra Vol-ner",
-    "Oliver Boonjing": "Oliver Boon-jing",
-    "Notre Salut": "Notr Sah-loo",
-    "Tiago Guedes": "Tee-ah-goh Gay-dish",
-    "Aquí": "Ah-kee",
-    "Markus Schleinzer": "Mar-koos Shline-tser",
-    "Sompot Chidgasornpongse": "Som-pot Chid-gah-sorn-pong",
-    "Hassen Ferhani": "Ha-sen Fair-ha-nee",
-    "Alea Jacarandas": "Ah-leh-ah Hah-kah-ran-dahs",
-    "Todo es cárcel": "Toh-doh es Kar-sel",
-    "Eloy Enciso": "Eh-loy En-thee-soh",
-    "Sebastián Uría": "Seh-bas-tee-an Oo-ree-ah",
-    "Adiós, ríos": "Ah-dee-ohs, Ree-ohs",
-    "Federico Veiroj": "Feh-deh-ree-koh Vay-roh",
-    "Gael García Bernal": "Guy-el Gar-see-ah Bair-nal",
-    "Hombre al agua": "Ohm-breh al Ah-gwah",
-    "Bahman Ghobadi": "Bah-man Goh-bah-dee",
-    "Milcho Manchevski": "Meel-cho Man-chev-skee",
-    "Qiu Jiongjiong": "Chee-oh Jyoong-jyoong",
-    "Garin Nugroho": "Gah-rin Noo-groh-hoh",
-    "Yukiko Mishima": "Yoo-kee-koh Mee-shee-mah",
-    "Zeze Takahisa": "Zeh-zeh Tah-kah-hee-sah",
-    "Yeon Sang-ho": "Yon Sang-hoh",
-    "Takashi Yamazaki": "Tah-kah-shee Yah-mah-zah-kee",
-    "Mizoguchi": "Mee-zoh-goo-chee",
-    "Ugetsu": "Oo-geh-tsoo",
-    "Youssef Chahine": "Yoo-sef Shah-heen",
-    "Ulrike Ottinger": "Ool-ree-keh Ot-ting-er",
-    "El cuerpo": "El Kwer-poh",
-    "Público": "Poo-blee-koh",
-    "Hunter Schaffer": "Hunter Shaffer",
-    "Infamia": "Een-fah-mee-ah",
-    "Pazos": "Pah-thos",
-    "Almeida": "Al-may-dah",
-    "Los miserables": "Los Mee-seh-rah-bles",
-    "Ruega por nosotras": "Rweh-gah por Noh-soh-trahs",
-    "Sacamantecas": "Sah-kah-mahn-teh-kas",
-    "Jaleos": "Hah-leh-os",
-    "Isaki Lacuesta": "Ee-sah-kee Lah-kwes-tah",
-    "Hermanas": "Air-mah-nas",
-    "Ione Hernández": "Ee-oh-neh Air-nahn-deth",
-    "Moulin": "Moo-lan",
-    "László Nemes": "Lah-sloh Neh-mesh",
-    "Jane Schoenbrun": "Jane Shane-brun",
-    "Lee Chang-dong": "Lee Chang-dong",
-    "Sanguine": "San-gween",
-    "Sitges": "Seet-hes",
-    "Josh O'Connor": "Josh O'Connor",
-    "Ti West": "Tie West"
+   ]
+  },
+  {
+   "id": "2026-11-03-taquilla-halloween",
+   "title": "Halloween box office",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "So, the box office. The weekend of the thirtieth of October to the first of November, in the United States and Canada. And number one is a documentary."
+    },
+    {
+     "speaker": "B",
+     "text": "A documentary? |Really?| Really. It's called You Can See Everything, it comes from A24, and it made ten point six million dollars in its third weekend."
+    },
+    {
+     "speaker": "A",
+     "text": "Ten point six million. And the total is now sixty-three point eight million. For a documentary, that is huge."
+    },
+    {
+     "speaker": "B",
+     "text": "It's huge. And here's the detail I love. According to the Rotten Tomatoes report, it's the first non-concert documentary to reach number one since Fahrenheit nine eleven. That was in two thousand four."
+    },
+    {
+     "speaker": "A",
+     "text": "Twenty-two years. <laugh> So Halloween had no real monster to offer, and the winner is a documentary."
+    },
+    {
+     "speaker": "B",
+     "text": "A quiet weekend, yes. The report itself calls it slow. And a caveat: these are estimates. Different box office sources did not fully agree on who finished first, so the numbers can still change."
+    },
+    {
+     "speaker": "A",
+     "text": "Good point. Because second place is very close. Clayface made ten point four million."
+    },
+    {
+     "speaker": "B",
+     "text": "Ten point four, which is a fall of fifty-seven percent from its opening weekend. After ten days it has forty-four million."
+    },
+    {
+     "speaker": "A",
+     "text": "Which is not a disaster, but it isn't a superhero triumph either. We talked about its opening last week and the word was disappointing, more or less."
+    },
+    {
+     "speaker": "B",
+     "text": "Right. Then third place is Wildwood, the animated film from Laika. Seven point five million, and twenty-five point nine million in total."
+    },
+    {
+     "speaker": "A",
+     "text": "I like that. Laika is a stop-motion studio, so every frame is a lot of work. Good to see people showing up."
+    },
+    {
+     "speaker": "B",
+     "text": "Then fourth is Wicker. A Sundance title, from the distributor Black Bear. It was widened to more than two thousand three hundred theatres, and it made four point one million. Thirteen point two so far."
+    },
+    {
+     "speaker": "A",
+     "text": "Thirteen million for a Sundance title is a decent run. <short pause> Though we only have the money today, so let's not read too much into it."
+    },
+    {
+     "speaker": "B",
+     "text": "Agreed. Four point one million this weekend, thirteen point two in total, and that's all the report tells us."
+    },
+    {
+     "speaker": "A",
+     "text": "Fair. Then there is a little curiosity: BTS's concert film Arirang made three million dollars, in one single night in cinemas."
+    },
+    {
+     "speaker": "B",
+     "text": "One night! That tells you something about fan power."
+    },
+    {
+     "speaker": "A",
+     "text": "It does. And let's remember, this is all America. None of this tells us how these films will do in Spain, or even when they open here."
+    },
+    {
+     "speaker": "B",
+     "text": "Exactly. And one last line from the report: next weekend, the holiday season starts with the animated film The Cat in the Hat."
+    },
+    {
+     "speaker": "A",
+     "text": "So the quiet weekend is over. <short pause> A documentary on top, a slow Halloween. I think that's a nice little story for a Tuesday."
+    },
+    {
+     "speaker": "A",
+     "text": "Let me say why this matters for us. This is a Tuesday news item, but it says something about audiences. People are choosing real stories over franchises this month."
+    },
+    {
+     "speaker": "B",
+     "text": "Careful, {A}. <chuckle> One weekend is not a trend. But it is a pleasant surprise, and the report treats it that way too."
+    },
+    {
+     "speaker": "A",
+     "text": "Fair. I'll say it differently: it's a good reminder that the chart is not always led by the biggest marketing budget."
+    },
+    {
+     "speaker": "B",
+     "text": "And the Clayface number is a good example. Forty-four million after ten days is not nothing, but a fall of fifty-seven percent is steep for a film of that size."
+    },
+    {
+     "speaker": "A",
+     "text": "Steep, yes. And remember, these are the numbers for the United States and Canada only."
+    },
+    {
+     "speaker": "B",
+     "text": "Which is why we always add the line: this tells us nothing about Spain. A film can be a hit in America and arrive here months later, or never."
+    },
+    {
+     "speaker": "A",
+     "text": "Or the other way round. We've seen both. <laugh>"
+    },
+    {
+     "speaker": "B",
+     "text": "So, to sum up this segment: the documentary is first, Clayface second, Wildwood third, Wicker fourth, and a concert film in the top six after a single night."
+    },
+    {
+     "speaker": "A",
+     "text": "That's the whole top of the chart, and it is not what anyone predicted a month ago."
+    },
+    {
+     "speaker": "A",
+     "text": "One more angle on this documentary. Nobody expected a documentary to play like this, and that is what makes the chart interesting this week."
+    },
+    {
+     "speaker": "B",
+     "text": "True. In a normal month the top five is full of sequels. Here we have a documentary, a stop-motion film, a Sundance title and a concert film."
+    },
+    {
+     "speaker": "A",
+     "text": "Plus Clayface. <chuckle> Let's not forget Clayface."
+    },
+    {
+     "speaker": "B",
+     "text": "We never forget Clayface. Okay, moving on."
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-tokyo-recta-final",
+   "title": "Tokyo, last week",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "Now, Tokyo. The thirty-ninth Tokyo International Film Festival runs from the twenty-sixth of October to the fourth of November. So we are in the final stretch."
+    },
+    {
+     "speaker": "B",
+     "text": "And it's big. According to Japan Travel, it shows two hundred and four films from a hundred and twelve countries and regions."
+    },
+    {
+     "speaker": "A",
+     "text": "A hundred and twelve. <gasp> That is a lot of passports."
+    },
+    {
+     "speaker": "B",
+     "text": "And the theme this year is Connecting. Cinema as a bridge to the world. There are also director Q and As, masterclasses and public workshops, mostly around Hibiya, Yurakucho, Marunouchi and Ginza."
+    },
+    {
+     "speaker": "A",
+     "text": "Fifteen films are in competition for the Tokyo Grand Prix. The jury president is Rolf de Heer, the Australian director."
+    },
+    {
+     "speaker": "B",
+     "text": "With the actress Makiko Watanabe and the producer Alex Lo. A nice, small jury."
+    },
+    {
+     "speaker": "A",
+     "text": "The festival opened with Sukiyaki, directed by Zeze Takahisa. And the closing film is Colony, a Korean zombie action horror from Yeon Sang-ho."
+    },
+    {
+     "speaker": "B",
+     "text": "Now, that is a good closing film for us. Horror, big action, Korean cinema. That fits the profile very well."
+    },
+    {
+     "speaker": "A",
+     "text": "It does. And in the middle, the centrepiece is Godzilla Minus Zero."
+    },
+    {
+     "speaker": "B",
+     "text": "Which also opens in Spain this Friday, the sixth of November, according to Sensacine. That is one of the ones we will mention in the calendar."
+    },
+    {
+     "speaker": "A",
+     "text": "Now, here is the honest part. We could not find the date of the awards ceremony. None of the sources we read says it."
+    },
+    {
+     "speaker": "B",
+     "text": "So we will wait. <short pause> The festival ends on the fourth, so I would expect the verdict then, but that is an expectation, not a fact."
+    },
+    {
+     "speaker": "A",
+     "text": "Right. We will report the official winners as soon as we have them."
+    },
+    {
+     "speaker": "B",
+     "text": "And for listeners, the thing to notice is the mix. Asian auteur cinema and genre films in the very same week. That's what makes Tokyo fun."
+    },
+    {
+     "speaker": "A",
+     "text": "I want to go back to the numbers for a second. Two hundred and four films in ten days. Nobody sees all of them."
+    },
+    {
+     "speaker": "B",
+     "text": "Nobody. That is why the competition of fifteen films is a good way in. Fifteen titles are for the grand prize, and the rest is a giant buffet."
+    },
+    {
+     "speaker": "A",
+     "text": "A buffet, I like that. <giggle> And the public workshops and masterclasses are part of it too, so it's not only for people with accreditation."
+    },
+    {
+     "speaker": "B",
+     "text": "Right. The festival is also spread over four central neighbourhoods, so you can walk from one cinema to the next."
+    },
+    {
+     "speaker": "A",
+     "text": "Which sounds lovely, honestly. And for us, the two big Asian genre titles at the edges of the programme, Sukiyaki at the opening and Colony at the close, are both worth keeping on the radar."
+    },
+    {
+     "speaker": "B",
+     "text": "Sukiyaki is described as a music drama by Zeze Takahisa. And Colony is the zombie one. Quite a range."
+    },
+    {
+     "speaker": "A",
+     "text": "Big range. And the jury has an Australian president, an actress from Japan and a producer. That is a mix of viewpoints, which I think is healthy."
+    },
+    {
+     "speaker": "B",
+     "text": "One more thing. Godzilla Minus Zero is the centrepiece in Tokyo, and in Spain it opens this Friday. So a festival film is also a cinema release here. We don't see that overlap every day."
+    },
+    {
+     "speaker": "A",
+     "text": "No, we don't. And we'll keep an eye on the awards."
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-liceu-capuleti-digital",
+   "title": "Bellini at the Liceu",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "Time for our daily opera and theatre corner. This one is from Barcelona. The Gran Teatre del Liceu has a date for the digital release of I Capuleti e i Montecchi, by Vincenzo Bellini."
+    },
+    {
+     "speaker": "B",
+     "text": "That's the Romeo and Juliet story, but in Bellini's version. The date is the twenty-second of November, on LiceuOPERA Plus, their streaming platform."
+    },
+    {
+     "speaker": "A",
+     "text": "And the price is interesting. Subscribers of the theatre get it at a special price of forty-five euros."
+    },
+    {
+     "speaker": "B",
+     "text": "Forty-five euros for subscribers. And ninety euros for everyone else."
+    },
+    {
+     "speaker": "A",
+     "text": "Ninety. <sigh> Opera is not cheap, even from the sofa."
+    },
+    {
+     "speaker": "B",
+     "text": "No. But it's a full production from a big house, so I understand the logic. Still, I'd like to see what I'm paying for."
+    },
+    {
+     "speaker": "A",
+     "text": "And that's the catch. The page does not say who is singing, who directs the staging, or when it was recorded."
+    },
+    {
+     "speaker": "B",
+     "text": "So we can't treat it as a full filmed performance yet. We will not recommend it as one until we have those details. That is our rule."
+    },
+    {
+     "speaker": "A",
+     "text": "The platform also lists the rest of the digital season. La bohème on the thirty-first of January. La fanciulla del West in April. Jenufa in June. And The Magic Flute in July."
+    },
+    {
+     "speaker": "B",
+     "text": "A nice mix. And we talked about the Liceu's Aida, from the twenty-fifth of October, a few days ago, if you want something to watch right now."
+    },
+    {
+     "speaker": "A",
+     "text": "Good tip. <chuckle> Opera on demand, for a rainy Tuesday."
+    },
+    {
+     "speaker": "B",
+     "text": "Let me play devil's advocate on the price. Forty-five euros for subscribers is a special price. What does a subscriber get beyond that?"
+    },
+    {
+     "speaker": "A",
+     "text": "From the page, the platform is included in the fixed subscription at that price. The page also talks about multicamera viewing and new camera setups, in general terms, for the platform."
+    },
+    {
+     "speaker": "B",
+     "text": "General terms. So nothing specific about this Bellini, again."
+    },
+    {
+     "speaker": "A",
+     "text": "Exactly. That is why we call it announced and not recommended. We have a date, a platform, a price. We lack the rest."
+    },
+    {
+     "speaker": "B",
+     "text": "I do like the idea that a Spanish opera house is building a whole digital season. Five more titles after this one. That's a real catalogue."
+    },
+    {
+     "speaker": "A",
+     "text": "It is. And Bellini fits our taste for classic repertoire and for the Romeo and Juliet story, which is always a good theatre theme."
+    },
+    {
+     "speaker": "B",
+     "text": "Once the cast is announced, we'll tell you. <short pause> Until then, circle the twenty-second in your calendar."
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-calendari",
+   "title": "The week ahead",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "Let's do the calendar. Tuesday the third, nothing new on our list."
+    },
+    {
+     "speaker": "B",
+     "text": "Quiet. Wednesday the fourth, the Tokyo festival ends."
+    },
+    {
+     "speaker": "A",
+     "text": "Thursday the fifth, a screening of Golden Boy by National Theatre Live, in a cinema in Colchester, in the United Kingdom. There is a second screening on the thirteenth."
+    },
+    {
+     "speaker": "B",
+     "text": "That is a UK date, so it doesn't help us in Spain. But it's good to know it is out there."
+    },
+    {
+     "speaker": "A",
+     "text": "Then the big day. Friday the sixth, in Spain, Godzilla Minus Zero opens, and so does Sacamantecas, along with other titles, according to Sensacine."
+    },
+    {
+     "speaker": "B",
+     "text": "And on Netflix, the same day, Possible Love, the new film from Lee Chang-dong."
+    },
+    {
+     "speaker": "A",
+     "text": "Later in the month. Wednesday the eleventh, El cuerpo on Netflix. Sunday the twenty-second, the Liceu stream we just talked about."
+    },
+    {
+     "speaker": "B",
+     "text": "Friday the twenty-seventh: Sanguine. Now, careful here. Sensacine says the twenty-seventh, but Cinemania says the sixth."
+    },
+    {
+     "speaker": "A",
+     "text": "So the date needs checking. <short pause> We will say more when we know."
+    },
+    {
+     "speaker": "B",
+     "text": "And Monday the thirtieth, the Gotham Awards. And remember, dates from other countries don't apply to Spain."
+    },
+    {
+     "speaker": "A",
+     "text": "A word about how we read these dates. Spain first, other countries separately. A date from Korea, Japan or the United States does not count for us here."
+    },
+    {
+     "speaker": "B",
+     "text": "That's our rule for every release, and it protects us from the classic mistake: assuming that a film opens here the same day it opens elsewhere."
+    },
+    {
+     "speaker": "A",
+     "text": "Which is why the Colchester screening is listed as UK only. Fun for people who live there, but not for us."
+    },
+    {
+     "speaker": "B",
+     "text": "And that Friday the sixth is the busy one. Godzilla Minus Zero, Sacamantecas, other releases, and Possible Love on Netflix."
+    },
+    {
+     "speaker": "A",
+     "text": "If you only have one evening, it is a choice between the cinema and the sofa."
+    },
+    {
+     "speaker": "B",
+     "text": "A cinema night for Godzilla, a sofa night for Lee Chang-dong. <chuckle> Sounds like a plan."
+    }
+   ]
+  },
+  {
+   "id": "picks",
+   "title": "Our picks",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "Our picks. First, Possible Love. Lee Chang-dong, eight years after Burning. Our affinity score is four out of five, with medium confidence."
+    },
+    {
+     "speaker": "B",
+     "text": "A reminder: that score is not a critics' score. It is just our guess at how well it fits the profile. And we haven't seen the film. We only know it from reports."
+    },
+    {
+     "speaker": "A",
+     "text": "Second, Sanguine. French body horror that won at Sitges. Four out of five, medium confidence. And as we said, the Spanish date is the sixth or the twenty-seventh."
+    },
+    {
+     "speaker": "B",
+     "text": "Third, the Liceu's Capuleti e i Montecchi. Three out of five, low confidence, because the cast and recording details are missing."
+    },
+    {
+     "speaker": "A",
+     "text": "So that's three suggestions for a short edition."
+    },
+    {
+     "speaker": "B",
+     "text": "A short edition is better than a long one full of rumours. <chuckle> I'll take that."
+    },
+    {
+     "speaker": "A",
+     "text": "We should explain what affinity means, for new listeners. It's a number from zero to five that says how well a title fits the reader's taste. Horror, historical cinema, smart comedy, auteur films, stage and opera."
+    },
+    {
+     "speaker": "B",
+     "text": "And confidence says how much we really know. High, medium or low. Today none of the three is high, because we haven't seen any of them."
+    },
+    {
+     "speaker": "A",
+     "text": "That honesty is the whole point. We only write what we can source."
+    },
+    {
+     "speaker": "B",
+     "text": "So Possible Love is the safest bet. Sanguine is the one for horror fans, and the Liceu is the one for patient opera lovers."
+    }
+   ]
+  },
+  {
+   "id": "outro",
+   "title": "Goodbye",
+   "turns": [
+    {
+     "speaker": "A",
+     "text": "The idea of the day: a small documentary can beat the big names, and a quiet news day is still a good one if the facts are solid."
+    },
+    {
+     "speaker": "B",
+     "text": "And two things to remember: Possible Love and the Spanish releases on Friday. Thanks for listening."
+    },
+    {
+     "speaker": "A",
+     "text": "See you tomorrow on the Radar."
+    },
+    {
+     "speaker": "B",
+     "text": "See you tomorrow."
+    },
+    {
+     "speaker": "A",
+     "text": "And one more thing before we go. If a date matters to you, check the written edition. Each report has its sources listed, and the dates are separated by country."
+    },
+    {
+     "speaker": "B",
+     "text": "Good advice. Especially for Sanguine, where two sources give two different days."
+    },
+    {
+     "speaker": "A",
+     "text": "Exactly. Enjoy the week, and watch something good."
+    }
+   ]
   }
+ ],
+ "pronunciations": {
+  "Wildwood": "Wild-wood",
+  "Laika": "Ly-kah",
+  "Wicker": "Wik-er",
+  "Arirang": "Ah-ree-rang",
+  "Zeze Takahisa": "Zeh-zeh Tah-kah-hee-sah",
+  "Yeon Sang-ho": "Yon Sang-hoh",
+  "Makiko Watanabe": "Mah-kee-koh Wah-tah-nah-beh",
+  "Hibiya": "Hee-bee-yah",
+  "Yurakucho": "Yoo-rah-koo-choh",
+  "Marunouchi": "Mah-roo-noh-oo-chee",
+  "Liceu": "Lee-seh-oo",
+  "LiceuOPERA Plus": "Lee-seh-oo Opera Plus",
+  "I Capuleti e i Montecchi": "Ee Kah-poo-leh-tee eh ee Mon-teh-kee",
+  "Vincenzo Bellini": "Vin-chen-tsoh Bel-lee-nee",
+  "Sukiyaki": "Soo-kee-yah-kee",
+  "Godzilla Minus Zero": "Godzilla Minus Zero",
+  "Sacamantecas": "Sah-kah-mahn-teh-kas",
+  "Sensacine": "Sen-sah-thee-neh",
+  "Cinemania": "Thee-neh-mah-nee-ah",
+  "Jenufa": "Yeh-noo-fah",
+  "La fanciulla del West": "Lah fan-choo-lah del West",
+  "Lee Chang-dong": "Lee Chang-dong",
+  "El cuerpo": "El Kwer-poh",
+  "Sanguine": "San-gween",
+  "Sitges": "Seet-hes",
+  "Colchester": "Kol-chess-ter",
+  "Rolf de Heer": "Rolf duh Hair",
+  "Tokyo": "Toh-kyoh"
+ }
 }

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "territory": "ES",
+  "generatedAt": "2026-11-02T23:20:00Z",
+  "reports": [
+    {
+      "id": "2026-11-03-taquilla-halloween",
+      "section": "news",
+      "subject": "film",
+      "headline": "An A24 documentary, “You Can See Everything”, tops a slow Halloween weekend at the North American box office",
+      "deck": "With $10.6 million it edges “Clayface” ($10.4 million) and becomes the first non-concert documentary at number one since “Fahrenheit 9/11” in 2004.",
+      "paragraphs": [
+        "According to Rotten Tomatoes' weekend report, “You Can See Everything” took $10.6 million in its third weekend in the US and Canada and now stands at $63.8 million. The same piece says it is the first non-concert documentary to reach number one since “Fahrenheit 9/11”, twenty-two years ago. Weekend figures are estimates and may be revised: box-office sources did not fully agree on who ranked first.",
+        "“Clayface” fell 57% to $10.4 million and has $44 million after ten days; Laika's “Wildwood” made $7.5 million ($25.9 million total). “Wicker”, a Sundance title that Black Bear widened to more than 2,300 theatres, took $4.1 million for $13.2 million so far. BTS's concert film “Arirang” grossed $3 million in a one-night cinema event.",
+        "These are US figures: they say nothing about release or performance in Spain. The report notes that the holiday season starts next weekend with the animated “The Cat in the Hat”."
+      ],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "eventDate": "2026-11-01",
+      "territory": "US",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Rotten Tomatoes – Weekend Box Office (1 de novembre de 2026)",
+          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-you-can-see-everything-week-2/",
+          "kind": "tradePress"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-tokyo-recta-final",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "Tokyo Film Festival enters its last week: 204 films from 112 countries and fifteen in competition",
+      "deck": "Rolf de Heer chairs the jury; the festival closes on 4 November with Yeon Sang-ho's “Colony”, and we found no date for the awards.",
+      "paragraphs": [
+        "The 39th Tokyo International Film Festival runs from 26 October to 4 November, mostly in Hibiya, Yurakucho, Marunouchi and Ginza. According to Japan Travel it screens 204 films from 112 countries and regions, with director Q&As, masterclasses and public workshops. The theme is “Connecting”: cinema as a bridge to the world.",
+        "Fifteen films compete for the Tokyo Grand Prix. The jury is chaired by Australian director Rolf de Heer, with actress Makiko Watanabe and producer Alex Lo. The festival opened with Zeze Takahisa's “Sukiyaki”; “Godzilla Minus Zero” is the centrepiece (it opens in Spain on Friday 6, per Sensacine) and the closer is “Colony”, Yeon Sang-ho's Korean zombie action-horror.",
+        "One gap: none of the sources we could read says which day the awards are given. When there is an official verdict we will report it. For the reader, the point is that Tokyo mixes Asian auteur cinema and genre films in the same week."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": "2026-11-04",
+      "territory": "JP",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Metropolis Japan – Tokyo International Film Festival 2026",
+          "url": "https://metropolisjapan.com/events/tokyo-international-film-festival-2026/",
+          "kind": "other"
+        },
+        {
+          "name": "Japan Travel – Tokyo International Film Festival 2026",
+          "url": "https://en.japantravel.com/tokyo/tiff/31711",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-liceu-capuleti-digital",
+      "section": "stage",
+      "subject": "film",
+      "headline": "The Liceu will release Bellini's “I Capuleti e i Montecchi” on LiceuOPERA+ on 22 November: 45 euros for subscribers",
+      "deck": "There is no full recording sheet yet; what we know is the date, the platform and the price.",
+      "paragraphs": [
+        "The Gran Teatre del Liceu lists on the LiceuOPERA+ website the digital premiere of Vincenzo Bellini's “I Capuleti e i Montecchi” on 22 November 2026. The platform is included in the theatre's subscription at a special price of 45 euros; the general price for non-subscribers is 90 euros.",
+        "The page gives no cast, stage director or recording details, so we cannot fill in a full filmed-performance sheet or recommend it as such. The digital season goes on with “La bohème” (31 January 2027), “La fanciulla del West” (11 April), “Jenůfa” (6 June) and “Die Zauberflöte” (25 July). We wrote about the 25 October “Aida” a few days ago."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": "2026-11-22",
+      "territory": "ES",
+      "status": "announced",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendar: Tokyo ends Wednesday, “Possible Love” and the Spanish releases on Friday 6, and the Liceu stream on the 22nd",
+      "deck": "A look ahead to 9 November and the key dates of the month; Spain is kept apart from other countries.",
+      "paragraphs": [
+        "This week. Tuesday 3: nothing new on our list. Wednesday 4: the Tokyo Film Festival ends. Thursday 5: NT Live's “Golden Boy” in a cinema in Colchester (UK), with a second screening on the 13th. Friday 6, in Spain: “Godzilla Minus Zero”, “Sacamantecas” and other releases per Sensacine; on Netflix, Lee Chang-dong's “Possible Love”.",
+        "Later. Wednesday 11: “El cuerpo” on Netflix. Sunday 22: digital premiere of “I Capuleti e i Montecchi” from the Liceu. Friday 27: “Sanguine”, per Sensacine, although Cinemanía says the 6th: to be checked. Monday 30: Gotham Awards. In US cinemas, “The Cat in the Hat” opens next weekend. Dates from other countries do not apply to Spain."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": "2026-11-03",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Sensacine – Estrenos de cine en España, novembre 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
+          "kind": "other"
+        },
+        {
+          "name": "Público – Estrenos de noviembre 2026 en plataformas",
+          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
+          "kind": "other"
+        },
+        {
+          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "Firstsite – National Theatre Live: Golden Boy",
+          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
+          "kind": "other"
+        },
+        {
+          "name": "Cinemanía – Sanguine",
+          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
+          "kind": "other"
+        },
+        {
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Editor's picks: “Possible Love”, “Sanguine” and the Liceu's Bellini",
+      "deck": "Three suggestions with editorial affinity (not a critics' score) and confidence, plus the day's wrap-up.",
+      "paragraphs": [
+        "“Possible Love” (2026): affinity 4 out of 5, medium confidence. Lee Chang-dong returns eight years after “Burning”; on Netflix on 6 November. It fits auteur cinema and relationship dramas; we have not seen it and know it only from reports.",
+        "“Sanguine” (2026): affinity 4 out of 5, medium confidence. French body horror that won at Sitges; the Spanish release is 6 or 27 November depending on the source. “I Capuleti e i Montecchi” at the Liceu: affinity 3 out of 5, low confidence, because cast and recording details are missing.",
+        "Day's wrap-up. A day with few verifiable novelties: a documentary surprised the North American box office, Tokyo heads into its last stretch and digital opera at the Liceu has a date. We prefer a short edition to one full of rumours."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "Cinemanía – Sanguine",
+          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
+          "kind": "other"
+        },
+        {
+          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
+          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
+          "kind": "official"
+        }
+      ],
+      "titles": [
+        {
+          "title": "가능한 사랑",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Possible Love"
+        },
+        {
+          "title": "Species",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Sanguine"
+        }
+      ]
+    }
+  ],
+  "recommendedTitles": [
+    {
+      "title": "가능한 사랑",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Possible Love"
+    },
+    {
+      "title": "Species",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Sanguine"
+    }
+  ]
+}
