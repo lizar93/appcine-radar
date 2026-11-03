@@ -1,164 +1,219 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "territory": "ES",
-  "generatedAt": "2026-11-02T23:20:00Z",
+  "generatedAt": "2026-11-04T00:20:00Z",
   "reports": [
     {
-      "id": "2026-11-03-taquilla-halloween",
-      "section": "news",
+      "id": "2026-11-04-estrenes-6-novembre",
+      "section": "cinema",
       "subject": "film",
-      "headline": "An A24 documentary, “You Can See Everything”, tops a slow Halloween weekend at the North American box office",
-      "deck": "With $10.6 million it edges “Clayface” ($10.4 million) and becomes the first non-concert documentary at number one since “Fahrenheit 9/11” in 2004.",
+      "headline": "Friday the 6th in Spain: Daniel Monzón's “Ruega por nosotras”, “Fiesta Pagäna” and “Godzilla Minus Zero” lead 14 releases",
+      "deck": "Sensacine counts fourteen titles for 6 November, including a drama about Franco-era reformatories, the Mägo de Oz biopic and Japan's Godzilla sequel.",
       "paragraphs": [
-        "According to Rotten Tomatoes' weekend report, “You Can See Everything” took $10.6 million in its third weekend in the US and Canada and now stands at $63.8 million. The same piece says it is the first non-concert documentary to reach number one since “Fahrenheit 9/11”, twenty-two years ago. Weekend figures are estimates and may be revised: box-office sources did not fully agree on who ranked first.",
-        "“Clayface” fell 57% to $10.4 million and has $44 million after ten days; Laika's “Wildwood” made $7.5 million ($25.9 million total). “Wicker”, a Sundance title that Black Bear widened to more than 2,300 theatres, took $4.1 million for $13.2 million so far. BTS's concert film “Arirang” grossed $3 million in a one-night cinema event.",
-        "These are US figures: they say nothing about release or performance in Spain. The report notes that the holiday season starts next weekend with the animated “The Cat in the Hat”."
+        "According to Sensacine's calendar, fourteen titles reach Spanish cinemas on Friday 6 November. The ones that stand out for us are “Ruega por nosotras”, “Fiesta Pagäna” and “Godzilla Minus Zero”; we mentioned “Sacamantecas” a few days ago.",
+        "“Ruega por nosotras” is Daniel Monzón's new drama, co-written with Jorge Guerricaechevarría. Per Guía del Ocio, it is set in 1974: a 19-year-old from a wealthy Barcelona family is sent to a strict reformatory in Madrid, inspired by Franco's Patronato de Protección a la Mujer, and befriends Sole and other girls. Zoe Bonafonte and Manuela Calle (in her film debut) star. It was shown at San Sebastián, out of competition. A period film with a social eye; we haven't seen it.",
+        "“Fiesta Pagäna”, by Álvaro Brechner, is the biopic of folk-metal band Mägo de Oz, with Adrián Lastra and Roberto Álamo. It premiered at the Morelia festival on 22 October and arrives with controversy: some voices from the band oppose it and legal action was taken against the producer, per a Mexican outlet; we found no current status. “Godzilla Minus Zero” is Takashi Yamazaki's sequel, set two years after the first film; Espinof gives 6 November in its body text and the 9th in its subtitle, so we rely on Sensacine's calendar date.",
+        "Lee Chang-dong's “Possible Love” (“Un amor posible”) also appears on Sensacine's calendar for the 6th, the day it hits Netflix; Cinemanía, however, says 23 October, and Netflix's note only lists cinemas in South Korea, Australia, the US, Canada, the UK, Ireland and Japan. We don't assume a Spanish cinema release: check local listings."
       ],
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "eventDate": "2026-11-01",
-      "territory": "US",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
       "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Sensacine – Spanish cinema releases, November 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
+          "kind": "other"
+        },
+        {
+          "name": "Guía del Ocio – Ruega por nosotras",
+          "url": "https://guiadelocio.es/madrid/?p=60093",
+          "kind": "other"
+        },
+        {
+          "name": "Que.es – Fiesta Pagäna confirms 6 November release",
+          "url": "https://www.que.es/2026/08/01/pelicula-mago-de-oz-fiesta-pagana/",
+          "kind": "other"
+        },
+        {
+          "name": "Yucatán – Fiesta Pagäna, world premiere in Morelia",
+          "url": "https://www.yucatan.com.mx/espectaculos/cine/2026/10/24/mago-de-oz-estrena-en-mexico-pelicula-biografica-pese-a-reclamos-de-dos-integrantes.html",
+          "kind": "other"
+        },
+        {
+          "name": "Espinof – Godzilla Minus Zero",
+          "url": "https://www.espinof.com/trailers/godzilla-minus-zero-tiene-fecha-estreno-nuevo-trailer-que-situa-como-uno-grandes-bombazos-ano",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Netflix – Possible Love, 6 November",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "Cinemanía – Un amor posible",
+          "url": "https://www.lahiguera.net/cinemania/pelicula/12573",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Ruega por nosotras",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Fiesta Pagäna",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Godzilla Minus Zero",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "가능한 사랑",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Possible Love"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-estrenes-novembre-properes",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "November Fridays in Spain: McDonagh, Ti West, Nemes's “Moulin”, “The Hunger Games” and Ione Hernández's “Hermanas”",
+      "deck": "A look at the titles Sensacine schedules for the 13th, 20th and 27th; calendar data only, with no reviews or verified synopses.",
+      "paragraphs": [
+        "According to Sensacine's calendar, Friday the 13th brings, among others, Martin McDonagh's “Wild Horse Nine”; Ti West's “Scrooge y los fantasmas de la Navidad”; Zachary Wigon's “Victorian Psycho”; David Leitch's “Cómo robar un banco” and Isaki Lacuesta's “Jaleos”.",
+        "On Friday the 20th the list includes Francis Lawrence's “The Hunger Games: Sunrise on the Reaping” (“Amanecer en la cosecha”); László Nemes's “Moulin”; Jane Schoenbrun's “Adolescencia, sexo y muerte en Campamento Miasma”, and Gemma Ferraté's “Citas: La película”. On the 27th: Ione Hernández's “Hermanas”, Dani de la Orden's “El director” and Marion Le Corroller's “Sanguine”, which lands on the 27th here, not the 6th as we doubted days ago.",
+        "This is a preview only. It rests on a single calendar: we will check each Friday with the distributors, and we haven't verified synopses or casts for these titles."
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-13",
+      "territory": "ES",
+      "status": "announced",
       "evidence": "singleSource",
       "sources": [
         {
-          "name": "Rotten Tomatoes – Weekend Box Office (1 de novembre de 2026)",
-          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-you-can-see-everything-week-2/",
+          "name": "Sensacine – Spanish cinema releases, November 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-operavision-darrers-dies",
+      "section": "stage",
+      "subject": "film",
+      "headline": "OperaVision: “Le Roi d'Ys” shows “last chance”, and the platform lists “Šárka” and “Peter Grimes” for November",
+      "deck": "Three more productions from the May lineup would also expire this month, per OperaWire; OperaVision's own site doesn't confirm it.",
+      "paragraphs": [
+        "OperaVision, the free online opera platform, marks “Le Roi d'Ys” from the Opéra national du Rhin as “last chance”. Per OperaWire, Oliver Py's production, conducted by Samy Rachid, went up on 8 May and expires on 8 November; the recording dates from March this year.",
+        "OperaWire gives three further expiries, six months after release: Iain Bell's “Medusa” at La Monnaie (15 November), the Hungarian State Opera's “Così fan tutte” (23) and Ponchielli's “I Lituani” from Vilnius (29). We did not find those three on OperaVision's front page, so check before counting on them.",
+        "Among new releases, the site announces “De Materie” (6 November), “Šárka” from the National Theatre Brno (15) and “Peter Grimes” from the Finnish National Opera (26). There is also the International Opera Awards gala (21) and two children's and family titles on the 22nd. These dates come from OperaVision's schedule; we haven't verified casts or subtitles, and the platform doesn't say how long they stay up."
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-08",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "OperaVision – schedule",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "OperaWire – OperaVision May 2026 lineup",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
           "kind": "tradePress"
         }
       ]
     },
     {
-      "id": "2026-11-03-tokyo-recta-final",
-      "section": "festivals",
-      "subject": "film",
-      "headline": "Tokyo Film Festival enters its last week: 204 films from 112 countries and fifteen in competition",
-      "deck": "Rolf de Heer chairs the jury; the festival closes on 4 November with Yeon Sang-ho's “Colony”, and we found no date for the awards.",
-      "paragraphs": [
-        "The 39th Tokyo International Film Festival runs from 26 October to 4 November, mostly in Hibiya, Yurakucho, Marunouchi and Ginza. According to Japan Travel it screens 204 films from 112 countries and regions, with director Q&As, masterclasses and public workshops. The theme is “Connecting”: cinema as a bridge to the world.",
-        "Fifteen films compete for the Tokyo Grand Prix. The jury is chaired by Australian director Rolf de Heer, with actress Makiko Watanabe and producer Alex Lo. The festival opened with Zeze Takahisa's “Sukiyaki”; “Godzilla Minus Zero” is the centrepiece (it opens in Spain on Friday 6, per Sensacine) and the closer is “Colony”, Yeon Sang-ho's Korean zombie action-horror.",
-        "One gap: none of the sources we could read says which day the awards are given. When there is an official verdict we will report it. For the reader, the point is that Tokyo mixes Asian auteur cinema and genre films in the same week."
-      ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-04",
-      "territory": "JP",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Metropolis Japan – Tokyo International Film Festival 2026",
-          "url": "https://metropolisjapan.com/events/tokyo-international-film-festival-2026/",
-          "kind": "other"
-        },
-        {
-          "name": "Japan Travel – Tokyo International Film Festival 2026",
-          "url": "https://en.japantravel.com/tokyo/tiff/31711",
-          "kind": "other"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-03-liceu-capuleti-digital",
-      "section": "stage",
-      "subject": "film",
-      "headline": "The Liceu will release Bellini's “I Capuleti e i Montecchi” on LiceuOPERA+ on 22 November: 45 euros for subscribers",
-      "deck": "There is no full recording sheet yet; what we know is the date, the platform and the price.",
-      "paragraphs": [
-        "The Gran Teatre del Liceu lists on the LiceuOPERA+ website the digital premiere of Vincenzo Bellini's “I Capuleti e i Montecchi” on 22 November 2026. The platform is included in the theatre's subscription at a special price of 45 euros; the general price for non-subscribers is 90 euros.",
-        "The page gives no cast, stage director or recording details, so we cannot fill in a full filmed-performance sheet or recommend it as such. The digital season goes on with “La bohème” (31 January 2027), “La fanciulla del West” (11 April), “Jenůfa” (6 June) and “Die Zauberflöte” (25 July). We wrote about the 25 October “Aida” a few days ago."
-      ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-22",
-      "territory": "ES",
-      "status": "announced",
-      "evidence": "primarySource",
-      "sources": [
-        {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-03-calendari",
+      "id": "2026-11-04-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendar: Tokyo ends Wednesday, “Possible Love” and the Spanish releases on Friday 6, and the Liceu stream on the 22nd",
-      "deck": "A look ahead to 9 November and the key dates of the month; Spain is kept apart from other countries.",
+      "headline": "Calendar: Tokyo closes today, fourteen releases on Friday the 6th, and “Le Roi d'Ys” expires on Sunday the 8th",
+      "deck": "Outlook to 15 November and key dates this month, keeping Spain apart from other countries.",
       "paragraphs": [
-        "This week. Tuesday 3: nothing new on our list. Wednesday 4: the Tokyo Film Festival ends. Thursday 5: NT Live's “Golden Boy” in a cinema in Colchester (UK), with a second screening on the 13th. Friday 6, in Spain: “Godzilla Minus Zero”, “Sacamantecas” and other releases per Sensacine; on Netflix, Lee Chang-dong's “Possible Love”.",
-        "Later. Wednesday 11: “El cuerpo” on Netflix. Sunday 22: digital premiere of “I Capuleti e i Montecchi” from the Liceu. Friday 27: “Sanguine”, per Sensacine, although Cinemanía says the 6th: to be checked. Monday 30: Gotham Awards. In US cinemas, “The Cat in the Hat” opens next weekend. Dates from other countries do not apply to Spain."
+        "This week. Wednesday 4: the Tokyo festival closes, and we haven't yet found the winners. Friday 6, in Spain: fourteen releases per Sensacine (“Ruega por nosotras”, “Fiesta Pagäna”, “Godzilla Minus Zero”, “Sacamantecas”), “Possible Love” on Netflix and “De Materie” on OperaVision. Sunday 8: “Le Roi d'Ys” expires on OperaVision.",
+        "Later. Friday 13, in Spain: McDonagh, Ti West and David Leitch. Sunday 15: “Šárka” arrives on OperaVision and “Medusa” expires (per OperaWire). Friday 20: “The Hunger Games: Sunrise on the Reaping” and “Moulin”. Saturday 21: International Opera Awards gala. Thursday 26: “Peter Grimes” on OperaVision. Friday 27: “Sanguine” and “Hermanas”. All release dates are for Spain, per Sensacine."
       ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-03",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-04",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Sensacine – Estrenos de cine en España, novembre 2026",
+          "name": "Sensacine – Spanish cinema releases, November 2026",
           "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
           "kind": "other"
         },
         {
-          "name": "Público – Estrenos de noviembre 2026 en plataformas",
-          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-          "kind": "other"
+          "name": "OperaVision – schedule",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
         },
         {
-          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "name": "OperaWire – OperaVision May 2026 lineup",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Netflix – Possible Love, 6 November",
           "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-          "kind": "official"
-        },
-        {
-          "name": "Firstsite – National Theatre Live: Golden Boy",
-          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
-          "kind": "other"
-        },
-        {
-          "name": "Cinemanía – Sanguine",
-          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
-          "kind": "other"
-        },
-        {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
           "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-03-recomanacions",
+      "id": "2026-11-04-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Editor's picks: “Possible Love”, “Sanguine” and the Liceu's Bellini",
+      "headline": "Editor's picks: “Possible Love”, “Ruega por nosotras” and “Le Roi d'Ys” before it expires",
       "deck": "Three suggestions with editorial affinity (not a critics' score) and confidence, plus the day's wrap-up.",
       "paragraphs": [
-        "“Possible Love” (2026): affinity 4 out of 5, medium confidence. Lee Chang-dong returns eight years after “Burning”; on Netflix on 6 November. It fits auteur cinema and relationship dramas; we have not seen it and know it only from reports.",
-        "“Sanguine” (2026): affinity 4 out of 5, medium confidence. French body horror that won at Sitges; the Spanish release is 6 or 27 November depending on the source. “I Capuleti e i Montecchi” at the Liceu: affinity 3 out of 5, low confidence, because cast and recording details are missing.",
-        "Day's wrap-up. A day with few verifiable novelties: a documentary surprised the North American box office, Tokyo heads into its last stretch and digital opera at the Liceu has a date. We prefer a short edition to one full of rumours."
+        "“Possible Love” (2026): affinity 4 out of 5, medium confidence. Lee Chang-dong returns eight years after “Burning” with a 164-minute drama that won at Venice, per Cinemanía; on Netflix on 6 November. We haven't seen it.",
+        "“Ruega por nosotras” (2026): affinity 3 out of 5, low confidence. A period drama about Franco-era reformatories by Daniel Monzón; we only know the synopsis and credits. “Le Roi d'Ys” (2026, OperaVision): affinity 3 out of 5, low confidence; it's free and expires on 8 November, but we have no full cast.",
+        "Day's wrap-up. A day of releases rather than news: Spain has fourteen titles on Friday, Tokyo closes without winners in hand, and there's one opera production to see soon. We dropped items from sources we couldn't read."
       ],
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "name": "Netflix – Possible Love, 6 November",
           "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
           "kind": "official"
         },
         {
-          "name": "Cinemanía – Sanguine",
-          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
+          "name": "Cinemanía – Un amor posible",
+          "url": "https://www.lahiguera.net/cinemania/pelicula/12573",
           "kind": "other"
         },
         {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
+          "name": "Guía del Ocio – Ruega por nosotras",
+          "url": "https://guiadelocio.es/madrid/?p=60093",
+          "kind": "other"
+        },
+        {
+          "name": "OperaVision – schedule",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "OperaWire – OperaVision May 2026 lineup",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
+          "kind": "tradePress"
         }
       ],
       "titles": [
@@ -169,10 +224,9 @@
           "knownAs": "Possible Love"
         },
         {
-          "title": "Species",
+          "title": "Ruega por nosotras",
           "year": 2026,
-          "kind": "film",
-          "knownAs": "Sanguine"
+          "kind": "film"
         }
       ]
     }
@@ -185,10 +239,14 @@
       "knownAs": "Possible Love"
     },
     {
-      "title": "Species",
+      "title": "Ruega por nosotras",
       "year": 2026,
-      "kind": "film",
-      "knownAs": "Sanguine"
+      "kind": "film"
+    },
+    {
+      "title": "Le Roi d'Ys",
+      "year": 2026,
+      "kind": "stage"
     }
   ]
 }

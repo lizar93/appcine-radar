@@ -1,164 +1,219 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "territory": "ES",
-  "generatedAt": "2026-11-02T23:20:00Z",
+  "generatedAt": "2026-11-04T00:20:00Z",
   "reports": [
     {
-      "id": "2026-11-03-taquilla-halloween",
-      "section": "news",
+      "id": "2026-11-04-estrenes-6-novembre",
+      "section": "cinema",
       "subject": "film",
-      "headline": "Un documental d'A24, «You Can See Everything», encapçala la taquilla nord-americana de Halloween en un cap de setmana fluix",
-      "deck": "Amb 10,6 milions de dòlars, supera «Clayface» (10,4) i es converteix en el primer documental no musical que és número u des de «Fahrenheit 9/11», el 2004.",
+      "headline": "Divendres 6 a Espanya: «Ruega por nosotras», de Daniel Monzón, «Fiesta Pagäna» i «Godzilla Minus Zero» encapçalen 14 estrenes",
+      "deck": "Sensacine en compta catorze per al 6 de novembre; entre elles, un drama del franquisme, el biopic de Mägo de Oz i la seqüela japonesa de Godzilla.",
       "paragraphs": [
-        "Segons la crònica de Rotten Tomatoes, «You Can See Everything» va recaptar 10,6 milions de dòlars en el tercer cap de setmana als Estats Units i el Canadà i acumula 63,8 milions. El mateix text diu que és el primer documental que no és un concert que arriba al primer lloc des de «Fahrenheit 9/11», fa vint-i-dos anys. Les xifres del cap de setmana són estimacions i es poden revisar: les fonts de taquilla no coincidien del tot en qui era número u.",
-        "«Clayface» va caure un 57% fins als 10,4 milions i suma 44 milions després de deu dies; «Wildwood», de Laika, va fer 7,5 milions (25,9 en total). El terror «Wicker», un títol sorgit de Sundance que Black Bear va ampliar a més de 2.300 cinemes, va ingressar 4,1 milions i en porta 13,2. Completa la llista el film-concert de BTS «Arirang», amb 3 milions en una sola nit als cinemes.",
-        "Són dades dels Estats Units: no diuen res sobre l'estrena o l'èxit d'aquests títols a Espanya. La crònica assenyala que la temporada de festes arrenca el cap de setmana vinent amb l'estrena de l'animada «The Cat in the Hat»."
+        "Segons el calendari de Sensacine, el divendres 6 de novembre arriben a les sales espanyoles catorze títols. Els que més ens criden l'atenció són «Ruega por nosotras», «Fiesta Pagäna» i «Godzilla Minus Zero»; «Sacamantecas» ja la vam esmentar dies enrere.",
+        "«Ruega por nosotras» és el nou drama de Daniel Monzón, coescrit amb Jorge Guerricaechevarría. Segons Guía del Ocio, se situa el 1974: una noia de 19 anys d'una família benestant de Barcelona és enviada a un reformatori de Madrid inspirat en el Patronato de Protección a la Mujer del franquisme, i allà es fa amiga de la Sole i d'altres internes. Hi surten Zoe Bonafonte i Manuela Calle (que debuta al cinema). Es va presentar al Festival de Sant Sebastià, fora de competició. És cinema d'època amb mirada social; encara no l'hem vista.",
+        "«Fiesta Pagäna», d'Álvaro Brechner, és el biopic de la banda de folk metal Mägo de Oz, amb Adrián Lastra i Roberto Álamo. Va fer l'estrena mundial al Festival de Morelia el 22 d'octubre i ve acompanyada d'una polèmica: algunes veus de la banda s'hi oposen i hi ha accions legals contra la productora, segons un mitjà mexicà; no n'hem trobat l'estat actual. «Godzilla Minus Zero» és la seqüela de Takashi Yamazaki, ambientada dos anys després de la primera pel·lícula; Espinof dona el 6 de novembre al cos de la notícia i el 9 al subtítol, de manera que la data vàlida és la del calendari de Sensacine.",
+        "«Un amor posible», de Lee Chang-dong, també apareix al calendari de Sensacine el dia 6, el mateix dia que s'estrena a Netflix; Cinemanía, en canvi, hi posa el 23 d'octubre i la nota de Netflix només cita cinemes de Corea, Austràlia, els EUA, el Canadà, el Regne Unit, Irlanda i el Japó. No donem per fet que hi hagi estrena en sales a Espanya: cal mirar la cartellera."
       ],
-      "publishedAt": "2026-11-01T00:00:00Z",
-      "eventDate": "2026-11-01",
-      "territory": "US",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
       "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Sensacine – Estrenos de cine en España, noviembre 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
+          "kind": "other"
+        },
+        {
+          "name": "Guía del Ocio – Ruega por nosotras",
+          "url": "https://guiadelocio.es/madrid/?p=60093",
+          "kind": "other"
+        },
+        {
+          "name": "Que.es – Fiesta Pagäna confirma estreno el 6 de noviembre",
+          "url": "https://www.que.es/2026/08/01/pelicula-mago-de-oz-fiesta-pagana/",
+          "kind": "other"
+        },
+        {
+          "name": "Yucatán – Fiesta Pagäna, estreno mundial en Morelia",
+          "url": "https://www.yucatan.com.mx/espectaculos/cine/2026/10/24/mago-de-oz-estrena-en-mexico-pelicula-biografica-pese-a-reclamos-de-dos-integrantes.html",
+          "kind": "other"
+        },
+        {
+          "name": "Espinof – Godzilla Minus Zero",
+          "url": "https://www.espinof.com/trailers/godzilla-minus-zero-tiene-fecha-estreno-nuevo-trailer-que-situa-como-uno-grandes-bombazos-ano",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Netflix – Possible Love, 6 de novembre",
+          "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
+          "kind": "official"
+        },
+        {
+          "name": "Cinemanía – Un amor posible",
+          "url": "https://www.lahiguera.net/cinemania/pelicula/12573",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Ruega por nosotras",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Fiesta Pagäna",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Godzilla Minus Zero",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "가능한 사랑",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Possible Love"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-estrenes-novembre-properes",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Els divendres de novembre a Espanya: McDonagh, Ti West, «Moulin» de Nemes, «Els Jocs de la Fam» i «Hermanas», d'Ione Hernández",
+      "deck": "Una ullada als títols que Sensacine programa els dies 13, 20 i 27; són dades de calendari, sense crítiques ni sinopsis verificades.",
+      "paragraphs": [
+        "Segons el calendari de Sensacine, el divendres 13 s'estrenen, entre altres, «Wild Horse Nine», de Martin McDonagh; «Scrooge y los fantasmas de la Navidad», de Ti West; «Victorian Psycho», de Zachary Wigon; «Cómo robar un banco», de David Leitch, i «Jaleos», d'Isaki Lacuesta.",
+        "El divendres 20 hi figuren «Los Juegos del Hambre: Amanecer en la cosecha», de Francis Lawrence; «Moulin», de László Nemes; «Adolescencia, sexo y muerte en Campamento Miasma», de Jane Schoenbrun, i «Citas: La película», de Gemma Ferraté. El divendres 27, «Hermanas», d'Ione Hernández; «El director», de Dani de la Orden, i «Sanguine», de Marion Le Corroller, que aquí queda al 27 i no al 6, com dubtàvem dies enrere.",
+        "És només un avançament. Són dades d'un únic calendari: abans de cada divendres en farem la comprovació amb les distribuïdores, i no hem verificat sinopsis ni repartiments d'aquests títols."
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-13",
+      "territory": "ES",
+      "status": "announced",
       "evidence": "singleSource",
       "sources": [
         {
-          "name": "Rotten Tomatoes – Weekend Box Office (1 de novembre de 2026)",
-          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-you-can-see-everything-week-2/",
+          "name": "Sensacine – Estrenos de cine en España, noviembre 2026",
+          "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-operavision-darrers-dies",
+      "section": "stage",
+      "subject": "film",
+      "headline": "OperaVision: «Le Roi d'Ys» marca «darrera oportunitat» i la plataforma programa «Šárka» i «Peter Grimes» per a novembre",
+      "deck": "Tres produccions de la programació de maig caducarien també aquest mes, segons OperaWire; la web d'OperaVision no ho confirma.",
+      "paragraphs": [
+        "OperaVision, la plataforma gratuïta d'òpera en línia, marca «Le Roi d'Ys», de l'Opéra national du Rhin, com a «darrera oportunitat». Segons OperaWire, la producció d'Oliver Py, amb direcció musical de Samy Rachid, es va penjar el 8 de maig i caduca el 8 de novembre; l'enregistrament és del març d'enguany.",
+        "OperaWire dona també tres caducitats més, de sis mesos després de l'estrena: «Medusa», d'Iain Bell, a La Monnaie (15 de novembre); «Così fan tutte» de l'Òpera Estatal d'Hongria (23) i «I Lituani», de Ponchielli, a Vílnius (29). A la portada d'OperaVision no hem trobat aquestes tres, així que cal comprovar-les abans de comptar-hi.",
+        "Entre les novetats, la web anuncia «De Materie» (6 de novembre), «Šárka», del Teatre Nacional de Brno (15), i «Peter Grimes», de l'Òpera Nacional de Finlàndia (26). També hi ha la gala dels International Opera Awards (21) i dos títols infantils i familiars el 22. Les dates són de la programació d'OperaVision; no hem verificat repartiments ni subtítols de cap d'aquests, i la plataforma no indica fins quan estaran disponibles."
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-08",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "OperaVision – programació",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "OperaWire – OperaVision, programació de maig de 2026",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
           "kind": "tradePress"
         }
       ]
     },
     {
-      "id": "2026-11-03-tokyo-recta-final",
-      "section": "festivals",
-      "subject": "film",
-      "headline": "El Festival de Tòquio entra a l'última setmana: 204 films de 112 països i quinze títols a la competició",
-      "deck": "Rolf de Heer presideix el jurat; el festival es tanca el 4 de novembre amb «Colony», de Yeon Sang-ho, i no hem trobat la data del palmarès.",
-      "paragraphs": [
-        "La 39a edició del Festival Internacional de Cinema de Tòquio és del 26 d'octubre al 4 de novembre, sobretot als barris de Hibiya, Yurakucho, Marunouchi i Ginza. Segons Japan Travel, projecta 204 films de 112 països i regions, amb col·loquis amb directors, classes magistrals i tallers oberts. El lema és «Connecting»: el cinema com a pont amb el món.",
-        "La competició pel Gran Premi de Tòquio té quinze pel·lícules. El jurat el presideix el director australià Rolf de Heer, amb l'actriu Makiko Watanabe i el productor Alex Lo. El festival va obrir amb «Sukiyaki», de Zeze Takahisa; «Godzilla Minus Zero» fa de pel·lícula central (a Espanya s'estrena el divendres 6, segons Sensacine) i la clausura és per a «Colony», terror zombi d'acció coreà de Yeon Sang-ho.",
-        "Ens queda un forat: cap de les fonts que hem pogut llegir diu quin dia es dona el palmarès ni el publica. Quan hi hagi el veredicte oficial, el recollirem. Per al lector, la clau és que Tòquio mescla cinema d'autor asiàtic i cinema de gènere en la mateixa setmana."
-      ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-04",
-      "territory": "JP",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Metropolis Japan – Tokyo International Film Festival 2026",
-          "url": "https://metropolisjapan.com/events/tokyo-international-film-festival-2026/",
-          "kind": "other"
-        },
-        {
-          "name": "Japan Travel – Tokyo International Film Festival 2026",
-          "url": "https://en.japantravel.com/tokyo/tiff/31711",
-          "kind": "other"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-03-liceu-capuleti-digital",
-      "section": "stage",
-      "subject": "film",
-      "headline": "El Liceu estrenarà «I Capuleti e i Montecchi», de Bellini, a LiceuOPERA+ el 22 de novembre: 45 euros per als abonats",
-      "deck": "Encara no hi ha fitxa completa de l'enregistrament; el que sabem és la data, la plataforma i el preu.",
-      "paragraphs": [
-        "El Gran Teatre del Liceu anuncia a la web de LiceuOPERA+ l'estrena digital de «I Capuleti e i Montecchi», de Vincenzo Bellini, el 22 de novembre de 2026. La plataforma s'inclou a l'abonament del teatre amb un preu especial de 45 euros; per a qui no és abonat, el preu general és de 90 euros.",
-        "La pàgina no dona repartiment, direcció escènica ni dades de l'enregistrament, de manera que no podem omplir la fitxa de captació completa ni recomanar-la com a tal. La temporada digital continua amb «La bohème» (31 de gener de 2027), «La fanciulla del West» (11 d'abril), «Jenůfa» (6 de juny) i «Die Zauberflöte» (25 de juliol). Vam parlar de l'«Aida» del 25 d'octubre fa uns dies."
-      ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-22",
-      "territory": "ES",
-      "status": "announced",
-      "evidence": "primarySource",
-      "sources": [
-        {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-03-calendari",
+      "id": "2026-11-04-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendari: Tòquio acaba dimecres, «Possible Love» i les estrenes espanyoles el divendres 6, i el Liceu digital el 22",
-      "deck": "Previsió fins al 9 de novembre i dates clau del mes; l'ordre separa Espanya d'altres països.",
+      "headline": "Calendari: Tòquio es tanca avui, divendres 6 amb catorze estrenes, i «Le Roi d'Ys» caduca el diumenge 8",
+      "deck": "Previsió fins al 15 de novembre i dates clau del mes, separant Espanya d'altres països.",
       "paragraphs": [
-        "Aquesta setmana. Dimarts 3: res de nou a la nostra llista. Dimecres 4: acaba el Festival de Tòquio. Dijous 5: «Golden Boy» de NT Live en un cinema de Colchester (Regne Unit), i el 13 una segona sessió. Divendres 6, a Espanya: «Godzilla Minus Zero», «Sacamantecas» i altres estrenes segons Sensacine; a Netflix, «Possible Love» de Lee Chang-dong.",
-        "Després. Dimecres 11: «El cuerpo» a Netflix. Diumenge 22: estrena digital de «I Capuleti e i Montecchi» al Liceu. Divendres 27: «Sanguine», segons Sensacine, tot i que Cinemanía la posa el 6: cal comprovar-ho. Dilluns 30: Gotham Awards. A la taquilla dels EUA, «The Cat in the Hat» arriba el cap de setmana vinent. Les dates d'altres països no valen per a Espanya."
+        "Aquesta setmana. Dimecres 4: el Festival de Tòquio es tanca i no hem trobat encara el palmarès. Divendres 6, a Espanya: catorze estrenes segons Sensacine («Ruega por nosotras», «Fiesta Pagäna», «Godzilla Minus Zero», «Sacamantecas»), «Possible Love» a Netflix i «De Materie» a OperaVision. Diumenge 8: caduca «Le Roi d'Ys» a OperaVision.",
+        "Després. Divendres 13, a Espanya: McDonagh, Ti West i David Leitch. Diumenge 15: «Šárka» arriba a OperaVision i caduca «Medusa» (segons OperaWire). Divendres 20: «Los Juegos del Hambre: Amanecer en la cosecha» i «Moulin». Dissabte 21: gala dels International Opera Awards. Dijous 26: «Peter Grimes» a OperaVision. Divendres 27: «Sanguine» i «Hermanas». Totes les dates d'estrena són les d'Espanya segons Sensacine."
       ],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "eventDate": "2026-11-03",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-04",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Sensacine – Estrenos de cine en España, novembre 2026",
+          "name": "Sensacine – Estrenos de cine en España, noviembre 2026",
           "url": "https://www.sensacine.com/peliculas/estrenos/es/mes/mes-2026-11/",
           "kind": "other"
         },
         {
-          "name": "Público – Estrenos de noviembre 2026 en plataformas",
-          "url": "https://www.publico.es/mira/estrenos-ver-noviembre-2026-netflix-prime-video-disney-hbo-max-apple-tv.html",
-          "kind": "other"
+          "name": "OperaVision – programació",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
         },
         {
-          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "name": "OperaWire – OperaVision, programació de maig de 2026",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
+          "kind": "tradePress"
+        },
+        {
+          "name": "Netflix – Possible Love, 6 de novembre",
           "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-          "kind": "official"
-        },
-        {
-          "name": "Firstsite – National Theatre Live: Golden Boy",
-          "url": "https://firstsite.uk/event/national-theatre-live-golden-boy/",
-          "kind": "other"
-        },
-        {
-          "name": "Cinemanía – Sanguine",
-          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
-          "kind": "other"
-        },
-        {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
           "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-03-recomanacions",
+      "id": "2026-11-04-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Recomanacions de l'editor: «Possible Love», «Sanguine» i el Bellini del Liceu",
+      "headline": "Recomanacions de l'editor: «Possible Love», «Ruega por nosotras» i «Le Roi d'Ys» abans que caduqui",
       "deck": "Tres suggeriments amb afinitat editorial (no és la nota de la crítica) i confiança, i el balanç del dia.",
       "paragraphs": [
-        "«Possible Love» (2026): afinitat 4 sobre 5, confiança mitjana. Lee Chang-dong torna vuit anys després de «Burning»; a Netflix el 6 de novembre. Encaixa amb el cinema d'autor i els drames de relacions; no l'hem vista i només la coneixem per cròniques.",
-        "«Sanguine» (2026): afinitat 4 sobre 5, confiança mitjana. Terror corporal francès que va guanyar a Sitges; l'estrena espanyola és el 6 o el 27 de novembre segons la font. «I Capuleti e i Montecchi» al Liceu: afinitat 3 sobre 5, confiança baixa, perquè falten repartiment i dades de l'enregistrament.",
-        "Balanç del dia. Dia de poques novetats verificables: un documental ha sorprès la taquilla nord-americana, Tòquio entra a la recta final i el teatre d'òpera digital ja té data. Preferim una edició curta a una de plena de rumors."
+        "«Possible Love» (2026): afinitat 4 sobre 5, confiança mitjana. Lee Chang-dong torna vuit anys després de «Burning» amb un drama de 164 minuts, premiat a Venècia segons Cinemanía; a Netflix el 6 de novembre. No l'hem vista.",
+        "«Ruega por nosotras» (2026): afinitat 3 sobre 5, confiança baixa. Drama d'època sobre els reformatoris del franquisme, de Daniel Monzón; només en coneixem sinopsi i fitxa. «Le Roi d'Ys» (2026, OperaVision): afinitat 3 sobre 5, confiança baixa; és gratuïta i caduca el 8 de novembre, però no en tenim repartiment complet.",
+        "Balanç del dia. Dia d'estrenes més que de notícies: Espanya té catorze títols el divendres, Tòquio tanca sense palmarès a mà i hi ha una producció d'òpera que cal veure aviat. Hem renunciat a les notes de fonts que no podíem llegir."
       ],
-      "publishedAt": "2026-11-03T00:00:00Z",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Netflix – «Possible Love» s'estrena el 6 de novembre",
+          "name": "Netflix – Possible Love, 6 de novembre",
           "url": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
           "kind": "official"
         },
         {
-          "name": "Cinemanía – Sanguine",
-          "url": "https://www.lahiguera.net/amp/cinemania/pelicula/12334/",
+          "name": "Cinemanía – Un amor posible",
+          "url": "https://www.lahiguera.net/cinemania/pelicula/12573",
           "kind": "other"
         },
         {
-          "name": "Liceu – LiceuOPERA+ temporada 2026-27",
-          "url": "https://liceubarcelona.cat/en/noticies/liceuoperaplus-2627",
-          "kind": "official"
+          "name": "Guía del Ocio – Ruega por nosotras",
+          "url": "https://guiadelocio.es/madrid/?p=60093",
+          "kind": "other"
+        },
+        {
+          "name": "OperaVision – programació",
+          "url": "https://operavision.eu/",
+          "kind": "catalogue"
+        },
+        {
+          "name": "OperaWire – OperaVision, programació de maig de 2026",
+          "url": "https://operawire.com/operavisions-may-2026-lineup-features-productions-from-opera-national-du-rhin-lithuanian-national-opera-la-monnaie-de-munt-hungarian-state-opera/",
+          "kind": "tradePress"
         }
       ],
       "titles": [
@@ -169,10 +224,9 @@
           "knownAs": "Possible Love"
         },
         {
-          "title": "Species",
+          "title": "Ruega por nosotras",
           "year": 2026,
-          "kind": "film",
-          "knownAs": "Sanguine"
+          "kind": "film"
         }
       ]
     }
@@ -185,10 +239,14 @@
       "knownAs": "Possible Love"
     },
     {
-      "title": "Species",
+      "title": "Ruega por nosotras",
       "year": 2026,
-      "kind": "film",
-      "knownAs": "Sanguine"
+      "kind": "film"
+    },
+    {
+      "title": "Le Roi d'Ys",
+      "year": 2026,
+      "kind": "stage"
     }
   ]
 }
