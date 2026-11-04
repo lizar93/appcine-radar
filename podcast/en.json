@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-04",
-  "title": "World Cinema Radar — the podcast, Wednesday 4 November 2026",
+  "date": "2026-11-05",
+  "title": "World Cinema Radar — the podcast, Thursday 5 November 2026",
   "segments": [
     {
       "id": "intro",
@@ -9,483 +9,393 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Wednesday the fourth of November."
+          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Thursday the fifth of November."
         },
         {
           "speaker": "B",
-          "text": "And I'm {B}. <chuckle> Midweek, and the calendar is doing the talking today. Fewer breaking stories, a lot of dates worth knowing."
+          "text": "And I'm {B}. <chuckle> A quieter morning for headlines, but a good one for what you can actually watch this weekend."
         },
         {
           "speaker": "A",
-          "text": "Right. Three big things. First, Friday in Spain: fourteen films open at once, and a few of them are really interesting."
+          "text": "Right. Three big things today. First, the Tokyo International Film Festival closed yesterday, and we have the full list of winners."
         },
         {
           "speaker": "B",
-          "text": "Second, the other Fridays of November. We have a first look at what is coming on the thirteenth, the twentieth and the twenty-seventh."
+          "text": "Second, Friday on Filmin in Spain. A film about one of the greatest stage actresses of all time lands there, and it fits this show perfectly."
         },
         {
           "speaker": "A",
-          "text": "And third, opera. There is a free production online that disappears this weekend. <short pause> So if you like opera, listen to that part."
+          "text": "And third, opera in cinemas. The Royal Ballet and Opera has a Carmen coming on the tenth. <short pause> With a catch about Spain."
         },
         {
           "speaker": "B",
-          "text": "Everything we say today is in the written edition, with sources and dates. And where sources disagree, we tell you."
+          "text": "As always, everything we say is in the written edition, with sources and dates. And where the sources disagree, we say so."
         },
         {
           "speaker": "A",
-          "text": "Which, honestly, happens twice today. <chuckle> You'll hear it."
+          "text": "We also keep the usual rule. Confirmed things are separated from provisional ones, and we don't say a film is available in Spain unless a source says so."
         },
         {
           "speaker": "B",
-          "text": "The Tokyo film festival also closes today. We don't have the winners yet, so we'll leave that for tomorrow."
+          "text": "And no spoilers, of course. <chuckle> Not that there is much to spoil today."
         },
         {
           "speaker": "A",
-          "text": "Good. Let's start with the cinema."
+          "text": "Which happens today, a couple of times. <chuckle> Let's start in Tokyo."
         }
       ]
     },
     {
-      "id": "2026-11-04-estrenes-6-novembre",
-      "title": "Friday the 6th in Spanish cinemas",
+      "id": "2026-11-05-tokyo-palmares",
+      "title": "Tokyo hands out its prizes",
       "turns": [
         {
           "speaker": "A",
-          "text": "So, Friday the sixth of November. Sensacine counts fourteen releases in Spain. That is a lot for one day."
+          "text": "So, Tokyo. The thirty-ninth edition finished on Wednesday evening, and the top prize, the Tokyo Grand Prix, went to \"Sister Brother Manhole Cover\", by Milcho Manchevski."
         },
         {
           "speaker": "B",
-          "text": "It is. And it's a mix. Let's pick three. First: Ruega por nosotras, the new film by Daniel Monzón."
+          "text": "Manchevski. And that is a very international result, because it's a co-production of six countries: North Macedonia, Bulgaria, Serbia, Albania, Italy and the United Kingdom."
         },
         {
           "speaker": "A",
-          "text": "I like to say what we know. Our sources say he co-wrote this one with Jorge Guerricaechevarría. |Okay, fair.| The film is set in nineteen seventy-four, in the last years of Franco."
+          "text": "Producer Jane Kortoshev accepted the prize on his behalf. Which means the director wasn't on stage, but the film got the biggest moment of the night."
         },
         {
           "speaker": "B",
-          "text": "A period drama, then. That is squarely in our taste."
+          "text": "Six countries. That's a very Balkan way to make a film. <laugh> What's it about, without spoilers?"
         },
         {
           "speaker": "A",
-          "text": "Yes. A nineteen-year-old girl from a wealthy Barcelona family is sent to a strict reformatory in Madrid. It is inspired by a real institution, the Patronato de Protección a la Mujer."
+          "text": "Trade coverage describes two orphaned siblings who make a living stealing manhole covers and bronze statues of national heroes. And the jury praised what they called a seamless blend of humour, tragedy and drama."
         },
         {
           "speaker": "B",
-          "text": "And she makes friends there?"
+          "text": "Okay, that already sounds like my kind of thing. A dark comedy with a social edge. But let's be honest, we haven't seen it, and we found no review."
         },
         {
           "speaker": "A",
-          "text": "She befriends a girl called Sole and other inmates. The leads are Zoe Bonafonte and Manuela Calle, and this is Calle's film debut."
+          "text": "Exactly. So it's a title to watch, not one to recommend yet. And there's no Spanish release date that we can verify."
         },
         {
           "speaker": "B",
-          "text": "It was shown at San Sebastián, out of competition, but we haven't seen it. So no verdict from us."
+          "text": "Now the rest of the competition. The Special Jury Prize went to \"Magic Atlas\", from Singapore, directed by Sun Xun."
         },
         {
           "speaker": "A",
-          "text": "No verdict. <short pause> But a historical drama with a social eye. It is on our list."
+          "text": "And best director went to Lisandro Alonso, for \"Double Freedom\". It's a co-production between Chile, Argentina, Luxembourg, Germany and the United Kingdom."
         },
         {
           "speaker": "B",
-          "text": "Second: Fiesta Pagäna. This is the biopic of the folk metal band Mägo de Oz, directed by Álvaro Brechner."
+          "text": "Alonso is the kind of director whose films you never forget, even if you can't explain them. Good news for him."
         },
         {
           "speaker": "A",
-          "text": "Folk metal! I did not have that on my bingo card. <laugh>"
+          "text": "The acting awards. Best actress is Hu Ling, for \"The Night That Binds Us\", a France and Hong Kong film. And best actor is Narita Ryo, for \"Two Cigarettes, Three Nights\", from Japan."
         },
         {
           "speaker": "B",
-          "text": "Adrián Lastra and Roberto Álamo are in the cast. It premiered at the Morelia festival on the twenty-second of October."
+          "text": "His director, Mishima Yukiko, went up to collect it for him. Then best artistic contribution went to \"Until the Day Ends\", by Jelena Maksimović, for its cinematography."
         },
         {
           "speaker": "A",
-          "text": "And there is some controversy, right?"
+          "text": "And the Audience Award is \"Heysel 85\", by Teodora Ana Mihai."
         },
         {
           "speaker": "B",
-          "text": "Yes. According to a Mexican outlet, some members of the band oppose the film, and there was legal action against the producer. We looked for the current status and couldn't find it. So we just flag it."
+          "text": "There are also the side sections. In Asian Future, the best film is \"Serife Tavsan\", by Tareq Daoud. <short pause> And here's one of our disagreements."
         },
         {
           "speaker": "A",
-          "text": "Fair enough. Third one is the big one for many people. Godzilla Minus Zero."
+          "text": "Yes. The festival's winners page prints that title as if it were the director's name. The ceremony report gives the title properly, so that's the one we follow."
         },
         {
           "speaker": "B",
-          "text": "Takashi Yamazaki directs again, the same person who made the first one. It is set two years after that film."
+          "text": "Always check the second page. <chuckle> And in Nippon Cinema Now, the best film is \"silver express\", by Tanaka Miki."
         },
         {
           "speaker": "A",
-          "text": "And here is our first date problem."
+          "text": "One more thing I liked. The Kurosawa Akira Award, which comes with a million yen for each winner, went to two directors: O Mipo from Japan, and Mohammad Rasoulof from Iran."
         },
         {
           "speaker": "B",
-          "text": "Exactly. One Spanish site, Espinof, says the sixth of November in the text, and the ninth in the subtitle. <chuckle> Same article!"
+          "text": "Rasoulof, whom the committee praised for his uncompromising look at injustice and oppression."
         },
         {
           "speaker": "A",
-          "text": "So which one do we trust?"
+          "text": "Presented the night before the closing ceremony, at the Imperial Hotel. So, summary: nothing here has a verified Spanish date yet, but the list is a good map of what might show up at festivals in the next months."
         },
         {
           "speaker": "B",
-          "text": "Sensacine's calendar, which says the sixth. That is also the date given by the distributor listings we saw. But if you plan to go, check your cinema."
+          "text": "One thing worth saying about all these names. Many of these films come from places that rarely reach a Spanish cinema: Singapore, the Balkans, Japan's independent scene."
         },
         {
           "speaker": "A",
-          "text": "Okay. And there is a fourth thing on the calendar, which is a bit of a puzzle."
+          "text": "Right, and that is exactly why a festival list like this is useful. It tells you which titles to look for if a distributor or a platform picks them up later. <breath>"
         },
         {
           "speaker": "B",
-          "text": "Lee Chang-dong's Possible Love. In Spanish it is Un amor posible."
+          "text": "The edition is careful on that point. It says none of the winning films has a Spanish release date we can verify. So we don't promise anything."
         },
         {
           "speaker": "A",
-          "text": "Sensacine lists it on the sixth. That is also the day it arrives on Netflix, worldwide."
+          "text": "And we won't pretend we've seen them. For the Grand Prix winner, all we have is the official award page, the jury's comment, and the trade description of the story."
         },
         {
           "speaker": "B",
-          "text": "But Cinemanía says the twenty-third of October for cinemas. And Netflix's own note lists theatrical dates for Korea, Australia, the US, Canada, the UK, Ireland and Japan. Not Spain."
+          "text": "Fair. The official pages are the festival's own, and the sales news comes from the trade press. We keep those apart in the sources."
         },
         {
           "speaker": "A",
-          "text": "So we don't say there is a Spanish cinema release. <short pause> We say it's on Netflix on Friday, and we say check the listings."
+          "text": "Also, the ceremony was on the fourth of November, at Hulic Hall in Tokyo. Just so the date is clear for the listeners."
         },
         {
           "speaker": "B",
-          "text": "Right. Better to be careful than to send you to an empty cinema."
-        },
-        {
-          "speaker": "A",
-          "text": "And it is a good example of how a release date can mean three different things. A festival date, a cinema date and a streaming date. They are not the same."
-        },
-        {
-          "speaker": "B",
-          "text": "Never the same. <chuckle> We keep a rule on the Radar: we never deduce a Spanish date from a date in another country. Korea, the US, Japan, all different."
-        },
-        {
-          "speaker": "A",
-          "text": "So for Possible Love, the safe sentence is: Netflix, Friday the sixth, in Spain and everywhere else. That we can say, because Netflix says it."
-        },
-        {
-          "speaker": "B",
-          "text": "Good. And the film itself runs for almost three hours, so plan an evening."
-        },
-        {
-          "speaker": "A",
-          "text": "Let me add something about the way we read these things. A calendar tells you a date. It does not tell you if the film is good."
-        },
-        {
-          "speaker": "B",
-          "text": "Very true. <chuckle> And a trailer tells you even less. So when we say a film is interesting, we mean it fits what we like, not that it is good."
-        },
-        {
-          "speaker": "A",
-          "text": "Exactly. For Ruega por nosotras that means history, a period setting and a story about young women. For Fiesta Pagäna it means a curious subject and a loud soundtrack, I imagine."
-        },
-        {
-          "speaker": "B",
-          "text": "|Loud, yes.| And for Godzilla Minus Zero it means a big Japanese film in a very big week. Japan, cinema, spectacle. We like that mix."
-        },
-        {
-          "speaker": "A",
-          "text": "If you only go to the cinema once this month, which would you pick?"
-        },
-        {
-          "speaker": "B",
-          "text": "Honestly? I would look at the other Fridays first. <short pause> This one is crowded, and the thirteenth and the twentieth have names I want to wait for."
-        },
-        {
-          "speaker": "A",
-          "text": "That is a fair plan. Fourteen releases in one day also means some of them will have very few screens, so check early."
-        },
-        {
-          "speaker": "B",
-          "text": "One more honest note. Sacamantecas is also in the list, and we talked about it a few days ago. So it is still the same date, the sixth."
+          "text": "And remember, the full list is in the edition, with links to the official festival pages."
         }
       ]
     },
     {
-      "id": "2026-11-04-estrenes-novembre-properes",
-      "title": "The other Fridays of November",
+      "id": "2026-11-05-filmin-duse-novembre",
+      "title": "Filmin and Duse",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now a quick look ahead. Sensacine already lists the next three Fridays. We want to be clear: this is only a calendar. We haven't checked synopses or casts."
+          "text": "Now the part I like most today. Filmin, in Spain, on Friday the sixth of November, adds \"Duse\", by Pietro Marcello. In Spain it appears as \"Eleonora Duse, la divina\"."
         },
         {
           "speaker": "B",
-          "text": "Right. So these are names and directors, nothing more. Friday the thirteenth first."
+          "text": "Theatre history on screen. <short pause> Remind us who she was."
         },
         {
           "speaker": "A",
-          "text": "And what a title for a horror fan: Victorian Psycho, directed by Zachary Wigon."
+          "text": "Eleonora Duse was one of the great Italian stage actresses. The film follows her last years, when she returns to the stage despite her fragile health."
         },
         {
           "speaker": "B",
-          "text": "<chuckle> Friday the thirteenth and a Victorian psycho. Somebody planned that. I'm just saying."
+          "text": "And it has Valeria Bruni-Tedeschi in the lead. With Noémie Merlant as her daughter, Fausto Russo Alesi as the poet D'Annunzio, and Noémie Lvovsky as Sarah Bernhardt."
         },
         {
           "speaker": "A",
-          "text": "Also on the thirteenth, Martin McDonagh's Wild Horse Nine."
+          "text": "Sarah Bernhardt. That's a casting that makes you smile already. <chuckle> It's an Italian and French film, from twenty twenty-five, a hundred and twenty-two minutes. It competed in Venice, and it was in the official section at Seminci last year."
         },
         {
           "speaker": "B",
-          "text": "McDonagh is always worth watching. We know nothing more about this one, so let's not guess."
+          "text": "What does the critic say? You have Diego Lerer at Micropsia."
         },
         {
           "speaker": "A",
-          "text": "Then Ti West has a film called Scrooge y los fantasmas de la Navidad. That is the Spanish title."
+          "text": "He says it's melodramatic, so much that it might irritate some viewers. But he finds that it suits the character. The script is classic and conventional, and the film inserts some documentary-style images of the period."
         },
         {
           "speaker": "B",
-          "text": "And David Leitch, Cómo robar un banco. Plus Jaleos, by the Catalan director Isaki Lacuesta."
+          "text": "Hm. So the film is on the shoulders of the lead actress."
         },
         {
           "speaker": "A",
-          "text": "Before the twentieth, one more thought on the thirteenth. If you like your cinema dark, that week is for you."
+          "text": "Yes. And he says the second half is the strongest, when her health, her work and her relationships decline. He finds it relevant because it looks at how art, life and politics mix dangerously."
         },
         {
           "speaker": "B",
-          "text": "Dark and varied. A Victorian horror title, and a Christmas ghost story, judging by the Spanish title."
+          "text": "For this show, honestly, it ticks a lot of boxes. Theatre, period drama, fascism arriving in the background. We haven't seen it, so the affinity note you'll hear later is based on that review."
         },
         {
           "speaker": "A",
-          "text": "I like that. A ghost story near Christmas is a very old tradition."
+          "text": "A small point on the title, because it can confuse people. In Spain the film appears as \"Eleonora Duse, la divina\". The original title is simply \"Duse\"."
         },
         {
           "speaker": "B",
-          "text": "It is. But, again, we only know the title and the director, so we won't promise anything about the tone."
+          "text": "Good to know when you search for it. <chuckle> The film is Pietro Marcello's, and it's set after the First World War, when Italy buries its unknown soldier."
         },
         {
           "speaker": "A",
-          "text": "Okay. The twentieth. This is the big Hollywood Friday."
+          "text": "That is from the Seminci page. It describes her strained relationship with her daughter, her complicated bond with D'Annunzio, and the rise of fascism in the background."
         },
         {
           "speaker": "B",
-          "text": "The Hunger Games: Sunrise on the Reaping, by Francis Lawrence. In Spain it is Amanecer en la cosecha."
+          "text": "I like that the film doesn't try to tell her whole life. The critic says that choosing the last years is what makes it coherent."
         },
         {
           "speaker": "A",
-          "text": "But the one I want to see is Moulin, by László Nemes."
+          "text": "The same day Filmin also adds \"Barrio Triste\", the debut of a director known as Stillz, produced by Harmony Korine."
         },
         {
           "speaker": "B",
-          "text": "We only have the calendar entry for it, so no details. But the name alone makes us curious."
+          "text": "Teenagers from the suburbs of Medellín steal a local television camera and wander around the city. There's a bank robbery, and a strange paranormal encounter. And music by Arca."
         },
         {
           "speaker": "A",
-          "text": "Also on the twentieth, Jane Schoenbrun's Adolescencia, sexo y muerte en Campamento Miasma."
+          "text": "That sounds either brilliant or a mess. <laugh> And there's a documentary, \"Broken English\", about Marianne Faithfull, by Iain Forsyth and Jane Pollard."
         },
         {
           "speaker": "B",
-          "text": "Which is a very long title. <laugh> And it has a Spanish comedy neighbour, Citas: La película, by Gemma Ferraté."
+          "text": "It covers her rise, her records, her addictions, and the relationship with Mick Jagger."
         },
         {
           "speaker": "A",
-          "text": "And then the twenty-seventh. Hermanas, by Ione Hernández. And El director, by Dani de la Orden."
+          "text": "Honestly, a Friday on Filmin with this plus a documentary and a strange debut is a good weekend plan. Three very different moods."
         },
         {
           "speaker": "B",
-          "text": "And here comes our second correction. Sanguine, the French body horror that won at Sitges."
+          "text": "Different moods, yes. One is a melodrama about the theatre, one is a street adventure, and one is a music documentary. <laugh> Something for everybody."
         },
         {
           "speaker": "A",
-          "text": "Right. We were not sure whether it opens on the sixth or the twenty-seventh. Different sites said different things."
+          "text": "Then the rest of November on Filmin. We won't read all of it, but a few things. On the thirteenth, \"L'affaire Bojarski\", a postwar Paris story about a master forger."
         },
         {
           "speaker": "B",
-          "text": "Sensacine says the twenty-seventh, so that is the date we use for now."
+          "text": "And on the twenty-seventh, \"The Love That Remains\", by Hlynur Pálmason. A family drama in Iceland's landscapes. Pálmason is a name to remember."
         },
         {
           "speaker": "A",
-          "text": "Notice something about this list. It is quite varied. A Hollywood franchise, a historical film from Nemes, a Spanish drama, a comedy, a horror."
+          "text": "There's also \"Mala bèstia\", the debut of Bàrbara Farré, on the twentieth. A mystery fable, described as heir to \"Lazzaro Felice\"."
         },
         {
           "speaker": "B",
-          "text": "And Spanish cinema is well represented. Lacuesta, Hernández, de la Orden, Ferraté. Four Spanish names in three weeks."
+          "text": "That one I want to know more about. And one more disagreement to mention: the third season of the Danish series \"Carmen Curlers\"."
         },
         {
           "speaker": "A",
-          "text": "That is good for a reader in Catalonia. Though we have not checked the languages or the versions, so Catalan screenings are a question for your cinema."
+          "text": "OtrosCines says the twenty-fourth. A MarketingDirecto guide says the tenth. We can't resolve it, so check Filmin directly."
         },
         {
           "speaker": "B",
-          "text": "Right. We prefer to say that than to guess. <short pause> Back to the calendar."
-        },
-        {
-          "speaker": "A",
-          "text": "Good. So you don't have to rush this Friday for that one. <short pause> The rest of the details are in the edition, and we will confirm each date before the Friday."
+          "text": "The rest, with dates, is in the edition. Dates are Filmin Spain, and we haven't verified subtitles or how long the titles stay."
         }
       ]
     },
     {
-      "id": "2026-11-04-operavision-darrers-dies",
-      "title": "OperaVision: last chance",
+      "id": "2026-11-05-criterion-gener-2027",
+      "title": "Criterion in January",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now let's go to the stage. And this is a practical one. OperaVision, the free online opera platform, has an opera marked as last chance to watch."
+          "text": "Now physical media. Criterion has revealed its January twenty twenty-seven slate, according to The Film Stage."
         },
         {
           "speaker": "B",
-          "text": "Which one?"
+          "text": "And the big name is \"Parasite\", by Bong Joon-ho, which goes to 4K, an upgrade from the twenty twenty-one edition."
         },
         {
           "speaker": "A",
-          "text": "Le Roi d'Ys, from the Opéra national du Rhin. The production is by Oliver Py, and Samy Rachid conducts."
+          "text": "Next to it, \"Deliverance\", by John Boorman, in a new 4K edition with restored sound. And \"Midnight Cowboy\" at full resolution for the first time since twenty eighteen."
         },
         {
           "speaker": "B",
-          "text": "When does it expire?"
+          "text": "On Blu-ray, \"Chocolat\", by Claire Denis, and \"Career Girls\", by Mike Leigh. <short pause> Denis's debut feature, the article says."
         },
         {
           "speaker": "A",
-          "text": "According to OperaWire, it went online on the eighth of May and expires on the eighth of November. That is this Sunday. The recording is from March this year."
+          "text": "My favourite is the box. World Cinema Project, volume six, presented by Martin Scorsese. Four recovered films: from Guinea-Bissau, Brazil, Côte d'Ivoire and Iran."
         },
         {
           "speaker": "B",
-          "text": "Let me say what the recording is, as far as we know. A production from the Opéra national du Rhin, filmed in March, with five named singers in the cast."
+          "text": "Names of the directors, quickly. Flora Gomes, Luis Sérgio Person, Timité Bassori and Bahram Beyzai. The titles are in the edition."
         },
         {
           "speaker": "A",
-          "text": "Five names on the list we saw, but I will not read them out. They are in the written edition, and I would certainly say them wrong. <chuckle>"
+          "text": "It's interesting to see Criterion mixing a modern hit with older classics and a box of rarely seen films."
         },
         {
           "speaker": "B",
-          "text": "Right. French names, with all those vowels. The edition has them spelled properly."
+          "text": "Yes. And the World Cinema Project box is the kind of thing that makes a physical collection worth having. It brings back films that were hard to see."
         },
         {
           "speaker": "A",
-          "text": "Free, and for a few more days. <short pause> That is worth knowing."
+          "text": "But here's the catch, and it's a big one for listeners in Spain. This is a US edition. The article gives no exact dates and no extras, and we don't know about disc region, Spanish or Catalan subtitles, or distribution in Spain."
         },
         {
           "speaker": "B",
-          "text": "We haven't watched it, and we don't have a full cast list in front of us, so we say that plainly. But the platform is official and free."
-        },
-        {
-          "speaker": "A",
-          "text": "And there are other expiries, right?"
-        },
-        {
-          "speaker": "B",
-          "text": "OperaWire's May article lists three more, each six months after release. Medusa, a modern opera by Iain Bell, at La Monnaie in Brussels, on the fifteenth."
-        },
-        {
-          "speaker": "A",
-          "text": "Then Così fan tutte from the Hungarian State Opera on the twenty-third. And Ponchielli's I Lituani, from Vilnius, on the twenty-ninth."
-        },
-        {
-          "speaker": "B",
-          "text": "Now, here is the caveat. We looked at OperaVision's front page and didn't find those three there."
-        },
-        {
-          "speaker": "A",
-          "text": "So maybe they're hidden, or maybe the dates changed. <sigh> Please check before you plan your weekend around them."
-        },
-        {
-          "speaker": "B",
-          "text": "Exactly. What the site does announce for November is this: De Materie on the sixth."
-        },
-        {
-          "speaker": "A",
-          "text": "We mentioned it a few days ago."
-        },
-        {
-          "speaker": "B",
-          "text": "Then Šárka, from the National Theatre in Brno, on the fifteenth. And Peter Grimes, from the Finnish National Opera, on the twenty-sixth."
-        },
-        {
-          "speaker": "A",
-          "text": "Peter Grimes. That one is for me."
-        },
-        {
-          "speaker": "B",
-          "text": "<chuckle> I knew it. There is also a gala of the International Opera Awards on the twenty-first, and two family titles on the twenty-second."
-        },
-        {
-          "speaker": "A",
-          "text": "Let me say why this matters. Opera on a stage is a big, expensive thing. Having it free at home is a real gift."
-        },
-        {
-          "speaker": "B",
-          "text": "And the catch is the time limit. Many of these streams stay up for six months, then they are gone. So it is a bit like a festival: you have a window."
-        },
-        {
-          "speaker": "A",
-          "text": "A window, yes. Think of Le Roi d'Ys as a small event with a closing date on Sunday."
-        },
-        {
-          "speaker": "B",
-          "text": "It also fits our rule for the stage section: we look for complete recordings, not trailers or short clips. This is a complete production, as far as the platform says."
-        },
-        {
-          "speaker": "A",
-          "text": "As far as the platform says. <chuckle> We say that a lot today. But we want to be accurate."
-        },
-        {
-          "speaker": "B",
-          "text": "One more thing: the platform lists a gala for the International Opera Awards. That is an event, not a staged opera, so it is a different kind of viewing."
-        },
-        {
-          "speaker": "A",
-          "text": "Right. Nice to watch, but not the same as a full production."
-        },
-        {
-          "speaker": "B",
-          "text": "And one last point. We don't know how long the new ones stay up. The platform doesn't say. So if you see something you like, don't wait too long."
+          "text": "So for now, it's an import. <sigh> Check Criterion's site for the details."
         }
       ]
     },
     {
-      "id": "2026-11-04-calendari",
-      "title": "The calendar",
+      "id": "2026-11-05-carmen-royal-opera-cinema",
+      "title": "Carmen at the cinema",
       "turns": [
         {
           "speaker": "A",
-          "text": "Let's put the dates in order. Today, Wednesday the fourth: the Tokyo festival closes. We haven't found the winners yet."
+          "text": "Now the stage corner. The Royal Ballet and Opera brings \"Carmen\", by Bizet, to cinemas on the tenth of November."
         },
         {
           "speaker": "B",
-          "text": "Friday the sixth, in Spain: the fourteen releases. Ruega por nosotras, Fiesta Pagäna, Godzilla Minus Zero and Sacamantecas, among others."
+          "text": "It's a revival of Damiano Michieletto's production, with Sesto Quatrini conducting, and Ginger Costa-Jackson and Russell Thomas as Carmen and Don José."
         },
         {
           "speaker": "A",
-          "text": "The same day, Possible Love on Netflix, and De Materie on OperaVision."
+          "text": "And that's what both the distributor, Trafalgar Releasing, and OperaWire say. But there are some caveats, and they matter."
         },
         {
           "speaker": "B",
-          "text": "Then Sunday the eighth: Le Roi d'Ys leaves OperaVision."
+          "text": "First, the distributor lists it as available internationally, but doesn't name Spain. And we found no Spanish cinema listing it."
         },
         {
           "speaker": "A",
-          "text": "Friday the thirteenth: McDonagh, Ti West and David Leitch, in Spanish cinemas."
+          "text": "Second, neither page says whether it is live or a recorded performance. And they give no runtime, no language and no subtitles."
         },
         {
           "speaker": "B",
-          "text": "Sunday the fifteenth: Šárka arrives on OperaVision, and Medusa should expire, according to OperaWire."
+          "text": "The production itself is well known. It's Michieletto's staging, which means a strongly directed Carmen, and Sesto Quatrini is in the pit."
         },
         {
           "speaker": "A",
-          "text": "Friday the twentieth: The Hunger Games and Moulin. Saturday the twenty-first: the Opera Awards gala."
+          "text": "But we only say what the pages say. They name the director, the conductor and the two leads. For everything else, you need the cinema."
         },
         {
           "speaker": "B",
-          "text": "Thursday the twenty-sixth: Peter Grimes. And Friday the twenty-seventh: Sanguine and Hermanas."
+          "text": "Third, some UK cinema listings give a different cast. So, if you find a screening near you, check the cast with the venue."
         },
         {
           "speaker": "A",
-          "text": "A tip. Put the sixth, the eighth and the thirteenth in your own calendar. Those are the three with a real deadline or a real choice."
+          "text": "Right. And an important distinction for this section: a cinema screening is not the same as a complete recording you can watch at home. So we don't add a recording record."
         },
         {
           "speaker": "B",
-          "text": "The sixth, because there is so much. The eighth, because of the opera. And the thirteenth, because of the horror."
+          "text": "We found no other new complete theatre or opera recording with verified access from Spain today. Honest answer, not an exciting one. <chuckle>"
         },
         {
           "speaker": "A",
-          "text": "And if the Tokyo winners are announced later today, we will tell you tomorrow. We would rather wait for the official list."
+          "text": "But if you missed yesterday's edition: \"Le Roi d'Ys\" expires on OperaVision on Sunday the eighth."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-calendari",
+      "title": "Calendar",
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "Let's do the calendar. All dates are verified today and come from the platform guides we cite. They can change."
         },
         {
           "speaker": "B",
-          "text": "All the cinema dates are for Spain, from Sensacine. Other countries are different, so don't mix them up."
+          "text": "Today, Thursday the fifth, in Spain, Max adds a batch of films: \"Black Swan\", \"The Whale\", \"Jojo Rabbit\", \"Cocktail\", \"Constantine\" and \"The Color of Money\"."
+        },
+        {
+          "speaker": "A",
+          "text": "Friday the sixth is the big day. On Filmin, \"Duse\", \"Barrio Triste\" and \"Broken English\". On Movistar Plus, \"Wuthering Heights\". And on Prime Video, \"Campus Drivers\"."
+        },
+        {
+          "speaker": "B",
+          "text": "The Friday cinema releases in Spain are in yesterday's edition, so we won't repeat them. Sunday the eighth, season two of \"City of God: The Fight Rages On\" on Max."
+        },
+        {
+          "speaker": "A",
+          "text": "Saturday the seventh isn't empty either, but the guide mentions mostly documentaries and light films on Movistar Plus, so we skip them here."
+        },
+        {
+          "speaker": "B",
+          "text": "Tuesday the tenth, \"Carmen\" in cinemas, international, with Spain unconfirmed. Wednesday the eleventh, \"El cuerpo\" on Netflix, and season three of \"The Rings of Power\" on Prime Video."
+        },
+        {
+          "speaker": "A",
+          "text": "Thursday the twelfth, classics on Max, like \"1917\" and \"Little Miss Sunshine\". Friday the thirteenth, \"L'affaire Bojarski\" on Filmin."
+        },
+        {
+          "speaker": "B",
+          "text": "And from the nineteenth to the twenty-seventh, the Filmin titles we mentioned, ending with \"The Love That Remains\"."
         }
       ]
     },
@@ -495,55 +405,39 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Time for our picks. Remember, the affinity score is ours. It is not a critics' score and not an audience score."
+          "text": "Picks. First, \"Duse\". On Filmin, Friday the sixth, in Spain. Our affinity note is four out of five, medium confidence."
         },
         {
           "speaker": "B",
-          "text": "Right. First, Possible Love, by Lee Chang-dong. Affinity four out of five, medium confidence."
+          "text": "Remember, that is editorial affinity, not a critics' score. And we haven't seen it. We rely on Diego Lerer's review, which highlights the performance and warns about the melodrama."
         },
         {
           "speaker": "A",
-          "text": "He comes back eight years after Burning. It is a long drama, one hundred and sixty-four minutes, and Cinemanía says it won at Venice."
+          "text": "Why four? Because it's a period drama, about the theatre, with a big performance at the centre. That is close to what this show likes."
         },
         {
           "speaker": "B",
-          "text": "On Netflix on Friday. We haven't seen it, so that is all from reading."
+          "text": "And why only medium confidence? Because one review and a synopsis aren't enough. If you watch it this weekend, tell us whether we got it right. <chuckle>"
         },
         {
           "speaker": "A",
-          "text": "Second: Ruega por nosotras. Affinity three out of five, low confidence."
+          "text": "Second, \"Barrio Triste\", same day on Filmin. Three out of five, low confidence, because we only have synopses."
         },
         {
           "speaker": "B",
-          "text": "Low, because we only know the synopsis and credits. But a period drama about reformatories in Franco's Spain is a good fit for the profile."
+          "text": "And third, Michieletto's \"Carmen\" on the tenth. Four out of five, if it reaches Spain. <short pause> A big if."
         },
         {
           "speaker": "A",
-          "text": "And third, the opera. Le Roi d'Ys on OperaVision. Affinity three, low confidence."
+          "text": "For the opera lovers, the cinema is the only route for Carmen right now, since we haven't found a complete recording to watch at home."
         },
         {
           "speaker": "B",
-          "text": "Free, and gone on Sunday. We don't have the full cast, which is why the confidence is low."
+          "text": "And if you like the theatre side, it's worth keeping Filmin in mind for the whole month. There are a lot of dates in the calendar."
         },
         {
           "speaker": "A",
-          "text": "And a word about how we choose. Our affinity score looks at what the reader likes: period drama, horror, clever comedy, international cinema, and filmed theatre and opera."
-        },
-        {
-          "speaker": "B",
-          "text": "So a film can be very good and still get a three from us. <laugh> That is not an insult."
-        },
-        {
-          "speaker": "A",
-          "text": "Not at all. It means we are being honest about taste and honest about what we have seen, which is nothing yet."
-        },
-        {
-          "speaker": "B",
-          "text": "The full list is in the edition. And if you only have time for one thing this week?"
-        },
-        {
-          "speaker": "A",
-          "text": "For me, Possible Love. <short pause> It is a weekend with a lot of choices."
+          "text": "And the reminder: \"Le Roi d'Ys\" expires on OperaVision this Sunday."
         }
       ]
     },
@@ -553,90 +447,82 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "So, the idea of the day. Friday is crowded in Spanish cinemas, and one free opera is about to disappear."
+          "text": "So, the idea of the day. Not many weighty news items, but a clear awards list from Tokyo and a Friday with theatre, period drama and auteur cinema on Filmin."
         },
         {
           "speaker": "B",
-          "text": "And we dropped a few stories we could not read properly. Fewer items, but checked. <chuckle> That's our rule."
+          "text": "Also worth saying: it's a day where the sources mostly agree, with two exceptions. The title on the Tokyo winners page, and the date of the third season of \"Carmen Curlers\"."
         },
         {
           "speaker": "A",
-          "text": "One practical thing for tomorrow: we will look for the Tokyo winners, and we will check again the Friday releases."
+          "text": "Right. And in both cases, the edition tells you what to check. <chuckle> That is the point of the Radar."
         },
         {
           "speaker": "B",
-          "text": "And if a date changes, we will say it, and we will say what changed. Not just the new date."
+          "text": "If you only have time for one thing today, make it Filmin on Friday. The rest of the edition is there for when you want more."
         },
         {
           "speaker": "A",
-          "text": "Thanks for listening. See you tomorrow on the Radar."
+          "text": "And on physical media, we wait for Criterion's exact dates. <chuckle> Thank you for listening."
         },
         {
           "speaker": "B",
-          "text": "See you tomorrow."
+          "text": "See you tomorrow on the Radar."
         }
       ]
     }
   ],
   "pronunciations": {
-    "Ruega por nosotras": "Roo-eh-gah por no-so-tras",
-    "Daniel Monzón": "Dah-nyel Mon-thon",
-    "Monzón": "Mon-thon",
-    "Jorge Guerricaechevarría": "Hor-heh Geh-ree-kah-eh-cheh-vah-ree-ah",
-    "Patronato de Protección a la Mujer": "Pah-troh-nah-toh deh Pro-tek-thyon ah lah Moo-her",
-    "Zoe Bonafonte": "Zoh-eh Boh-nah-fon-teh",
-    "Manuela Calle": "Mah-nweh-lah Kah-yeh",
-    "Sole": "Soh-leh",
-    "Calle": "Kah-yeh",
-    "Fiesta Pagäna": "Fyes-tah Pah-gah-nah",
-    "Mägo de Oz": "Mah-goh deh Oth",
-    "Álvaro Brechner": "Al-bah-roh Breck-ner",
-    "Adrián Lastra": "Ad-ree-an Las-trah",
-    "Roberto Álamo": "Roh-ber-toh Ah-lah-moh",
-    "Morelia": "Moh-reh-lyah",
-    "Takashi Yamazaki": "Tah-kah-shee Yah-mah-zah-kee",
-    "Sacamantecas": "Sah-kah-mahn-teh-kas",
-    "Sensacine": "Sen-sah-thee-neh",
-    "Espinof": "Es-pee-nof",
-    "Cinemanía": "Thee-neh-mah-nee-ah",
-    "Lee Chang-dong": "Lee Chang-dong",
-    "Un amor posible": "Oon ah-mor poh-see-bleh",
-    "Sitges": "Seet-hes",
-    "Sanguine": "San-gween",
-    "Victorian Psycho": "Victorian Psycho",
-    "Zachary Wigon": "Zack-uh-ree Wy-gon",
-    "Martin McDonagh": "Martin Mak-Don-uh",
-    "Wild Horse Nine": "Wild Horse Nine",
-    "Scrooge y los fantasmas de la Navidad": "Skroodj ee los fan-tahs-mahs deh lah Nah-vee-dad",
-    "Cómo robar un banco": "Koh-moh roh-bar oon bahn-koh",
-    "Jaleos": "Hah-leh-os",
-    "Isaki Lacuesta": "Ee-sah-kee Lah-kwes-tah",
-    "Amanecer en la cosecha": "Ah-mah-neh-ther en lah koh-seh-chah",
-    "László Nemes": "Lahs-loh Neh-mesh",
-    "Moulin": "Moo-lan",
-    "Jane Schoenbrun": "Jane Shen-brun",
-    "Adolescencia, sexo y muerte en Campamento Miasma": "Ah-doh-les-then-thyah, sek-soh ee mwer-teh en Kam-pah-men-toh Mee-as-mah",
-    "Citas: La película": "Thee-tas: Lah peh-lee-koo-lah",
-    "Gemma Ferraté": "Hem-mah Feh-rah-teh",
-    "Hermanas": "Air-mah-nas",
-    "Ione Hernández": "Ee-oh-neh Air-nahn-deth",
-    "El director": "El dee-rek-tor",
-    "Dani de la Orden": "Dah-nee deh lah Or-den",
-    "OperaVision": "Opera Vision",
-    "Le Roi d'Ys": "Luh Rwah Deess",
-    "Opéra national du Rhin": "Oh-peh-rah nah-syoh-nal doo Ran",
-    "Oliver Py": "Oh-lee-vyay Pee",
-    "Samy Rachid": "Sah-mee Rah-sheed",
-    "Medusa": "Meh-doo-zah",
-    "La Monnaie": "Lah Moh-neh",
-    "Così fan tutte": "Koh-zee fahn too-teh",
-    "I Lituani": "Ee Lee-too-ah-nee",
-    "Ponchielli": "Pon-kyel-lee",
-    "Vilnius": "Vil-nee-us",
-    "De Materie": "Duh Mah-teh-ree-uh",
-    "Andriessen": "Ahn-dree-sen",
-    "Šárka": "Shar-kah",
-    "Brno": "Burr-noh",
-    "Liceu": "Lee-seh-oo"
+    "Milcho Manchevski": "Meel-cho Man-chev-skee",
+    "Manchevski": "Man-chev-skee",
+    "Lisandro Alonso": "Lee-san-dro Ah-lon-so",
+    "Sun Xun": "Swun Shoon",
+    "Hu Ling": "Who Ling",
+    "Narita Ryo": "Nah-ree-tah Ryoh",
+    "Mishima Yukiko": "Mee-shee-mah Yoo-kee-koh",
+    "Jelena Maksimović": "Yeh-leh-nah Mahk-see-moh-vitch",
+    "Teodora Ana Mihai": "Teh-oh-doh-rah Ah-nah Mee-high",
+    "Tareq Daoud": "Tah-rek Dah-ood",
+    "Serife Tavsan": "Sheh-ree-feh Tahv-shahn",
+    "Tanaka Miki": "Tah-nah-kah Mee-kee",
+    "Mohammad Rasoulof": "Moh-ham-mad Rah-soo-lof",
+    "O Mipo": "Oh Mee-poh",
+    "Kurosawa Akira": "Koo-roh-sah-wah Ah-kee-rah",
+    "Pietro Marcello": "Pyeh-tro Mar-chel-lo",
+    "Valeria Bruni-Tedeschi": "Vah-leh-ree-ah Broo-nee Teh-des-kee",
+    "Noémie Merlant": "No-eh-mee Mair-lahn",
+    "Fausto Russo Alesi": "Fow-sto Roo-so Ah-leh-zee",
+    "Noémie Lvovsky": "No-eh-mee Luh-vov-skee",
+    "D'Annunzio": "Dah-noon-tsee-oh",
+    "Duse": "Doo-zeh",
+    "Eleonora Duse, la divina": "Eh-leh-oh-noh-rah Doo-zeh, lah dee-vee-nah",
+    "Stillz": "Stills",
+    "Medellín": "Meh-deh-yeen",
+    "Barrio Triste": "Bah-ree-oh Tree-steh",
+    "Arca": "Ar-kah",
+    "Iain Forsyth": "Ee-an For-sith",
+    "L'affaire Bojarski": "Lah-fair Bo-yar-skee",
+    "Hlynur Pálmason": "Hlee-nur Pow-l-mah-son",
+    "Bàrbara Farré": "Bar-bah-rah Fah-reh",
+    "Mala bèstia": "Mah-lah Bess-tee-ah",
+    "Filmin": "Fil-min",
+    "Claire Denis": "Clair Duh-nee",
+    "Chocolat": "Sho-ko-lah",
+    "Bong Joon-ho": "Bong Joon-ho",
+    "Flora Gomes": "Floh-rah Goh-mesh",
+    "Luis Sérgio Person": "Loo-eez Sair-zhee-oh Per-sohn",
+    "Timité Bassori": "Tee-mee-teh Bah-so-ree",
+    "Bahram Beyzai": "Bah-rahm Bay-zye",
+    "Damiano Michieletto": "Dah-mee-ah-no Mee-kyeh-let-toh",
+    "Sesto Quatrini": "Seh-sto Kwah-tree-nee",
+    "Ginger Costa-Jackson": "Ginger Costa-Jackson",
+    "Carmen Curlers": "Car-men Curlers",
+    "El cuerpo": "El Kwair-po",
+    "Le Roi d'Ys": "Luh Rwah Dees",
+    "Heysel 85": "High-sel eighty-five",
+    "Côte d'Ivoire": "Coat Dee-vwar",
+    "Lerer": "Leh-rer",
+    "Micropsia": "Mee-crop-see-ah",
+    "Movistar Plus": "Moh-vee-star Plus"
   }
 }
