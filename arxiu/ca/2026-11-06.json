@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "territory": "ES",
+  "generatedAt": "2026-11-05T23:40:00Z",
+  "reports": [
+    {
+      "id": "2026-11-06-estrenes-miserables-11",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Divendres 6 de novembre a Espanya: «Los miserables» en tres hores, el terror català «11» i un documental sobre Carmen Laforet",
+      "deck": "A més dels grans estrenes ja explicades, la cartellera de divendres té una adaptació fidel de Hugo, un debut de dues cosines a Sitges i un documental literari.",
+      "paragraphs": [
+        "«Los miserables» de Fred Cavayé s'estrena avui a Espanya, amb Vincent Lindon com a Jean Valjean i Tahar Rahim com a Javert, a més de Camille Cottin, Benjamin Lavernhe i Noémie Merlant. Dura prop de tres hores, segons Cinemascomics. Després de la projecció a Sant Sebastià, la crítica de SensaCine en va lloar la fidelitat a la novel·la i el repartiment, però va considerar que aquesta fidelitat n'és el límit: no troba cap manera nova d'explicar la història i la segona meitat se li fa pesada. No l'hem vista; és l'opinió d'ella, no la nostra.",
+        "«11» és el primer llargmetratge de les cosines Paula i Clàudia Serra, que el van començar com a guió universitari a la Pompeu Fabra. Segons Ara, va ser l'única pel·lícula en català original de la competició de Sitges. Un grup d'escoltes queda aïllat per una nevada en un refugi de muntanya quan hi apareix una presència inesperada; les directores diuen que els interessava menys d'on ve el mal que la desconfiança que provoca. Dura uns 90 minuts. Ara destaca la interpretació de Mia Sala-Patau. Només n'hem llegit.",
+        "També s'estrena «Por qué no escribo nada», el documental d'Isabel Fernández sobre la novel·lista Carmen Laforet, amb aportacions de Najat El Hachmi i Laura Freixas; va guanyar la millor música al BCN Film Fest. La resta de la cartellera («Godzilla Minus Zero», «Sacamantecas», «Ruega por nosotras», «Fiesta Pagäna») és a edicions anteriors."
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemascomics – estrenos del 6 de noviembre",
+          "url": "https://www.cinemascomics.com/estrenos-de-cine-del-6-de-noviembre-de-2026/",
+          "kind": "other"
+        },
+        {
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
+          "kind": "other"
+        },
+        {
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Les Misérables",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Los miserables"
+        },
+        {
+          "title": "11",
+          "year": 2026,
+          "kind": "film"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-tallinn-obertura",
+      "section": "festivals",
+      "subject": "film",
+      "headline": "Tallinn Black Nights obre avui la 30a edició amb 230 llargmetratges, un focus basc i films de Zvyagintsev i McDonagh",
+      "deck": "El festival dura fins al 22 de novembre a Tallinn i Tartu; la pel·lícula d'obertura és la coproducció bàltica «Ulya», liderada per Letònia.",
+      "paragraphs": [
+        "El PÖFF, el festival Tallinn Black Nights, se celebra del 6 al 22 de novembre. El seu programa parla de 230 llargmetratges i 259 curts de 87 països, amb 107 estrenes mundials. La pel·lícula d'obertura és «Ulya», coproducció d'Estònia, Letònia i Lituània liderada per Letònia.",
+        "El programa esmenta «Minotaur» d'Andrey Zvyagintsev, «Wild Horse Nine» de Martin McDonagh, «Fatherland» de Paweł Pawlikowski, «I Am Rocky» de Peter Farrelly i «The Black Ball», de Javier Ambrossi i Javier Calvo. Hi ha un focus sobre el cinema basc, i «Joy Will Prevail» de Max Korman, sobre l'arquitecte Louis Kahn, té l'estrena internacional el 7 de novembre.",
+        "Les competicions de documentals van del 7 al 13 de novembre; la Selecció Oficial, Primera Pel·lícula, Rebels with a Cause, Critics' Picks i la bàltica, del 13 al 19. El jurat i la llista completa de la competició no eren a les pàgines que hem llegit; no els donem. No sabem quines d'aquestes pel·lícules arribaran a Espanya."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "EE",
+      "status": "confirmed",
+      "evidence": "primarySource",
+      "sources": [
+        {
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
+        },
+        {
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-plataformes-divendres",
+      "section": "services",
+      "subject": "film",
+      "headline": "Divendres a les plataformes a Espanya: «Cumbres borrascosas» a Movistar Plus+, «Palacio» i «Un amor posible» a Netflix i la tanda de Filmin",
+      "deck": "Una guia de plataformes llista les estrenes del 6 de novembre; només n'hem confirmat el títol i la plataforma, no el detall de cada obra.",
+      "paragraphs": [
+        "La guia de MarketingDirecto del 6 al 15 de novembre posa a Netflix la pel·lícula «Un amor posible», la sèrie «Palacio» i el documental «Desprotexida: El crimen de Pazos». A Movistar Plus+ arriben «Cumbres borrascosas» i la tercera temporada de la sèrie documental «Una vida en diez fotos». Prime Video afegeix la sèrie «Campus Drivers» i HBO Max «Melania Rea».",
+        "Filmin llista «Eleonora Duse, la divina», «En la alcoba del sultán», «Broken English», «La vida era eso» i «Barrio triste». «Duse» i «Barrio triste» van sortir ahir. Per als propers dies, la mateixa guia esmenta la tercera temporada de «Carmen Curlers» a Filmin el dia 10 i «La copia perfecta» el 13. Una sola font: les dates poden canviar."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "MarketingDirecto – streaming releases 6-15 November",
+          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Wuthering Heights",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Cumbres borrascosas"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-operavision-de-materie",
+      "section": "stage",
+      "subject": "film",
+      "headline": "OperaVision programa per aquesta nit a les 19:00 CET «De Materie» d'Andriessen, d'Opera Ballet Vlaanderen",
+      "deck": "És una emissió programada; no hem verificat una captació completa amb accés indicat, i per això no la fitxem com a tal.",
+      "paragraphs": [
+        "La pàgina d'inici d'OperaVision situa «De Materie», de Louis Andriessen, a la llista de «pròximament» per al 6 de novembre a les 19:00 CET, d'Opera Ballet Vlaanderen. La pàgina de la companyia descriu una producció nova dirigida per Phia Ménard i dirigida musicalment per Bas Wiegers, d'una durada d'1 hora 50 minuts aproximadament. La pàgina d'OperaVision no indica subtítols ni quant de temps quedarà en línia.",
+        "La mateixa llista dona «Šárka» (Janáček, National Theatre Brno) el 15 de novembre, «Little Bear and the Ice Mountain» i «Turandot. Riddles at the museum» el 22, i «Peter Grimes» de Britten (Finnish National Opera and Ballet) el 26. «Le Roi d'Ys» continua marcada com a «last chance to watch». Avui no hem trobat cap altra captació completa de teatre verificada."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": null,
+      "status": "announced",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
+          "kind": "official"
+        },
+        {
+          "name": "Opera Ballet Vlaanderen – De Materie",
+          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-calendari",
+      "section": "calendar",
+      "subject": "film",
+      "headline": "Calendari: Tallinn des d'avui, el biopic de Kahn el dia 7, «Carmen» als cinemes el 10 i «El cuerpo» l'11",
+      "deck": "Dates comprovades avui, cadascuna amb el territori; les estrenes als cinemes espanyols del dia 6 són al primer reportatge i a l'edició d'ahir.",
+      "paragraphs": [
+        "Divendres 6: s'obre Tallinn Black Nights (Estònia); «De Materie» a OperaVision a les 19:00 CET; estrenes a les plataformes a Espanya com dalt. Dissabte 7: estrena internacional de «Joy Will Prevail» a Tallinn; competicions de documentals fins al 13. Diumenge 8: segona temporada de «Ciudad de Dios: La lucha no para» a HBO Max a Espanya, i «Le Roi d'Ys» continua marcada com a darrera oportunitat.",
+        "Dimarts 10: «Carmen» de la Royal Ballet and Opera als cinemes (internacional; Espanya sense confirmar). Dimecres 11: «El cuerpo» i «Avedon» a Netflix. Divendres 13: «La copia perfecta» a Filmin; comencen les competicions de Tallinn. Diumenge 15: «Šárka» a OperaVision. Diumenge 22: es clou Tallinn. Dijous 26: «Peter Grimes» a OperaVision. Les dates venen de les guies citades i poden canviar."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "MarketingDirecto – streaming releases 6-15 November",
+          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "kind": "other"
+        },
+        {
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
+        },
+        {
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: «Los miserables» si t'agraden els clàssics, «11» per al terror català i «Joy Will Prevail» de Tallinn",
+      "deck": "Afinitat editorial, no és la nota de la crítica ni del públic.",
+      "paragraphs": [
+        "«Los miserables» (cinemes d'Espanya, 6 de novembre). Afinitat 3 sobre 5, confiança mitjana: drama d'època amb un gran repartiment, però la crítica que citem avisa d'una segona meitat pesada. No l'hem vista.",
+        "«11» (cinemes d'Espanya, 6 de novembre). Afinitat 4 sobre 5, confiança baixa: terror de muntanya d'aire folklòric de dues directores debutants, jutjat només per una entrevista i sinopsis. «Joy Will Prevail» (Tallinn, estrena internacional el 7 de novembre): afinitat 3 sobre 5, confiança baixa, perquè només en coneixem el tema, l'arquitecte Louis Kahn; no té data a Espanya.",
+        "El dia en breu: un divendres de drama d'època i terror català als cinemes, un festival nou que comença al Bàltic i una òpera de Bèlgica aquesta nit. Avui no s'ha verificat cap notícia d'edició física ni d'indústria."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
+          "kind": "other"
+        },
+        {
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
+          "kind": "other"
+        },
+        {
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
+          "kind": "official"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Les Misérables",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Los miserables"
+        },
+        {
+          "title": "11",
+          "year": 2026,
+          "kind": "film"
+        }
+      ]
+    }
+  ],
+  "recommendedTitles": [
+    {
+      "title": "Les Misérables",
+      "year": 2026,
+      "kind": "film",
+      "knownAs": "Los miserables"
+    },
+    {
+      "title": "11",
+      "year": 2026,
+      "kind": "film"
+    }
+  ]
+}

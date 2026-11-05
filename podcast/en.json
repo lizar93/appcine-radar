@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-05",
-  "title": "World Cinema Radar — the podcast, Thursday 5 November 2026",
+  "date": "2026-11-06",
+  "title": "World Cinema Radar — the podcast, Friday 6 November 2026",
   "segments": [
     {
       "id": "intro",
@@ -9,393 +9,485 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and it's Thursday the fifth of November."
+          "text": "Hello, and welcome to World Cinema Radar, the podcast. I'm {A}, and today is Friday the sixth of November, twenty twenty-six."
         },
         {
           "speaker": "B",
-          "text": "And I'm {B}. <chuckle> A quieter morning for headlines, but a good one for what you can actually watch this weekend."
+          "text": "And I'm {B}. <chuckle> Friday, so cinemas are full of new things. Let's see what the Radar found this morning."
         },
         {
           "speaker": "A",
-          "text": "Right. Three big things today. First, the Tokyo International Film Festival closed yesterday, and we have the full list of winners."
+          "text": "We have three big topics. First, a long, faithful version of Les Misérables that opens in Spain today."
         },
         {
           "speaker": "B",
-          "text": "Second, Friday on Filmin in Spain. A film about one of the greatest stage actresses of all time lands there, and it fits this show perfectly."
+          "text": "Second, a small Catalan horror film from two cousins, which played at Sitges. I'm quite curious about that one."
         },
         {
           "speaker": "A",
-          "text": "And third, opera in cinemas. The Royal Ballet and Opera has a Carmen coming on the tenth. <short pause> With a catch about Spain."
+          "text": "And third, a festival that starts today far away from here: Tallinn Black Nights, in Estonia. Thirty years old, and huge."
         },
         {
           "speaker": "B",
-          "text": "As always, everything we say is in the written edition, with sources and dates. And where the sources disagree, we say so."
+          "text": "Plus a Belgian opera tonight, the platforms, and the calendar for the next three weeks. As always, the full edition is in the app."
         },
         {
           "speaker": "A",
-          "text": "We also keep the usual rule. Confirmed things are separated from provisional ones, and we don't say a film is available in Spain unless a source says so."
+          "text": "Good. And one reminder: we haven't seen these films. When we talk about a review, it is somebody else's opinion, and we'll say whose."
         },
         {
           "speaker": "B",
-          "text": "And no spoilers, of course. <chuckle> Not that there is much to spoil today."
+          "text": "A quick note about how we work. Everything we say comes from the written edition of today, with its sources, and nothing from memory."
         },
         {
           "speaker": "A",
-          "text": "Which happens today, a couple of times. <chuckle> Let's start in Tokyo."
+          "text": "Yes, and when a fact is only in one guide, we say so. That happens today with the platform list."
+        },
+        {
+          "speaker": "B",
+          "text": "It's a gentle Friday for news, but a rich one for things to watch. So let's not waste time."
+        },
+        {
+          "speaker": "A",
+          "text": "Right. Let's start with Fred Cavayé."
         }
       ]
     },
     {
-      "id": "2026-11-05-tokyo-palmares",
-      "title": "Tokyo hands out its prizes",
+      "id": "2026-11-06-estrenes-miserables-11",
+      "title": "Les Misérables, eleven and a documentary",
       "turns": [
         {
           "speaker": "A",
-          "text": "So, Tokyo. The thirty-ninth edition finished on Wednesday evening, and the top prize, the Tokyo Grand Prix, went to \"Sister Brother Manhole Cover\", by Milcho Manchevski."
+          "text": "So, Les Misérables. In Spain it's Los miserables, and it opens today. Directed by Fred Cavayé, with Vincent Lindon as Jean Valjean."
         },
         {
           "speaker": "B",
-          "text": "Manchevski. And that is a very international result, because it's a co-production of six countries: North Macedonia, Bulgaria, Serbia, Albania, Italy and the United Kingdom."
+          "text": "And Tahar Rahim as Javert. That's a great pairing on paper. <breath> Add Camille Cottin, Benjamin Lavernhe and Noémie Merlant."
         },
         {
           "speaker": "A",
-          "text": "Producer Jane Kortoshev accepted the prize on his behalf. Which means the director wasn't on stage, but the film got the biggest moment of the night."
+          "text": "Wow, that is a serious cast. How long is it? Because I know Hugo is not a short novel."
         },
         {
           "speaker": "B",
-          "text": "Six countries. That's a very Balkan way to make a film. <laugh> What's it about, without spoilers?"
+          "text": "Cinemascomics says close to three hours. So, bring a snack."
         },
         {
           "speaker": "A",
-          "text": "Trade coverage describes two orphaned siblings who make a living stealing manhole covers and bronze statues of national heroes. And the jury praised what they called a seamless blend of humour, tragedy and drama."
+          "text": "<chuckle> Fair. It was shown in San Sebastián, and SensaCine's critic wrote about it there. What did she think?"
         },
         {
           "speaker": "B",
-          "text": "Okay, that already sounds like my kind of thing. A dark comedy with a social edge. But let's be honest, we haven't seen it, and we found no review."
+          "text": "She liked the fidelity. She says it translates Hugo's novel precisely, the period world is well built, and Lindon and Rahim are very good."
         },
         {
           "speaker": "A",
-          "text": "Exactly. So it's a title to watch, not one to recommend yet. And there's no Spanish release date that we can verify."
+          "text": "|oh nice| But?"
         },
         {
           "speaker": "B",
-          "text": "Now the rest of the competition. The Special Jury Prize went to \"Magic Atlas\", from Singapore, directed by Sun Xun."
+          "text": "But she says that the same fidelity is the limit. The film doesn't find a new way to tell the story, and for her the second half feels heavy."
         },
         {
           "speaker": "A",
-          "text": "And best director went to Lisandro Alonso, for \"Double Freedom\". It's a co-production between Chile, Argentina, Luxembourg, Germany and the United Kingdom."
+          "text": "So, a respectable, classical adaptation. Which is not an insult, honestly. Some days that is exactly what you want."
         },
         {
           "speaker": "B",
-          "text": "Alonso is the kind of director whose films you never forget, even if you can't explain them. Good news for him."
+          "text": "Exactly. For someone who likes period cinema, it's a safe bet. Our affinity note is three out of five, medium confidence."
         },
         {
           "speaker": "A",
-          "text": "The acting awards. Best actress is Hu Ling, for \"The Night That Binds Us\", a France and Hong Kong film. And best actor is Narita Ryo, for \"Two Cigarettes, Three Nights\", from Japan."
+          "text": "And again, that's the critic's view. We haven't seen it."
         },
         {
           "speaker": "B",
-          "text": "His director, Mishima Yukiko, went up to collect it for him. Then best artistic contribution went to \"Until the Day Ends\", by Jelena Maksimović, for its cinematography."
+          "text": "Right. Now, the one I'm more excited about. A film simply called eleven."
         },
         {
           "speaker": "A",
-          "text": "And the Audience Award is \"Heysel 85\", by Teodora Ana Mihai."
+          "text": "Just the number. <giggle> Love it. What's the story?"
         },
         {
           "speaker": "B",
-          "text": "There are also the side sections. In Asian Future, the best film is \"Serife Tavsan\", by Tareq Daoud. <short pause> And here's one of our disagreements."
+          "text": "It's the first feature by Paula and Clàudia Serra. They're cousins, both born in nineteen ninety-eight, a month apart."
         },
         {
           "speaker": "A",
-          "text": "Yes. The festival's winners page prints that title as if it were the director's name. The ceremony report gives the title properly, so that's the one we follow."
+          "text": "A month apart! And they started it as a class script at Pompeu Fabra University, according to Ara."
         },
         {
           "speaker": "B",
-          "text": "Always check the second page. <chuckle> And in Nippon Cinema Now, the best film is \"silver express\", by Tanaka Miki."
+          "text": "Yes. And then producer David Matamoros helped turn it into a real production. At Sitges it was the only film in original Catalan in the competition."
         },
         {
           "speaker": "A",
-          "text": "One more thing I liked. The Kurosawa Akira Award, which comes with a million yen for each winner, went to two directors: O Mipo from Japan, and Mohammad Rasoulof from Iran."
+          "text": "That's a nice detail. So what happens, without spoilers?"
         },
         {
           "speaker": "B",
-          "text": "Rasoulof, whom the committee praised for his uncompromising look at injustice and oppression."
+          "text": "A group of scouts, two leaders and ten children, goes up the mountain. A snowstorm cuts them off in a refuge, and then an unexpected figure appears."
         },
         {
           "speaker": "A",
-          "text": "Presented the night before the closing ceremony, at the Imperial Hotel. So, summary: nothing here has a verified Spanish date yet, but the list is a good map of what might show up at festivals in the next months."
+          "text": "Oh, I like that. Mistrust in a closed place, in the snow."
         },
         {
           "speaker": "B",
-          "text": "One thing worth saying about all these names. Many of these films come from places that rarely reach a Spanish cinema: Singapore, the Balkans, Japan's independent scene."
+          "text": "The directors say they weren't so interested in where the evil comes from. They were interested in the argument it creates among the adults when it has the face of a child."
         },
         {
           "speaker": "A",
-          "text": "Right, and that is exactly why a festival list like this is useful. It tells you which titles to look for if a distributor or a platform picks them up later. <breath>"
+          "text": "|hmm| That's much more interesting than a monster. It runs about ninety minutes, which is perfect for this kind of story."
         },
         {
           "speaker": "B",
-          "text": "The edition is careful on that point. It says none of the winning films has a Spanish release date we can verify. So we don't promise anything."
+          "text": "And Ara singles out Mia Sala-Patau, who plays one of the leaders. Our note for eleven is four out of five, but low confidence, because we have only read an interview and synopses."
         },
         {
           "speaker": "A",
-          "text": "And we won't pretend we've seen them. For the Grand Prix winner, all we have is the official award page, the jury's comment, and the trade description of the story."
+          "text": "Honestly? Of the two, this is the one I'd go and see first. <chuckle>"
         },
         {
           "speaker": "B",
-          "text": "Fair. The official pages are the festival's own, and the sales news comes from the trade press. We keep those apart in the sources."
+          "text": "Of course you would. There's also a documentary today: Por qué no escribo nada, by Isabel Fernández."
         },
         {
           "speaker": "A",
-          "text": "Also, the ceremony was on the fourth of November, at Hulic Hall in Tokyo. Just so the date is clear for the listeners."
+          "text": "About the novelist Carmen Laforet. With contributions from Najat El Hachmi and Laura Freixas, and it won best music at the BCN Film Fest."
         },
         {
           "speaker": "B",
-          "text": "And remember, the full list is in the edition, with links to the official festival pages."
+          "text": "Let me go back to the Hugo for a second. The story is the one everybody knows: a man steals bread, and a policeman chases him for decades."
+        },
+        {
+          "speaker": "A",
+          "text": "And that is the beauty of it. You know the shape, so the question is only what the film does with it. The critic's answer is: nothing very new, but it does it carefully."
+        },
+        {
+          "speaker": "B",
+          "text": "There is also the length. Three hours in a cinema is a commitment. <breath> But with this kind of material, a shorter version usually loses the minor characters."
+        },
+        {
+          "speaker": "A",
+          "text": "The critic mentions them, by the way: the supporting characters and the young rebels all get their place. So at least it doesn't rush."
+        },
+        {
+          "speaker": "B",
+          "text": "Okay, but is that a plus for you? Be honest."
+        },
+        {
+          "speaker": "A",
+          "text": "Honestly? It depends on the evening. If I want a big, old-fashioned story with good actors, yes. If I want to be surprised, then I'd pick eleven. <laugh>"
+        },
+        {
+          "speaker": "B",
+          "text": "You always pick the horror one. It's in the profile, though. Terror in all its variants, and a Catalan mountain story fits very well."
+        },
+        {
+          "speaker": "A",
+          "text": "One more thing about eleven. Paula Serra says horror films scared them a lot before they made it, and they watched many while preparing it."
+        },
+        {
+          "speaker": "B",
+          "text": "|really?| Yes. And it wasn't even meant to be horror at the beginning. It started as a story about scouts who find another child."
+        },
+        {
+          "speaker": "A",
+          "text": "I like that. The genre arrives because the story demands it, not the other way around."
+        },
+        {
+          "speaker": "B",
+          "text": "And the Sitges detail again: they had never been to the festival before. Their first feature, and straight into the competition."
+        },
+        {
+          "speaker": "A",
+          "text": "That's a good way to start a career. We'll see if the film is as good as the idea."
+        },
+        {
+          "speaker": "B",
+          "text": "Nice. And the rest of today's openings, Godzilla, Sacamantecas, Ruega por nosotras, they were in the earlier editions, so we won't repeat them."
         }
       ]
     },
     {
-      "id": "2026-11-05-filmin-duse-novembre",
-      "title": "Filmin and Duse",
+      "id": "2026-11-06-tallinn-obertura",
+      "title": "Tallinn Black Nights opens",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now the part I like most today. Filmin, in Spain, on Friday the sixth of November, adds \"Duse\", by Pietro Marcello. In Spain it appears as \"Eleonora Duse, la divina\"."
+          "text": "Now, a festival. Tallinn Black Nights, called PÖFF, starts today, and it runs until the twenty-second of November."
         },
         {
           "speaker": "B",
-          "text": "Theatre history on screen. <short pause> Remind us who she was."
+          "text": "Thirtieth edition. And the numbers are big: two hundred and thirty features and two hundred and fifty-nine shorts, from eighty-seven countries."
         },
         {
           "speaker": "A",
-          "text": "Eleonora Duse was one of the great Italian stage actresses. The film follows her last years, when she returns to the stage despite her fragile health."
+          "text": "A hundred and seven world premieres, says the festival's own programme. That's a lot of films nobody has seen yet."
         },
         {
           "speaker": "B",
-          "text": "And it has Valeria Bruni-Tedeschi in the lead. With Noémie Merlant as her daughter, Fausto Russo Alesi as the poet D'Annunzio, and Noémie Lvovsky as Sarah Bernhardt."
+          "text": "The opening film is Ulya, a co-production between Estonia, Latvia and Lithuania, led by Latvia."
         },
         {
           "speaker": "A",
-          "text": "Sarah Bernhardt. That's a casting that makes you smile already. <chuckle> It's an Italian and French film, from twenty twenty-five, a hundred and twenty-two minutes. It competed in Venice, and it was in the official section at Seminci last year."
+          "text": "And the names in the programme are interesting. Andrey Zvyagintsev has a film called Minotaur."
         },
         {
           "speaker": "B",
-          "text": "What does the critic say? You have Diego Lerer at Micropsia."
+          "text": "Martin McDonagh has Wild Horse Nine. <short pause> I would love to know what that one is."
         },
         {
           "speaker": "A",
-          "text": "He says it's melodramatic, so much that it might irritate some viewers. But he finds that it suits the character. The script is classic and conventional, and the film inserts some documentary-style images of the period."
+          "text": "Paweł Pawlikowski has Fatherland, Peter Farrelly has I Am Rocky, and there's The Black Ball, by Javier Ambrossi and Javier Calvo."
         },
         {
           "speaker": "B",
-          "text": "Hm. So the film is on the shoulders of the lead actress."
+          "text": "That's the Spanish duo, no? Interesting to see them in the Baltics."
         },
         {
           "speaker": "A",
-          "text": "Yes. And he says the second half is the strongest, when her health, her work and her relationships decline. He finds it relevant because it looks at how art, life and politics mix dangerously."
+          "text": "The page doesn't say what country it represents, so we just say who directs it. There's also a spotlight on Basque cinema."
         },
         {
           "speaker": "B",
-          "text": "For this show, honestly, it ticks a lot of boxes. Theatre, period drama, fascism arriving in the background. We haven't seen it, so the affinity note you'll hear later is based on that review."
+          "text": "Good for Basque cinema. And there's a film about the architect Louis Kahn, Joy Will Prevail, with its international premiere tomorrow."
         },
         {
           "speaker": "A",
-          "text": "A small point on the title, because it can confuse people. In Spain the film appears as \"Eleonora Duse, la divina\". The original title is simply \"Duse\"."
+          "text": "Yes, Saturday the seventh. The director, Max Korman, and the actor Griffin Dunne will hold an open press conference."
         },
         {
           "speaker": "B",
-          "text": "Good to know when you search for it. <chuckle> The film is Pietro Marcello's, and it's set after the First World War, when Italy buries its unknown soldier."
+          "text": "The competitions are staged in turns. The documentary ones run from the seventh to the thirteenth."
         },
         {
           "speaker": "A",
-          "text": "That is from the Seminci page. It describes her strained relationship with her daughter, her complicated bond with D'Annunzio, and the rise of fascism in the background."
+          "text": "And then the Official Selection, First Feature, Critics' Picks and the others, from the thirteenth to the nineteenth."
         },
         {
           "speaker": "B",
-          "text": "I like that the film doesn't try to tell her whole life. The critic says that choosing the last years is what makes it coherent."
+          "text": "Important to say: the pages we read don't list the jury or the full competition, so we don't invent them."
         },
         {
           "speaker": "A",
-          "text": "The same day Filmin also adds \"Barrio Triste\", the debut of a director known as Stillz, produced by Harmony Korine."
+          "text": "Let me give a bit of context. This is the thirtieth edition, so the festival is celebrating."
         },
         {
           "speaker": "B",
-          "text": "Teenagers from the suburbs of Medellín steal a local television camera and wander around the city. There's a bank robbery, and a strange paranormal encounter. And music by Arca."
+          "text": "They even made a special stamp and decorated a tram with artwork by the animator Priit Pärn. I love that."
         },
         {
           "speaker": "A",
-          "text": "That sounds either brilliant or a mess. <laugh> And there's a documentary, \"Broken English\", about Marianne Faithfull, by Iain Forsyth and Jane Pollard."
+          "text": "A tram! <giggle> A festival you can ride."
         },
         {
           "speaker": "B",
-          "text": "It covers her rise, her records, her addictions, and the relationship with Mick Jagger."
+          "text": "There are also three exhibitions opened for the anniversary, and the industry side, Industry at Tallinn, runs from the ninth to the twentieth of November."
         },
         {
           "speaker": "A",
-          "text": "Honestly, a Friday on Filmin with this plus a documentary and a strange debut is a good weekend plan. Three very different moods."
+          "text": "And tickets are cheap. Thirteen euros for the main programme, eleven for the shorts and Just Film."
         },
         {
           "speaker": "B",
-          "text": "Different moods, yes. One is a melodrama about the theatre, one is a street adventure, and one is a music documentary. <laugh> Something for everybody."
+          "text": "For anyone who loves discoveries, that is the thing. A hundred and seven world premieres, so many names will be new."
         },
         {
           "speaker": "A",
-          "text": "Then the rest of November on Filmin. We won't read all of it, but a few things. On the thirteenth, \"L'affaire Bojarski\", a postwar Paris story about a master forger."
+          "text": "And it fits the minor cinemas side of the profile. Baltic films, Basque cinema, debut features. Far from the Hollywood noise."
         },
         {
           "speaker": "B",
-          "text": "And on the twenty-seventh, \"The Love That Remains\", by Hlynur Pálmason. A family drama in Iceland's landscapes. Pálmason is a name to remember."
+          "text": "Still, we have to be careful. A name in a programme is only a name. We don't know what these films are like, or whether any will be released in Spain."
         },
         {
           "speaker": "A",
-          "text": "There's also \"Mala bèstia\", the debut of Bàrbara Farré, on the twentieth. A mystery fable, described as heir to \"Lazzaro Felice\"."
+          "text": "True. We'll follow the awards at the end of the festival and tell you."
         },
         {
           "speaker": "B",
-          "text": "That one I want to know more about. And one more disagreement to mention: the third season of the Danish series \"Carmen Curlers\"."
-        },
-        {
-          "speaker": "A",
-          "text": "OtrosCines says the twenty-fourth. A MarketingDirecto guide says the tenth. We can't resolve it, so check Filmin directly."
-        },
-        {
-          "speaker": "B",
-          "text": "The rest, with dates, is in the edition. Dates are Filmin Spain, and we haven't verified subtitles or how long the titles stay."
+          "text": "And we don't know which of these will reach Spain. But festival news is like that. You hear the names first, then you wait."
         }
       ]
     },
     {
-      "id": "2026-11-05-criterion-gener-2027",
-      "title": "Criterion in January",
+      "id": "2026-11-06-plataformes-divendres",
+      "title": "Friday on the platforms",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now physical media. Criterion has revealed its January twenty twenty-seven slate, according to The Film Stage."
+          "text": "Let's go to the platforms. A guide from MarketingDirecto lists what arrives in Spain from today until the fifteenth."
         },
         {
           "speaker": "B",
-          "text": "And the big name is \"Parasite\", by Bong Joon-ho, which goes to 4K, an upgrade from the twenty twenty-one edition."
+          "text": "On Netflix today: a film called Un amor posible, the series Palacio, and a documentary, Desprotexida: El crimen de Pazos."
         },
         {
           "speaker": "A",
-          "text": "Next to it, \"Deliverance\", by John Boorman, in a new 4K edition with restored sound. And \"Midnight Cowboy\" at full resolution for the first time since twenty eighteen."
+          "text": "On Movistar Plus there's Cumbres borrascosas, which is Wuthering Heights, and the third season of a documentary series about photographs."
         },
         {
           "speaker": "B",
-          "text": "On Blu-ray, \"Chocolat\", by Claire Denis, and \"Career Girls\", by Mike Leigh. <short pause> Denis's debut feature, the article says."
+          "text": "Prime Video has Campus Drivers, and HBO Max has a series called Melania Rea."
         },
         {
           "speaker": "A",
-          "text": "My favourite is the box. World Cinema Project, volume six, presented by Martin Scorsese. Four recovered films: from Guinea-Bissau, Brazil, Côte d'Ivoire and Iran."
+          "text": "And Filmin has five. We covered Duse and Barrio Triste yesterday, but the list also has Broken English and En la alcoba del sultán."
         },
         {
           "speaker": "B",
-          "text": "Names of the directors, quickly. Flora Gomes, Luis Sérgio Person, Timité Bassori and Bahram Beyzai. The titles are in the edition."
+          "text": "Later: Carmen Curlers, season three, on Filmin on the tenth. And La copia perfecta on the thirteenth."
         },
         {
           "speaker": "A",
-          "text": "It's interesting to see Criterion mixing a modern hit with older classics and a box of rarely seen films."
+          "text": "One warning: it's a single guide, so dates can move. Check the platform before you plan your weekend."
         },
         {
           "speaker": "B",
-          "text": "Yes. And the World Cinema Project box is the kind of thing that makes a physical collection worth having. It brings back films that were hard to see."
+          "text": "Something I noticed in that guide: it's a very Movistar weekend. After Wuthering Heights today, the seventh brings two more films, the eighth and the ninth too."
         },
         {
           "speaker": "A",
-          "text": "But here's the catch, and it's a big one for listeners in Spain. This is a US edition. The article gives no exact dates and no extras, and we don't know about disc region, Spanish or Catalan subtitles, or distribution in Spain."
+          "text": "It looks like a film every day. Zona cero, 9 lunas, Hermanos. We know the titles, not much more, so we won't pretend."
         },
         {
           "speaker": "B",
-          "text": "So for now, it's an import. <sigh> Check Criterion's site for the details."
+          "text": "Right. And on the twelfth HBO Max puts a few classics in the catalogue, like 1917 and Little Miss Sunshine."
+        },
+        {
+          "speaker": "A",
+          "text": "Nice for a rewatch. And on the thirteenth, Netflix has Heartland and a miniseries about the Pazos crime."
+        },
+        {
+          "speaker": "B",
+          "text": "There's also a Netflix documentary about the photographer Avedon on the eleventh, if you like photography."
+        },
+        {
+          "speaker": "A",
+          "text": "Always. <chuckle> Okay. Now the opera."
         }
       ]
     },
     {
-      "id": "2026-11-05-carmen-royal-opera-cinema",
-      "title": "Carmen at the cinema",
+      "id": "2026-11-06-operavision-de-materie",
+      "title": "De Materie tonight",
       "turns": [
         {
           "speaker": "A",
-          "text": "Now the stage corner. The Royal Ballet and Opera brings \"Carmen\", by Bizet, to cinemas on the tenth of November."
+          "text": "Tonight at seven in the evening, Central European time, OperaVision lists De Materie, by Louis Andriessen."
         },
         {
           "speaker": "B",
-          "text": "It's a revival of Damiano Michieletto's production, with Sesto Quatrini conducting, and Ginger Costa-Jackson and Russell Thomas as Carmen and Don José."
+          "text": "The Dutch composer. It comes from Opera Ballet Vlaanderen, in Belgium."
         },
         {
           "speaker": "A",
-          "text": "And that's what both the distributor, Trafalgar Releasing, and OperaWire say. But there are some caveats, and they matter."
+          "text": "The company says it's a new production, directed by Phia Ménard, conducted by Bas Wiegers, about an hour and fifty minutes."
         },
         {
           "speaker": "B",
-          "text": "First, the distributor lists it as available internationally, but doesn't name Spain. And we found no Spanish cinema listing it."
+          "text": "An hour and fifty. That's not too long for a Friday night."
         },
         {
           "speaker": "A",
-          "text": "Second, neither page says whether it is live or a recorded performance. And they give no runtime, no language and no subtitles."
+          "text": "<chuckle> But careful. The OperaVision page doesn't tell us the subtitles, or how long it stays online. So we don't call it a complete recording with access; it's a scheduled broadcast."
         },
         {
           "speaker": "B",
-          "text": "The production itself is well known. It's Michieletto's staging, which means a strongly directed Carmen, and Sesto Quatrini is in the pit."
+          "text": "Fine. And there's more coming in the same list: Šárka by Janáček on the fifteenth."
         },
         {
           "speaker": "A",
-          "text": "But we only say what the pages say. They name the director, the conductor and the two leads. For everything else, you need the cinema."
+          "text": "Two things on the twenty-second, a children's piece called Little Bear and the Ice Mountain, and a Turandot set in a museum."
         },
         {
           "speaker": "B",
-          "text": "Third, some UK cinema listings give a different cast. So, if you find a screening near you, check the cast with the venue."
+          "text": "And Britten's Peter Grimes, from the Finnish National Opera, on the twenty-sixth. Mark that one."
         },
         {
           "speaker": "A",
-          "text": "Right. And an important distinction for this section: a cinema screening is not the same as a complete recording you can watch at home. So we don't add a recording record."
+          "text": "A word on the composer. Louis Andriessen was Dutch, and De Materie is the title of this piece. It is a contemporary work."
         },
         {
           "speaker": "B",
-          "text": "We found no other new complete theatre or opera recording with verified access from Spain today. Honest answer, not an exciting one. <chuckle>"
+          "text": "I have only heard the name. So not a traditional opera?"
         },
         {
           "speaker": "A",
-          "text": "But if you missed yesterday's edition: \"Le Roi d'Ys\" expires on OperaVision on Sunday the eighth."
+          "text": "I'd better not say too much, because all I can verify is what the company and OperaVision say. The company's page says the production is directed by Phia Ménard, so it's a new view of the piece."
+        },
+        {
+          "speaker": "B",
+          "text": "Fair enough. And that is the point of the stage section every day: we look for full recordings you can really watch from Spain, with clear access."
+        },
+        {
+          "speaker": "A",
+          "text": "Today we found a scheduled broadcast, not a complete recording with a stated window. So we tell you, and we link the sources."
+        },
+        {
+          "speaker": "B",
+          "text": "Which is better than guessing. <chuckle>"
+        },
+        {
+          "speaker": "A",
+          "text": "And Le Roi d'Ys is still marked last chance to watch. We mentioned it before."
         }
       ]
     },
     {
-      "id": "2026-11-05-calendari",
-      "title": "Calendar",
+      "id": "2026-11-06-calendari",
+      "title": "The calendar",
       "turns": [
         {
           "speaker": "A",
-          "text": "Let's do the calendar. All dates are verified today and come from the platform guides we cite. They can change."
+          "text": "Calendar time. Friday the sixth is today: Tallinn opens, De Materie tonight, and the platform releases."
         },
         {
           "speaker": "B",
-          "text": "Today, Thursday the fifth, in Spain, Max adds a batch of films: \"Black Swan\", \"The Whale\", \"Jojo Rabbit\", \"Cocktail\", \"Constantine\" and \"The Color of Money\"."
+          "text": "Saturday the seventh, Joy Will Prevail premieres in Tallinn. Sunday the eighth, City of God season two arrives on HBO Max in Spain."
         },
         {
           "speaker": "A",
-          "text": "Friday the sixth is the big day. On Filmin, \"Duse\", \"Barrio Triste\" and \"Broken English\". On Movistar Plus, \"Wuthering Heights\". And on Prime Video, \"Campus Drivers\"."
+          "text": "Tuesday the tenth, the Royal Ballet and Opera's Carmen is in cinemas, but Spain is not confirmed."
         },
         {
           "speaker": "B",
-          "text": "The Friday cinema releases in Spain are in yesterday's edition, so we won't repeat them. Sunday the eighth, season two of \"City of God: The Fight Rages On\" on Max."
+          "text": "Wednesday the eleventh, El cuerpo and Avedon on Netflix. Friday the thirteenth, La copia perfecta on Filmin."
         },
         {
           "speaker": "A",
-          "text": "Saturday the seventh isn't empty either, but the guide mentions mostly documentaries and light films on Movistar Plus, so we skip them here."
+          "text": "Then the fifteenth, Šárka. The twenty-second, Tallinn closes. And the twenty-sixth, Peter Grimes."
         },
         {
           "speaker": "B",
-          "text": "Tuesday the tenth, \"Carmen\" in cinemas, international, with Spain unconfirmed. Wednesday the eleventh, \"El cuerpo\" on Netflix, and season three of \"The Rings of Power\" on Prime Video."
+          "text": "Let me read the weekend again for people who are planning. Friday: Tallinn, De Materie and the Spanish premieres."
         },
         {
           "speaker": "A",
-          "text": "Thursday the twelfth, classics on Max, like \"1917\" and \"Little Miss Sunshine\". Friday the thirteenth, \"L'affaire Bojarski\" on Filmin."
+          "text": "Saturday: Kahn's film in Tallinn, and the documentary competitions going on. Sunday: City of God on HBO Max."
         },
         {
           "speaker": "B",
-          "text": "And from the nineteenth to the twenty-seventh, the Filmin titles we mentioned, ending with \"The Love That Remains\"."
+          "text": "And next week is quieter in cinemas for us: Carmen on Tuesday, then Netflix on Wednesday."
+        },
+        {
+          "speaker": "A",
+          "text": "The calendar has all of it, with the territory for each date. That matters, because a date in Estonia is not a date in Spain."
+        },
+        {
+          "speaker": "B",
+          "text": "One more detail for the week after. On the twelfth there are classics on HBO Max, and on the thirteenth the second Filmin title I mentioned."
+        },
+        {
+          "speaker": "A",
+          "text": "And the twenty-second is a busy day: Tallinn closes, and OperaVision lists two titles that afternoon."
+        },
+        {
+          "speaker": "B",
+          "text": "Dates come from the guides and may change, as always."
         }
       ]
     },
@@ -405,39 +497,51 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "Picks. First, \"Duse\". On Filmin, Friday the sixth, in Spain. Our affinity note is four out of five, medium confidence."
+          "text": "Picks time. Les Misérables first. Affinity three out of five, medium confidence."
         },
         {
           "speaker": "B",
-          "text": "Remember, that is editorial affinity, not a critics' score. And we haven't seen it. We rely on Diego Lerer's review, which highlights the performance and warns about the melodrama."
+          "text": "A period drama with a strong cast, but the critic we cited warns about a heavy second half. If you love Hugo, go."
         },
         {
           "speaker": "A",
-          "text": "Why four? Because it's a period drama, about the theatre, with a big performance at the centre. That is close to what this show likes."
+          "text": "Eleven. Four out of five, low confidence. Mountain horror, snow, mistrust, and two debut directors. My personal pick."
         },
         {
           "speaker": "B",
-          "text": "And why only medium confidence? Because one review and a synopsis aren't enough. If you watch it this weekend, tell us whether we got it right. <chuckle>"
+          "text": "And Joy Will Prevail, from Tallinn. Three out of five, low confidence, because all we know is the subject: Louis Kahn. And it has no date in Spain."
         },
         {
           "speaker": "A",
-          "text": "Second, \"Barrio Triste\", same day on Filmin. Three out of five, low confidence, because we only have synopses."
+          "text": "A reminder that these numbers are our editorial affinity. They are not a critics' score or an audience score."
         },
         {
           "speaker": "B",
-          "text": "And third, Michieletto's \"Carmen\" on the tenth. Four out of five, if it reaches Spain. <short pause> A big if."
+          "text": "If you only have one evening, which one?"
         },
         {
           "speaker": "A",
-          "text": "For the opera lovers, the cinema is the only route for Carmen right now, since we haven't found a complete recording to watch at home."
+          "text": "Tonight, De Materie, if you like contemporary opera. Tomorrow, eleven. And keep Les Misérables for a long Sunday afternoon."
         },
         {
           "speaker": "B",
-          "text": "And if you like the theatre side, it's worth keeping Filmin in mind for the whole month. There are a lot of dates in the calendar."
+          "text": "That sounds like a plan. Honestly, I'd add Peter Grimes on the twenty-sixth to the diary now."
         },
         {
           "speaker": "A",
-          "text": "And the reminder: \"Le Roi d'Ys\" expires on OperaVision this Sunday."
+          "text": "Good. Britten, a long wait, but worth marking."
+        },
+        {
+          "speaker": "B",
+          "text": "A word about confidence. Low means we only have an interview or a synopsis. Medium means we read a review. High would mean a lot more, and we don't have it today."
+        },
+        {
+          "speaker": "A",
+          "text": "Right, and that is why we tell you whose opinion it is. We are not pretending to have seen the films."
+        },
+        {
+          "speaker": "B",
+          "text": "Right. Pick your own, and tell us if we got it wrong."
         }
       ]
     },
@@ -447,82 +551,94 @@
       "turns": [
         {
           "speaker": "A",
-          "text": "So, the idea of the day. Not many weighty news items, but a clear awards list from Tokyo and a Friday with theatre, period drama and auteur cinema on Filmin."
+          "text": "So, the idea of the day. A classic that plays it safe, a small Catalan horror film that might not, and a festival that is just beginning."
         },
         {
           "speaker": "B",
-          "text": "Also worth saying: it's a day where the sources mostly agree, with two exceptions. The title on the Tokyo winners page, and the date of the third season of \"Carmen Curlers\"."
+          "text": "Cinema for every mood, then. The full edition has the sources and the details. Thanks for listening."
         },
         {
           "speaker": "A",
-          "text": "Right. And in both cases, the edition tells you what to check. <chuckle> That is the point of the Radar."
-        },
-        {
-          "speaker": "B",
-          "text": "If you only have time for one thing today, make it Filmin on Friday. The rest of the edition is there for when you want more."
-        },
-        {
-          "speaker": "A",
-          "text": "And on physical media, we wait for Criterion's exact dates. <chuckle> Thank you for listening."
-        },
-        {
-          "speaker": "B",
           "text": "See you tomorrow on the Radar."
+        },
+        {
+          "speaker": "B",
+          "text": "If you have a free evening this weekend, pick one of the three: the long classic, the small horror film, or the opera tonight."
+        },
+        {
+          "speaker": "A",
+          "text": "And if you are curious about festivals, keep an eye on Tallinn. We'll report the awards when they come, on the twenty-second."
+        },
+        {
+          "speaker": "B",
+          "text": "We'll also keep following the Royal Ballet and Opera's Carmen, to see whether it reaches a screen in Spain."
+        },
+        {
+          "speaker": "A",
+          "text": "Good. Enjoy the weekend, and enjoy the films."
+        },
+        {
+          "speaker": "B",
+          "text": "Bye!"
         }
       ]
     }
   ],
   "pronunciations": {
-    "Milcho Manchevski": "Meel-cho Man-chev-skee",
-    "Manchevski": "Man-chev-skee",
-    "Lisandro Alonso": "Lee-san-dro Ah-lon-so",
-    "Sun Xun": "Swun Shoon",
-    "Hu Ling": "Who Ling",
-    "Narita Ryo": "Nah-ree-tah Ryoh",
-    "Mishima Yukiko": "Mee-shee-mah Yoo-kee-koh",
-    "Jelena Maksimović": "Yeh-leh-nah Mahk-see-moh-vitch",
-    "Teodora Ana Mihai": "Teh-oh-doh-rah Ah-nah Mee-high",
-    "Tareq Daoud": "Tah-rek Dah-ood",
-    "Serife Tavsan": "Sheh-ree-feh Tahv-shahn",
-    "Tanaka Miki": "Tah-nah-kah Mee-kee",
-    "Mohammad Rasoulof": "Moh-ham-mad Rah-soo-lof",
-    "O Mipo": "Oh Mee-poh",
-    "Kurosawa Akira": "Koo-roh-sah-wah Ah-kee-rah",
-    "Pietro Marcello": "Pyeh-tro Mar-chel-lo",
-    "Valeria Bruni-Tedeschi": "Vah-leh-ree-ah Broo-nee Teh-des-kee",
+    "Les Misérables": "Lay Mee-zay-rahbl",
+    "Los miserables": "Los Mee-seh-rah-bles",
+    "Fred Cavayé": "Fred Kah-vah-yay",
+    "Vincent Lindon": "Van-sahn Lan-dohn",
+    "Tahar Rahim": "Tah-har Rah-heem",
+    "Camille Cottin": "Kah-mee Ko-tan",
+    "Benjamin Lavernhe": "Ben-zhah-man Lah-vairn",
     "Noémie Merlant": "No-eh-mee Mair-lahn",
-    "Fausto Russo Alesi": "Fow-sto Roo-so Ah-leh-zee",
-    "Noémie Lvovsky": "No-eh-mee Luh-vov-skee",
-    "D'Annunzio": "Dah-noon-tsee-oh",
-    "Duse": "Doo-zeh",
-    "Eleonora Duse, la divina": "Eh-leh-oh-noh-rah Doo-zeh, lah dee-vee-nah",
-    "Stillz": "Stills",
-    "Medellín": "Meh-deh-yeen",
+    "Sitges": "Seet-jess",
+    "Paula": "Pow-lah",
+    "Clàudia Serra": "Klow-dee-ah Seh-rah",
+    "Pompeu Fabra": "Pom-peh-oo Fah-brah",
+    "David Matamoros": "Dah-veed Mah-tah-mo-ros",
+    "Mia Sala-Patau": "Mee-ah Sah-lah Pah-tow",
+    "Por qué no escribo nada": "Por Keh no Es-kree-bo Nah-dah",
+    "Isabel Fernández": "Ee-sah-bel Fair-nahn-deth",
+    "Carmen Laforet": "Kar-men Lah-fo-ret",
+    "Najat El Hachmi": "Nah-zhat El Hash-mee",
+    "Laura Freixas": "Low-rah Fray-shas",
+    "Godzilla": "God-zee-lah",
+    "Sacamantecas": "Sah-kah-mahn-teh-kas",
+    "Ruega por nosotras": "Rweh-gah por No-so-tras",
+    "Tallinn": "Tah-lin",
+    "PÖFF": "Poff",
+    "Ulya": "Ool-yah",
+    "Andrey Zvyagintsev": "Ahn-dray Zvyah-geent-sev",
+    "Martin McDonagh": "Martin Mac-Don-ah",
+    "Paweł Pawlikowski": "Pah-vel Pah-vlee-kov-skee",
+    "Javier Ambrossi": "Hah-vyair Am-bro-see",
+    "Javier Calvo": "Hah-vyair Kal-bo",
+    "Louis Kahn": "Lou-is Khan",
+    "Max Korman": "Max Kor-man",
+    "Un amor posible": "Oon Ah-mor Po-see-bleh",
+    "Palacio": "Pah-lah-thyo",
+    "Desprotexida": "Des-pro-teh-hee-dah",
+    "El crimen de Pazos": "El Kree-men deh Pah-thos",
+    "Cumbres borrascosas": "Koom-bres Bo-rrah-sko-sas",
+    "Movistar Plus": "Moh-vee-star Plus",
     "Barrio Triste": "Bah-ree-oh Tree-steh",
-    "Arca": "Ar-kah",
-    "Iain Forsyth": "Ee-an For-sith",
-    "L'affaire Bojarski": "Lah-fair Bo-yar-skee",
-    "Hlynur Pálmason": "Hlee-nur Pow-l-mah-son",
-    "Bàrbara Farré": "Bar-bah-rah Fah-reh",
-    "Mala bèstia": "Mah-lah Bess-tee-ah",
-    "Filmin": "Fil-min",
-    "Claire Denis": "Clair Duh-nee",
-    "Chocolat": "Sho-ko-lah",
-    "Bong Joon-ho": "Bong Joon-ho",
-    "Flora Gomes": "Floh-rah Goh-mesh",
-    "Luis Sérgio Person": "Loo-eez Sair-zhee-oh Per-sohn",
-    "Timité Bassori": "Tee-mee-teh Bah-so-ree",
-    "Bahram Beyzai": "Bah-rahm Bay-zye",
-    "Damiano Michieletto": "Dah-mee-ah-no Mee-kyeh-let-toh",
-    "Sesto Quatrini": "Seh-sto Kwah-tree-nee",
-    "Ginger Costa-Jackson": "Ginger Costa-Jackson",
+    "Duse": "Doo-zeh",
+    "En la alcoba del sultán": "En lah Al-ko-bah del Sool-tahn",
     "Carmen Curlers": "Car-men Curlers",
-    "El cuerpo": "El Kwair-po",
+    "La copia perfecta": "Lah Ko-pee-ah Per-fek-tah",
+    "Filmin": "Fil-min",
+    "De Materie": "Deh Mah-teer-ee-eh",
+    "Louis Andriessen": "Lou-ee Ahn-dree-sen",
+    "Phia Ménard": "Fee-ah May-nar",
+    "Bas Wiegers": "Bahs Vee-gers",
+    "Šárka": "Shar-kah",
+    "Janáček": "Yah-nah-chek",
     "Le Roi d'Ys": "Luh Rwah Dees",
-    "Heysel 85": "High-sel eighty-five",
-    "Côte d'Ivoire": "Coat Dee-vwar",
-    "Lerer": "Leh-rer",
-    "Micropsia": "Mee-crop-see-ah",
-    "Movistar Plus": "Moh-vee-star Plus"
+    "El cuerpo": "El Kwair-po",
+    "Avedon": "Av-uh-don",
+    "Ciudad de Dios": "Thyoo-dahd deh Dee-os",
+    "Melania Rea": "Meh-lah-nyah Reh-ah"
   }
 }

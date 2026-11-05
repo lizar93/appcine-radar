@@ -1,248 +1,236 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "territory": "ES",
-  "generatedAt": "2026-11-04T23:40:00Z",
+  "generatedAt": "2026-11-05T23:40:00Z",
   "reports": [
     {
-      "id": "2026-11-05-tokyo-palmares",
-      "section": "news",
+      "id": "2026-11-06-estrenes-miserables-11",
+      "section": "cinema",
       "subject": "film",
-      "headline": "“Sister Brother Manhole Cover”, by Milcho Manchevski, wins the Tokyo Grand Prix; Lisandro Alonso takes best director",
-      "deck": "The 39th Tokyo International Film Festival has closed with its awards: the Balkan dramatic comedy takes the top prize, Hu Ling and Narita Ryo the acting awards, and Mohammad Rasoulof and O Mipo the Kurosawa Akira Award.",
+      "headline": "Friday 6 November in Spain: “Les Misérables” in three hours, the Catalan horror “11” and a documentary on Carmen Laforet",
+      "deck": "Besides the big openings already covered, the Friday bill includes a faithful Hugo adaptation, a debut from two cousins in Sitges and a literary documentary.",
       "paragraphs": [
-        "The jury of the 39th Tokyo International Film Festival gave the Tokyo Grand Prix (the Governor of Tokyo Award) to “Sister Brother Manhole Cover”, by Milcho Manchevski, a co-production of North Macedonia, Bulgaria, Serbia, Albania, Italy and the UK. Producer Jane Kortoshev accepted it on his behalf, and the jury praised its blend of humour, tragedy and drama. Trade coverage of its international sales describes it as the story of two orphaned siblings who live off stolen manhole covers and bronze statues; we found no review.",
-        "The rest of the competition: Special Jury Prize to “Magic Atlas” (Singapore), by Sun Xun; best director to Lisandro Alonso for “Double Freedom” (Chile, Argentina, Luxembourg, Germany and the UK); best actress to Hu Ling in “The Night That Binds Us” (France and Hong Kong); best actor to Narita Ryo in “Two Cigarettes, Three Nights” (Japan), accepted by director Mishima Yukiko; best artistic contribution to Jelena Maksimović's “Until the Day Ends”, for its cinematography; and the Audience Award to Teodora Ana Mihai's “Heysel 85”.",
-        "In the side sections, Asian Future honoured Tareq Daoud's “Serife Tavsan” (the winners page prints the title as the director's name; we follow the ceremony report), and Nippon Cinema Now honoured Tanaka Miki's “silver express”. The Ethical Film Award went to “I Rarely Wake Up Dreaming”. The ceremony took place on 4 November at Hulic Hall Tokyo.",
-        "The Kurosawa Akira Award, worth one million yen to each recipient, was presented the night before at the Imperial Hotel to Japanese director O Mipo and Iran's Mohammad Rasoulof, whom the committee praised for his uncompromising look at injustice and oppression. None of the winning films has a Spanish release date we can verify yet."
+        "Fred Cavayé's “Les Misérables” (“Los miserables”) opens in Spain today with Vincent Lindon as Jean Valjean and Tahar Rahim as Javert, plus Camille Cottin, Benjamin Lavernhe and Noémie Merlant. It runs close to three hours, according to Cinemascomics. After its San Sebastián screening, SensaCine's critic praised its fidelity to the novel and the cast, but thought that same fidelity is its limit: it finds no new way to tell the story, and the second half feels heavy. We haven't seen it; this is her view, not ours.",
+        "“11” is the first feature by cousins Paula and Clàudia Serra, who began it as a university script at Pompeu Fabra. Ara says it was the only film in original Catalan in the Sitges competition. A group of scouts is cut off by a snowstorm in a mountain refuge when an unexpected presence appears; the directors say they cared less about where the evil comes from than about the mistrust it causes. It lasts about 90 minutes. Ara singles out Mia Sala-Patau's performance. We have only read about it.",
+        "Also opening is “Por qué no escribo nada”, Isabel Fernández's documentary on novelist Carmen Laforet, with contributions from Najat El Hachmi and Laura Freixas; it won best music at the BCN Film Fest. The rest of the bill (“Godzilla Minus Zero”, “Sacamantecas”, “Ruega por nosotras”, “Fiesta Pagäna”) is in earlier editions."
       ],
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "eventDate": "2026-11-04",
-      "territory": "JP",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Tokyo International Film Festival – award winners",
-          "url": "https://2026.tiff-jp.net/award_winners_en/",
-          "kind": "official"
-        },
-        {
-          "name": "TIFF – closing ceremony report",
-          "url": "https://2026.tiff-jp.net/news/en/?p=21200",
-          "kind": "official"
-        },
-        {
-          "name": "TIFF – Kurosawa Akira Award",
-          "url": "https://2026.tiff-jp.net/news/en/?p=21171",
-          "kind": "official"
-        },
-        {
-          "name": "FilmNewEurope – Coccinelle takes international sales",
-          "url": "https://filmneweurope.com/news/macedonia-news/item/127878-coccinelle-film-sales-picks-up-milcho-manchevski-s-sister-brother-manhole-cover",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Sister Brother Manhole Cover",
-          "year": 2026,
-          "kind": "film"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-filmin-duse-novembre",
-      "section": "services",
-      "subject": "film",
-      "headline": "Filmin adds “Duse”, by Pietro Marcello, about the great stage actress, tomorrow, and Hlynur Pálmason's “The Love That Remains” on the 27th",
-      "deck": "Friday 6 also brings “Barrio Triste” and the documentary “Broken English”; later come “The Great Forger”, “Mala bèstia” and a new season of “Carmen Curlers”.",
-      "paragraphs": [
-        "Filmin puts “Eleonora Duse, la divina” (“Duse”), by Pietro Marcello, in its Spanish catalogue on Friday 6 November. Valeria Bruni-Tedeschi plays the actress Eleonora Duse in her last years, returning to the stage despite fragile health, with Noémie Merlant as her daughter, Fausto Russo Alesi as D'Annunzio and Noémie Lvovsky as Sarah Bernhardt. The film (Italy and France, 2025, 122 minutes) competed at Venice and screened at last year's Seminci. Diego Lerer, at Micropsia, finds it melodramatic to the point of irritating some viewers, but coherent, with the weight resting on the performance and a stronger second half.",
-        "The same day brings “Barrio Triste”, Stillz's debut produced by Harmony Korine, about teenagers from Medellín's outskirts who steal a TV camera and roam the city, with music by Arca, and “Broken English”, Iain Forsyth and Jane Pollard's documentary on Marianne Faithfull. According to OtrosCines, Filmin also has “L'affaire Bojarski” (13 November), “Casi todo bien” (19), “Per te” and Bàrbara Farré's “Mala bèstia” (20), “Des preuves d'amour” and “Nuestro héroe, Balthazar” (26) and, on the 27th, Hlynur Pálmason's “The Love That Remains”.",
-        "For series, “Baron Noir” arrives on the 17th and season three of “Carmen Curlers” on the 24th per OtrosCines; a MarketingDirecto guide gives 10 November for the same season. The two sources disagree, so treat the date as one to confirm on Filmin. Dates are for Filmin Spain; we have not verified subtitles or how long titles stay up."
-      ],
-      "publishedAt": "2026-10-21T00:00:00Z",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "eventDate": "2026-11-06",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
+          "name": "Cinemascomics – estrenos del 6 de noviembre",
+          "url": "https://www.cinemascomics.com/estrenos-de-cine-del-6-de-noviembre-de-2026/",
           "kind": "other"
         },
         {
-          "name": "Micropsia – review of Duse",
-          "url": "https://www.micropsiacine.com/2026/10/estrenos-online-critica-de-duse-de-pietro-marcello-filmin/",
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
           "kind": "other"
         },
         {
-          "name": "Seminci – Duse",
-          "url": "https://www.seminci.com/en/peliculas/duse/",
-          "kind": "official"
-        },
-        {
-          "name": "MarketingDirecto – November streaming releases",
-          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
           "kind": "other"
         }
       ],
       "titles": [
         {
-          "title": "Duse",
-          "year": 2025,
+          "title": "Les Misérables",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Eleonora Duse, la divina"
+          "knownAs": "Los miserables"
         },
         {
-          "title": "Barrio Triste",
+          "title": "11",
+          "year": 2026,
           "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-11-05-criterion-gener-2027",
-      "section": "physical",
+      "id": "2026-11-06-tallinn-obertura",
+      "section": "festivals",
       "subject": "film",
-      "headline": "Criterion reveals January 2027: “Parasite” in 4K, “Deliverance”, Claire Denis's “Chocolat” and World Cinema Project Volume 6",
-      "deck": "A US edition; the article gives no exact dates or extras, and we cannot say how or when it will reach Spain.",
+      "headline": "Tallinn Black Nights opens its 30th edition today with 230 features, a Basque spotlight and new films by Zvyagintsev and McDonagh",
+      "deck": "The festival runs until 22 November in Tallinn and Tartu; the opening film is the Latvian-led Baltic co-production “Ulya”.",
       "paragraphs": [
-        "According to The Film Stage (16 October), the Criterion Collection's January 2027 slate includes Claire Denis's “Chocolat” and Mike Leigh's “Career Girls” on Blu-ray; John Boorman's “Deliverance” in a new 4K edition with restored sound; Bong Joon-ho's “Parasite”, upgraded to 4K from the 2021 release; and “Midnight Cowboy”, brought back at full resolution for the first time since 2018.",
-        "World Cinema Project Volume 6, presented by Martin Scorsese, is a Blu-ray set of four recovered films: Flora Gomes's “Morta Nega” (Guinea-Bissau), Luis Sérgio Person's “São Paulo, Incorporated” (Brazil), Timité Bassori's “The Woman with the Knife” (Côte d'Ivoire) and Bahram Beyzai's “The Stranger and the Fog” (Iran). The article gives no release dates or extras; those are on Criterion's site. This is a US edition: disc region, Spanish or Catalan subtitles and distribution in Spain are unverified, so for now it would be an import."
+        "PÖFF, the Tallinn Black Nights festival, runs from 6 to 22 November. Its own programme lists 230 features and 259 shorts from 87 countries, with 107 world premieres. The opening film is “Ulya”, a co-production between Estonia, Latvia and Lithuania led by Latvia.",
+        "The programme names Andrey Zvyagintsev's “Minotaur”, Martin McDonagh's “Wild Horse Nine”, Paweł Pawlikowski's “Fatherland”, Peter Farrelly's “I Am Rocky” and “The Black Ball”, by Javier Ambrossi and Javier Calvo. There is a spotlight on Basque cinema, and Max Korman's “Joy Will Prevail”, about architect Louis Kahn, has its international premiere on 7 November.",
+        "The documentary competitions run from 7 to 13 November; the Official Selection, First Feature, Rebels with a Cause, Critics' Picks and Baltic competitions run from 13 to 19. The jury and the full competition list were not on the pages we read, so we don't give them. We don't know which of these films will reach Spain."
       ],
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "eventDate": null,
-      "territory": "US",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "EE",
       "status": "confirmed",
-      "evidence": "singleSource",
+      "evidence": "primarySource",
       "sources": [
         {
-          "name": "The Film Stage – Criterion January 2027 lineup",
-          "url": "https://thefilmstage.com/the-criterion-collections-january-2027-lineup-features-claire-denis-mike-leigh-and-deliverance-on-4k/",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
+        },
         {
-          "title": "Parasite",
-          "year": 2019,
-          "kind": "film",
-          "knownAs": "Parásitos"
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
+          "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-carmen-royal-opera-cinema",
+      "id": "2026-11-06-plataformes-divendres",
+      "section": "services",
+      "subject": "film",
+      "headline": "Friday on the platforms in Spain: “Wuthering Heights” on Movistar Plus+, “Palacio” and “Un amor posible” on Netflix, and Filmin's batch",
+      "deck": "A platform guide lists the 6 November releases; we only confirmed the title and platform, not the details of each work.",
+      "paragraphs": [
+        "MarketingDirecto's guide for 6-15 November puts on Netflix the film “Un amor posible”, the series “Palacio” and the documentary “Desprotexida: El crimen de Pazos”. On Movistar Plus+ comes “Wuthering Heights” (“Cumbres borrascosas”) and the third season of the documentary series “Una vida en diez fotos”. Prime Video adds the series “Campus Drivers” and HBO Max “Melania Rea”.",
+        "Filmin lists “Eleonora Duse, la divina”, “En la alcoba del sultán”, “Broken English”, “La vida era eso” and “Barrio triste”. “Duse” and “Barrio triste” were covered yesterday. For the next days the same guide mentions “Carmen Curlers” season three on Filmin on the 10th and “La copia perfecta” on the 13th. A single source: dates may change."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "MarketingDirecto – streaming releases 6-15 November",
+          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Wuthering Heights",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Cumbres borrascosas"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-operavision-de-materie",
       "section": "stage",
       "subject": "film",
-      "headline": "The Royal Ballet and Opera's “Carmen” by Damiano Michieletto reaches cinemas on 10 November; Spain unconfirmed",
-      "deck": "The distributor lists it as “international”; we can't tell whether it is live or a recording, and we found no new complete recording verified today.",
+      "headline": "OperaVision lists Andriessen's “De Materie” from Opera Ballet Vlaanderen for tonight at 19:00 CET",
+      "deck": "It is a scheduled broadcast; we have not verified a complete recording with stated access, so we don't file it as one.",
       "paragraphs": [
-        "Trafalgar Releasing gives 10 November 2026 for Bizet's “Carmen” in the Royal Ballet and Opera's cinema season, a revival of Damiano Michieletto's production with Sesto Quatrini conducting and Ginger Costa-Jackson and Russell Thomas as Carmen and Don José. OperaWire, in its 28 May article, agrees. Neither page says whether it is live or a recorded performance, nor gives runtime, language or subtitles.",
-        "The distributor's page says “countries available: international”, without naming Spain, and we found no Spanish cinema listing it. So we don't present it here as a verified offer. Some UK cinema listings give a different cast; check with the venue. A cinema screening is not a recommended complete recording, so we add no recording record. We found no other new complete theatre or opera recording with verified access from Spain today."
+        "OperaVision's home page puts “De Materie”, by Louis Andriessen, in its “coming soon” list for 6 November at 19:00 CET, from Opera Ballet Vlaanderen. The company's page describes a new production directed by Phia Ménard, conducted by Bas Wiegers, lasting about 1 hour 50 minutes. The OperaVision page does not state subtitles or how long it will stay online.",
+        "The same list gives “Šárka” (Janáček, National Theatre Brno) on 15 November, “Little Bear and the Ice Mountain” and “Turandot. Riddles at the museum” on 22 November, and Britten's “Peter Grimes” (Finnish National Opera and Ballet) on 26 November. “Le Roi d'Ys” is still marked “last chance to watch”. We found no new verified complete theatre recording today."
       ],
-      "publishedAt": "2026-05-28T00:00:00Z",
-      "eventDate": "2026-11-10",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
       "territory": null,
       "status": "announced",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Trafalgar Releasing – Royal Ballet and Opera: Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
           "kind": "official"
         },
         {
-          "name": "OperaWire – RBO 2026/27 cinema season",
-          "url": "https://operawire.com/ginger-costa-jackson-elisabet-strid-louise-alder-aleksandra-kurzak-metropolitan-opera-headline-royal-ballet-operas-2026-27-cinema-season/",
-          "kind": "tradePress"
+          "name": "Opera Ballet Vlaanderen – De Materie",
+          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
+          "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-calendari",
+      "id": "2026-11-06-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendar: “Duse” and the platforms on Friday 6, “Carmen” in cinemas on the 10th, and November at Filmin",
-      "deck": "Dates verified today, each with its territory; Friday 6 Spanish cinema releases are in yesterday's edition.",
+      "headline": "Calendar: Tallinn from today, Kahn's biopic on the 7th, “Carmen” in cinemas on the 10th and “El cuerpo” on the 11th",
+      "deck": "Dates checked today, each with its territory; Spanish cinema openings of the 6th are in the first report and in yesterday's edition.",
       "paragraphs": [
-        "Thursday 5, in Spain, on Max: “Black Swan”, “The Whale”, “Jojo Rabbit”, “Cocktail”, “Constantine” and “The Color of Money”. On Movistar Plus+: “Día de caza”. Friday 6: “Duse”, “Barrio Triste” and “Broken English” on Filmin; “Wuthering Heights” on Movistar Plus+, and “Campus Drivers” on Prime Video. Sunday 8: season two of “City of God: The Fight Rages On” on Max. Tuesday 10: “Carmen” in cinemas (international; Spain unconfirmed).",
-        "Wednesday 11: “El cuerpo” on Netflix and season three of “The Rings of Power” on Prime Video. Thursday 12: classics on Max such as “1917” and “Little Miss Sunshine”. Friday 13: “L'affaire Bojarski” on Filmin. From the 19th to the 27th: “Casi todo bien”, “Mala bèstia”, “Des preuves d'amour” and, on the 27th, “The Love That Remains”, all on Filmin. All dates come from the platform guides cited; they may change."
+        "Friday 6: Tallinn Black Nights opens (Estonia); “De Materie” on OperaVision at 19:00 CET; platform releases in Spain as above. Saturday 7: international premiere of “Joy Will Prevail” in Tallinn; documentary competitions until the 13th. Sunday 8: season two of “City of God: The Fight Rages On” on HBO Max in Spain, and “Le Roi d'Ys” is still marked as last chance.",
+        "Tuesday 10: the Royal Ballet and Opera's “Carmen” in cinemas (international; Spain unconfirmed). Wednesday 11: “El cuerpo” and “Avedon” on Netflix. Friday 13: “La copia perfecta” on Filmin; Tallinn's competitions begin. Sunday 15: “Šárka” on OperaVision. Sunday 22: Tallinn closes. Thursday 26: “Peter Grimes” on OperaVision. Dates come from the cited guides and may change."
       ],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "eventDate": "2026-11-05",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "MarketingDirecto – November streaming releases",
+          "name": "MarketingDirecto – streaming releases 6-15 November",
           "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
           "kind": "other"
         },
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
-          "kind": "other"
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
         },
         {
-          "name": "Trafalgar Releasing – Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
           "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-recomanacions",
+      "id": "2026-11-06-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Editor's picks: “Duse”, “Barrio Triste” and Michieletto's “Carmen” if it reaches a nearby screen",
+      "headline": "Editor's picks: “Les Misérables” if you like the classics, “11” for Catalan horror, and Tallinn's “Joy Will Prevail”",
       "deck": "Editorial affinity, not a critics' or audience score.",
       "paragraphs": [
-        "“Duse” (Filmin, 6 November in Spain). Affinity 4 out of 5, medium confidence: a period biography about a stage actress, led by Bruni-Tedeschi. We haven't seen it; we rely on Diego Lerer's review, which highlights the performance and the second half and warns about the melodrama.",
-        "“Barrio Triste” (Filmin, 6 November in Spain). Affinity 3 out of 5, low confidence: a Colombian debut with a paranormal touch, judged from synopses only. Michieletto's “Carmen”, in cinemas on 10 November: affinity 4 out of 5 if it reaches Spain, which we couldn't confirm. And if you need opera, remember yesterday's edition: “Le Roi d'Ys” expires on Sunday at OperaVision.",
-        "The day in brief: few weighty news items, but a clear awards list in Tokyo and a Friday with theatre, period drama and auteur cinema on Filmin. On physical media, we wait for Criterion's exact dates."
+        "“Les Misérables” (cinemas in Spain, 6 November). Affinity 3 out of 5, medium confidence: a period drama with a strong cast, but the critic we cite warns of a heavy second half. We haven't seen it.",
+        "“11” (cinemas in Spain, 6 November). Affinity 4 out of 5, low confidence: folk-like mountain horror from two debut directors, judged only from an interview and synopses. “Joy Will Prevail” (Tallinn, international premiere on 7 November): affinity 3 out of 5, low confidence, since we only know its subject, the architect Louis Kahn; it has no date in Spain.",
+        "The day in brief: a Friday of period drama and Catalan horror in cinemas, a new festival starting in the Baltics and an opera from Belgium tonight. No physical-media or industry news was verified today."
       ],
-      "publishedAt": "2026-11-05T00:00:00Z",
+      "publishedAt": "2026-11-06T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Micropsia – review of Duse",
-          "url": "https://www.micropsiacine.com/2026/10/estrenos-online-critica-de-duse-de-pietro-marcello-filmin/",
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
           "kind": "other"
         },
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
           "kind": "other"
         },
         {
-          "name": "Trafalgar Releasing – Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
           "kind": "official"
         }
       ],
       "titles": [
         {
-          "title": "Duse",
-          "year": 2025,
+          "title": "Les Misérables",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Eleonora Duse, la divina"
+          "knownAs": "Los miserables"
+        },
+        {
+          "title": "11",
+          "year": 2026,
+          "kind": "film"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
-      "title": "Duse",
-      "year": 2025,
+      "title": "Les Misérables",
+      "year": 2026,
       "kind": "film",
-      "knownAs": "Eleonora Duse, la divina"
+      "knownAs": "Los miserables"
+    },
+    {
+      "title": "11",
+      "year": 2026,
+      "kind": "film"
     }
   ]
 }

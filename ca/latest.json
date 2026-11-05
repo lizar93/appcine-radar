@@ -1,248 +1,236 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "territory": "ES",
-  "generatedAt": "2026-11-04T23:40:00Z",
+  "generatedAt": "2026-11-05T23:40:00Z",
   "reports": [
     {
-      "id": "2026-11-05-tokyo-palmares",
-      "section": "news",
+      "id": "2026-11-06-estrenes-miserables-11",
+      "section": "cinema",
       "subject": "film",
-      "headline": "«Sister Brother Manhole Cover», de Milcho Manchevski, guanya el Gran Premi de Tòquio; Lisandro Alonso, millor direcció",
-      "deck": "El 39è Festival de Tòquio ha tancat amb palmarès: la comèdia dramàtica balcànica s'endú el premi gros, Hu Ling i Narita Ryo els d'interpretació, i Mohammad Rasoulof i O Mipo el Kurosawa Akira.",
+      "headline": "Divendres 6 de novembre a Espanya: «Los miserables» en tres hores, el terror català «11» i un documental sobre Carmen Laforet",
+      "deck": "A més dels grans estrenes ja explicades, la cartellera de divendres té una adaptació fidel de Hugo, un debut de dues cosines a Sitges i un documental literari.",
       "paragraphs": [
-        "El jurat del 39è Festival Internacional de Cinema de Tòquio ha donat el Gran Premi de Tòquio (premi del governador) a «Sister Brother Manhole Cover», de Milcho Manchevski, una coproducció de Macedònia del Nord, Bulgària, Sèrbia, Albània, Itàlia i el Regne Unit. La productora Jane Kortoshev va recollir el premi en nom del director, i el jurat en va elogiar la combinació de comèdia, tragèdia i drama. Segons la premsa especialitzada sobre la venda internacional, parla de dos germans orfes que sobreviuen robant tapes de clavegueram i estàtues de bronze; no n'hem trobat cap crítica.",
-        "La resta de la competició: Premi Especial del Jurat per a «Magic Atlas» (Singapur), de Sun Xun; millor direcció per a Lisandro Alonso, per «Double Freedom» (Xile, Argentina, Luxemburg, Alemanya i Regne Unit); millor actriu per a Hu Ling, a «The Night That Binds Us» (França i Hong Kong); millor actor per a Narita Ryo, a «Two Cigarettes, Three Nights» (Japó), que va recollir la directora Mishima Yukiko; millor contribució artística per a «Until the Day Ends», de Jelena Maksimović, pel treball de fotografia, i Premi del Públic per a «Heysel 85», de Teodora Ana Mihai.",
-        "Entre les seccions paral·leles, «Asian Future» va premiar «Serife Tavsan», de Tareq Daoud (la pàgina de guanyadors n'escriu el títol com si fos el nom del director; seguim la nota de la cerimònia), i «Nippon Cinema Now» va premiar «silver express», de Tanaka Miki. El premi Ethical Film va ser per a «I Rarely Wake Up Dreaming». La cerimònia va ser el 4 de novembre a la Hulic Hall de Tòquio.",
-        "El premi Kurosawa Akira, amb dotació de un milió de iens per a cada guardonat, es va lliurar la nit abans a l'Imperial Hotel a la directora japonesa O Mipo i a l'iranià Mohammad Rasoulof, reconegut pel comitè per la seva mirada sense concessions a la injustícia i l'opressió. Cap dels títols premiats té, de moment, data d'estrena a Espanya que puguem verificar."
+        "«Los miserables» de Fred Cavayé s'estrena avui a Espanya, amb Vincent Lindon com a Jean Valjean i Tahar Rahim com a Javert, a més de Camille Cottin, Benjamin Lavernhe i Noémie Merlant. Dura prop de tres hores, segons Cinemascomics. Després de la projecció a Sant Sebastià, la crítica de SensaCine en va lloar la fidelitat a la novel·la i el repartiment, però va considerar que aquesta fidelitat n'és el límit: no troba cap manera nova d'explicar la història i la segona meitat se li fa pesada. No l'hem vista; és l'opinió d'ella, no la nostra.",
+        "«11» és el primer llargmetratge de les cosines Paula i Clàudia Serra, que el van començar com a guió universitari a la Pompeu Fabra. Segons Ara, va ser l'única pel·lícula en català original de la competició de Sitges. Un grup d'escoltes queda aïllat per una nevada en un refugi de muntanya quan hi apareix una presència inesperada; les directores diuen que els interessava menys d'on ve el mal que la desconfiança que provoca. Dura uns 90 minuts. Ara destaca la interpretació de Mia Sala-Patau. Només n'hem llegit.",
+        "També s'estrena «Por qué no escribo nada», el documental d'Isabel Fernández sobre la novel·lista Carmen Laforet, amb aportacions de Najat El Hachmi i Laura Freixas; va guanyar la millor música al BCN Film Fest. La resta de la cartellera («Godzilla Minus Zero», «Sacamantecas», «Ruega por nosotras», «Fiesta Pagäna») és a edicions anteriors."
       ],
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "eventDate": "2026-11-04",
-      "territory": "JP",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "Tokyo International Film Festival – award winners",
-          "url": "https://2026.tiff-jp.net/award_winners_en/",
-          "kind": "official"
-        },
-        {
-          "name": "TIFF – closing ceremony report",
-          "url": "https://2026.tiff-jp.net/news/en/?p=21200",
-          "kind": "official"
-        },
-        {
-          "name": "TIFF – Kurosawa Akira Award",
-          "url": "https://2026.tiff-jp.net/news/en/?p=21171",
-          "kind": "official"
-        },
-        {
-          "name": "FilmNewEurope – Coccinelle takes international sales",
-          "url": "https://filmneweurope.com/news/macedonia-news/item/127878-coccinelle-film-sales-picks-up-milcho-manchevski-s-sister-brother-manhole-cover",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Sister Brother Manhole Cover",
-          "year": 2026,
-          "kind": "film"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-filmin-duse-novembre",
-      "section": "services",
-      "subject": "film",
-      "headline": "Filmin estrena demà «Duse», de Pietro Marcello, sobre la gran actriu de teatre, i el 27 «El amor que permanece», de Hlynur Pálmason",
-      "deck": "Divendres 6 també hi arriben «Barrio Triste» i el documental «Broken English»; més endavant, «El gran falsificador», «Mala bèstia» i una temporada nova de «Carmen Curlers».",
-      "paragraphs": [
-        "Filmin posa en catàleg divendres 6 de novembre, a Espanya, «Eleonora Duse, la divina» («Duse»), de Pietro Marcello. Valeria Bruni-Tedeschi hi fa de l'actriu Eleonora Duse en els seus darrers anys, quan torna a l'escenari malgrat la salut fràgil, amb Noémie Merlant com a filla, Fausto Russo Alesi com a D'Annunzio i Noémie Lvovsky com a Sarah Bernhardt. La pel·lícula (Itàlia i França, 2025, 122 minuts) va competir a Venècia i es va veure a la Seminci de l'any passat. Diego Lerer, a Micropsia, la troba melodramàtica fins a poder irritar, però coherent, amb el pes sobre la interpretació i una segona meitat més forta.",
-        "El mateix dia arriben «Barrio Triste», debut de Stillz amb Harmony Korine de productor, sobre adolescents de les afores de Medellín que roben una càmera de televisió i recorren la ciutat, amb música d'Arca, i «Broken English», documental de Iain Forsyth i Jane Pollard sobre Marianne Faithfull. Segons OtrosCines, també hi haurà «El gran falsificador» (13 de novembre), «Casi todo bien» (19), «Cosas que no olvidaré» i «Mala bèstia», de Bàrbara Farré (20), «15 pruebas de amor» i «Nuestro héroe, Balthazar» (26) i, el dia 27, «El amor que permanece», de Hlynur Pálmason.",
-        "Pel que fa a les sèries, hi ha «Baron Noir» el 17 i la tercera temporada de «Carmen Curlers» el 24 segons OtrosCines; una guia de MarketingDirecto avança la mateixa temporada pel 10 de novembre. Les dues fonts no concorden, i ho deixem com a data per confirmar a Filmin. Les dates són les de Filmin Espanya; no n'hem verificat subtítols ni durada de permanència."
-      ],
-      "publishedAt": "2026-10-21T00:00:00Z",
+      "publishedAt": "2026-11-04T00:00:00Z",
       "eventDate": "2026-11-06",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
+          "name": "Cinemascomics – estrenos del 6 de noviembre",
+          "url": "https://www.cinemascomics.com/estrenos-de-cine-del-6-de-noviembre-de-2026/",
           "kind": "other"
         },
         {
-          "name": "Micropsia – review of Duse",
-          "url": "https://www.micropsiacine.com/2026/10/estrenos-online-critica-de-duse-de-pietro-marcello-filmin/",
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
           "kind": "other"
         },
         {
-          "name": "Seminci – Duse",
-          "url": "https://www.seminci.com/en/peliculas/duse/",
-          "kind": "official"
-        },
-        {
-          "name": "MarketingDirecto – November streaming releases",
-          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
           "kind": "other"
         }
       ],
       "titles": [
         {
-          "title": "Duse",
-          "year": 2025,
+          "title": "Les Misérables",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Eleonora Duse, la divina"
+          "knownAs": "Los miserables"
         },
         {
-          "title": "Barrio Triste",
+          "title": "11",
+          "year": 2026,
           "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-11-05-criterion-gener-2027",
-      "section": "physical",
+      "id": "2026-11-06-tallinn-obertura",
+      "section": "festivals",
       "subject": "film",
-      "headline": "Criterion revela el gener del 2027: «Parasite» en 4K, «Deliverance», «Chocolat» de Claire Denis i el sisè volum del World Cinema Project",
-      "deck": "Edició nord-americana; l'article no en dona les dates exactes ni els extres, i no consta com ni quan arribarà a Espanya.",
+      "headline": "Tallinn Black Nights obre avui la 30a edició amb 230 llargmetratges, un focus basc i films de Zvyagintsev i McDonagh",
+      "deck": "El festival dura fins al 22 de novembre a Tallinn i Tartu; la pel·lícula d'obertura és la coproducció bàltica «Ulya», liderada per Letònia.",
       "paragraphs": [
-        "Segons The Film Stage (16 d'octubre), la Criterion Collection programa pel gener del 2027 «Chocolat», de Claire Denis, i «Career Girls», de Mike Leigh, en Blu-ray; «Deliverance», de John Boorman, en una nova edició 4K amb so restaurat; «Parasite», de Bong Joon-ho, que passa al 4K des de l'edició de 2021, i «Midnight Cowboy», que es reedita a plena resolució per primer cop des de 2018.",
-        "El sisè volum del World Cinema Project, presentat per Martin Scorsese, és un Blu-ray amb quatre films recuperats: «Morta Nega», de Flora Gomes (Guinea Bissau); «São Paulo, Incorporated», de Luis Sérgio Person (Brasil); «The Woman with the Knife», de Timité Bassori (Costa d'Ivori), i «The Stranger and the Fog», de Bahram Beyzai (Iran). L'article no dona dates de sortida ni extres; aquests detalls són a la web de Criterion. És una edició dels Estats Units: la regió dels discos, els subtítols en castellà o català i la distribució a Espanya no els hem pogut verificar, per la qual cosa seria una importació."
+        "El PÖFF, el festival Tallinn Black Nights, se celebra del 6 al 22 de novembre. El seu programa parla de 230 llargmetratges i 259 curts de 87 països, amb 107 estrenes mundials. La pel·lícula d'obertura és «Ulya», coproducció d'Estònia, Letònia i Lituània liderada per Letònia.",
+        "El programa esmenta «Minotaur» d'Andrey Zvyagintsev, «Wild Horse Nine» de Martin McDonagh, «Fatherland» de Paweł Pawlikowski, «I Am Rocky» de Peter Farrelly i «The Black Ball», de Javier Ambrossi i Javier Calvo. Hi ha un focus sobre el cinema basc, i «Joy Will Prevail» de Max Korman, sobre l'arquitecte Louis Kahn, té l'estrena internacional el 7 de novembre.",
+        "Les competicions de documentals van del 7 al 13 de novembre; la Selecció Oficial, Primera Pel·lícula, Rebels with a Cause, Critics' Picks i la bàltica, del 13 al 19. El jurat i la llista completa de la competició no eren a les pàgines que hem llegit; no els donem. No sabem quines d'aquestes pel·lícules arribaran a Espanya."
       ],
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "eventDate": null,
-      "territory": "US",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "EE",
       "status": "confirmed",
-      "evidence": "singleSource",
+      "evidence": "primarySource",
       "sources": [
         {
-          "name": "The Film Stage – Criterion January 2027 lineup",
-          "url": "https://thefilmstage.com/the-criterion-collections-january-2027-lineup-features-claire-denis-mike-leigh-and-deliverance-on-4k/",
-          "kind": "tradePress"
-        }
-      ],
-      "titles": [
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
+        },
         {
-          "title": "Parasite",
-          "year": 2019,
-          "kind": "film",
-          "knownAs": "Parásitos"
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
+          "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-carmen-royal-opera-cinema",
+      "id": "2026-11-06-plataformes-divendres",
+      "section": "services",
+      "subject": "film",
+      "headline": "Divendres a les plataformes a Espanya: «Cumbres borrascosas» a Movistar Plus+, «Palacio» i «Un amor posible» a Netflix i la tanda de Filmin",
+      "deck": "Una guia de plataformes llista les estrenes del 6 de novembre; només n'hem confirmat el títol i la plataforma, no el detall de cada obra.",
+      "paragraphs": [
+        "La guia de MarketingDirecto del 6 al 15 de novembre posa a Netflix la pel·lícula «Un amor posible», la sèrie «Palacio» i el documental «Desprotexida: El crimen de Pazos». A Movistar Plus+ arriben «Cumbres borrascosas» i la tercera temporada de la sèrie documental «Una vida en diez fotos». Prime Video afegeix la sèrie «Campus Drivers» i HBO Max «Melania Rea».",
+        "Filmin llista «Eleonora Duse, la divina», «En la alcoba del sultán», «Broken English», «La vida era eso» i «Barrio triste». «Duse» i «Barrio triste» van sortir ahir. Per als propers dies, la mateixa guia esmenta la tercera temporada de «Carmen Curlers» a Filmin el dia 10 i «La copia perfecta» el 13. Una sola font: les dates poden canviar."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "MarketingDirecto – streaming releases 6-15 November",
+          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
+          "kind": "other"
+        }
+      ],
+      "titles": [
+        {
+          "title": "Wuthering Heights",
+          "year": 2026,
+          "kind": "film",
+          "knownAs": "Cumbres borrascosas"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-operavision-de-materie",
       "section": "stage",
       "subject": "film",
-      "headline": "La «Carmen» de Damiano Michieletto de la Royal Ballet and Opera arriba als cinemes el 10 de novembre; per a Espanya, sense confirmar",
-      "deck": "El distribuïdor la dona com a «internacional»; no sabem si és directe o enregistrament, i no hi ha cap captació completa nova verificada avui.",
+      "headline": "OperaVision programa per aquesta nit a les 19:00 CET «De Materie» d'Andriessen, d'Opera Ballet Vlaanderen",
+      "deck": "És una emissió programada; no hem verificat una captació completa amb accés indicat, i per això no la fitxem com a tal.",
       "paragraphs": [
-        "Trafalgar Releasing posa el 10 de novembre de 2026 com a data de la «Carmen» de Bizet de la temporada de cinema de la Royal Ballet and Opera, en la reposició de la producció de Damiano Michieletto, amb Sesto Quatrini a la direcció musical, Ginger Costa-Jackson i Russell Thomas als papers de Carmen i Don José. OperaWire, en el seu article del 28 de maig, hi coincideix. Cap de les dues pàgines diu si és en directe o d'una funció enregistrada, ni indica durada, llengua o subtítols.",
-        "La pàgina del distribuïdor diu «països disponibles: internacional», sense esmentar Espanya, i no hem trobat cap cinema espanyol que la programi. Per això no la presentem com a oferta verificada aquí. Alguns llistats de cinemes del Regne Unit donen un repartiment diferent; recomanem comprovar-ho a la sala. Cal recordar que una projecció en cinema no és una captació completa recomanada: no hi afegim fitxa d'enregistrament. Avui no hem trobat cap altra captació completa nova de teatre o òpera amb accés verificat des d'Espanya."
+        "La pàgina d'inici d'OperaVision situa «De Materie», de Louis Andriessen, a la llista de «pròximament» per al 6 de novembre a les 19:00 CET, d'Opera Ballet Vlaanderen. La pàgina de la companyia descriu una producció nova dirigida per Phia Ménard i dirigida musicalment per Bas Wiegers, d'una durada d'1 hora 50 minuts aproximadament. La pàgina d'OperaVision no indica subtítols ni quant de temps quedarà en línia.",
+        "La mateixa llista dona «Šárka» (Janáček, National Theatre Brno) el 15 de novembre, «Little Bear and the Ice Mountain» i «Turandot. Riddles at the museum» el 22, i «Peter Grimes» de Britten (Finnish National Opera and Ballet) el 26. «Le Roi d'Ys» continua marcada com a «last chance to watch». Avui no hem trobat cap altra captació completa de teatre verificada."
       ],
-      "publishedAt": "2026-05-28T00:00:00Z",
-      "eventDate": "2026-11-10",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
       "territory": null,
       "status": "announced",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Trafalgar Releasing – Royal Ballet and Opera: Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
           "kind": "official"
         },
         {
-          "name": "OperaWire – RBO 2026/27 cinema season",
-          "url": "https://operawire.com/ginger-costa-jackson-elisabet-strid-louise-alder-aleksandra-kurzak-metropolitan-opera-headline-royal-ballet-operas-2026-27-cinema-season/",
-          "kind": "tradePress"
+          "name": "Opera Ballet Vlaanderen – De Materie",
+          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
+          "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-calendari",
+      "id": "2026-11-06-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendari: «Duse» i les plataformes divendres 6, la «Carmen» al cinema el 10, i novembre a Filmin",
-      "deck": "Dates verificades avui, amb el territori de cada una; les estrenes als cinemes espanyols del divendres 6 són a l'edició d'ahir.",
+      "headline": "Calendari: Tallinn des d'avui, el biopic de Kahn el dia 7, «Carmen» als cinemes el 10 i «El cuerpo» l'11",
+      "deck": "Dates comprovades avui, cadascuna amb el territori; les estrenes als cinemes espanyols del dia 6 són al primer reportatge i a l'edició d'ahir.",
       "paragraphs": [
-        "Dijous 5, a Espanya, a Max: «Cisne negro», «La ballena», «Jojo Rabbit», «Cocktail», «Constantine» i «El color del dinero». A Movistar Plus+: «Día de caza». Divendres 6: «Duse», «Barrio Triste» i «Broken English» a Filmin; «Cumbres borrascosas» a Movistar Plus+, i «Campus Drivers» a Prime Video. Diumenge 8: segona temporada de «Ciudad de Dios: La lucha no para» a Max. Dimarts 10: «Carmen» als cinemes (internacional; Espanya, sense confirmar).",
-        "Dimecres 11: «El cuerpo» a Netflix i la tercera temporada de «Els anells de poder» a Prime Video. Dijous 12: pel·lícules clàssiques a Max com «1917» o «Pequeña Miss Sunshine». Divendres 13: «El gran falsificador» a Filmin. Del 19 al 27: «Casi todo bien», «Mala bèstia», «15 pruebas de amor» i, el 27, «El amor que permanece», a Filmin. Totes les dates són de les guies de plataformes citades; poden canviar."
+        "Divendres 6: s'obre Tallinn Black Nights (Estònia); «De Materie» a OperaVision a les 19:00 CET; estrenes a les plataformes a Espanya com dalt. Dissabte 7: estrena internacional de «Joy Will Prevail» a Tallinn; competicions de documentals fins al 13. Diumenge 8: segona temporada de «Ciudad de Dios: La lucha no para» a HBO Max a Espanya, i «Le Roi d'Ys» continua marcada com a darrera oportunitat.",
+        "Dimarts 10: «Carmen» de la Royal Ballet and Opera als cinemes (internacional; Espanya sense confirmar). Dimecres 11: «El cuerpo» i «Avedon» a Netflix. Divendres 13: «La copia perfecta» a Filmin; comencen les competicions de Tallinn. Diumenge 15: «Šárka» a OperaVision. Diumenge 22: es clou Tallinn. Dijous 26: «Peter Grimes» a OperaVision. Les dates venen de les guies citades i poden canviar."
       ],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "eventDate": "2026-11-05",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "eventDate": "2026-11-06",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "MarketingDirecto – November streaming releases",
+          "name": "MarketingDirecto – streaming releases 6-15 November",
           "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
           "kind": "other"
         },
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
-          "kind": "other"
+          "name": "PÖFF – festival home page",
+          "url": "https://poff.ee/en/",
+          "kind": "official"
         },
         {
-          "name": "Trafalgar Releasing – Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
           "kind": "official"
         }
       ]
     },
     {
-      "id": "2026-11-05-recomanacions",
+      "id": "2026-11-06-recomanacions",
       "section": "recommendation",
       "subject": "film",
-      "headline": "Recomanacions de l'editor: «Duse», «Barrio Triste» i la «Carmen» de Michieletto si arriba a una sala propera",
-      "deck": "Afinitat editorial, no nota de la crítica ni del públic.",
+      "headline": "Recomanacions de l'editor: «Los miserables» si t'agraden els clàssics, «11» per al terror català i «Joy Will Prevail» de Tallinn",
+      "deck": "Afinitat editorial, no és la nota de la crítica ni del públic.",
       "paragraphs": [
-        "«Duse» (Filmin, 6 de novembre a Espanya). Afinitat 4 de 5, confiança mitjana: biografia d'època sobre una actriu de teatre, amb Bruni-Tedeschi al capdavant. No l'hem vista; ens basem en la crítica de Diego Lerer, que en destaca la interpretació i la segona meitat i en adverteix el melodrama.",
-        "«Barrio Triste» (Filmin, 6 de novembre a Espanya). Afinitat 3 de 5, confiança baixa: debut d'ambient colombià amb un toc paranormal, a partir només de sinopsis. «Carmen», de Michieletto, 10 de novembre al cinema: afinitat 4 de 5 si arriba a Espanya, que no hem pogut confirmar. I, si us falta òpera, recordeu l'edició d'ahir: «Le Roi d'Ys» caduca diumenge a OperaVision.",
-        "Balanç del dia: poques notícies de calibre, però un palmarès clar a Tòquio i un divendres amb teatre, època i cinema d'autor a Filmin. A les edicions físiques, cal esperar les dates de Criterion."
+        "«Los miserables» (cinemes d'Espanya, 6 de novembre). Afinitat 3 sobre 5, confiança mitjana: drama d'època amb un gran repartiment, però la crítica que citem avisa d'una segona meitat pesada. No l'hem vista.",
+        "«11» (cinemes d'Espanya, 6 de novembre). Afinitat 4 sobre 5, confiança baixa: terror de muntanya d'aire folklòric de dues directores debutants, jutjat només per una entrevista i sinopsis. «Joy Will Prevail» (Tallinn, estrena internacional el 7 de novembre): afinitat 3 sobre 5, confiança baixa, perquè només en coneixem el tema, l'arquitecte Louis Kahn; no té data a Espanya.",
+        "El dia en breu: un divendres de drama d'època i terror català als cinemes, un festival nou que comença al Bàltic i una òpera de Bèlgica aquesta nit. Avui no s'ha verificat cap notícia d'edició física ni d'indústria."
       ],
-      "publishedAt": "2026-11-05T00:00:00Z",
+      "publishedAt": "2026-11-06T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Micropsia – review of Duse",
-          "url": "https://www.micropsiacine.com/2026/10/estrenos-online-critica-de-duse-de-pietro-marcello-filmin/",
+          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
+          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
           "kind": "other"
         },
         {
-          "name": "OtrosCines – Filmin November releases",
-          "url": "https://otroscines.com/post/estrenos-de-filmin-en-noviembre-de-pietro-marcello-a-hlynur-palmason-y-de-stillz-a-jean-paul-salome",
+          "name": "Ara – the Serra cousins on 11",
+          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
           "kind": "other"
         },
         {
-          "name": "Trafalgar Releasing – Carmen",
-          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "name": "PÖFF – full PÖFF 30 programme",
+          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
           "kind": "official"
         }
       ],
       "titles": [
         {
-          "title": "Duse",
-          "year": 2025,
+          "title": "Les Misérables",
+          "year": 2026,
           "kind": "film",
-          "knownAs": "Eleonora Duse, la divina"
+          "knownAs": "Los miserables"
+        },
+        {
+          "title": "11",
+          "year": 2026,
+          "kind": "film"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
-      "title": "Duse",
-      "year": 2025,
+      "title": "Les Misérables",
+      "year": 2026,
       "kind": "film",
-      "knownAs": "Eleonora Duse, la divina"
+      "knownAs": "Los miserables"
+    },
+    {
+      "title": "11",
+      "year": 2026,
+      "kind": "film"
     }
   ]
 }
