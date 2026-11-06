@@ -1,43 +1,99 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "territory": "ES",
-  "generatedAt": "2026-11-05T23:40:00Z",
+  "generatedAt": "2026-11-06T23:50:00Z",
   "reports": [
     {
-      "id": "2026-11-06-estrenes-miserables-11",
-      "section": "cinema",
+      "id": "2026-11-07-naruto",
+      "section": "news",
       "subject": "film",
-      "headline": "Divendres 6 de novembre a Espanya: «Los miserables» en tres hores, el terror català «11» i un documental sobre Carmen Laforet",
-      "deck": "A més dels grans estrenes ja explicades, la cartellera de divendres té una adaptació fidel de Hugo, un debut de dues cosines a Sitges i un documental literari.",
+      "headline": "Sony es suma al «Naruto» d'imatge real de Lionsgate: el rodatge començaria a la primavera del 2027",
+      "deck": "Segons el que The Hollywood Reporter va avançar el 3 de novembre, Sony cofinança i distribueix la pel·lícula que dirigirà Destin Daniel Cretton.",
       "paragraphs": [
-        "«Los miserables» de Fred Cavayé s'estrena avui a Espanya, amb Vincent Lindon com a Jean Valjean i Tahar Rahim com a Javert, a més de Camille Cottin, Benjamin Lavernhe i Noémie Merlant. Dura prop de tres hores, segons Cinemascomics. Després de la projecció a Sant Sebastià, la crítica de SensaCine en va lloar la fidelitat a la novel·la i el repartiment, però va considerar que aquesta fidelitat n'és el límit: no troba cap manera nova d'explicar la història i la segona meitat se li fa pesada. No l'hem vista; és l'opinió d'ella, no la nostra.",
-        "«11» és el primer llargmetratge de les cosines Paula i Clàudia Serra, que el van començar com a guió universitari a la Pompeu Fabra. Segons Ara, va ser l'única pel·lícula en català original de la competició de Sitges. Un grup d'escoltes queda aïllat per una nevada en un refugi de muntanya quan hi apareix una presència inesperada; les directores diuen que els interessava menys d'on ve el mal que la desconfiança que provoca. Dura uns 90 minuts. Ara destaca la interpretació de Mia Sala-Patau. Només n'hem llegit.",
-        "També s'estrena «Por qué no escribo nada», el documental d'Isabel Fernández sobre la novel·lista Carmen Laforet, amb aportacions de Najat El Hachmi i Laura Freixas; va guanyar la millor música al BCN Film Fest. La resta de la cartellera («Godzilla Minus Zero», «Sacamantecas», «Ruega por nosotras», «Fiesta Pagäna») és a edicions anteriors."
+        "Les cròniques que hem pogut llegir, que citen The Hollywood Reporter, expliquen que Sony Pictures entra com a cofinançadora i distribuïdora internacional de l'adaptació en imatge real del manga «Naruto», que Lionsgate té en desenvolupament. Destin Daniel Cretton, el director de «Shang-Chi», hi figura com a director, guionista i productor des que es va anunciar el 2024.",
+        "El rodatge està previst per a la primavera del 2027. No consta cap repartiment ni cap data d'estrena, i no hem pogut llegir l'article original de la revista (l'accés ens ha estat bloquejat), de manera que ho tractem com a informació d'una sola font no oficial. El que sí és clar és que és una adaptació d'un manga japonès, no de cinema indi."
+      ],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "eventDate": null,
+      "territory": null,
+      "status": "announced",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Final Weapon – Naruto live-action starts filming in spring 2027 (citing The Hollywood Reporter)",
+          "url": "https://finalweapon.net/2026/11/03/naruto-live-action-film-starts-filming-in-spring-2027/",
+          "kind": "other"
+        },
+        {
+          "name": "Dark Horizons – Sony teams with Lionsgate on Naruto",
+          "url": "https://www.darkhorizons.com/?p=195482",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-pixar",
+      "section": "news",
+      "subject": "film",
+      "headline": "Jim Morris deixa la presidència de Pixar: Jonathan Garson el rellevarà el 4 de gener del 2027",
+      "deck": "Pixar ha anunciat un relleu planificat; Pete Docter continua com a director creatiu.",
+      "paragraphs": [
+        "Segons una crònica que recull les notes de Deadline, The Hollywood Reporter i Reuters, Pixar va comunicar el 4 de novembre que Jim Morris, president durant dotze anys, se'n retira del dia a dia i passa a ser president emèrit. El rellevarà Jonathan Garson, directiu de Disney des de fa més de trenta anys i a Pixar des del 2010, a partir del 4 de gener del 2027.",
+        "Pete Docter continua de director creatiu i tindrà la supervisió de les pel·lícules; Jonas Rivera serà vicepresident executiu de creació. Morris seguirà com a productor executiu d'«Els Increïbles 3» i es dedicarà a formar talent i a tecnologia. Alan Bergman, de Disney, ho presenta com un relleu ordenat; les fonts que cita la crònica no el relacionen amb els mals resultats recents de taquilla. Només hem pogut llegir aquesta crònica, no les notes originals."
       ],
       "publishedAt": "2026-11-04T00:00:00Z",
+      "eventDate": "2027-01-04",
+      "territory": "US",
+      "status": "confirmed",
+      "evidence": "singleSource",
+      "sources": [
+        {
+          "name": "Pirates & Princesses – Pixar's Morris exit and what Disney said",
+          "url": "https://piratesandprincesses.net/pixars-flops-since-2018-and-what-disney-said-about-morris-exit",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-estrenes-cap-de-setmana",
+      "section": "cinema",
+      "subject": "film",
+      "headline": "Cartellera del cap de setmana a Espanya: «Sacamantecas», «Ruega por nosotras», «Los miserables» i «Godzilla Minus Zero»",
+      "deck": "Les estrenes de divendres 6, ara amb repartiment i durada, per triar quina veure aquests dies.",
+      "paragraphs": [
+        "«Sacamantecas», de David P. Sañudo (Espanya, 109 min), és un thriller històric ambientat a l'Àlaba de la tercera guerra carlina: apareixen dones estrangulades prop de Vitòria i el cap dels guàrdies pateix pressions per amagar els crims. Hi actuen Antonio de la Torre, Patricia López Arnaiz i Luis Callejo. Una crítica local en destaca «una bella película sobre duelo contra silencio».",
+        "«Ruega por nosotras», de Daniel Monzón (Espanya, 136 min), situa el 1974 una noia rebel de 19 anys en un reformatori regit amb disciplina brutal, on busca suport entre les altres internes. «Los miserables», de Fred Cavayé (França, 178 min), és una nova adaptació de Victor Hugo amb Vincent Lindon com a Valjean i Tahar Rahim com a Javert, i una crítica la titula «una historia a la que merece la pena volver».",
+        "«Godzilla Minus Zero», de Takashi Yamazaki (Japó, 135 min), continua «Godzilla Minus One»: el Japó, encara en reconstrucció dos anys després de la guerra, afronta una nova amenaça. Entre els estrenats també hi ha «Fiesta Pagäna», «11» i films familiars; deixem de banda «Ramayana», per ser cinema indi. Les dates són les d'Espanya."
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
       "eventDate": "2026-11-06",
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "Cinemascomics – estrenos del 6 de noviembre",
-          "url": "https://www.cinemascomics.com/estrenos-de-cine-del-6-de-noviembre-de-2026/",
+          "name": "Cinemagavia – Estrenos del 6 de noviembre de 2026",
+          "url": "https://cinemagavia.es/estrenos-6-noviembre-2026-cine/",
           "kind": "other"
         },
         {
-          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
-          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
-          "kind": "other"
-        },
-        {
-          "name": "Ara – the Serra cousins on 11",
-          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
+          "name": "No es cine todo lo que reluce – Estrenos del 6 de noviembre de 2026",
+          "url": "https://noescinetodoloquereluce.com/2026/11/estrenos-cine-6-noviembre-2026.html",
           "kind": "other"
         }
       ],
       "titles": [
+        {
+          "title": "Sacamantecas",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Ruega por nosotras",
+          "year": 2026,
+          "kind": "film"
+        },
         {
           "title": "Les Misérables",
           "year": 2026,
@@ -45,84 +101,52 @@
           "knownAs": "Los miserables"
         },
         {
-          "title": "11",
+          "title": "Godzilla Minus Zero",
           "year": 2026,
           "kind": "film"
         }
       ]
     },
     {
-      "id": "2026-11-06-tallinn-obertura",
+      "id": "2026-11-07-tallinn-ulya",
       "section": "festivals",
       "subject": "film",
-      "headline": "Tallinn Black Nights obre avui la 30a edició amb 230 llargmetratges, un focus basc i films de Zvyagintsev i McDonagh",
-      "deck": "El festival dura fins al 22 de novembre a Tallinn i Tartu; la pel·lícula d'obertura és la coproducció bàltica «Ulya», liderada per Letònia.",
+      "headline": "Tallinn Black Nights celebra els 30 anys amb «Ulya», de Viesturs Kairišs, i una competició de dotze films",
+      "deck": "El festival va començar ahir i dura fins al 22 de novembre.",
       "paragraphs": [
-        "El PÖFF, el festival Tallinn Black Nights, se celebra del 6 al 22 de novembre. El seu programa parla de 230 llargmetratges i 259 curts de 87 països, amb 107 estrenes mundials. La pel·lícula d'obertura és «Ulya», coproducció d'Estònia, Letònia i Lituània liderada per Letònia.",
-        "El programa esmenta «Minotaur» d'Andrey Zvyagintsev, «Wild Horse Nine» de Martin McDonagh, «Fatherland» de Paweł Pawlikowski, «I Am Rocky» de Peter Farrelly i «The Black Ball», de Javier Ambrossi i Javier Calvo. Hi ha un focus sobre el cinema basc, i «Joy Will Prevail» de Max Korman, sobre l'arquitecte Louis Kahn, té l'estrena internacional el 7 de novembre.",
-        "Les competicions de documentals van del 7 al 13 de novembre; la Selecció Oficial, Primera Pel·lícula, Rebels with a Cause, Critics' Picks i la bàltica, del 13 al 19. El jurat i la llista completa de la competició no eren a les pàgines que hem llegit; no els donem. No sabem quines d'aquestes pel·lícules arribaran a Espanya."
+        "El 30è Festival de Cinema de les Nits Negres de Tallinn (PÖFF) va començar el 6 de novembre amb «Ulya», del letó Viesturs Kairišs, una coproducció de Letònia, Estònia, Polònia i Lituània que es va estrenar a Un Certain Regard, a Canes, i és la candidata de Letònia als Oscars, segons la crònica de The Hollywood Reporter que hem trobat. La web del festival confirma que obre avui l'edició número 30.",
+        "La competició oficial reuneix dotze films de quinze països amb Christopher Hampton de president del jurat, segons Cineuropa. Ahir vam donar la programació global; avui només afegim la pel·lícula d'obertura. Els premis es coneixeran al tancament, el 22 de novembre. Són dades de festival: no vol dir que cap film arribi a Espanya."
       ],
       "publishedAt": "2026-11-06T00:00:00Z",
       "eventDate": "2026-11-06",
       "territory": "EE",
       "status": "confirmed",
-      "evidence": "primarySource",
+      "evidence": "corroborated",
       "sources": [
         {
-          "name": "PÖFF – festival home page",
-          "url": "https://poff.ee/en/",
+          "name": "PÖFF – Black Nights Film Festival",
+          "url": "https://poff.ee/",
           "kind": "official"
         },
         {
-          "name": "PÖFF – full PÖFF 30 programme",
-          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
-          "kind": "official"
+          "name": "The Hollywood Reporter – Tallinn Black Nights 2026 to open with Ulya",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-black-nights-film-festival-2026-opening-film-ulya-1236713439/",
+          "kind": "tradePress"
         }
       ]
     },
     {
-      "id": "2026-11-06-plataformes-divendres",
-      "section": "services",
-      "subject": "film",
-      "headline": "Divendres a les plataformes a Espanya: «Cumbres borrascosas» a Movistar Plus+, «Palacio» i «Un amor posible» a Netflix i la tanda de Filmin",
-      "deck": "Una guia de plataformes llista les estrenes del 6 de novembre; només n'hem confirmat el títol i la plataforma, no el detall de cada obra.",
-      "paragraphs": [
-        "La guia de MarketingDirecto del 6 al 15 de novembre posa a Netflix la pel·lícula «Un amor posible», la sèrie «Palacio» i el documental «Desprotexida: El crimen de Pazos». A Movistar Plus+ arriben «Cumbres borrascosas» i la tercera temporada de la sèrie documental «Una vida en diez fotos». Prime Video afegeix la sèrie «Campus Drivers» i HBO Max «Melania Rea».",
-        "Filmin llista «Eleonora Duse, la divina», «En la alcoba del sultán», «Broken English», «La vida era eso» i «Barrio triste». «Duse» i «Barrio triste» van sortir ahir. Per als propers dies, la mateixa guia esmenta la tercera temporada de «Carmen Curlers» a Filmin el dia 10 i «La copia perfecta» el 13. Una sola font: les dates poden canviar."
-      ],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "eventDate": "2026-11-06",
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "singleSource",
-      "sources": [
-        {
-          "name": "MarketingDirecto – streaming releases 6-15 November",
-          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
-          "kind": "other"
-        }
-      ],
-      "titles": [
-        {
-          "title": "Wuthering Heights",
-          "year": 2026,
-          "kind": "film",
-          "knownAs": "Cumbres borrascosas"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-operavision-de-materie",
+      "id": "2026-11-07-operavision-carmen",
       "section": "stage",
       "subject": "film",
-      "headline": "OperaVision programa per aquesta nit a les 19:00 CET «De Materie» d'Andriessen, d'Opera Ballet Vlaanderen",
-      "deck": "És una emissió programada; no hem verificat una captació completa amb accés indicat, i per això no la fitxem com a tal.",
+      "headline": "Teatre i òpera en pantalla: OperaVision prepara «Šárka» el 15 i «Peter Grimes» el 26; la «Carmen» de Michieletto arriba als cinemes el 10",
+      "deck": "Cap captació completa nova amb accés des d'Espanya confirmat avui.",
       "paragraphs": [
-        "La pàgina d'inici d'OperaVision situa «De Materie», de Louis Andriessen, a la llista de «pròximament» per al 6 de novembre a les 19:00 CET, d'Opera Ballet Vlaanderen. La pàgina de la companyia descriu una producció nova dirigida per Phia Ménard i dirigida musicalment per Bas Wiegers, d'una durada d'1 hora 50 minuts aproximadament. La pàgina d'OperaVision no indica subtítols ni quant de temps quedarà en línia.",
-        "La mateixa llista dona «Šárka» (Janáček, National Theatre Brno) el 15 de novembre, «Little Bear and the Ice Mountain» i «Turandot. Riddles at the museum» el 22, i «Peter Grimes» de Britten (Finnish National Opera and Ballet) el 26. «Le Roi d'Ys» continua marcada com a «last chance to watch». Avui no hem trobat cap altra captació completa de teatre verificada."
+        "La pàgina d'OperaVision dona «Šárka», de Janáček (National Theatre Brno), el 15 de novembre a les 19:00 CET; els International Opera Awards 2026 el 21; dos títols per a famílies el 22 i «Peter Grimes», de Britten (Finnish National Opera and Ballet), el 26 a les 18:00 CET. «Le Roi d'Ys» i «De Materie» figuren a la llista d'«últim moment per veure-les». La pàgina no indica subtítols ni caducitats.",
+        "La «Carmen» de Damiano Michieletto de la Royal Ballet and Opera, amb Sesto Quatrini a la direcció musical, Ginger Costa-Jackson i Russell Thomas, arriba als cinemes el 10 de novembre segons Trafalgar Releasing, que indica disponibilitat «internacional» sense citar Espanya. Per això no sabem si es veurà en sales espanyoles. No és una captació completa verificada amb accés des d'Espanya, i no la fitxem com a tal."
       ],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "eventDate": "2026-11-06",
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "eventDate": "2026-11-10",
       "territory": null,
       "status": "announced",
       "evidence": "corroborated",
@@ -133,104 +157,109 @@
           "kind": "official"
         },
         {
-          "name": "Opera Ballet Vlaanderen – De Materie",
-          "url": "https://www.operaballet.be/en/programme/season-2026-2027/de-materie",
-          "kind": "official"
+          "name": "Trafalgar Releasing – Royal Ballet & Opera in Cinemas 2026/27: Carmen",
+          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "kind": "catalogue"
         }
       ]
     },
     {
-      "id": "2026-11-06-calendari",
+      "id": "2026-11-07-calendari",
       "section": "calendar",
       "subject": "film",
-      "headline": "Calendari: Tallinn des d'avui, el biopic de Kahn el dia 7, «Carmen» als cinemes el 10 i «El cuerpo» l'11",
-      "deck": "Dates comprovades avui, cadascuna amb el territori; les estrenes als cinemes espanyols del dia 6 són al primer reportatge i a l'edició d'ahir.",
+      "headline": "Calendari: la «Carmen» al cinema el 10, «Šárka» el 15, Tallinn fins al 22 i Pixar canvia de president el 4 de gener",
+      "deck": "Dates de la setmana i les properes.",
       "paragraphs": [
-        "Divendres 6: s'obre Tallinn Black Nights (Estònia); «De Materie» a OperaVision a les 19:00 CET; estrenes a les plataformes a Espanya com dalt. Dissabte 7: estrena internacional de «Joy Will Prevail» a Tallinn; competicions de documentals fins al 13. Diumenge 8: segona temporada de «Ciudad de Dios: La lucha no para» a HBO Max a Espanya, i «Le Roi d'Ys» continua marcada com a darrera oportunitat.",
-        "Dimarts 10: «Carmen» de la Royal Ballet and Opera als cinemes (internacional; Espanya sense confirmar). Dimecres 11: «El cuerpo» i «Avedon» a Netflix. Divendres 13: «La copia perfecta» a Filmin; comencen les competicions de Tallinn. Diumenge 15: «Šárka» a OperaVision. Diumenge 22: es clou Tallinn. Dijous 26: «Peter Grimes» a OperaVision. Les dates venen de les guies citades i poden canviar."
+        "Dissabte 7 i diumenge 8: cartellera espanyola de l'estrena del 6 (vegeu el reportatge corresponent). Dimarts 10 de novembre: «Carmen» de la Royal Ballet and Opera als cinemes, sense confirmació per a Espanya. Diumenge 15, a les 19:00 CET: «Šárka» a OperaVision.",
+        "Del 6 al 22 de novembre: Tallinn Black Nights, amb els premis al tancament. El 26 de novembre, a les 18:00 CET: «Peter Grimes» a OperaVision. El 4 de gener del 2027: Jonathan Garson assumeix la presidència de Pixar. Primavera del 2027: previsió d'inici del rodatge de «Naruto»."
       ],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "eventDate": "2026-11-06",
-      "territory": "ES",
-      "status": "confirmed",
-      "evidence": "corroborated",
-      "sources": [
-        {
-          "name": "MarketingDirecto – streaming releases 6-15 November",
-          "url": "https://www.marketingdirecto.com/anunciantes-general/medios/noviembre-streaming-estrenos-netflix-hbo-movistar-prime-video-filmin",
-          "kind": "other"
-        },
-        {
-          "name": "PÖFF – festival home page",
-          "url": "https://poff.ee/en/",
-          "kind": "official"
-        },
-        {
-          "name": "OperaVision – home page",
-          "url": "https://operavision.eu/",
-          "kind": "official"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-recomanacions",
-      "section": "recommendation",
-      "subject": "film",
-      "headline": "Recomanacions de l'editor: «Los miserables» si t'agraden els clàssics, «11» per al terror català i «Joy Will Prevail» de Tallinn",
-      "deck": "Afinitat editorial, no és la nota de la crítica ni del públic.",
-      "paragraphs": [
-        "«Los miserables» (cinemes d'Espanya, 6 de novembre). Afinitat 3 sobre 5, confiança mitjana: drama d'època amb un gran repartiment, però la crítica que citem avisa d'una segona meitat pesada. No l'hem vista.",
-        "«11» (cinemes d'Espanya, 6 de novembre). Afinitat 4 sobre 5, confiança baixa: terror de muntanya d'aire folklòric de dues directores debutants, jutjat només per una entrevista i sinopsis. «Joy Will Prevail» (Tallinn, estrena internacional el 7 de novembre): afinitat 3 sobre 5, confiança baixa, perquè només en coneixem el tema, l'arquitecte Louis Kahn; no té data a Espanya.",
-        "El dia en breu: un divendres de drama d'època i terror català als cinemes, un festival nou que comença al Bàltic i una òpera de Bèlgica aquesta nit. Avui no s'ha verificat cap notícia d'edició física ni d'indústria."
-      ],
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "publishedAt": "2026-11-07T00:00:00Z",
       "eventDate": null,
       "territory": "ES",
       "status": "confirmed",
       "evidence": "corroborated",
       "sources": [
         {
-          "name": "SensaCine – review of Les Misérables (San Sebastián 2026)",
-          "url": "https://www.sensacine.com/noticias/cine/noticia-1000223085/",
+          "name": "Cinemagavia – Estrenos del 6 de noviembre de 2026",
+          "url": "https://cinemagavia.es/estrenos-6-noviembre-2026-cine/",
           "kind": "other"
         },
         {
-          "name": "Ara – the Serra cousins on 11",
-          "url": "https://en.ara.cat/culture/the-cousins-who-learned-to-love-horror-directing-thriller-about-evil_1_5877010.html",
+          "name": "No es cine todo lo que reluce – Estrenos del 6 de noviembre de 2026",
+          "url": "https://noescinetodoloquereluce.com/2026/11/estrenos-cine-6-noviembre-2026.html",
           "kind": "other"
         },
         {
-          "name": "PÖFF – full PÖFF 30 programme",
-          "url": "https://poff.ee/en/news/discover-the-full-p-oe-ff-30-programme-films-from-87-countries-await",
+          "name": "OperaVision – home page",
+          "url": "https://operavision.eu/",
           "kind": "official"
+        },
+        {
+          "name": "Trafalgar Releasing – Royal Ballet & Opera in Cinemas 2026/27: Carmen",
+          "url": "https://trafalgar-releasing.com/events/the-royal-ballet-opera-in-cinemas-2026-27-carmen/",
+          "kind": "catalogue"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-recomanacions",
+      "section": "recommendation",
+      "subject": "film",
+      "headline": "Recomanacions de l'editor: «Sacamantecas», «Ruega por nosotras» i «Los miserables»",
+      "deck": "Afinitat editorial, no és la nota de la crítica ni del públic.",
+      "paragraphs": [
+        "«Sacamantecas» (cinemes d'Espanya). Afinitat 4 sobre 5, confiança mitjana: thriller històric amb pinzellades de terror al segle XIX, amb bon repartiment i una crítica local favorable. No l'hem vista.",
+        "«Los miserables» (cinemes d'Espanya). Afinitat 3 sobre 5, confiança mitjana: drama d'època de gran format, de 178 minuts. «Ruega por nosotras» (cinemes d'Espanya). Afinitat 3 sobre 5, confiança baixa: només en tenim la sinopsi.",
+        "El dia en breu: un cap de setmana de cartellera forta a Espanya, un relleu a Pixar, un festival que comença al Bàltic i cap captació de teatre nova amb accés verificat. Avui no hem verificat notícies d'edicions físiques ni de plataformes."
+      ],
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "eventDate": null,
+      "territory": "ES",
+      "status": "confirmed",
+      "evidence": "corroborated",
+      "sources": [
+        {
+          "name": "Cinemagavia – Estrenos del 6 de noviembre de 2026",
+          "url": "https://cinemagavia.es/estrenos-6-noviembre-2026-cine/",
+          "kind": "other"
+        },
+        {
+          "name": "No es cine todo lo que reluce – Estrenos del 6 de noviembre de 2026",
+          "url": "https://noescinetodoloquereluce.com/2026/11/estrenos-cine-6-noviembre-2026.html",
+          "kind": "other"
         }
       ],
       "titles": [
+        {
+          "title": "Sacamantecas",
+          "year": 2026,
+          "kind": "film"
+        },
+        {
+          "title": "Ruega por nosotras",
+          "year": 2026,
+          "kind": "film"
+        },
         {
           "title": "Les Misérables",
           "year": 2026,
           "kind": "film",
           "knownAs": "Los miserables"
-        },
-        {
-          "title": "11",
-          "year": 2026,
-          "kind": "film"
         }
       ]
     }
   ],
   "recommendedTitles": [
     {
+      "title": "Sacamantecas",
+      "year": 2026,
+      "kind": "film"
+    },
+    {
       "title": "Les Misérables",
       "year": 2026,
       "kind": "film",
       "knownAs": "Los miserables"
-    },
-    {
-      "title": "11",
-      "year": 2026,
-      "kind": "film"
     }
   ]
 }
