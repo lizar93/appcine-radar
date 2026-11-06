@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T23:26:25Z",
+  "tracks": [
+    {
+      "language": "ca",
+      "voice": "elia",
+      "name": "Elia",
+      "gender": "female",
+      "file": "ca/2026-11-07-elia.m4a",
+      "durationSeconds": 475.5,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-11-07-naruto",
+          "title": "Sony es suma al «Naruto» d'imatge real de Lionsgate: el rodatge començaria a la primavera del 2027",
+          "start": 6.55
+        },
+        {
+          "id": "2026-11-07-pixar",
+          "title": "Jim Morris deixa la presidència de Pixar: Jonathan Garson el rellevarà el 4 de gener del 2027",
+          "start": 67.74
+        },
+        {
+          "id": "2026-11-07-estrenes-cap-de-setmana",
+          "title": "Cartellera del cap de setmana a Espanya: «Sacamantecas», «Ruega por nosotras», «Los miserables» i «Godzilla Minus Zero»",
+          "start": 133.5
+        },
+        {
+          "id": "2026-11-07-tallinn-ulya",
+          "title": "Tallinn Black Nights celebra els 30 anys amb «Ulya», de Viesturs Kairišs, i una competició de dotze films",
+          "start": 227.02
+        },
+        {
+          "id": "2026-11-07-operavision-carmen",
+          "title": "Teatre i òpera en pantalla: OperaVision prepara «Šárka» el 15 i «Peter Grimes» el 26; la «Carmen» de Michieletto arriba als cinemes el 10",
+          "start": 286.5
+        },
+        {
+          "id": "2026-11-07-calendari",
+          "title": "Calendari: la «Carmen» al cinema el 10, «Šárka» el 15, Tallinn fins al 22 i Pixar canvia de president el 4 de gener",
+          "start": 357.42
+        },
+        {
+          "id": "2026-11-07-recomanacions",
+          "title": "Recomanacions de l'editor: «Sacamantecas», «Ruega por nosotras» i «Los miserables»",
+          "start": 411.72
+        },
+        {
+          "id": "fi",
+          "title": "Fi",
+          "start": 473.35
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "voice": "cori",
+      "name": "Cori",
+      "gender": "female",
+      "file": "en/2026-11-07-cori.m4a",
+      "durationSeconds": 417.0,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-11-07-naruto",
+          "title": "Sony joins Lionsgate's live-action «Naruto»: filming would start in spring 2027",
+          "start": 5.14
+        },
+        {
+          "id": "2026-11-07-pixar",
+          "title": "Jim Morris steps down as Pixar president: Jonathan Garson takes over on 4 January 2027",
+          "start": 60.68
+        },
+        {
+          "id": "2026-11-07-estrenes-cap-de-setmana",
+          "title": "This weekend's cinema listings in Spain: «Sacamantecas», «Ruega por nosotras», «Los miserables» and «Godzilla Minus Zero»",
+          "start": 120.79
+        },
+        {
+          "id": "2026-11-07-tallinn-ulya",
+          "title": "Tallinn Black Nights turns 30 with «Ulya», by Viesturs Kairišs, and a twelve-film competition",
+          "start": 205.03
+        },
+        {
+          "id": "2026-11-07-operavision-carmen",
+          "title": "Filmed theatre and opera: OperaVision lines up «Šárka» on the 15th and «Peter Grimes» on the 26th; Michieletto's «Carmen» reaches cinemas on the 10th",
+          "start": 256.66
+        },
+        {
+          "id": "2026-11-07-calendari",
+          "title": "Calendar: «Carmen» in cinemas on the 10th, «Šárka» on the 15th, Tallinn until the 22nd and a new Pixar president on 4 January",
+          "start": 319.28
+        },
+        {
+          "id": "2026-11-07-recomanacions",
+          "title": "Editor's picks: «Sacamantecas», «Ruega por nosotras» and «Los miserables»",
+          "start": 364.33
+        },
+        {
+          "id": "fi",
+          "title": "End",
+          "start": 414.79
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "voice": "alan",
+      "name": "Alan",
+      "gender": "male",
+      "file": "en/2026-11-07-alan.m4a",
+      "durationSeconds": 475.1,
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Radar",
+          "start": 0.0
+        },
+        {
+          "id": "2026-11-07-naruto",
+          "title": "Sony joins Lionsgate's live-action «Naruto»: filming would start in spring 2027",
+          "start": 5.44
+        },
+        {
+          "id": "2026-11-07-pixar",
+          "title": "Jim Morris steps down as Pixar president: Jonathan Garson takes over on 4 January 2027",
+          "start": 66.28
+        },
+        {
+          "id": "2026-11-07-estrenes-cap-de-setmana",
+          "title": "This weekend's cinema listings in Spain: «Sacamantecas», «Ruega por nosotras», «Los miserables» and «Godzilla Minus Zero»",
+          "start": 135.6
+        },
+        {
+          "id": "2026-11-07-tallinn-ulya",
+          "title": "Tallinn Black Nights turns 30 with «Ulya», by Viesturs Kairišs, and a twelve-film competition",
+          "start": 227.73
+        },
+        {
+          "id": "2026-11-07-operavision-carmen",
+          "title": "Filmed theatre and opera: OperaVision lines up «Šárka» on the 15th and «Peter Grimes» on the 26th; Michieletto's «Carmen» reaches cinemas on the 10th",
+          "start": 286.89
+        },
+        {
+          "id": "2026-11-07-calendari",
+          "title": "Calendar: «Carmen» in cinemas on the 10th, «Šárka» on the 15th, Tallinn until the 22nd and a new Pixar president on 4 January",
+          "start": 362.79
+        },
+        {
+          "id": "2026-11-07-recomanacions",
+          "title": "Editor's picks: «Sacamantecas», «Ruega por nosotras» and «Los miserables»",
+          "start": 415.57
+        },
+        {
+          "id": "fi",
+          "title": "End",
+          "start": 472.73
+        }
+      ]
+    }
+  ],
+  "podcastError": "No hi ha veus British female a la Voice Library."
+}
